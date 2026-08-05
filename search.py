@@ -28,7 +28,7 @@ RESULTS_DIR = os.path.join(ROOT, "results")
 ALL_RESULTS_PATH = os.path.join(RESULTS_DIR, "all_results.json")
 LATEST_REPORT_PATH = os.path.join(RESULTS_DIR, "latest.md")
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 # Scoring runs on the cheaper model (high volume, structured task).
 MODEL = os.environ.get("JOB_RADAR_MODEL", "claude-sonnet-4-6")
 # Resume + cover letter run on a stronger model (lower volume, writing quality matters).
