@@ -137,7 +137,7 @@ def strip_html(html):
 
 def fetch_greenhouse(token):
     url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
-    r = requests.get(url, timeout=30)
+    r = requests.get(url, timeout=10)
     r.raise_for_status()
     out = []
     for j in r.json().get("jobs", []):
@@ -154,7 +154,7 @@ def fetch_greenhouse(token):
 
 def fetch_lever(token):
     url = f"https://api.lever.co/v0/postings/{token}?mode=json"
-    r = requests.get(url, timeout=30)
+    r = requests.get(url, timeout=10)
     r.raise_for_status()
     out = []
     for j in r.json():
@@ -293,6 +293,13 @@ def write_report(all_results, new_results):
 def main():
     if not ANTHROPIC_API_KEY:
         raise SystemExit("ANTHROPIC_API_KEY environment variable is not set.")
+
+    print(f"Starting Job Radar — {datetime.now(timezone.utc).isoformat()}")
+    print(f"API key loaded: {'yes' if ANTHROPIC_API_KEY else 'NO - missing'}")
+    print(f"Model (scoring): {MODEL}")
+    print(f"Model (tailoring): {TAILOR_MODEL}")
+    print(f"Tailor threshold: {TAILOR_THRESHOLD}")
+    print("---")
 
     profile = open(PROFILE_PATH).read()
     companies = load_json(COMPANIES_PATH, [])
