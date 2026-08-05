@@ -29,7 +29,10 @@ ALL_RESULTS_PATH = os.path.join(RESULTS_DIR, "all_results.json")
 LATEST_REPORT_PATH = os.path.join(RESULTS_DIR, "latest.md")
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+# Scoring runs on the cheaper model (high volume, structured task).
 MODEL = os.environ.get("JOB_RADAR_MODEL", "claude-sonnet-4-6")
+# Resume + cover letter run on a stronger model (lower volume, writing quality matters).
+TAILOR_MODEL = os.environ.get("JOB_RADAR_TAILOR_MODEL", "claude-opus-4-8")
 
 # Controls which titles get scored at all. Keep broad — the AI scoring step
 # is the real filter. This just controls API spend.
@@ -174,7 +177,7 @@ def title_matches(title):
     return any(k in t for k in KEYWORDS)
 
 
-def call_claude(system_prompt, user_content, max_tokens=1500):
+def call_claude(system_prompt, user_content, max_tokens=1500, model=None):
     resp = requests.post(
         "https://api.anthropic.com/v1/messages",
         headers={
@@ -183,7 +186,7 @@ def call_claude(system_prompt, user_content, max_tokens=1500):
             "content-type": "application/json",
         },
         json={
-            "model": MODEL,
+            "model": model or MODEL,
             "max_tokens": max_tokens,
             "system": system_prompt,
             "messages": [{"role": "user", "content": user_content}],
@@ -214,11 +217,11 @@ def score_job(profile, job):
 
 
 def tailor_resume(profile, job):
-    return call_claude(RESUME_SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=1500)
+    return call_claude(RESUME_SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=1500, model=TAILOR_MODEL)
 
 
 def write_cover_letter(profile, job):
-    return call_claude(COVER_LETTER_SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=800)
+    return call_claude(COVER_LETTER_SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=800, model=TAILOR_MODEL)
 
 
 def slugify(text):
