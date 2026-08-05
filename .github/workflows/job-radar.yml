@@ -32,23 +32,10 @@ jobs:
         if: always()
         run: |
           if [ -f results/connection_health.json ]; then
-            echo "### Connection Health" >> $GITHUB_STEP_SUMMARY
-            python3 -c "
-import json
-h = json.load(open('results/connection_health.json'))
-s = h['summary']
-print('| Metric | Value |')
-print('| --- | --- |')
-print(f\"| Companies checked | {s['total_companies']} |\")
-print(f\"| Connected | {s['connected']} |\")
-print(f\"| Failed / bad token | {s['failed']} |\")
-print(f\"| Connection rate | {s['connection_rate']} |\")
-if h['failed']:
-    print('')
-    print('### Failed companies (remove from companies.json)')
-    for f in h['failed']:
-        print(f\"- {f['name']} ({f['token']}): {f['reason'][:80]}\")
-" >> $GITHUB_STEP_SUMMARY
+            echo "Connection health report saved to results/connection_health.json"
+            cat results/connection_health.json
+          else
+            echo "No connection health report found"
           fi
 
       - name: Commit results
