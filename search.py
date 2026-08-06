@@ -1,398 +1,430 @@
 """
-Job Radar
----------
-Pulls open postings from company career boards (public Greenhouse and Lever
-job board APIs — no auth, intended for exactly this use), filters by title
-keywords, scores new postings against your profile using the Claude API,
-and — for strong matches — generates a tailored resume and cover letter.
+Job Radar — Complete Agentic Job Search System
+-----------------------------------------------
+Fetches postings from Greenhouse + Lever APIs, filters by role and seniority,
+scores against your profile using Haiku (cheap, accurate), generates tailored
+Word doc resumes + cover letters using Sonnet (better writing) for 70+ scores.
 
 Run manually:
-    ANTHROPIC_API_KEY=sk-ant-... python search.py
+    ANTHROPIC_API_KEY=sk-ant-... python -u search.py
 
-Run on a schedule via GitHub Actions (see .github/workflows/job-radar.yml).
+Scheduled daily via GitHub Actions.
 """
 
-import json
-import os
-import re
-import time
+import json, os, re, subprocess, sys, time
 from datetime import datetime, timezone
-
 import requests
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT         = os.path.dirname(os.path.abspath(__file__))
 PROFILE_PATH = os.path.join(ROOT, "profile.md")
-COMPANIES_PATH = os.path.join(ROOT, "companies.json")
-SEEN_PATH = os.path.join(ROOT, "seen_jobs.json")
-RESULTS_DIR = os.path.join(ROOT, "results")
-ALL_RESULTS_PATH = os.path.join(RESULTS_DIR, "all_results.json")
-LATEST_REPORT_PATH = os.path.join(RESULTS_DIR, "latest.md")
+COMPANIES    = os.path.join(ROOT, "companies.json")
+SEEN_PATH    = os.path.join(ROOT, "seen_jobs.json")
+RESULTS_DIR  = os.path.join(ROOT, "results")
+ALL_PATH     = os.path.join(RESULTS_DIR, "all_results.json")
+REPORT_PATH  = os.path.join(RESULTS_DIR, "latest.md")
+GEN_RESUME   = os.path.join(ROOT, "generate_resume.js")
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
-# Scoring runs on the cheaper model (high volume, structured task).
-MODEL = os.environ.get("JOB_RADAR_MODEL", "claude-sonnet-4-6")
-# Resume + cover letter run on a stronger model (lower volume, writing quality matters).
-TAILOR_MODEL = os.environ.get("JOB_RADAR_TAILOR_MODEL", "claude-opus-4-8")
-
-# Controls which titles get scored at all. Keep broad — the AI scoring step
-# is the real filter. This just controls API spend.
-KEYWORDS = [
-    "gtm", "go-to-market", "go to market",
-    "growth strategy", "growth marketing", "growth manager", "growth lead",
-    "head of growth", "product marketing", "marketing strategy",
-    "business development", "business strategy", "bd manager",
-    "strategic partnerships", "partnerships manager", "market development",
-    "commercial strategy", "revenue strategy", "market expansion",
-]
+API_KEY      = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+SCORE_MODEL  = os.environ.get("JOB_RADAR_SCORE_MODEL",  "claude-haiku-4-5-20251001")
+TAILOR_MODEL = os.environ.get("JOB_RADAR_TAILOR_MODEL", "claude-sonnet-4-6")
+THRESHOLD    = int(os.environ.get("JOB_RADAR_TAILOR_THRESHOLD", "70"))
+MAX_SPEND    = float(os.environ.get("JOB_RADAR_MAX_SPEND", "1.00"))
+AUTH_STATUS  = os.environ.get("AUTH_STATUS", "sponsorship")
 
 AUTH_LABELS = {
     "sponsorship": "Will need visa sponsorship (OPT now, H1B later)",
-    "authorized": "Authorized to work in the US without sponsorship",
-    "na": "Searching outside the US — eligibility not US-visa-dependent",
-}
-AUTH_STATUS = os.environ.get("AUTH_STATUS", "sponsorship")
-
-# Postings scoring at/above this get a full tailored resume + cover letter.
-TAILOR_THRESHOLD = int(os.environ.get("JOB_RADAR_TAILOR_THRESHOLD", "70"))
-
-SYSTEM_PROMPT = """You are an expert recruiter and ATS analyst. Given a CANDIDATE PROFILE and a JOB POSTING, output ONLY a single JSON object, no markdown fences, no preamble, no commentary — just the JSON.
-
-Schema:
-{
-  "overall_score": integer 0-100,
-  "verdict": one of "Strong Fit" | "Good Fit" | "Stretch" | "Weak Fit",
-  "verdict_note": one sentence,
-  "breakdown": [
-    {"category": "Title & Seniority Match", "score": integer 0-100, "note": short sentence},
-    {"category": "Skills & Keyword Match", "score": integer 0-100, "note": short sentence},
-    {"category": "Domain & Industry Fit", "score": integer 0-100, "note": short sentence},
-    {"category": "Track Record Fit", "score": integer 0-100, "note": short sentence},
-    {"category": "Eligibility Fit", "score": integer 0-100, "note": short sentence}
-  ],
-  "missing_keywords": array of up to 6 strings (important JD terms not reflected in the profile),
-  "top_signal": one sentence — the single strongest reason this candidate stands out for this role,
-  "biggest_gap": one sentence — the single biggest risk or gap for this role,
-  "tailored_bullets": array of exactly 3 strings — bullets rewritten from the candidate's REAL experience in the JD's language. Do not invent accomplishments, numbers, or scope.
+    "authorized":  "Authorized to work in the US without sponsorship",
+    "na":          "Outside the US — not applicable",
 }
 
-Scoring rules:
-- Title & Seniority: does the candidate's level and trajectory match what the posting expects?
-- Skills & Keyword: literal overlap between the candidate's stated skills/tools and the JD's — approximates an ATS keyword screen.
-- Domain & Industry: relevance of the candidate's industry background to this JD's industry and customer type.
-- Track Record: do the candidate's quantified outcomes map to the outcomes this role asks for?
-- Eligibility: factor in the candidate's work authorization. If they need sponsorship, assume small companies/startups (under ~500 employees, or any posting that doesn't read as a large established employer) are unlikely to sponsor unless stated — lower this score and reflect it in biggest_gap if it's the dominant constraint. If authorized or outside the US, eligibility should not constrain the score unless the posting states a specific blocking requirement.
-
-Be honest and specific — do not inflate scores to be encouraging. The candidate is using this to triage where to spend application time."""
-
-RESUME_SYSTEM_PROMPT = """You are an expert resume writer. Given a CANDIDATE PROFILE and a JOB POSTING, rewrite the candidate's resume bullets to speak directly to this posting — same real experience, same real numbers, reframed in the posting's language.
-
-Output ONLY a single JSON object, no markdown fences, no commentary:
-{
-  "summary_line": "one-line professional summary tailored to this role (under 30 words)",
-  "experience": [
-    {"title": "their actual title", "company": "their actual company", "dates": "their actual dates", "bullets": ["3-5 bullets rewritten for this posting's language"]}
-  ],
-  "skills_to_surface": ["5-8 skills from their profile most relevant to this posting, in priority order"]
+# Cost per token (conservative estimates)
+COSTS = {
+    "haiku":  {"input": 1.00/1e6, "output": 5.00/1e6},
+    "sonnet": {"input": 3.00/1e6, "output": 15.00/1e6},
 }
+estimated_spend = 0.0
 
-Hard rules:
-- NEVER invent accomplishments, numbers, tools, or scope not already in the profile.
-- Only reorder, reframe, and re-emphasize what's actually there.
-- Include every role from the candidate's profile, most recent first.
-- Mirror the posting's terminology without misrepresenting what was done."""
+# ── ROLE FILTERS ──────────────────────────────────────────────────────────────
+# Title must contain at least one INCLUDE phrase (multi-word = more precise)
+INCLUDE = [
+    # GTM
+    "gtm strategy", "gtm manager", "gtm lead", "gtm strategist",
+    "go-to-market manager", "go-to-market strategy", "go-to-market lead",
+    "go to market manager", "go to market strategy",
+    # Growth
+    "growth strategy manager", "growth strategy lead",
+    "growth marketing manager", "growth marketing lead",
+    "growth manager", "growth lead",
+    # Product Marketing
+    "product marketing manager", "product marketing lead",
+    "senior product marketing", "associate product marketing",
+    # Business Development
+    "business development manager", "business development lead",
+    "senior business development", "bd manager", "bd lead",
+    # Partnerships
+    "partnerships manager", "partnerships lead",
+    "strategic partnerships", "alliance manager",
+    "channel partnerships", "partner manager",
+    # Market Development
+    "market development manager", "market development lead",
+    "market expansion manager",
+    # Commercial
+    "commercial strategy", "commercial manager", "commercial lead",
+    # Revenue / Demand
+    "demand generation manager", "demand gen manager",
+    "revenue operations manager", "revenue marketing manager",
+    "revenue strategy manager",
+    # Enablement / Launch
+    "sales enablement manager", "sales enablement lead",
+    "launch manager", "product launch manager",
+    "marketing strategy manager",
+    # Other relevant
+    "integrated marketing manager", "customer marketing manager",
+    "market intelligence manager", "segment marketing manager",
+    "monetization manager", "marketing operations manager",
+    # AI-specific
+    "ai gtm", "ai go-to-market", "ai product marketing",
+    "ai growth manager", "ai partnerships", "ai commercialization",
+    "generative ai gtm", "enterprise ai gtm", "ai solutions marketing",
+    "ai market", "ai adoption manager",
+]
 
-COVER_LETTER_SYSTEM_PROMPT = """You are an expert cover letter writer. Given a CANDIDATE PROFILE and a JOB POSTING, write a genuinely strong, specific cover letter — not a generic template.
+# Title containing any EXCLUDE word/phrase → skipped before any API call
+EXCLUDE = [
+    "director", "vice president", " vp ", "vp,", "vp-", "svp", "evp",
+    "chief", "cmo", "cro", "coo", "ceo", "c-suite",
+    "principal", " staff ", "distinguished", "fellow",
+    "intern", "internship", "apprentice", "trainee",
+    "counsel", "legal", "attorney", "paralegal",
+    "recruiter", "recruiting", "talent acquisition", "sourcer",
+    " hr ", "human resources", "people business partner", "people partner",
+    "finance", "financial", "accounting", "controller", "fp&a",
+    "data scientist", "data engineer", "data analyst",
+    "software engineer", "ml engineer", "machine learning engineer",
+    "devops", "backend", "frontend", "full stack", "fullstack",
+    "gtm systems", "gtm operations", "gtm enablement",
+    "gtm finance", "gtm engineer", "gtm architect",
+    "solutions architect", "sales engineer", "presales",
+    "representative", " bdr", " sdr", "account executive",
+    "customer success manager", "customer success lead",
+    "consultant", "associate consultant",
+    "head of growth", "head of gtm", "head of marketing",
+    "head of product marketing",
+]
 
-Output ONLY a single JSON object, no markdown fences, no commentary:
-{
-  "cover_letter": "the full cover letter text, 250-350 words, ready to send"
-}
 
-Requirements:
-- Open with something specific to this company/role, not "I am writing to apply for..."
-- Reference 1-2 concrete things from the posting itself — show it was read.
-- Connect 2 real achievements from the profile (with real numbers) to what this role needs.
-- Address the obvious gap or question a reader would have briefly and confidently if relevant.
-- End with genuine specificity about why this role/company.
-- NEVER invent facts, numbers, or experience not in the profile.
-- Plain, confident, direct prose. No clichés ("passionate about," "team player," "fast-paced environment")."""
+# ── HELPERS ───────────────────────────────────────────────────────────────────
+def load(path, default):
+    return json.load(open(path)) if os.path.exists(path) else default
 
-
-def load_json(path, default):
-    if os.path.exists(path):
-        with open(path) as f:
-            return json.load(f)
-    return default
-
-
-def save_json(path, data):
-    with open(path, "w") as f:
-        json.dump(data, f, indent=2)
-
+def save(path, data):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    json.dump(data, open(path, "w"), indent=2)
 
 def strip_html(html):
-    text = re.sub(r"<[^>]+>", " ", html or "")
-    return re.sub(r"\s+", " ", text).strip()
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or "")).strip()
+
+def slugify(t):
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
+
+def title_ok(title):
+    t = title.lower()
+    if any(e in t for e in EXCLUDE):
+        return False
+    return any(k in t for k in INCLUDE)
 
 
+# ── FETCHERS ──────────────────────────────────────────────────────────────────
 def fetch_greenhouse(token):
-    url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
-    r = requests.get(url, timeout=10)
+    r = requests.get(
+        f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true",
+        timeout=10)
     r.raise_for_status()
-    out = []
-    for j in r.json().get("jobs", []):
-        out.append({
-            "id": f"greenhouse:{token}:{j['id']}",
-            "company": token,
-            "title": j["title"],
-            "location": (j.get("location") or {}).get("name", ""),
-            "url": j["absolute_url"],
-            "description": strip_html(j.get("content", "")),
-        })
-    return out
-
+    return [{"id": f"gh:{token}:{j['id']}", "company": token,
+             "title": j["title"],
+             "location": (j.get("location") or {}).get("name", ""),
+             "url": j["absolute_url"],
+             "description": strip_html(j.get("content", ""))}
+            for j in r.json().get("jobs", [])]
 
 def fetch_lever(token):
-    url = f"https://api.lever.co/v0/postings/{token}?mode=json"
-    r = requests.get(url, timeout=10)
+    r = requests.get(
+        f"https://api.lever.co/v0/postings/{token}?mode=json", timeout=10)
     r.raise_for_status()
-    out = []
-    for j in r.json():
-        out.append({
-            "id": f"lever:{token}:{j['id']}",
-            "company": token,
-            "title": j["text"],
-            "location": (j.get("categories") or {}).get("location", ""),
-            "url": j["hostedUrl"],
-            "description": strip_html(j.get("descriptionPlain") or j.get("description") or ""),
-        })
-    return out
-
+    return [{"id": f"lv:{token}:{j['id']}", "company": token,
+             "title": j["text"],
+             "location": (j.get("categories") or {}).get("location", ""),
+             "url": j["hostedUrl"],
+             "description": strip_html(j.get("descriptionPlain") or j.get("description") or "")}
+            for j in r.json()]
 
 FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever}
 
 
-def title_matches(title):
-    t = title.lower()
-    return any(k in t for k in KEYWORDS)
+# ── CLAUDE CALLS ──────────────────────────────────────────────────────────────
+SCORE_PROMPT = """You are an expert recruiter. Given a CANDIDATE PROFILE and JOB POSTING, output ONLY a JSON object — no markdown, no preamble.
 
+{
+  "overall_score": 0-100,
+  "verdict": "Strong Fit"|"Good Fit"|"Stretch"|"Weak Fit",
+  "verdict_note": "one sentence",
+  "breakdown": [
+    {"category": "Title & Seniority Match", "score": 0-100, "note": "short"},
+    {"category": "Skills & Keyword Match",  "score": 0-100, "note": "short"},
+    {"category": "Domain & Industry Fit",   "score": 0-100, "note": "short"},
+    {"category": "Track Record Fit",        "score": 0-100, "note": "short"},
+    {"category": "Eligibility Fit",         "score": 0-100, "note": "short"}
+  ],
+  "missing_keywords": ["up to 5 key JD terms not in profile"],
+  "top_signal": "strongest reason candidate stands out",
+  "biggest_gap": "biggest risk or gap",
+  "tailored_bullets": ["3 bullets rewritten from REAL experience — never invent"]
+}
 
-def call_claude(system_prompt, user_content, max_tokens=1500, model=None):
+Target band: Manager / Senior Manager level. Be honest — do not inflate scores.
+Eligibility: candidate needs H1B sponsorship. Penalise small startups unless sponsorship stated."""
+
+RESUME_PROMPT = """Rewrite the candidate's resume bullets for this specific posting. Output ONLY JSON:
+
+{
+  "summary_line": "tailored summary under 30 words",
+  "experience": [
+    {"title": "actual title", "company": "actual company",
+     "dates": "actual dates", "bullets": ["3-5 rewritten bullets"]}
+  ],
+  "skills_to_surface": ["5-8 most relevant skills in priority order"]
+}
+
+NEVER invent numbers, titles, or experience. Only reframe what is actually in the profile.
+Mirror the posting's exact terminology where the candidate's experience genuinely maps to it."""
+
+COVER_PROMPT = """Write a strong, specific cover letter for this role. Output ONLY JSON:
+
+{"cover_letter": "250-350 words, ready to send"}
+
+Rules:
+- Open with something specific to this company/role — never 'I am writing to apply'
+- Reference 1-2 concrete things from the actual posting
+- Connect 2 real achievements with real numbers to what this role needs
+- Address the obvious gap briefly and confidently if relevant
+- End with genuine specificity about why this company
+- NEVER invent facts not in the profile
+- No clichés: no 'passionate about', 'team player', 'fast-paced environment', 'I believe'"""
+
+def context(profile, job):
+    return (f"CANDIDATE PROFILE:\n{profile}\n\n"
+            f"WORK AUTHORIZATION: {AUTH_LABELS.get(AUTH_STATUS)}\n\n"
+            f"JOB POSTING:\nTitle: {job['title']}\nCompany: {job['company']}\n"
+            f"Location: {job['location']}\n\n{job['description'][:5000]}")
+
+def claude(system, user, max_tokens, model):
+    global estimated_spend
+    tier = "haiku" if "haiku" in model else "sonnet"
+    in_t = (len(system) + len(user)) // 4
+    cost = in_t * COSTS[tier]["input"] + max_tokens * COSTS[tier]["output"]
+    if estimated_spend + cost > MAX_SPEND:
+        raise RuntimeError(
+            f"Spend cap ${MAX_SPEND} reached (${estimated_spend:.4f} + ~${cost:.4f}). "
+            "Stopping. Raise JOB_RADAR_MAX_SPEND to continue.")
     resp = requests.post(
         "https://api.anthropic.com/v1/messages",
-        headers={
-            "x-api-key": ANTHROPIC_API_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-        json={
-            "model": model or MODEL,
-            "max_tokens": max_tokens,
-            "system": system_prompt,
-            "messages": [{"role": "user", "content": user_content}],
-        },
-        timeout=60,
-    )
+        headers={"x-api-key": API_KEY, "anthropic-version": "2023-06-01",
+                 "content-type": "application/json"},
+        json={"model": model, "max_tokens": max_tokens, "system": system,
+              "messages": [{"role": "user", "content": user}]},
+        timeout=60)
     resp.raise_for_status()
-    data = resp.json()
-    text = next((b["text"] for b in data.get("content", []) if b.get("type") == "text"), None)
+    estimated_spend += cost
+    text = next((b["text"] for b in resp.json().get("content", [])
+                 if b.get("type") == "text"), None)
     if not text:
         return None
     clean = re.sub(r"^```(json)?", "", text.strip()).strip()
-    clean = re.sub(r"```$", "", clean).strip()
-    return json.loads(clean)
+    return json.loads(re.sub(r"```$", "", clean).strip())
 
 
-def build_job_context(profile, job):
-    return (
-        f"CANDIDATE PROFILE:\n{profile}\n\n"
-        f"WORK AUTHORIZATION: {AUTH_LABELS.get(AUTH_STATUS, AUTH_STATUS)}\n\n"
-        f"JOB POSTING:\nTitle: {job['title']}\nCompany: {job['company']}\nLocation: {job['location']}\n\n"
-        f"{job['description'][:6000]}"
-    )
-
-
-def score_job(profile, job):
-    return call_claude(SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=1000)
-
-
-def tailor_resume(profile, job):
-    return call_claude(RESUME_SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=1500, model=TAILOR_MODEL)
-
-
-def write_cover_letter(profile, job):
-    return call_claude(COVER_LETTER_SYSTEM_PROMPT, build_job_context(profile, job), max_tokens=800, model=TAILOR_MODEL)
-
-
-def slugify(text):
-    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
-
-
-def save_application_kit(job, result, resume, cover_letter):
-    folder = os.path.join(RESULTS_DIR, "applications", slugify(f"{job['company']}-{job['title']}"))
+# ── KIT GENERATION ────────────────────────────────────────────────────────────
+def generate_kit(profile, job, result):
+    folder = os.path.join(RESULTS_DIR, "applications",
+                          slugify(f"{job['company']}-{job['title']}"))
     os.makedirs(folder, exist_ok=True)
-    with open(os.path.join(folder, "fit_score.json"), "w") as f:
-        json.dump(result, f, indent=2)
+    save(os.path.join(folder, "fit_score.json"), result)
+
+    # Resume
+    resume = claude(RESUME_PROMPT, context(profile, job), 1200, TAILOR_MODEL)
     if resume:
-        lines = [f"# Tailored Resume — {job['title']} @ {job['company'].title()}", "", resume.get("summary_line", ""), ""]
-        for role in resume.get("experience", []):
-            lines.append(f"## {role.get('title')} — {role.get('company')} ({role.get('dates')})")
-            for b in role.get("bullets", []):
-                lines.append(f"- {b}")
-            lines.append("")
-        lines.append("## Skills")
-        lines.append(", ".join(resume.get("skills_to_surface", [])))
-        with open(os.path.join(folder, "resume.md"), "w") as f:
-            f.write("\n".join(lines))
-    if cover_letter:
-        with open(os.path.join(folder, "cover_letter.md"), "w") as f:
-            f.write(cover_letter.get("cover_letter", ""))
+        # Generate Word doc via generate_resume.js
+        resume_data = {**resume,
+                       "job_title": job["title"],
+                       "job_company": job["company"]}
+        input_path  = os.path.join(folder, "_resume_input.json")
+        output_path = os.path.join(folder, "resume.docx")
+        save(input_path, resume_data)
+        if os.path.exists(GEN_RESUME):
+            result_gen = subprocess.run(
+                ["node", GEN_RESUME, input_path, output_path],
+                capture_output=True, text=True)
+            if result_gen.returncode != 0:
+                print(f"  [warn] Word doc generation failed: {result_gen.stderr[:200]}")
+                # Fallback to markdown
+                lines = [f"# Resume — {job['title']} @ {job['company'].title()}",
+                         "", resume.get("summary_line", ""), ""]
+                for role in resume.get("experience", []):
+                    lines.append(f"## {role.get('title')} — {role.get('company')} ({role.get('dates')})")
+                    for b in role.get("bullets", []):
+                        lines.append(f"- {b}")
+                    lines.append("")
+                lines += ["## Skills", ", ".join(resume.get("skills_to_surface", []))]
+                open(os.path.join(folder, "resume.md"), "w").write("\n".join(lines))
+        else:
+            print("  [warn] generate_resume.js not found — saving resume.md instead")
+            open(os.path.join(folder, "resume.md"), "w").write(
+                "\n".join([resume.get("summary_line", "")] +
+                          [b for r in resume.get("experience", []) for b in r.get("bullets", [])]))
+
+    # Cover letter
+    cover = claude(COVER_PROMPT, context(profile, job), 700, TAILOR_MODEL)
+    if cover:
+        open(os.path.join(folder, "cover_letter.md"), "w").write(
+            cover.get("cover_letter", ""))
+
     return folder
 
 
-def format_entry(entry, short=False):
-    job, result = entry["job"], entry["result"]
+# ── REPORT ────────────────────────────────────────────────────────────────────
+def entry_md(entry, short=False):
+    j, r = entry["job"], entry["result"]
     lines = [
-        f"### {result.get('overall_score')} — {job['title']} @ {job['company'].title()} ({job['location']})",
-        f"**{result.get('verdict')}** — {result.get('verdict_note')}",
-        f"[View posting]({job['url']})",
+        f"### {r.get('overall_score')} — {j['title']} @ {j['company'].title()} ({j['location']})",
+        f"**{r.get('verdict')}** — {r.get('verdict_note')}",
+        f"[View posting]({j['url']})",
     ]
     if entry.get("kit_folder"):
-        rel = os.path.relpath(entry["kit_folder"], RESULTS_DIR)
-        lines.append(f"Tailored resume + cover letter: `results/{rel}/`")
+        lines.append(f"📄 Kit: `{os.path.relpath(entry['kit_folder'], RESULTS_DIR)}/`")
     if not short:
-        lines.append("")
-        lines.append(f"- Top signal: {result.get('top_signal')}")
-        lines.append(f"- Biggest gap: {result.get('biggest_gap')}")
-        if result.get("missing_keywords"):
-            lines.append(f"- Missing keywords: {', '.join(result['missing_keywords'])}")
+        lines += ["",
+                  f"- Top signal: {r.get('top_signal')}",
+                  f"- Biggest gap: {r.get('biggest_gap')}"]
+        if r.get("missing_keywords"):
+            lines.append(f"- Missing keywords: {', '.join(r['missing_keywords'])}")
     lines.append("")
     return lines
 
-
-def write_report(all_results, new_results):
-    sorted_all = sorted(all_results, key=lambda e: e["result"].get("overall_score", 0), reverse=True)
-    lines = ["# Job Radar — Latest Run", "", f"Run at: {datetime.now(timezone.utc).isoformat()}", ""]
+def write_report(all_results, new_results, health):
+    lines = ["# Job Radar", "",
+             f"Run: {datetime.now(timezone.utc).isoformat()}", "",
+             f"**Companies:** {health['total']} checked · {health['connected']} connected · {health['failed']} failed",
+             f"**Estimated spend this run:** ${estimated_spend:.4f}", ""]
     if new_results:
-        lines.append(f"## New postings found this run ({len(new_results)})")
-        lines.append("")
-        for e in sorted(new_results, key=lambda e: e["result"].get("overall_score", 0), reverse=True):
-            lines.extend(format_entry(e))
+        lines += [f"## New this run ({len(new_results)})", ""]
+        for e in sorted(new_results, key=lambda x: x["result"].get("overall_score",0), reverse=True):
+            lines.extend(entry_md(e))
     else:
-        lines.append("## No new matching postings this run.")
-        lines.append("")
-    lines.append("## Top 15 overall (all-time)")
-    lines.append("")
-    for e in sorted_all[:15]:
-        lines.extend(format_entry(e, short=True))
+        lines += ["## No new matching postings this run.", ""]
+    lines += ["## Top 15 all-time", ""]
+    for e in sorted(all_results, key=lambda x: x["result"].get("overall_score",0), reverse=True)[:15]:
+        lines.extend(entry_md(e, short=True))
     os.makedirs(RESULTS_DIR, exist_ok=True)
-    with open(LATEST_REPORT_PATH, "w") as f:
-        f.write("\n".join(lines))
+    open(REPORT_PATH, "w").write("\n".join(lines))
 
 
+# ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
-    if not ANTHROPIC_API_KEY:
-        raise SystemExit("ANTHROPIC_API_KEY environment variable is not set.")
+    global estimated_spend
+    if not API_KEY:
+        sys.exit("ANTHROPIC_API_KEY is not set.")
 
-    print(f"Starting Job Radar — {datetime.now(timezone.utc).isoformat()}")
-    print(f"API key loaded: {'yes' if ANTHROPIC_API_KEY else 'NO - missing'}")
-    print(f"Model (scoring): {MODEL}")
-    print(f"Model (tailoring): {TAILOR_MODEL}")
-    print(f"Tailor threshold: {TAILOR_THRESHOLD}")
+    print(f"Job Radar — {datetime.now(timezone.utc).isoformat()}")
+    print(f"Score model:  {SCORE_MODEL}")
+    print(f"Tailor model: {TAILOR_MODEL}")
+    print(f"Spend cap:    ${MAX_SPEND}")
+    print(f"Threshold:    {THRESHOLD}")
     print("---")
 
-    profile = open(PROFILE_PATH).read()
-    companies = load_json(COMPANIES_PATH, [])
-    seen = load_json(SEEN_PATH, {})
-    all_results = load_json(ALL_RESULTS_PATH, [])
-
+    profile     = open(PROFILE_PATH).read()
+    companies   = load(COMPANIES, [])
+    seen        = load(SEEN_PATH, {})
+    all_results = load(ALL_PATH, [])
     new_results = []
-    connected_companies = []
-    failed_companies = []
+    connected, failed = [], []
 
     for c in companies:
         fetcher = FETCHERS.get(c.get("ats"))
         if not fetcher:
-            failed_companies.append({"name": c["name"], "token": c["token"], "reason": "unknown ats"})
+            failed.append({"name": c["name"], "token": c["token"], "reason": "unknown ats"})
             continue
         try:
             jobs = fetcher(c["token"])
-            connected_companies.append({
-                "name": c["name"], "token": c["token"], "ats": c["ats"], "jobs_found": len(jobs),
-            })
+            connected.append({"name": c["name"], "token": c["token"],
+                              "ats": c["ats"], "jobs_found": len(jobs)})
         except Exception as e:
-            failed_companies.append({"name": c["name"], "token": c["token"], "reason": str(e)})
-            print(f"[fail] {c.get('name')} ({c['token']}): {e}")
+            failed.append({"name": c["name"], "token": c["token"], "reason": str(e)})
+            print(f"[fail] {c['name']} ({c['token']}): {e}")
             continue
 
         for job in jobs:
             if job["id"] in seen:
                 continue
-            if not title_matches(job["title"]):
-                seen[job["id"]] = {"skipped": True, "title": job["title"]}
+            if not title_ok(job["title"]):
+                seen[job["id"]] = {"skipped": True}
                 continue
 
             print(f"[score] {job['title']} @ {job['company']}")
             try:
-                result = score_job(profile, job)
+                result = claude(SCORE_PROMPT, context(profile, job), 900, SCORE_MODEL)
+            except RuntimeError as e:
+                print(f"\n[SPEND CAP] {e}")
+                break
             except Exception as e:
-                print(f"[warn] scoring failed for {job['title']} @ {job['company']}: {e}")
+                print(f"  [warn] scoring failed: {e}")
+                continue
+            if not result:
+                seen[job["id"]] = {"scored": False}
                 continue
 
-            if result:
-                kit_folder = None
-                resume, cover_letter = None, None
-                if result.get("overall_score", 0) >= TAILOR_THRESHOLD:
-                    print(f"  -> score {result.get('overall_score')} >= {TAILOR_THRESHOLD}, generating kit")
-                    try:
-                        resume = tailor_resume(profile, job)
-                        cover_letter = write_cover_letter(profile, job)
-                        kit_folder = save_application_kit(job, result, resume, cover_letter)
-                    except Exception as e:
-                        print(f"[warn] tailoring failed for {job['title']} @ {job['company']}: {e}")
+            score = result.get("overall_score", 0)
+            print(f"  score: {score} — {result.get('verdict')}")
 
-                entry = {
-                    "job": job, "result": result, "kit_folder": kit_folder,
-                    "found_at": datetime.now(timezone.utc).isoformat(),
-                }
-                new_results.append(entry)
-                all_results.append(entry)
-                seen[job["id"]] = {"scored": True, "score": result.get("overall_score")}
-            else:
-                seen[job["id"]] = {"scored": False}
+            kit_folder = None
+            if score >= THRESHOLD:
+                print(f"  -> generating kit")
+                try:
+                    kit_folder = generate_kit(profile, job, result)
+                    print(f"  -> kit saved: {kit_folder}")
+                except RuntimeError as e:
+                    print(f"\n[SPEND CAP] {e}")
+                except Exception as e:
+                    print(f"  [warn] kit generation failed: {e}")
 
-            time.sleep(1)
+            entry = {"job": job, "result": result, "kit_folder": kit_folder,
+                     "found_at": datetime.now(timezone.utc).isoformat()}
+            new_results.append(entry)
+            all_results.append(entry)
+            seen[job["id"]] = {"scored": True, "score": score}
+            time.sleep(0.5)
 
-    save_json(SEEN_PATH, seen)
-    save_json(ALL_RESULTS_PATH, all_results)
-    write_report(all_results, new_results)
+    save(SEEN_PATH, seen)
+    save(ALL_PATH, all_results)
 
-    health = {
+    health = {"total": len(companies), "connected": len(connected), "failed": len(failed),
+              "rate": f"{round(len(connected)/max(len(companies),1)*100)}%"}
+    save(os.path.join(RESULTS_DIR, "connection_health.json"), {
         "run_at": datetime.now(timezone.utc).isoformat(),
-        "summary": {
-            "total_companies": len(companies),
-            "connected": len(connected_companies),
-            "failed": len(failed_companies),
-            "connection_rate": f"{round(len(connected_companies)/max(len(companies),1)*100)}%",
-        },
-        "connected": sorted(connected_companies, key=lambda x: x["jobs_found"], reverse=True),
-        "failed": failed_companies,
-    }
-    os.makedirs(RESULTS_DIR, exist_ok=True)
-    save_json(os.path.join(RESULTS_DIR, "connection_health.json"), health)
+        "summary": health,
+        "connected": sorted(connected, key=lambda x: x["jobs_found"], reverse=True),
+        "failed": failed,
+    })
+    write_report(all_results, new_results, health)
 
     print(f"\n{'='*60}")
-    print(f"Run complete")
-    print(f"  Companies checked:   {len(companies)}")
-    print(f"  Connected:           {len(connected_companies)} ({health['summary']['connection_rate']})")
-    print(f"  Failed / bad token:  {len(failed_companies)}")
-    print(f"  New postings scored: {len(new_results)}")
+    print(f"Companies:    {len(companies)} checked · {len(connected)} connected · {len(failed)} failed")
+    print(f"New scored:   {len(new_results)}")
+    print(f"Spend:        ${estimated_spend:.4f}")
     print(f"{'='*60}")
-    if failed_companies:
-        print("\nFailed companies (remove from companies.json):")
-        for f in failed_companies:
-            print(f"  - {f['name']} ({f['token']}) — {f['reason'][:80]}")
-
+    if failed:
+        print("\nFailed tokens (remove from companies.json):")
+        for f in failed:
+            print(f"  - {f['name']} ({f['token']}): {f['reason'][:80]}")
 
 if __name__ == "__main__":
     main()
