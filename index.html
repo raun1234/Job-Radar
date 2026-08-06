@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Radar — Raunak Jaiswal</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.10.0/tabler-icons.min.css">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #f5f4f0;
+    --surface-0: #f5f4f0;
+    --surface-1: #eeede9;
+    --surface-2: #ffffff;
+    --text-primary: #1a1a18;
+    --text-secondary: #5f5e5a;
+    --text-muted: #888780;
+    --border: rgba(0,0,0,0.1);
+    --border-strong: rgba(0,0,0,0.16);
+    --border-stronger: rgba(0,0,0,0.24);
+    --radius: 8px;
+    --text-success: #0f6e56;
+    --bg-success: #e1f5ee;
+    --text-warning: #854f0b;
+    --bg-warning: #faeeda;
+    --text-danger: #a32d2d;
+    --bg-danger: #fcebeb;
+    --text-accent: #185fa5;
+    --bg-accent: #e6f1fb;
+    --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-mono: 'SF Mono', 'Fira Code', monospace;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1a1a18;
+      --surface-0: #1a1a18;
+      --surface-1: #242422;
+      --surface-2: #2e2e2c;
+      --text-primary: #eaeae6;
+      --text-secondary: #a8a79f;
+      --text-muted: #6b6a64;
+      --border: rgba(255,255,255,0.08);
+      --border-strong: rgba(255,255,255,0.13);
+      --border-stronger: rgba(255,255,255,0.2);
+      --text-success: #5dcaa5;
+      --bg-success: #04342c;
+      --text-warning: #ef9f27;
+      --bg-warning: #412402;
+      --text-danger: #f09595;
+      --bg-danger: #501313;
+      --text-accent: #85b7eb;
+      --bg-accent: #042c53;
+    }
+  }
+  body { background: var(--bg); color: var(--text-primary); font-family: var(--font-sans); min-height: 100vh; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 2rem 1rem 4rem; }
+  header { margin-bottom: 2rem; }
+  header h1 { font-size: 22px; font-weight: 500; margin-bottom: 4px; }
+  header p { font-size: 14px; color: var(--text-secondary); }
+  .topbar { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin-bottom: 1.75rem; }
+  .stat { background: var(--surface-1); border-radius: var(--radius); padding: 0.75rem 1rem; }
+  .stat-label { font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; }
+  .stat-value { font-size: 22px; font-weight: 500; }
+  .stat-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+  .tabs { display: flex; gap: 6px; margin-bottom: 1.25rem; flex-wrap: wrap; }
+  .tab { font-size: 13px; padding: 5px 14px; border-radius: var(--radius); border: 0.5px solid var(--border-strong); background: transparent; color: var(--text-secondary); cursor: pointer; }
+  .tab.active { background: var(--surface-2); color: var(--text-primary); border-color: var(--border-stronger); }
+  .cards { display: flex; flex-direction: column; gap: 10px; }
+  .card { background: var(--surface-2); border: 0.5px solid var(--border); border-radius: 12px; padding: 1rem 1.25rem; }
+  .card-top { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 10px; }
+  .score-num { font-size: 26px; font-weight: 500; min-width: 44px; line-height: 1; }
+  .score-label { font-size: 10px; color: var(--text-muted); }
+  .card-meta { flex: 1; }
+  .card-title { font-size: 15px; font-weight: 500; margin-bottom: 3px; }
+  .card-company { font-size: 13px; color: var(--text-secondary); margin-bottom: 6px; }
+  .verdict { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: var(--radius); }
+  .verdict-note { font-size: 12px; color: var(--text-secondary); margin-left: 8px; }
+  .signals { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 10px; }
+  .signal { background: var(--surface-1); border-radius: var(--radius); padding: 8px 10px; }
+  .signal-tag { font-size: 10px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 3px; }
+  .signal-text { font-size: 12px; color: var(--text-secondary); line-height: 1.4; }
+  .keywords { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+  .keyword { font-size: 11px; background: var(--surface-1); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 2px 8px; color: var(--text-secondary); }
+  .card-actions { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
+  .card-actions a, .card-actions button { font-size: 12px; padding: 5px 12px; border-radius: var(--radius); border: 0.5px solid var(--border-strong); background: transparent; color: var(--text-secondary); cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 5px; }
+  .card-actions a:hover, .card-actions button:hover { background: var(--surface-1); color: var(--text-primary); }
+  .compact { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 0.5px solid var(--border); }
+  .compact:last-child { border-bottom: none; }
+  .compact-score { font-size: 17px; font-weight: 500; min-width: 32px; }
+  .compact-info { flex: 1; }
+  .compact-title { font-size: 13px; font-weight: 500; }
+  .compact-co { font-size: 12px; color: var(--text-secondary); }
+  .kit-badge { font-size: 11px; color: var(--text-success); background: var(--bg-success); border-radius: var(--radius); padding: 2px 8px; white-space: nowrap; }
+  .status-sel { font-size: 12px; border: 0.5px solid var(--border); background: var(--surface-1); color: var(--text-secondary); border-radius: var(--radius); padding: 3px 6px; cursor: pointer; }
+  .empty { text-align: center; padding: 3rem 1rem; color: var(--text-muted); font-size: 14px; }
+  .empty i { font-size: 32px; display: block; margin-bottom: 8px; }
+  .load-box { background: var(--surface-1); border-radius: 12px; border: 0.5px solid var(--border); padding: 1rem 1.25rem; margin-top: 1.5rem; }
+  .section-title { font-size: 12px; font-weight: 500; color: var(--text-secondary); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 8px; }
+  input[type=text], textarea { width: 100%; padding: 7px 10px; font-size: 13px; font-family: var(--font-sans); background: var(--surface-2); border: 0.5px solid var(--border-strong); border-radius: var(--radius); color: var(--text-primary); outline: none; }
+  input[type=text]:focus, textarea:focus { border-color: var(--text-accent); }
+  textarea { font-family: var(--font-mono); resize: vertical; }
+  .btn { font-size: 12px; padding: 6px 14px; border-radius: var(--radius); border: 0.5px solid var(--border-strong); background: transparent; color: var(--text-secondary); cursor: pointer; margin-top: 8px; }
+  .btn:hover { background: var(--surface-2); color: var(--text-primary); }
+  .error { font-size: 12px; color: var(--text-danger); margin-top: 6px; display: none; }
+  hr { border: none; border-top: 0.5px solid var(--border); margin: 1.5rem 0; }
+  .refresh-btn { font-size: 12px; color: var(--text-accent); background: none; border: none; cursor: pointer; float: right; margin-top: 4px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Job Radar</h1>
+  <p>Automated daily job search — Raunak Jaiswal</p>
+</header>
+
+<div class="topbar">
+  <div class="stat">
+    <div class="stat-label">last run</div>
+    <div class="stat-value" id="stat-date">—</div>
+    <div class="stat-sub" id="stat-time">no runs yet</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">companies</div>
+    <div class="stat-value" id="stat-companies">382</div>
+    <div class="stat-sub" id="stat-connected">scanning daily</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">new today</div>
+    <div class="stat-value" id="stat-new">—</div>
+    <div class="stat-sub">postings scored</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">kits ready</div>
+    <div class="stat-value" id="stat-kits">—</div>
+    <div class="stat-sub">score 70+</div>
+  </div>
+  <div class="stat">
+    <div class="stat-label">run cost</div>
+    <div class="stat-value" id="stat-cost">—</div>
+    <div class="stat-sub">est. spend</div>
+  </div>
+</div>
+
+<div class="tabs">
+  <button class="tab active" onclick="showTab('today')">Today's hits</button>
+  <button class="tab" onclick="showTab('alltime')">All-time top 15</button>
+  <button class="tab" onclick="showTab('tracker')">Application tracker</button>
+</div>
+
+<div id="tab-today">
+  <div class="cards" id="today-cards">
+    <div class="empty"><i class="ti ti-radar"></i>Loading results...</div>
+  </div>
+</div>
+
+<div id="tab-alltime" style="display:none">
+  <div id="alltime-list"></div>
+</div>
+
+<div id="tab-tracker" style="display:none">
+  <p style="font-size:13px;color:var(--text-secondary);margin-bottom:1rem;">Track your applications through the pipeline.</p>
+  <div id="tracker-list"></div>
+</div>
+
+<hr>
+
+<div class="load-box">
+  <div class="section-title">Reload data</div>
+  <p style="font-size:12px;color:var(--text-secondary);margin-bottom:8px;">Results auto-load from your GitHub repo. Click refresh to pull the latest.</p>
+  <button class="btn" onclick="autoLoad()"><i class="ti ti-refresh"></i> Refresh results</button>
+  <p id="load-error" class="error"></p>
+</div>
+
+</div>
+
+<script>
+const REPO_RAW = 'https://raw.githubusercontent.com/raun1234/Job-Radar/main/results/';
+let allResults = [];
+let trackerData = JSON.parse(localStorage.getItem('jr-tracker') || '{}');
+
+function scoreColor(s) {
+  if (s >= 75) return 'var(--text-success)';
+  if (s >= 55) return 'var(--text-warning)';
+  return 'var(--text-danger)';
+}
+
+function verdictStyle(v) {
+  if (v === 'Strong Fit') return `background:var(--bg-success);color:var(--text-success)`;
+  if (v === 'Good Fit')   return `background:var(--bg-accent);color:var(--text-accent)`;
+  if (v === 'Stretch')    return `background:var(--bg-warning);color:var(--text-warning)`;
+  return `background:var(--surface-1);color:var(--text-secondary)`;
+}
+
+function renderCard(entry) {
+  const {job, result, kit_folder} = entry;
+  const s = result.overall_score;
+  const co = job.company.charAt(0).toUpperCase() + job.company.slice(1);
+  const kws = (result.missing_keywords||[]).slice(0,4).map(k=>`<span class="keyword">${k}</span>`).join('');
+  return `<div class="card">
+    <div class="card-top">
+      <div style="text-align:center;min-width:44px;">
+        <div class="score-num" style="color:${scoreColor(s)}">${s}</div>
+        <div class="score-label">score</div>
+      </div>
+      <div class="card-meta">
+        <div class="card-title">${job.title}</div>
+        <div class="card-company">${co} · ${job.location}</div>
+        <span class="verdict" style="${verdictStyle(result.verdict)}">${result.verdict}</span>
+        <span class="verdict-note">${result.verdict_note||''}</span>
+      </div>
+    </div>
+    <div class="signals">
+      ${result.top_signal ? `<div class="signal"><div class="signal-tag" style="color:var(--text-success)">top signal</div><div class="signal-text">${result.top_signal}</div></div>` : ''}
+      ${result.biggest_gap ? `<div class="signal"><div class="signal-tag" style="color:var(--text-danger)">biggest gap</div><div class="signal-text">${result.biggest_gap}</div></div>` : ''}
+    </div>
+    ${kws ? `<div class="keywords" style="margin-top:8px;"><span style="font-size:11px;color:var(--text-muted);margin-right:4px;">missing:</span>${kws}</div>` : ''}
+    <div class="card-actions">
+      <a href="${job.url}" target="_blank"><i class="ti ti-external-link"></i> View posting</a>
+      ${kit_folder ? `<a href="https://github.com/raun1234/Job-Radar/tree/main/results/${kit_folder}" target="_blank"><i class="ti ti-file-text"></i> View kit</a>` : ''}
+      <button onclick="markApplied('${job.url}',this)"><i class="ti ti-check"></i> ${trackerData[job.url] && trackerData[job.url]!=='not applied' ? '✓ Applied' : 'Mark applied'}</button>
+    </div>
+  </div>`;
+}
+
+function renderCompact(entry) {
+  const {job, result, kit_folder} = entry;
+  const s = result.overall_score;
+  const co = job.company.charAt(0).toUpperCase() + job.company.slice(1);
+  return `<div class="compact">
+    <span class="compact-score" style="color:${scoreColor(s)}">${s}</span>
+    <div class="compact-info">
+      <div class="compact-title">${job.title}</div>
+      <div class="compact-co">${co} · ${job.location}</div>
+    </div>
+    ${kit_folder ? '<span class="kit-badge"><i class="ti ti-file-text"></i> kit ready</span>' : ''}
+    <a href="${job.url}" target="_blank" style="font-size:13px;color:var(--text-accent);text-decoration:none;"><i class="ti ti-external-link"></i></a>
+  </div>`;
+}
+
+function markApplied(url, btn) {
+  trackerData[url] = 'applied';
+  localStorage.setItem('jr-tracker', JSON.stringify(trackerData));
+  btn.innerHTML = '<i class="ti ti-check"></i> ✓ Applied';
+  btn.style.color = 'var(--text-success)';
+  renderTracker();
+}
+
+function updateStatus(url, val) {
+  trackerData[url] = val;
+  localStorage.setItem('jr-tracker', JSON.stringify(trackerData));
+}
+
+function renderTracker() {
+  const applied = allResults.filter(e => trackerData[e.job.url] && trackerData[e.job.url] !== 'not applied');
+  const el = document.getElementById('tracker-list');
+  if (!applied.length) {
+    el.innerHTML = '<div class="empty"><i class="ti ti-clipboard-list"></i>No applications tracked yet</div>';
+    return;
+  }
+  const stages = ['applied','screening','interview','offer','rejected'];
+  const stageColors = {applied:'var(--text-accent)',screening:'var(--text-warning)',interview:'var(--text-success)',offer:'#7F77DD',rejected:'var(--text-danger)'};
+  el.innerHTML = applied.map(e => {
+    const s = trackerData[e.job.url];
+    const co = e.job.company.charAt(0).toUpperCase() + e.job.company.slice(1);
+    return `<div class="compact">
+      <span class="compact-score" style="color:${scoreColor(e.result.overall_score)}">${e.result.overall_score}</span>
+      <div class="compact-info">
+        <div class="compact-title">${e.job.title}</div>
+        <div class="compact-co">${co}</div>
+      </div>
+      <select class="status-sel" style="color:${stageColors[s]||'var(--text-secondary)'}" onchange="updateStatus('${e.job.url}', this.value)">
+        ${stages.map(st=>`<option value="${st}" ${s===st?'selected':''}>${st.charAt(0).toUpperCase()+st.slice(1)}</option>`).join('')}
+      </select>
+    </div>`;
+  }).join('');
+}
+
+function showTab(name) {
+  ['today','alltime','tracker'].forEach(t => {
+    document.getElementById('tab-'+t).style.display = t===name?'block':'none';
+  });
+  document.querySelectorAll('.tab').forEach((b,i) => {
+    b.classList.toggle('active', ['today','alltime','tracker'][i]===name);
+  });
+  if (name==='tracker') renderTracker();
+}
+
+function renderAll(results) {
+  allResults = results.sort((a,b) => b.result.overall_score - a.result.overall_score);
+  const today = results.filter(r => {
+    const d = new Date(r.found_at), now = new Date();
+    return d.toDateString()===now.toDateString();
+  });
+  const kits = results.filter(r => r.kit_folder).length;
+  const latest = results.length ? new Date(Math.max(...results.map(r=>new Date(r.found_at)))) : null;
+
+  document.getElementById('stat-new').textContent = today.length||'0';
+  document.getElementById('stat-kits').textContent = kits||'0';
+  if (latest) {
+    document.getElementById('stat-date').textContent = latest.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+    document.getElementById('stat-time').textContent = latest.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
+  }
+
+  const toShow = today.length>0 ? today : allResults.slice(0,5);
+  const tc = document.getElementById('today-cards');
+  tc.innerHTML = toShow.length ? toShow.map(renderCard).join('') : '<div class="empty"><i class="ti ti-radar"></i>No new postings today</div>';
+
+  document.getElementById('alltime-list').innerHTML = allResults.slice(0,15).map(renderCompact).join('');
+}
+
+async function autoLoad() {
+  const err = document.getElementById('load-error');
+  err.style.display = 'none';
+  try {
+    const [resultsRes, healthRes] = await Promise.all([
+      fetch(REPO_RAW + 'all_results.json?t=' + Date.now()),
+      fetch(REPO_RAW + 'connection_health.json?t=' + Date.now()).catch(()=>null)
+    ]);
+    const data = await resultsRes.json();
+    renderAll(Array.isArray(data) ? data : []);
+    if (healthRes) {
+      const health = await healthRes.json().catch(()=>null);
+      if (health?.summary) {
+        document.getElementById('stat-companies').textContent = health.summary.total||'382';
+        document.getElementById('stat-connected').textContent = `${health.summary.connected||'—'} connected`;
+      }
+    }
+  } catch(e) {
+    err.textContent = 'Could not load — make sure your repo is public and results exist. Error: '+e.message;
+    err.style.display = 'block';
+    document.getElementById('today-cards').innerHTML = '<div class="empty"><i class="ti ti-radar"></i>No results loaded yet — run the automation first</div>';
+  }
+}
+
+autoLoad();
+</script>
+</body>
+</html>
