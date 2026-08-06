@@ -3,337 +3,349 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Job Radar — Raunak Jaiswal</title>
+<title>Job Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.10.0/tabler-icons.min.css">
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-  :root {
-    --bg: #f5f4f0;
-    --surface-0: #f5f4f0;
-    --surface-1: #eeede9;
-    --surface-2: #ffffff;
-    --text-primary: #1a1a18;
-    --text-secondary: #5f5e5a;
-    --text-muted: #888780;
-    --border: rgba(0,0,0,0.1);
-    --border-strong: rgba(0,0,0,0.16);
-    --border-stronger: rgba(0,0,0,0.24);
-    --radius: 8px;
-    --text-success: #0f6e56;
-    --bg-success: #e1f5ee;
-    --text-warning: #854f0b;
-    --bg-warning: #faeeda;
-    --text-danger: #a32d2d;
-    --bg-danger: #fcebeb;
-    --text-accent: #185fa5;
-    --bg-accent: #e6f1fb;
-    --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    --font-mono: 'SF Mono', 'Fira Code', monospace;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #1a1a18;
-      --surface-0: #1a1a18;
-      --surface-1: #242422;
-      --surface-2: #2e2e2c;
-      --text-primary: #eaeae6;
-      --text-secondary: #a8a79f;
-      --text-muted: #6b6a64;
-      --border: rgba(255,255,255,0.08);
-      --border-strong: rgba(255,255,255,0.13);
-      --border-stronger: rgba(255,255,255,0.2);
-      --text-success: #5dcaa5;
-      --bg-success: #04342c;
-      --text-warning: #ef9f27;
-      --bg-warning: #412402;
-      --text-danger: #f09595;
-      --bg-danger: #501313;
-      --text-accent: #85b7eb;
-      --bg-accent: #042c53;
-    }
-  }
-  body { background: var(--bg); color: var(--text-primary); font-family: var(--font-sans); min-height: 100vh; }
-  .wrap { max-width: 860px; margin: 0 auto; padding: 2rem 1rem 4rem; }
-  header { margin-bottom: 2rem; }
-  header h1 { font-size: 22px; font-weight: 500; margin-bottom: 4px; }
-  header p { font-size: 14px; color: var(--text-secondary); }
-  .topbar { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin-bottom: 1.75rem; }
-  .stat { background: var(--surface-1); border-radius: var(--radius); padding: 0.75rem 1rem; }
-  .stat-label { font-size: 12px; color: var(--text-secondary); margin-bottom: 4px; }
-  .stat-value { font-size: 22px; font-weight: 500; }
-  .stat-sub { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
-  .tabs { display: flex; gap: 6px; margin-bottom: 1.25rem; flex-wrap: wrap; }
-  .tab { font-size: 13px; padding: 5px 14px; border-radius: var(--radius); border: 0.5px solid var(--border-strong); background: transparent; color: var(--text-secondary); cursor: pointer; }
-  .tab.active { background: var(--surface-2); color: var(--text-primary); border-color: var(--border-stronger); }
-  .cards { display: flex; flex-direction: column; gap: 10px; }
-  .card { background: var(--surface-2); border: 0.5px solid var(--border); border-radius: 12px; padding: 1rem 1.25rem; }
-  .card-top { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 10px; }
-  .score-num { font-size: 26px; font-weight: 500; min-width: 44px; line-height: 1; }
-  .score-label { font-size: 10px; color: var(--text-muted); }
-  .card-meta { flex: 1; }
-  .card-title { font-size: 15px; font-weight: 500; margin-bottom: 3px; }
-  .card-company { font-size: 13px; color: var(--text-secondary); margin-bottom: 6px; }
-  .verdict { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 3px 9px; border-radius: var(--radius); }
-  .verdict-note { font-size: 12px; color: var(--text-secondary); margin-left: 8px; }
-  .signals { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 10px; }
-  .signal { background: var(--surface-1); border-radius: var(--radius); padding: 8px 10px; }
-  .signal-tag { font-size: 10px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 3px; }
-  .signal-text { font-size: 12px; color: var(--text-secondary); line-height: 1.4; }
-  .keywords { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
-  .keyword { font-size: 11px; background: var(--surface-1); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 2px 8px; color: var(--text-secondary); }
-  .card-actions { display: flex; gap: 8px; margin-top: 10px; flex-wrap: wrap; }
-  .card-actions a, .card-actions button { font-size: 12px; padding: 5px 12px; border-radius: var(--radius); border: 0.5px solid var(--border-strong); background: transparent; color: var(--text-secondary); cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 5px; }
-  .card-actions a:hover, .card-actions button:hover { background: var(--surface-1); color: var(--text-primary); }
-  .compact { display: flex; align-items: center; gap: 10px; padding: 10px 0; border-bottom: 0.5px solid var(--border); }
-  .compact:last-child { border-bottom: none; }
-  .compact-score { font-size: 17px; font-weight: 500; min-width: 32px; }
-  .compact-info { flex: 1; }
-  .compact-title { font-size: 13px; font-weight: 500; }
-  .compact-co { font-size: 12px; color: var(--text-secondary); }
-  .kit-badge { font-size: 11px; color: var(--text-success); background: var(--bg-success); border-radius: var(--radius); padding: 2px 8px; white-space: nowrap; }
-  .status-sel { font-size: 12px; border: 0.5px solid var(--border); background: var(--surface-1); color: var(--text-secondary); border-radius: var(--radius); padding: 3px 6px; cursor: pointer; }
-  .empty { text-align: center; padding: 3rem 1rem; color: var(--text-muted); font-size: 14px; }
-  .empty i { font-size: 32px; display: block; margin-bottom: 8px; }
-  .load-box { background: var(--surface-1); border-radius: 12px; border: 0.5px solid var(--border); padding: 1rem 1.25rem; margin-top: 1.5rem; }
-  .section-title { font-size: 12px; font-weight: 500; color: var(--text-secondary); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 8px; }
-  input[type=text], textarea { width: 100%; padding: 7px 10px; font-size: 13px; font-family: var(--font-sans); background: var(--surface-2); border: 0.5px solid var(--border-strong); border-radius: var(--radius); color: var(--text-primary); outline: none; }
-  input[type=text]:focus, textarea:focus { border-color: var(--text-accent); }
-  textarea { font-family: var(--font-mono); resize: vertical; }
-  .btn { font-size: 12px; padding: 6px 14px; border-radius: var(--radius); border: 0.5px solid var(--border-strong); background: transparent; color: var(--text-secondary); cursor: pointer; margin-top: 8px; }
-  .btn:hover { background: var(--surface-2); color: var(--text-primary); }
-  .error { font-size: 12px; color: var(--text-danger); margin-top: 6px; display: none; }
-  hr { border: none; border-top: 0.5px solid var(--border); margin: 1.5rem 0; }
-  .refresh-btn { font-size: 12px; color: var(--text-accent); background: none; border: none; cursor: pointer; float: right; margin-top: 4px; }
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#F0EDE8;--card:#FFFFFF;--card2:#F7F5F2;--border:#E2DDD6;--border2:#D4CEC5;
+  --text:#1C1917;--text2:#6B6560;--text3:#A09890;
+  --gh:#1D9E75;--gh-bg:#E1F5EE;--gh-ring:#9FE1CB;
+  --mid:#BA7517;--mid-bg:#FAEEDA;--mid-ring:#FAC775;
+  --lo:#E24B4A;--lo-bg:#FCEBEB;--lo-ring:#F7C1C1;
+  --purple:#534AB7;--purple-bg:#EEEDFE;--purple-ring:#AFA9EC;
+  --blue:#185FA5;--blue-bg:#E6F1FB;
+  --r:10px;--font:'Inter',sans-serif;--fontd:'Space Grotesk',sans-serif;
+}
+@media(prefers-color-scheme:dark){:root{
+  --bg:#1E1B17;--card:#272320;--card2:#302C28;--border:#3A3530;--border2:#4A4540;
+  --text:#F0EDE8;--text2:#A09890;--text3:#6B6560;
+  --gh:#5DCAA5;--gh-bg:#04342C;--gh-ring:#085041;
+  --mid:#EF9F27;--mid-bg:#412402;--mid-ring:#633806;
+  --lo:#F09595;--lo-bg:#501313;--lo-ring:#791F1F;
+  --purple:#AFA9EC;--purple-bg:#26215C;--purple-ring:#3C3489;
+  --blue:#85B7EB;--blue-bg:#042C53;
+}}
+body{background:var(--bg);color:var(--text);font-family:var(--font);min-height:100vh;font-size:14px;line-height:1.6}
+.wrap{max-width:900px;margin:0 auto;padding:2rem 1.25rem 5rem}
+header{display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:1.75rem}
+h1{font-family:var(--fontd);font-size:26px;font-weight:700;letter-spacing:-0.4px;color:var(--text)}
+.hdr-sub{font-size:12px;color:var(--text2);margin-top:3px}
+.live{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:600;color:var(--gh);background:var(--gh-bg);border:0.5px solid var(--gh-ring);padding:4px 11px;border-radius:20px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--gh)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px;margin-bottom:1.75rem}
+.st{background:var(--card);border:0.5px solid var(--border);border-radius:var(--r);padding:12px 14px}
+.st-lbl{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:5px}
+.st-val{font-family:var(--fontd);font-size:24px;font-weight:700;color:var(--text);line-height:1}
+.st-sub{font-size:10px;color:var(--text3);margin-top:3px}
+.tabs{display:flex;gap:3px;background:var(--card2);border:0.5px solid var(--border);border-radius:var(--r);padding:3px;width:fit-content;margin-bottom:1.5rem}
+.tab{font-size:12px;font-weight:500;padding:5px 14px;border-radius:7px;border:none;background:transparent;color:var(--text2);cursor:pointer}
+.tab.on{background:var(--card);color:var(--text);border:0.5px solid var(--border2)}
+.cards{display:flex;flex-direction:column;gap:10px}
+.jc{background:var(--card);border:0.5px solid var(--border);border-radius:14px;overflow:hidden}
+.jc:hover{border-color:var(--border2)}
+.jc.hi{border-left:3px solid var(--gh)}
+.jc.md{border-left:3px solid var(--mid)}
+.jc.lo{border-left:3px solid var(--lo)}
+.jc-top{display:flex;gap:14px;padding:14px 16px;align-items:flex-start}
+.sc{width:56px;height:56px;border-radius:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;flex-shrink:0;border:2px solid transparent}
+.sc.hi{background:var(--gh-bg);border-color:var(--gh-ring)}
+.sc.md{background:var(--mid-bg);border-color:var(--mid-ring)}
+.sc.lo{background:var(--lo-bg);border-color:var(--lo-ring)}
+.sc-n{font-family:var(--fontd);font-size:20px;font-weight:700;line-height:1}
+.hi .sc-n{color:var(--gh)} .md .sc-n{color:var(--mid)} .lo .sc-n{color:var(--lo)}
+.sc-l{font-size:8px;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;color:var(--text3)}
+.co-block{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.co-logo{width:28px;height:28px;border-radius:6px;background:var(--card2);border:0.5px solid var(--border);display:flex;align-items:center;justify-content:center;font-family:var(--fontd);font-size:12px;font-weight:700;color:var(--text2);flex-shrink:0;text-transform:uppercase}
+.co-name{font-family:var(--fontd);font-size:14px;font-weight:700;color:var(--text)}
+.co-loc{font-size:12px;color:var(--text2)}
+.jc-title{font-family:var(--fontd);font-size:16px;font-weight:600;color:var(--text);margin-bottom:6px;line-height:1.3}
+.meta-row{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px;align-items:center}
+.pill{font-size:10px;font-weight:600;padding:2px 8px;border-radius:20px;border:0.5px solid transparent}
+.pill-hi{background:var(--gh-bg);color:var(--gh);border-color:var(--gh-ring)}
+.pill-md{background:var(--mid-bg);color:var(--mid);border-color:var(--mid-ring)}
+.pill-lo{background:var(--lo-bg);color:var(--lo);border-color:var(--lo-ring)}
+.pill-kit{background:var(--purple-bg);color:var(--purple);border-color:var(--purple-ring)}
+.pill-neutral{background:var(--card2);color:var(--text2);border-color:var(--border2)}
+.pill-blue{background:var(--blue-bg);color:var(--blue);border-color:var(--blue)}
+.pill-sal{background:var(--gh-bg);color:var(--gh);border-color:var(--gh-ring);font-family:var(--fontd)}
+.note{font-size:13px;color:var(--text2);line-height:1.5}
+.expand{background:var(--card2);border-top:0.5px solid var(--border);padding:12px 16px;display:none}
+.expand.on{display:block}
+.sig-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:10px}
+.sig{background:var(--card);border:0.5px solid var(--border);border-radius:var(--r);padding:10px 12px}
+.sig-tag{font-size:9px;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:4px}
+.sig-tag.up{color:var(--gh)} .sig-tag.dn{color:var(--lo)}
+.sig-txt{font-size:12px;color:var(--text2);line-height:1.5}
+.kw-row{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px;align-items:center}
+.kw{font-size:11px;background:var(--card);border:0.5px solid var(--border);border-radius:6px;padding:2px 8px;color:var(--text2)}
+.kw-lbl{font-size:10px;color:var(--text3);margin-right:2px;white-space:nowrap}
+.breakdown{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:10px}
+.br-item{background:var(--card);border:0.5px solid var(--border);border-radius:var(--r);padding:8px 10px;display:flex;justify-content:space-between;align-items:center;gap:8px}
+.br-cat{font-size:11px;color:var(--text2)}
+.br-score{font-family:var(--fontd);font-size:13px;font-weight:700}
+.bullets{display:flex;flex-direction:column;gap:5px}
+.bul{font-size:12px;color:var(--text2);padding:8px 10px;background:var(--card);border:0.5px solid var(--border);border-left:2px solid var(--blue);border-radius:8px;line-height:1.5}
+.footer{display:flex;align-items:center;gap:6px;padding:9px 16px;border-top:0.5px solid var(--border);flex-wrap:wrap}
+.btn{font-size:11px;font-weight:500;padding:5px 12px;border-radius:7px;border:0.5px solid var(--border2);background:transparent;color:var(--text2);cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:4px}
+.btn:hover{background:var(--card2);color:var(--text)}
+.btn-dark{background:var(--text);color:var(--bg);border-color:var(--text)}
+.btn-dark:hover{opacity:0.85}
+.togbtn{font-size:11px;color:var(--text3);background:none;border:none;cursor:pointer;margin-left:auto;display:flex;align-items:center;gap:3px}
+.togbtn:hover{color:var(--text)}
+.togbtn i{transition:transform 0.2s}
+.togbtn.on i{transform:rotate(180deg)}
+.cmp-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:0.5px solid var(--border)}
+.cmp-row:last-child{border-bottom:none}
+.cmp-sc{font-family:var(--fontd);font-size:18px;font-weight:700;min-width:34px}
+.cmp-logo{width:26px;height:26px;border-radius:5px;background:var(--card2);border:0.5px solid var(--border);display:flex;align-items:center;justify-content:center;font-family:var(--fontd);font-size:10px;font-weight:700;color:var(--text2);text-transform:uppercase}
+.cmp-info{flex:1}
+.cmp-t{font-size:13px;font-weight:500;color:var(--text)}
+.cmp-c{font-size:11px;color:var(--text2)}
+.trk-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:0.5px solid var(--border)}
+.trk-row:last-child{border-bottom:none}
+.sel{font-size:11px;padding:4px 10px;background:var(--card2);border:0.5px solid var(--border);border-radius:8px;color:var(--text2);cursor:pointer}
+.empty{text-align:center;padding:3rem 1rem;color:var(--text3)}
+.empty i{font-size:32px;display:block;margin-bottom:8px}
+.empty p{font-size:13px}
+.ls{margin-top:1.75rem;background:var(--card);border:0.5px solid var(--border);border-radius:14px;padding:1.25rem}
+.ls-t{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:10px}
+.irow{display:flex;gap:8px;margin-bottom:8px}
+input[type=text]{flex:1;font-size:12px;padding:7px 11px;background:var(--card2);border:0.5px solid var(--border2);border-radius:8px;color:var(--text);outline:none;font-family:var(--font)}
+input:focus{border-color:var(--blue)}
+textarea{width:100%;font-size:11px;font-family:monospace;padding:7px 11px;background:var(--card2);border:0.5px solid var(--border2);border-radius:8px;color:var(--text);resize:vertical;outline:none}
+textarea:focus{border-color:var(--blue)}
+.brow{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+.err{font-size:11px;color:var(--lo);margin-top:6px;display:none}
+hr{border:none;border-top:0.5px solid var(--border);margin:1.5rem 0}
+@media(max-width:580px){.sig-grid,.breakdown{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
 <body>
 <div class="wrap">
 
 <header>
-  <h1>Job Radar</h1>
-  <p>Automated daily job search — Raunak Jaiswal</p>
+  <div>
+    <h1>Job Radar</h1>
+    <p class="hdr-sub">Raunak Jaiswal &nbsp;&middot;&nbsp; 382 companies &nbsp;&middot;&nbsp; daily 9am ET</p>
+  </div>
+  <span class="live"><span class="dot"></span>Active</span>
 </header>
 
-<div class="topbar">
-  <div class="stat">
-    <div class="stat-label">last run</div>
-    <div class="stat-value" id="stat-date">—</div>
-    <div class="stat-sub" id="stat-time">no runs yet</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">companies</div>
-    <div class="stat-value" id="stat-companies">382</div>
-    <div class="stat-sub" id="stat-connected">scanning daily</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">new today</div>
-    <div class="stat-value" id="stat-new">—</div>
-    <div class="stat-sub">postings scored</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">kits ready</div>
-    <div class="stat-value" id="stat-kits">—</div>
-    <div class="stat-sub">score 70+</div>
-  </div>
-  <div class="stat">
-    <div class="stat-label">run cost</div>
-    <div class="stat-value" id="stat-cost">—</div>
-    <div class="stat-sub">est. spend</div>
-  </div>
+<div class="stats">
+  <div class="st"><div class="st-lbl">Last run</div><div class="st-val" id="s-dt" style="font-size:16px;margin-top:3px">No runs yet</div><div class="st-sub" id="s-tm"></div></div>
+  <div class="st"><div class="st-lbl">Companies</div><div class="st-val" id="s-co">382</div><div class="st-sub" id="s-cn">Greenhouse and Lever</div></div>
+  <div class="st"><div class="st-lbl">New today</div><div class="st-val" id="s-nw">0</div><div class="st-sub">postings scored</div></div>
+  <div class="st"><div class="st-lbl">Kits ready</div><div class="st-val" id="s-kt">0</div><div class="st-sub">resume and letter</div></div>
+  <div class="st"><div class="st-lbl">Run cost</div><div class="st-val" id="s-cs">$0.00</div><div class="st-sub">est. API spend</div></div>
 </div>
 
 <div class="tabs">
-  <button class="tab active" onclick="showTab('today')">Today's hits</button>
-  <button class="tab" onclick="showTab('alltime')">All-time top 15</button>
-  <button class="tab" onclick="showTab('tracker')">Application tracker</button>
+  <button class="tab on" onclick="tab('today',this)">Today's hits</button>
+  <button class="tab" onclick="tab('all',this)">All-time top 15</button>
+  <button class="tab" onclick="tab('trk',this)">Tracker</button>
 </div>
 
-<div id="tab-today">
-  <div class="cards" id="today-cards">
-    <div class="empty"><i class="ti ti-radar"></i>Loading results...</div>
-  </div>
-</div>
-
-<div id="tab-alltime" style="display:none">
-  <div id="alltime-list"></div>
-</div>
-
-<div id="tab-tracker" style="display:none">
-  <p style="font-size:13px;color:var(--text-secondary);margin-bottom:1rem;">Track your applications through the pipeline.</p>
-  <div id="tracker-list"></div>
-</div>
+<div id="tab-today"><div class="cards" id="c-today"><div class="empty"><i class="ti ti-radar" aria-hidden="true"></i><p>No results yet. Load your data or click Demo below.</p></div></div></div>
+<div id="tab-all" style="display:none"><div id="c-all"></div></div>
+<div id="tab-trk" style="display:none"><p style="font-size:12px;color:var(--text2);margin-bottom:1rem">Track applications through the pipeline. Saved in your browser.</p><div id="c-trk"></div></div>
 
 <hr>
 
-<div class="load-box">
-  <div class="section-title">Reload data</div>
-  <p style="font-size:12px;color:var(--text-secondary);margin-bottom:8px;">Results auto-load from your GitHub repo. Click refresh to pull the latest.</p>
-  <button class="btn" onclick="autoLoad()"><i class="ti ti-refresh"></i> Refresh results</button>
-  <p id="load-error" class="error"></p>
+<div class="ls">
+  <div class="ls-t">Load results</div>
+  <div class="irow">
+    <input type="text" id="url-in" placeholder="https://raw.githubusercontent.com/raun1234/Job-Radar/main/results/all_results.json">
+    <button class="btn" onclick="doUrl()"><i class="ti ti-refresh" aria-hidden="true"></i> Refresh</button>
+  </div>
+  <textarea id="json-in" rows="3" placeholder="Or paste all_results.json here..."></textarea>
+  <div class="brow">
+    <button class="btn" onclick="doPaste()"><i class="ti ti-code" aria-hidden="true"></i> Parse JSON</button>
+    <button class="btn btn-dark" onclick="doDemo()"><i class="ti ti-sparkles" aria-hidden="true"></i> Load demo</button>
+  </div>
+  <div class="err" id="err"></div>
 </div>
 
 </div>
-
 <script>
-const REPO_RAW = 'https://raw.githubusercontent.com/raun1234/Job-Radar/main/results/';
-let allResults = [];
-let trackerData = JSON.parse(localStorage.getItem('jr-tracker') || '{}');
+const REPO='https://raw.githubusercontent.com/raun1234/Job-Radar/main/results/';
+let ALL=[],TRK=JSON.parse(localStorage.getItem('jr3')||'{}');
 
-function scoreColor(s) {
-  if (s >= 75) return 'var(--text-success)';
-  if (s >= 55) return 'var(--text-warning)';
-  return 'var(--text-danger)';
+const LOGO_COLORS=['#E6F1FB','#E1F5EE','#EEEDFE','#FAEEDA','#FCEBEB','#F4C0D1'];
+const LOGO_TEXT=['#185FA5','#0F6E56','#534AB7','#854F0B','#A32D2D','#993556'];
+function logoColor(name){const i=name.charCodeAt(0)%LOGO_COLORS.length;return{bg:LOGO_COLORS[i],txt:LOGO_TEXT[i]}}
+
+function tier(s){return s>=75?'hi':s>=55?'md':'lo'}
+function tierColor(s){const t=tier(s);return t==='hi'?'var(--gh)':t==='md'?'var(--mid)':'var(--lo)'}
+function verdictClass(v){if(v==='Strong Fit')return'pill-hi';if(v==='Good Fit')return'pill-hi';if(v==='Stretch')return'pill-md';return'pill-lo'}
+
+function ago(iso){
+  if(!iso)return'';
+  const d=Math.floor((Date.now()-new Date(iso))/86400000);
+  if(d===0)return'Today';if(d===1)return'Yesterday';if(d<7)return d+'d ago';if(d<30)return Math.floor(d/7)+'w ago';return Math.floor(d/30)+'mo ago';
 }
 
-function verdictStyle(v) {
-  if (v === 'Strong Fit') return `background:var(--bg-success);color:var(--text-success)`;
-  if (v === 'Good Fit')   return `background:var(--bg-accent);color:var(--text-accent)`;
-  if (v === 'Stretch')    return `background:var(--bg-warning);color:var(--text-warning)`;
-  return `background:var(--surface-1);color:var(--text-secondary)`;
+function coInitials(name){return name.replace(/[^a-zA-Z ]/g,'').trim().split(/\s+/).map(w=>w[0]).join('').slice(0,2).toUpperCase()||name.slice(0,2).toUpperCase()}
+function coDisplay(token){return token.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase())}
+
+function card(e,idx){
+  const {job,result,kit_folder,found_at}=e;
+  const s=result.overall_score,t=tier(s);
+  const co=coDisplay(job.company);
+  const lc=logoColor(job.company);
+  const ini=coInitials(co);
+  const salary=job.salary||'';
+  const wt=job.work_type||'';
+  const sen=job.seniority||'';
+  const postedAgo=ago(job.posted_at||found_at);
+  const status=TRK[job.url]||'';
+  const kws=(result.missing_keywords||[]).slice(0,5).map(k=>`<span class="kw">${k}</span>`).join('');
+  const bkdn=(result.breakdown||[]).map(b=>`<div class="br-item"><span class="br-cat">${b.category.replace(' Match','').replace(' Fit','')}</span><span class="br-score" style="color:${b.score>=70?'var(--gh)':b.score>=50?'var(--mid)':'var(--lo)'}">${b.score}</span></div>`).join('');
+  const buls=(result.tailored_bullets||[]).map(b=>`<div class="bul">${b}</div>`).join('');
+  return`<div class="jc ${t}">
+  <div class="jc-top">
+    <div class="sc ${t}"><span class="sc-n">${s}</span><span class="sc-l">score</span></div>
+    <div style="flex:1;min-width:0">
+      <div class="co-block">
+        <div class="co-logo" style="background:${lc.bg};color:${lc.txt}">${ini}</div>
+        <div>
+          <div class="co-name">${co}</div>
+          <div class="co-loc">${job.location||''}</div>
+        </div>
+      </div>
+      <div class="jc-title">${job.title}</div>
+      <div class="meta-row">
+        <span class="pill ${verdictClass(result.verdict)}">${result.verdict}</span>
+        ${kit_folder?`<span class="pill pill-kit"><i class="ti ti-file-text" aria-hidden="true" style="font-size:10px"></i> Kit ready</span>`:''}
+        ${wt?`<span class="pill pill-neutral">${wt}</span>`:''}
+        ${sen?`<span class="pill pill-neutral">${sen}</span>`:''}
+        ${salary?`<span class="pill pill-sal"><i class="ti ti-currency-dollar" aria-hidden="true" style="font-size:10px"></i> ${salary}</span>`:''}
+        ${postedAgo?`<span class="pill pill-blue"><i class="ti ti-clock" aria-hidden="true" style="font-size:10px"></i> ${postedAgo}</span>`:''}
+      </div>
+      <div class="note">${result.verdict_note||''}</div>
+    </div>
+  </div>
+  <div class="expand" id="ex${idx}">
+    <div class="sig-grid">
+      ${result.top_signal?`<div class="sig"><div class="sig-tag up"><i class="ti ti-trending-up" aria-hidden="true"></i> Top signal</div><div class="sig-txt">${result.top_signal}</div></div>`:''}
+      ${result.biggest_gap?`<div class="sig"><div class="sig-tag dn"><i class="ti ti-alert-triangle" aria-hidden="true"></i> Biggest gap</div><div class="sig-txt">${result.biggest_gap}</div></div>`:''}
+    </div>
+    ${kws?`<div class="kw-row"><span class="kw-lbl">Missing:</span>${kws}</div>`:''}
+    ${bkdn?`<div style="font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:6px">Score breakdown</div><div class="breakdown">${bkdn}</div>`:''}
+    ${buls?`<div style="font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:6px">Tailored bullets</div><div class="bullets">${buls}</div>`:''}
+  </div>
+  <div class="footer">
+    <a class="btn" href="${job.url}" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i> View posting</a>
+    ${kit_folder?`<a class="btn" href="https://github.com/raun1234/Job-Radar/tree/main/results/${kit_folder}" target="_blank"><i class="ti ti-folder" aria-hidden="true"></i> Open kit</a>`:''}
+    <button class="btn${status==='applied'?' btn-dark':''}" onclick="markApplied('${job.url}',this)"><i class="ti ti-check" aria-hidden="true"></i> ${status==='applied'?'Applied':'Mark applied'}</button>
+    <button class="togbtn" id="tog${idx}" onclick="tog(${idx})"><i class="ti ti-chevron-down" aria-hidden="true"></i></button>
+  </div>
+</div>`;
 }
 
-function renderCard(entry) {
-  const {job, result, kit_folder} = entry;
-  const s = result.overall_score;
-  const co = job.company.charAt(0).toUpperCase() + job.company.slice(1);
-  const kws = (result.missing_keywords||[]).slice(0,4).map(k=>`<span class="keyword">${k}</span>`).join('');
-  return `<div class="card">
-    <div class="card-top">
-      <div style="text-align:center;min-width:44px;">
-        <div class="score-num" style="color:${scoreColor(s)}">${s}</div>
-        <div class="score-label">score</div>
-      </div>
-      <div class="card-meta">
-        <div class="card-title">${job.title}</div>
-        <div class="card-company">${co} · ${job.location}</div>
-        <span class="verdict" style="${verdictStyle(result.verdict)}">${result.verdict}</span>
-        <span class="verdict-note">${result.verdict_note||''}</span>
-      </div>
-    </div>
-    <div class="signals">
-      ${result.top_signal ? `<div class="signal"><div class="signal-tag" style="color:var(--text-success)">top signal</div><div class="signal-text">${result.top_signal}</div></div>` : ''}
-      ${result.biggest_gap ? `<div class="signal"><div class="signal-tag" style="color:var(--text-danger)">biggest gap</div><div class="signal-text">${result.biggest_gap}</div></div>` : ''}
-    </div>
-    ${kws ? `<div class="keywords" style="margin-top:8px;"><span style="font-size:11px;color:var(--text-muted);margin-right:4px;">missing:</span>${kws}</div>` : ''}
-    <div class="card-actions">
-      <a href="${job.url}" target="_blank"><i class="ti ti-external-link"></i> View posting</a>
-      ${kit_folder ? `<a href="https://github.com/raun1234/Job-Radar/tree/main/results/${kit_folder}" target="_blank"><i class="ti ti-file-text"></i> View kit</a>` : ''}
-      <button onclick="markApplied('${job.url}',this)"><i class="ti ti-check"></i> ${trackerData[job.url] && trackerData[job.url]!=='not applied' ? '✓ Applied' : 'Mark applied'}</button>
-    </div>
+function tog(i){
+  const ex=document.getElementById('ex'+i),tb=document.getElementById('tog'+i);
+  const o=ex.classList.toggle('on');tb.classList.toggle('on',o);
+}
+
+function compact(e){
+  const {job,result,kit_folder}=e;
+  const s=result.overall_score,t=tier(s);
+  const co=coDisplay(job.company);
+  const lc=logoColor(job.company);
+  return`<div class="cmp-row">
+    <span class="cmp-sc" style="color:${tierColor(s)}">${s}</span>
+    <div class="cmp-logo" style="background:${lc.bg};color:${lc.txt}">${coInitials(co)}</div>
+    <div class="cmp-info"><div class="cmp-t">${job.title}</div><div class="cmp-c">${co} &middot; ${job.location||''}</div></div>
+    ${kit_folder?`<span class="pill pill-kit" style="font-size:9px">Kit</span>`:''}
+    <a href="${job.url}" target="_blank" style="color:var(--blue);font-size:14px;text-decoration:none"><i class="ti ti-external-link" aria-hidden="true"></i></a>
   </div>`;
 }
 
-function renderCompact(entry) {
-  const {job, result, kit_folder} = entry;
-  const s = result.overall_score;
-  const co = job.company.charAt(0).toUpperCase() + job.company.slice(1);
-  return `<div class="compact">
-    <span class="compact-score" style="color:${scoreColor(s)}">${s}</span>
-    <div class="compact-info">
-      <div class="compact-title">${job.title}</div>
-      <div class="compact-co">${co} · ${job.location}</div>
-    </div>
-    ${kit_folder ? '<span class="kit-badge"><i class="ti ti-file-text"></i> kit ready</span>' : ''}
-    <a href="${job.url}" target="_blank" style="font-size:13px;color:var(--text-accent);text-decoration:none;"><i class="ti ti-external-link"></i></a>
-  </div>`;
-}
-
-function markApplied(url, btn) {
-  trackerData[url] = 'applied';
-  localStorage.setItem('jr-tracker', JSON.stringify(trackerData));
-  btn.innerHTML = '<i class="ti ti-check"></i> ✓ Applied';
-  btn.style.color = 'var(--text-success)';
+function markApplied(url,btn){
+  TRK[url]='applied';localStorage.setItem('jr3',JSON.stringify(TRK));
+  btn.className='btn btn-dark';btn.innerHTML='<i class="ti ti-check" aria-hidden="true"></i> Applied';
   renderTracker();
 }
 
-function updateStatus(url, val) {
-  trackerData[url] = val;
-  localStorage.setItem('jr-tracker', JSON.stringify(trackerData));
-}
+function updateStatus(url,v){TRK[url]=v;localStorage.setItem('jr3',JSON.stringify(TRK));}
 
-function renderTracker() {
-  const applied = allResults.filter(e => trackerData[e.job.url] && trackerData[e.job.url] !== 'not applied');
-  const el = document.getElementById('tracker-list');
-  if (!applied.length) {
-    el.innerHTML = '<div class="empty"><i class="ti ti-clipboard-list"></i>No applications tracked yet</div>';
-    return;
-  }
-  const stages = ['applied','screening','interview','offer','rejected'];
-  const stageColors = {applied:'var(--text-accent)',screening:'var(--text-warning)',interview:'var(--text-success)',offer:'#7F77DD',rejected:'var(--text-danger)'};
-  el.innerHTML = applied.map(e => {
-    const s = trackerData[e.job.url];
-    const co = e.job.company.charAt(0).toUpperCase() + e.job.company.slice(1);
-    return `<div class="compact">
-      <span class="compact-score" style="color:${scoreColor(e.result.overall_score)}">${e.result.overall_score}</span>
-      <div class="compact-info">
-        <div class="compact-title">${e.job.title}</div>
-        <div class="compact-co">${co}</div>
-      </div>
-      <select class="status-sel" style="color:${stageColors[s]||'var(--text-secondary)'}" onchange="updateStatus('${e.job.url}', this.value)">
-        ${stages.map(st=>`<option value="${st}" ${s===st?'selected':''}>${st.charAt(0).toUpperCase()+st.slice(1)}</option>`).join('')}
+function renderTracker(){
+  const app=ALL.filter(e=>TRK[e.job.url]);
+  const el=document.getElementById('c-trk');
+  if(!app.length){el.innerHTML='<div class="empty"><i class="ti ti-clipboard-list" aria-hidden="true"></i><p>No applications tracked yet.</p></div>';return;}
+  const stages=['applied','screening','interview','offer','rejected'];
+  const sc={applied:'var(--blue)',screening:'var(--mid)',interview:'var(--gh)',offer:'var(--purple)',rejected:'var(--lo)'};
+  el.innerHTML=app.map(e=>{
+    const s=TRK[e.job.url],co=coDisplay(e.job.company),lc=logoColor(e.job.company);
+    return`<div class="trk-row">
+      <span class="cmp-sc" style="color:${tierColor(e.result.overall_score)};font-size:16px">${e.result.overall_score}</span>
+      <div class="cmp-logo" style="background:${lc.bg};color:${lc.txt}">${coInitials(co)}</div>
+      <div class="cmp-info"><div class="cmp-t">${e.job.title}</div><div class="cmp-c">${co}</div></div>
+      <select class="sel" style="color:${sc[s]||'var(--text2)'}" onchange="updateStatus('${e.job.url}',this.value)">
+        ${stages.map(st=>`<option value="${st}"${s===st?' selected':''}>${st[0].toUpperCase()+st.slice(1)}</option>`).join('')}
       </select>
     </div>`;
   }).join('');
 }
 
-function showTab(name) {
-  ['today','alltime','tracker'].forEach(t => {
-    document.getElementById('tab-'+t).style.display = t===name?'block':'none';
-  });
-  document.querySelectorAll('.tab').forEach((b,i) => {
-    b.classList.toggle('active', ['today','alltime','tracker'][i]===name);
-  });
-  if (name==='tracker') renderTracker();
+function renderAll(data){
+  ALL=data.sort((a,b)=>b.result.overall_score-a.result.overall_score);
+  const today=data.filter(r=>{const d=new Date(r.found_at),n=new Date();return d.toDateString()===n.toDateString();});
+  const kits=data.filter(r=>r.kit_folder).length;
+  const lat=data.length?new Date(Math.max(...data.map(r=>new Date(r.found_at)))):null;
+  document.getElementById('s-nw').textContent=today.length;
+  document.getElementById('s-kt').textContent=kits;
+  if(lat){document.getElementById('s-dt').textContent=lat.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});document.getElementById('s-tm').textContent=lat.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'})+' ET';}
+  const show=today.length?today:ALL.slice(0,5);
+  document.getElementById('c-today').innerHTML=show.length?show.map(card).join(''):'<div class="empty"><i class="ti ti-radar" aria-hidden="true"></i><p>No new postings today.</p></div>';
+  document.getElementById('c-all').innerHTML=ALL.slice(0,15).map(compact).join('');
 }
 
-function renderAll(results) {
-  allResults = results.sort((a,b) => b.result.overall_score - a.result.overall_score);
-  const today = results.filter(r => {
-    const d = new Date(r.found_at), now = new Date();
-    return d.toDateString()===now.toDateString();
-  });
-  const kits = results.filter(r => r.kit_folder).length;
-  const latest = results.length ? new Date(Math.max(...results.map(r=>new Date(r.found_at)))) : null;
-
-  document.getElementById('stat-new').textContent = today.length||'0';
-  document.getElementById('stat-kits').textContent = kits||'0';
-  if (latest) {
-    document.getElementById('stat-date').textContent = latest.toLocaleDateString('en-US',{month:'short',day:'numeric'});
-    document.getElementById('stat-time').textContent = latest.toLocaleTimeString('en-US',{hour:'2-digit',minute:'2-digit'});
-  }
-
-  const toShow = today.length>0 ? today : allResults.slice(0,5);
-  const tc = document.getElementById('today-cards');
-  tc.innerHTML = toShow.length ? toShow.map(renderCard).join('') : '<div class="empty"><i class="ti ti-radar"></i>No new postings today</div>';
-
-  document.getElementById('alltime-list').innerHTML = allResults.slice(0,15).map(renderCompact).join('');
+function tab(name,btn){
+  ['today','all','trk'].forEach(t=>document.getElementById('tab-'+t).style.display=t===name?'block':'none');
+  document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
+  btn.classList.add('on');
+  if(name==='trk')renderTracker();
 }
 
-async function autoLoad() {
-  const err = document.getElementById('load-error');
-  err.style.display = 'none';
-  try {
-    const [resultsRes, healthRes] = await Promise.all([
-      fetch(REPO_RAW + 'all_results.json?t=' + Date.now()),
-      fetch(REPO_RAW + 'connection_health.json?t=' + Date.now()).catch(()=>null)
-    ]);
-    const data = await resultsRes.json();
-    renderAll(Array.isArray(data) ? data : []);
-    if (healthRes) {
-      const health = await healthRes.json().catch(()=>null);
-      if (health?.summary) {
-        document.getElementById('stat-companies').textContent = health.summary.total||'382';
-        document.getElementById('stat-connected').textContent = `${health.summary.connected||'—'} connected`;
-      }
-    }
-  } catch(e) {
-    err.textContent = 'Could not load — make sure your repo is public and results exist. Error: '+e.message;
-    err.style.display = 'block';
-    document.getElementById('today-cards').innerHTML = '<div class="empty"><i class="ti ti-radar"></i>No results loaded yet — run the automation first</div>';
-  }
+function err(msg){const e=document.getElementById('err');e.textContent=msg;e.style.display='block';}
+function noErr(){document.getElementById('err').style.display='none';}
+
+const DEMO=[
+  {job:{title:"Product Marketing Manager, Platform",company:"braze",location:"New York, NY",url:"https://boards.greenhouse.io/braze/jobs/1",salary:"$130,000 - $160,000",work_type:"Hybrid",seniority:"Manager",posted_at:new Date().toISOString()},result:{overall_score:87,verdict:"Strong Fit",verdict_note:"GTM execution and D2C funnel ownership maps directly to what Braze needs at this level.",top_signal:"8 years of GTM strategy at scale with quantified outcomes is the proof point.",biggest_gap:"No direct SaaS PMM experience. EdTech background requires bridging.",missing_keywords:["product-led growth","lifecycle campaigns","NPS","churn reduction"],breakdown:[{category:"Title & Seniority Match",score:88,note:""},{category:"Skills & Keyword Match",score:82,note:""},{category:"Domain & Industry Fit",score:74,note:""},{category:"Track Record Fit",score:91,note:""},{category:"Eligibility Fit",score:80,note:""}],tailored_bullets:["Redesigned GTM positioning across 3 regions, driving 25% revenue growth in 6 months","Led end-to-end D2C funnel from acquisition through conversion across a 60+ member team","Implemented CRM-based lead scoring, lifting conversion rates by 27%"]},kit_folder:"applications/braze-product-marketing",found_at:new Date().toISOString()},
+  {job:{title:"GTM Strategy Manager",company:"anthropic",location:"San Francisco / Remote",url:"https://boards.greenhouse.io/anthropic/jobs/2",salary:"$150,000 - $185,000",work_type:"Remote",seniority:"Manager",posted_at:new Date().toISOString()},result:{overall_score:81,verdict:"Good Fit",verdict_note:"Commercial GTM ownership aligns well. AI-native experience is limited to research context.",top_signal:"AGM-level GTM ownership at BYJU'S (150M+ users) demonstrates the commercial scope this role requires.",biggest_gap:"No AI product GTM experience. GEO research partially bridges this gap.",missing_keywords:["consumption model","API monetization","developer GTM"],breakdown:[{category:"Title & Seniority Match",score:85,note:""},{category:"Skills & Keyword Match",score:78,note:""},{category:"Domain & Industry Fit",score:66,note:""},{category:"Track Record Fit",score:88,note:""},{category:"Eligibility Fit",score:85,note:""}],tailored_bullets:["Identified messaging-market fit gaps across 3 regions, driving 25% sales growth in 6 months","Managed international pipeline across US, UK, and Middle East, increasing recurring revenue by 19%","Built KPI performance systems enabling faster revenue-driven decision-making"]},kit_folder:"applications/anthropic-gtm-strategy",found_at:new Date().toISOString()},
+  {job:{title:"Growth Marketing Manager, Acquisition",company:"klaviyo",location:"Boston, MA",url:"https://boards.greenhouse.io/klaviyo/jobs/3",salary:"$110,000 - $140,000",work_type:"Hybrid",seniority:"Manager",posted_at:new Date(Date.now()-172800000).toISOString()},result:{overall_score:74,verdict:"Good Fit",verdict_note:"Funnel optimization and CRM-led acquisition maps well to this demand gen role.",top_signal:"PlanetSpark funnel redesign resulting in 38% acquisition lift in two quarters.",biggest_gap:"Role skews toward paid media execution. Your strength is strategy and full-funnel ownership.",missing_keywords:["paid search","meta ads","lifecycle automation","attribution"],breakdown:[{category:"Title & Seniority Match",score:76,note:""},{category:"Skills & Keyword Match",score:70,note:""},{category:"Domain & Industry Fit",score:68,note:""},{category:"Track Record Fit",score:82,note:""},{category:"Eligibility Fit",score:72,note:""}],tailored_bullets:["Redesigned multi-channel GTM sequence lifting customer acquisition 38% in two quarters","Implemented CRM-based lead scoring, boosting conversion rates by 27%","Built dashboards enabling faster campaign optimization decisions"]},kit_folder:"applications/klaviyo-growth-marketing",found_at:new Date().toISOString()},
+  {job:{title:"Business Development Manager",company:"figma",location:"Remote",url:"https://boards.greenhouse.io/figma/jobs/4",salary:"",work_type:"Remote",seniority:"Manager",posted_at:new Date(Date.now()-259200000).toISOString()},result:{overall_score:61,verdict:"Stretch",verdict_note:"BD background is solid but Figma's partnerships are deeply technical.",top_signal:"Cross-functional BD execution at BYJU'S demonstrates commercial partnership capability.",biggest_gap:"No developer ecosystem or design tool partnership experience.",missing_keywords:["API partnerships","developer ecosystem","ISV"],breakdown:[{category:"Title & Seniority Match",score:70,note:""},{category:"Skills & Keyword Match",score:55,note:""},{category:"Domain & Industry Fit",score:50,note:""},{category:"Track Record Fit",score:72,note:""},{category:"Eligibility Fit",score:58,note:""}],tailored_bullets:[]},found_at:new Date(Date.now()-86400000).toISOString()},
+];
+
+async function doUrl(){
+  noErr();const url=document.getElementById('url-in').value.trim();
+  if(!url){err('Enter a URL.');return}
+  try{
+    const[r1,r2]=await Promise.all([fetch(url+'?t='+Date.now()),fetch(REPO+'connection_health.json?t='+Date.now()).catch(()=>null)]);
+    renderAll(await r1.json());
+    if(r2){const h=await r2.json().catch(()=>null);if(h?.summary){document.getElementById('s-co').textContent=h.summary.total||'382';document.getElementById('s-cn').textContent=(h.summary.connected||'?')+' connected';}}
+  }catch(e){err('Could not load. Check the URL is a public raw GitHub URL.');}
 }
 
-autoLoad();
+function doPaste(){noErr();try{renderAll(JSON.parse(document.getElementById('json-in').value.trim()));}catch(e){err('Invalid JSON.');}}
+
+function doDemo(){
+  noErr();
+  document.getElementById('s-co').textContent='382';
+  document.getElementById('s-cn').textContent='~130 connected';
+  document.getElementById('s-cs').textContent='$0.08';
+  renderAll(DEMO);
+}
+
+document.getElementById('url-in').value=REPO+'all_results.json';
+(async()=>{
+  try{const r=await fetch(REPO+'all_results.json?t='+Date.now());const d=await r.json();if(Array.isArray(d)&&d.length)renderAll(d);}catch(e){}
+})();
 </script>
 </body>
 </html>
