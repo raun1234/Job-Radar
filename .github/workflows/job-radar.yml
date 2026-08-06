@@ -2,8 +2,8 @@ name: Job Radar
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # daily at 13:00 UTC (~9am ET). Edit as you like.
-  workflow_dispatch: {}     # lets you trigger a run manually from the Actions tab
+    - cron: "0 13 * * *"   # daily at 13:00 UTC (~9am ET)
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -18,24 +18,32 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Install Node dependencies
+        run: npm install docx
 
       - name: Run job radar
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AUTH_STATUS: sponsorship                # sponsorship | authorized | na
-          JOB_RADAR_TAILOR_THRESHOLD: 70          # postings scoring at/above this get a full kit
+          AUTH_STATUS: sponsorship
+          JOB_RADAR_SCORE_MODEL: claude-haiku-4-5-20251001
+          JOB_RADAR_TAILOR_MODEL: claude-sonnet-4-6
+          JOB_RADAR_TAILOR_THRESHOLD: "70"
+          JOB_RADAR_MAX_SPEND: "1.00"
         run: python -u search.py
 
       - name: Show connection health
         if: always()
         run: |
           if [ -f results/connection_health.json ]; then
-            echo "Connection health report saved to results/connection_health.json"
+            echo "Connection health report:"
             cat results/connection_health.json
-          else
-            echo "No connection health report found"
           fi
 
       - name: Commit results
@@ -43,5 +51,5 @@ jobs:
           git config user.name "job-radar-bot"
           git config user.email "actions@users.noreply.github.com"
           git add results/ seen_jobs.json
-          git diff --staged --quiet || git commit -m "Update job radar results"
+          git diff --staged --quiet || git commit -m "Update job radar results $(date -u +%Y-%m-%d)"
           git push
