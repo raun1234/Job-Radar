@@ -135,28 +135,96 @@ def title_ok(title):
 
 
 # ── FETCHERS ──────────────────────────────────────────────────────────────────
+def extract_salary(text):
+    patterns = [
+        r'\$[\d,]+\s*[-to]+\s*\$[\d,]+\s*(?:per year|annually|\/yr|\/year)?',
+        r'\$[\d,]+[Kk]\s*[-to]+\s*\$[\d,]+[Kk]',
+        r'[\d,]+\s*[-to]+\s*[\d,]+\s*(?:USD|usd)',
+        r'salary[:\s]+\$[\d,]+',
+        r'compensation[:\s]+\$[\d,]+',
+        r'\$[\d,]+\s*(?:per year|annually|\/yr)',
+    ]
+    for p in patterns:
+        m = re.search(p, text, re.IGNORECASE)
+        if m:
+            return m.group(0).strip()
+    return ""
+
+def extract_work_type(title, location, description):
+    t = (title + " " + location + " " + description[:500]).lower()
+    if "remote" in t:
+        return "Remote"
+    if "hybrid" in t:
+        return "Hybrid"
+    if "onsite" in t or "on-site" in t or "in office" in t or "in-office" in t:
+        return "On-site"
+    return ""
+
+def extract_seniority(title):
+    t = title.lower()
+    if any(x in t for x in ["senior", "sr.", "sr "]):
+        return "Senior"
+    if any(x in t for x in ["associate", "junior", "jr "]):
+        return "Associate"
+    if any(x in t for x in ["lead", "principal"]):
+        return "Lead"
+    if any(x in t for x in ["manager", "mgr"]):
+        return "Manager"
+    return ""
+
 def fetch_greenhouse(token):
     r = requests.get(
         f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true",
         timeout=10)
     r.raise_for_status()
-    return [{"id": f"gh:{token}:{j['id']}", "company": token,
-             "title": j["title"],
-             "location": (j.get("location") or {}).get("name", ""),
-             "url": j["absolute_url"],
-             "description": strip_html(j.get("content", ""))}
-            for j in r.json().get("jobs", [])]
+    out = []
+    for j in r.json().get("jobs", []):
+        desc = strip_html(j.get("content", ""))
+        loc  = (j.get("location") or {}).get("name", "")
+        title = j["title"]
+        out.append({
+            "id": f"gh:{token}:{j['id']}",
+            "company": token,
+            "title": title,
+            "location": loc,
+            "url": j["absolute_url"],
+            "description": desc,
+            "salary": extract_salary(desc),
+            "work_type": extract_work_type(title, loc, desc),
+            "seniority": extract_seniority(title),
+            "posted_at": j.get("updated_at", ""),
+        })
+    return out
 
 def fetch_lever(token):
     r = requests.get(
         f"https://api.lever.co/v0/postings/{token}?mode=json", timeout=10)
     r.raise_for_status()
-    return [{"id": f"lv:{token}:{j['id']}", "company": token,
-             "title": j["text"],
-             "location": (j.get("categories") or {}).get("location", ""),
-             "url": j["hostedUrl"],
-             "description": strip_html(j.get("descriptionPlain") or j.get("description") or "")}
-            for j in r.json()]
+    out = []
+    for j in r.json():
+        desc = strip_html(j.get("descriptionPlain") or j.get("description") or "")
+        loc  = (j.get("categories") or {}).get("location", "")
+        title = j["text"]
+        import datetime
+        posted = ""
+        if j.get("createdAt"):
+            try:
+                posted = datetime.datetime.fromtimestamp(j["createdAt"]/1000, tz=datetime.timezone.utc).isoformat()
+            except Exception:
+                pass
+        out.append({
+            "id": f"lv:{token}:{j['id']}",
+            "company": token,
+            "title": title,
+            "location": loc,
+            "url": j["hostedUrl"],
+            "description": desc,
+            "salary": extract_salary(desc),
+            "work_type": extract_work_type(title, loc, desc),
+            "seniority": extract_seniority(title),
+            "posted_at": posted,
+        })
+    return out
 
 FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever}
 
