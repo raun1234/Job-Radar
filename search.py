@@ -229,7 +229,81 @@ def fetch_lever(token):
 FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever}
 
 
-# ── CLAUDE CALLS ──────────────────────────────────────────────────────────────
+# ── FEATURE 1: RECRUITER FINDER ──────────────────────────────────────────────
+def recruiter_search_url(company_name, job_title):
+    """Build a LinkedIn search URL to find the recruiter/hiring manager."""
+    import urllib.parse
+    # Extract function from title (e.g. "Product Marketing Manager" -> "Product Marketing")
+    function = job_title.lower()
+    if "gtm" in function or "go-to-market" in function:
+        role_type = "recruiter OR talent acquisition OR GTM"
+    elif "product marketing" in function:
+        role_type = "recruiter OR product marketing manager OR talent"
+    elif "growth" in function:
+        role_type = "recruiter OR growth OR talent acquisition"
+    elif "business development" in function:
+        role_type = "recruiter OR business development OR talent"
+    else:
+        role_type = "recruiter OR talent acquisition OR hiring"
+
+    query = f"{company_name} {role_type}"
+    encoded = urllib.parse.quote(query)
+    return f"https://www.linkedin.com/search/results/people/?keywords={encoded}&origin=GLOBAL_SEARCH_HEADER"
+
+def hiring_manager_url(company_name, job_title):
+    """Build a LinkedIn search URL for the likely hiring manager."""
+    import urllib.parse
+    # Look for someone senior in the relevant function
+    function_keywords = {
+        "product marketing": "head of product marketing OR VP product marketing OR director product marketing",
+        "gtm": "head of GTM OR VP GTM OR director GTM",
+        "growth": "head of growth OR VP growth OR director growth",
+        "business development": "head of business development OR VP BD OR director partnerships",
+    }
+    fk = "head OR director OR VP"
+    title_lower = job_title.lower()
+    for key, val in function_keywords.items():
+        if key in title_lower:
+            fk = val
+            break
+    query = f"{company_name} {fk}"
+    encoded = urllib.parse.quote(query)
+    return f"https://www.linkedin.com/search/results/people/?keywords={encoded}&origin=GLOBAL_SEARCH_HEADER"
+
+# ── FEATURE 2: URGENCY FLAG ───────────────────────────────────────────────────
+def urgency_flag(job):
+    """Returns 'APPLY TODAY', 'APPLY SOON', or '' based on posting age."""
+    posted = job.get("posted_at") or job.get("found_at", "")
+    if not posted:
+        return ""
+    try:
+        from datetime import datetime, timezone
+        posted_dt = datetime.fromisoformat(posted.replace("Z", "+00:00"))
+        age_days = (datetime.now(timezone.utc) - posted_dt).days
+        if age_days <= 2:
+            return "APPLY TODAY"
+        elif age_days <= 5:
+            return "APPLY SOON"
+        elif age_days > 25:
+            return "MAY BE FILLED"
+    except Exception:
+        pass
+    return ""
+
+# ── FEATURE 4: DUPLICATE DETECTOR ────────────────────────────────────────────
+def is_duplicate(job, seen_titles):
+    """Returns True if a very similar role at the same company was already seen."""
+    key = slugify(f"{job['company']}-{job['title'][:40]}")
+    # Normalize: remove common suffixes that vary between duplicate postings
+    norm = re.sub(r'\s*[-,]\s*(remote|hybrid|us|usa|united states|new york|san francisco|boston|austin|seattle|chicago|london|india|\d{5}).*$', '', job['title'].lower()).strip()
+    norm_key = slugify(f"{job['company']}-{norm}")
+    if norm_key in seen_titles:
+        return True
+    seen_titles.add(norm_key)
+    seen_titles.add(key)
+    return False
+
+
 SCORE_PROMPT = """You are an expert recruiter. Given a CANDIDATE PROFILE and JOB POSTING, output ONLY a JSON object — no markdown, no preamble.
 
 {
@@ -356,7 +430,36 @@ def generate_kit(profile, job, result):
         open(os.path.join(folder, "cover_letter.md"), "w").write(
             cover.get("cover_letter", ""))
 
-    return folder
+    # Feature 1: Recruiter finder + outreach guide
+    co_display = job['company'].replace('-', ' ').title()
+    rec_url = recruiter_search_url(co_display, job['title'])
+    mgr_url = hiring_manager_url(co_display, job['title'])
+    urgency = urgency_flag(job)
+    outreach = f"""# Outreach Guide — {job['title']} @ {co_display}
+
+## Urgency
+{urgency if urgency else 'No urgency flag — apply within the week'}
+
+## Find the Recruiter on LinkedIn
+{rec_url}
+
+## Find the Hiring Manager on LinkedIn
+{mgr_url}
+
+## Outreach Message Template
+Hi [Name],
+
+I just applied for the {job['title']} role at {co_display}. My background in GTM strategy and growth at BYJU'S and PlanetSpark maps closely to what you're describing — particularly around [specific thing from JD].
+
+Happy to share more context if useful.
+
+Best,
+Raunak
+linkedin.com/in/raunakrj
+"""
+    open(os.path.join(folder, "outreach_guide.md"), "w").write(outreach)
+
+    return folder, urgency, rec_url
 
 
 # ── REPORT ────────────────────────────────────────────────────────────────────
@@ -415,6 +518,7 @@ def main():
     all_results = load(ALL_PATH, [])
     new_results = []
     connected, failed = [], []
+    seen_titles = set()  # Feature 4: duplicate detector
 
     for c in companies:
         fetcher = FETCHERS.get(c.get("ats"))
@@ -437,7 +541,19 @@ def main():
                 seen[job["id"]] = {"skipped": True}
                 continue
 
-            print(f"[score] {job['title']} @ {job['company']}")
+            # Feature 4: skip duplicates
+            if is_duplicate(job, seen_titles):
+                print(f"[dupe] {job['title']} @ {job['company']} — skipping duplicate")
+                seen[job["id"]] = {"skipped": True, "reason": "duplicate"}
+                continue
+
+            # Feature 2: urgency flag
+            urgency = urgency_flag(job)
+            if urgency:
+                print(f"[score] {job['title']} @ {job['company']} [{urgency}]")
+            else:
+                print(f"[score] {job['title']} @ {job['company']}")
+
             try:
                 result = claude(SCORE_PROMPT, context(profile, job), 900, SCORE_MODEL)
             except RuntimeError as e:
@@ -454,10 +570,11 @@ def main():
             print(f"  score: {score} — {result.get('verdict')}")
 
             kit_folder = None
+            recruiter_url = ""
             if score >= THRESHOLD:
                 print(f"  -> generating kit")
                 try:
-                    kit_folder = generate_kit(profile, job, result)
+                    kit_folder, urgency, recruiter_url = generate_kit(profile, job, result)
                     print(f"  -> kit saved: {kit_folder}")
                 except RuntimeError as e:
                     print(f"\n[SPEND CAP] {e}")
@@ -465,6 +582,8 @@ def main():
                     print(f"  [warn] kit generation failed: {e}")
 
             entry = {"job": job, "result": result, "kit_folder": kit_folder,
+                     "urgency": urgency_flag(job),
+                     "recruiter_url": recruiter_url,
                      "found_at": datetime.now(timezone.utc).isoformat()}
             new_results.append(entry)
             all_results.append(entry)
