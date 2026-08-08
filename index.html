@@ -122,6 +122,7 @@ textarea:focus{border-color:var(--blue)}
 .err{font-size:11px;color:var(--lo);margin-top:6px;display:none}
 hr{border:none;border-top:0.5px solid var(--border);margin:1.5rem 0}
 @media(max-width:580px){.sig-grid,.breakdown{grid-template-columns:1fr}.stats{grid-template-columns:repeat(2,1fr)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.6}}
 </style>
 </head>
 <body>
@@ -224,6 +225,9 @@ function card(e,idx){
         ${sen?`<span class="pill pill-neutral">${sen}</span>`:''}
         ${salary?`<span class="pill pill-sal"><i class="ti ti-currency-dollar" aria-hidden="true" style="font-size:10px"></i> ${salary}</span>`:''}
         ${postedAgo?`<span class="pill pill-blue"><i class="ti ti-clock" aria-hidden="true" style="font-size:10px"></i> ${postedAgo}</span>`:''}
+        ${e.urgency==='APPLY TODAY'?`<span class="pill" style="background:#FF3B30;color:#fff;font-weight:700;animation:pulse 1.5s infinite">APPLY TODAY</span>`:''}
+        ${e.urgency==='APPLY SOON'?`<span class="pill" style="background:var(--mid-bg);color:var(--mid);border-color:var(--mid-ring);font-weight:700">APPLY SOON</span>`:''}
+        ${e.urgency==='MAY BE FILLED'?`<span class="pill pill-neutral" style="opacity:0.6">May be filled</span>`:''}
       </div>
       <div class="note">${result.verdict_note||''}</div>
     </div>
@@ -236,6 +240,7 @@ function card(e,idx){
     ${kws?`<div class="kw-row"><span class="kw-lbl">Missing:</span>${kws}</div>`:''}
     ${bkdn?`<div style="font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:6px">Score breakdown</div><div class="breakdown">${bkdn}</div>`:''}
     ${buls?`<div style="font-size:9px;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--text3);margin-bottom:6px">Tailored bullets</div><div class="bullets">${buls}</div>`:''}
+    ${e.recruiter_url?`<div style="margin-top:10px"><a href="${e.recruiter_url}" target="_blank" class="btn" style="color:var(--blue)"><i class="ti ti-brand-linkedin" aria-hidden="true"></i> Find recruiter on LinkedIn</a></div>`:''}
   </div>
   <div class="footer">
     <a class="btn" href="${job.url}" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i> View posting</a>
