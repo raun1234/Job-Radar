@@ -1,0 +1,11 @@
+OpenAI's consumer subscription challenge is one of the most specific product marketing problems in tech right now: tens of millions of free users who already rely on ChatGPT daily, and a clear job to be done in helping them recognize when Go, Plus, or Pro is worth paying for. That free-to-paid conversion motion is exactly where my work has lived.
+
+At BYJU'S, I identified messaging-market fit gaps across three regions, redesigned GTM positioning, and drove 25% sales growth in six months — not through a product change, but by making the value proposition land more precisely for the right audience segments. At PlanetSpark, I diagnosed a top-of-funnel leak costing 30% of leads, rebuilt the multi-channel GTM sequence, and lifted customer acquisition 38% in two quarters while improving 30-day retention by 40% through a targeted intervention tied to a specific churn pattern. Both required the same motion this role calls for: translating behavioral and customer insight into positioning and adoption strategy, then coordinating execution across product, growth, and lifecycle partners.
+
+The posting specifically calls out global market adaptation. I managed international pipelines across the US, UK, and Middle East at PlanetSpark, adapting messaging and sales strategy for meaningfully different audiences — relevant given ChatGPT's global subscription footprint.
+
+What makes this role distinct from most PMM opportunities is the research dimension I bring. My current work at Boston University's Questrom Consulting Lab built a Generative Engine Optimization audit framework across seven AI platforms — including ChatGPT itself — benchmarking brand visibility inside AI-generated answers. Few PMM candidates at this level have spent structured time inside the product category from a research perspective.
+
+OpenAI is building the infrastructure for how people think and work. Helping more people understand what a paid plan actually unlocks for them is a meaningful GTM problem, and one I want to work on. I would welcome the conversation.
+
+Raunak Jaiswal

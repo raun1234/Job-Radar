@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and operations foundation with EdTech scale experience, but lacks direct adtech/digital advertising domain expertise and depth in complex multi-channel sales operations required for OpenAI's maturity level.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "Manager-level with P&L ownership and cross-functional leadership demonstrated; title is GTM Strategy (not Operations), but scope overlaps meaningfully. Still completing MBA (May 2027) \u2014 seniority is solid but not yet at the 10+ years in operating roles baseline."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 78,
+      "note": "Strong match: GTM strategy, segmentation, forecasting, KPI tracking, sales enablement, cross-functional leadership, D2C funnel, CRM (Salesforce). Missing: explicit adtech operational complexity (agencies, resellers, campaign lifecycle, billing, incentives at scale)."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 58,
+      "note": "EdTech D2C is not digital advertising or adtech. Does not demonstrate direct experience with agency channels, reseller networks, campaign billing, measurement workflows, or media buying operations. This is the largest gap."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 75,
+      "note": "Proven: funnel redesign (+38% CAC), retention interventions, CRM-driven lead scoring, multi-market P&L management. Unproven for this role: scaling sales across direct + agencies + partners + self-serve; adtech-specific revenue operations."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 75,
+      "note": "Requires H1B sponsorship. OpenAI is a well-funded tier-1 company with strong sponsorship capability; no flag. Currently on OPT, timeline feasible."
+    }
+  ],
+  "missing_keywords": [
+    "digital advertising / adtech / media buying experience",
+    "agency and reseller channel management",
+    "campaign lifecycle and billing operations",
+    "measurability and attribution frameworks",
+    "10+ years in revenue operations or related operating roles"
+  ],
+  "top_signal": "Raunak's P&L ownership across 5 city markets at BYJU'S, coupled with proven ability to diagnose funnel leaks, design GTM sequences, rebuild sales operations, and scale KPI dashboards across cross-functional teams, demonstrates the operating rigor OpenAI seeks\u2014and his current GEO research work shows hands-on fluency in AI-era strategy.",
+  "biggest_gap": "No demonstrated experience in digital advertising, adtech, or media/agency sales operations\u2014the specific domain OpenAI explicitly prioritizes. His EdTech background is transactional (D2C, direct sales); he has not managed the operational complexity of agencies, resellers, campaign billing, measurement, or multi-motion go-to-market at this scale. This is a learnable gap but represents material domain risk for an early-stage ads business."
+}

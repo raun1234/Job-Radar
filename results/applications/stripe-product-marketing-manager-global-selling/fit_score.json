@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and cross-functional leadership; lacks direct product marketing title and fintech domain experience, but messaging/positioning and sales enablement expertise are solid.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 70,
+      "note": "8+ years GTM/growth leadership meets experience floor; held AGM role with P&L, but no direct PMM title. Manager-level positioning is solid but not exact PMM trajectory."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 75,
+      "note": "Owns messaging, positioning, sales enablement, competitive intelligence, cross-functional GTM, data-driven KPI dashboards. Missing: thought leadership content creation, campaign-level copywriting, launch narrative specifics."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 65,
+      "note": "EdTech D2C is different from B2B fintech infrastructure (Stripe's Global Selling). No payments, currency, or enterprise SaaS experience. Transferable: multi-market expansion, international pipeline, positioning at scale."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 75,
+      "note": "Demonstrated GTM velocity: 38% CAC improvement, 25\u201340% conversion/retention lifts, international pipeline growth, sales enablement systems that drove 42% productivity gain. Metrics are strong but not payment/fintech-specific."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 60,
+      "note": "Requires H1B sponsorship; currently on OPT. Stripe is large public company with sponsorship capacity, but visa requirement is a friction point in hiring process."
+    }
+  ],
+  "missing_keywords": [
+    "thought leadership content creation",
+    "payments / fintech domain knowledge",
+    "enterprise SaaS positioning",
+    "campaign-level content execution",
+    "competitive differentiation (payments-specific)"
+  ],
+  "top_signal": "Owned end-to-end GTM P&L with proven ability to redesign positioning for messaging-market fit (25% sales lift), rebuild sales enablement systems (42% productivity gain), and drive international expansion\u2014directly mirrors Global Selling role scope.",
+  "biggest_gap": "No fintech, payments, or B2B SaaS experience; EdTech D2C funnel is a different buyer journey and sales motion than Stripe's enterprise/mid-market infrastructure play. Will require domain ramp-up on currency presentment, merchant pain points, and competitive landscape."
+}

@@ -1,0 +1,21 @@
+# Outreach Guide — Growth Lead, SMB Ads @ Openai
+
+## Urgency
+MAY BE FILLED
+
+## Find the Recruiter on LinkedIn
+https://www.linkedin.com/search/results/people/?keywords=Openai%20recruiter%20OR%20growth%20OR%20talent%20acquisition&origin=GLOBAL_SEARCH_HEADER
+
+## Find the Hiring Manager on LinkedIn
+https://www.linkedin.com/search/results/people/?keywords=Openai%20head%20of%20growth%20OR%20VP%20growth%20OR%20director%20growth&origin=GLOBAL_SEARCH_HEADER
+
+## Outreach Message Template
+Hi [Name],
+
+I just applied for the Growth Lead, SMB Ads role at Openai. My background in GTM strategy and growth at BYJU'S and PlanetSpark maps closely to what you're describing — particularly around [specific thing from JD].
+
+Happy to share more context if useful.
+
+Best,
+Raunak
+linkedin.com/in/raunakrj

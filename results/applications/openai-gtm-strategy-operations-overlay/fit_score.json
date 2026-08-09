@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and operations fundamentals with P&L ownership, but lacks direct Revenue Operations and forecasting experience at scale; visa sponsorship requirement is a secondary consideration for a mature company like OpenAI.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "Associate General Manager and Senior Program Manager roles demonstrate seniority and cross-functional leadership, but title is GTM Strategy / Growth, not pure Strategy & Operations; lacks explicit 'Revenue Operations' or 'Business Operations' title."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 78,
+      "note": "Strong on GTM strategy, business execution, KPI dashboards, funnel analysis, CRM/Salesforce, cross-functional coordination, and strategic planning. Weaker on forecasting, pipeline management cadences, and formal RevOps systems; no mention of Tableau or BI tools at scale."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 68,
+      "note": "EdTech D2C and international B2C SaaS experience is transferable to Enterprise B2B GTM motions, but no explicit Enterprise sales, account-based forecasting, or large-scale sales operations background; limited exposure to complex Enterprise pricing and coverage models."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 70,
+      "note": "Demonstrated ability to diagnose funnel gaps (38% CAC improvement), build reporting systems, optimize sales processes (42% productivity), and drive P&L growth. However, achievements are primarily growth and retention focused, not operations/forecasting/standardization focused; scale is medium, not Fortune 500."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 65,
+      "note": "Currently on OPT with H1B sponsorship needed later. OpenAI is a mature, well-capitalized company that sponsors H1B; however, visa requirement adds friction and timeline risk compared to US-authorized candidates."
+    }
+  ],
+  "missing_keywords": [
+    "Revenue Operations / RevOps",
+    "Forecasting and pipeline management",
+    "Business reviews and performance cadences",
+    "Enterprise sales operations at scale",
+    "Sales quota and territory management"
+  ],
+  "top_signal": "P&L ownership across 5 markets at BYJU's, combined with hands-on funnel diagnostics, KPI system design, and cross-functional team leadership (60+ members) directly translate to the analytical rigor and operational scaling OpenAI's GTM Strategy & Operations overlay role demands.",
+  "biggest_gap": "No direct Revenue Operations or formal sales forecasting / pipeline management experience; background is primarily growth marketing and business development execution rather than enterprise GTM infrastructure, which is the core focus of this overlay role. Candidate may need ramp time on enterprise-specific cadences and large-scale sales ops standardization."
+}

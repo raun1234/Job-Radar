@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and operations foundation with EdTech P&L scale, but lacks direct RevOps, forecasting, and enterprise sales systems depth that OpenAI values.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "AGM + Senior PM titles signal Manager level; P&L ownership across 5 markets demonstrates commercial accountability. Role expects 6+ years Strategy & Ops\u2014candidate has 8+ GTM/BD, but not pure ops/RevOps background."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 68,
+      "note": "Strong on GTM strategy, KPI dashboards, funnel analytics, cross-functional leadership, CRM (Salesforce). Missing direct experience with forecasting, pipeline management, revenue operations, business reviews, and operating cadences at enterprise scale."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 72,
+      "note": "EdTech D2C and international pipeline experience transfer well to enterprise GTM motion. No direct enterprise SaaS sales support or B2B2C systems experience. AI/GEO research is distinctive but not directly relevant to this ops role."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 75,
+      "note": "Quantified wins (38% CAC lift, 19% ARR growth, 42% enablement uplift) and cross-functional orchestration (60+ person teams) are strong. Forecasting, pipeline health, and enterprise business reviews less visible in narrative."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 65,
+      "note": "Requires H1B sponsorship; OpenAI (well-funded, tier-1) is capable, but visa dependency is a secondary penalty. Based in US on OPT now, MBA completion May 2027 adds timeline uncertainty for extended visa processing."
+    }
+  ],
+  "missing_keywords": [
+    "Revenue Operations / RevOps",
+    "Forecasting & pipeline management",
+    "Enterprise sales processes",
+    "Business reviews & executive reporting",
+    "Territory & coverage models"
+  ],
+  "top_signal": "P&L ownership across 5 city markets with measurable operational improvements (20% productivity lift, 25% sales growth); demonstrated ability to build scalable KPI systems and dashboards used by senior leadership\u2014directly mirrors role's need for reporting frameworks and operating cadences.",
+  "biggest_gap": "No explicit RevOps, forecasting, or enterprise sales rhythms background. Role expects deep experience with pipeline reviews, territory models, and Sales operating cadences. Candidate's strength is GTM strategy and D2C funnel, not the systems/ops infrastructure that powers enterprise sales execution. MBA completion timeline (May 2027) may also complicate H1B sponsorship timing if role needs immediate visa clarity."
+}

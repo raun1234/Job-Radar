@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong cross-functional operator with proven GTM and partnership execution at scale, but lacks direct strategic partnerships and product integration experience that OpenAI prioritizes.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "Manager-level experience confirmed (AGM, Senior PM). Role expects 10+ years; candidate has 8 professional + ongoing MBA. Seniority sufficient but not overstated."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 70,
+      "note": "Strong on cross-functional coordination, P&L ownership, strategic roadmap alignment, and relationship management. Missing: formal partnerships experience, technical product integrations, deal structure negotiation, revenue/adoption tracking at partnership level."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 68,
+      "note": "EdTech SaaS background translates to high-growth B2C and B2B2C motion. OpenAI role requires platform partnerships and AI ecosystem thinking. GEO research is adjacent but not direct partnership experience."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 78,
+      "note": "Demonstrated ability to own P&L, scale operations (60+ team at BYJU'S), drive revenue (5M+), improve conversion (38-42% uplifts). No explicit track record of managing multi-year strategic partnerships or product integrations."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 60,
+      "note": "Requires H1B sponsorship. OpenAI is a large, well-funded company likely capable of sponsoring, but JD does not explicitly state sponsorship availability. Visa requirement is a material friction point."
+    }
+  ],
+  "missing_keywords": [
+    "strategic partnerships",
+    "product integrations",
+    "commercial negotiations",
+    "partner portfolio management",
+    "technical integrations"
+  ],
+  "top_signal": "P&L ownership across 5 city markets with revenue accountability, proven ability to align cross-functional teams (product, engineering, sales, operations), and demonstrated track record of scaling operations and driving high-impact growth initiatives in fast-moving environments.",
+  "biggest_gap": "No direct experience managing multi-year strategic partnerships, product integrations, or complex deal structures; OpenAI role centers on partnership portfolio ownership and technical/commercial deal negotiation, which are not prominently evidenced in candidate's background. Additionally, visa sponsorship requirement adds recruitment friction at a large (but still selective) company."
+}

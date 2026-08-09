@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and funnel optimization foundation with proven D2C execution, but lacks hands-on ads platform experience and SMB-specific growth marketing track record.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 80,
+      "note": "Manager-level experience across GTM, growth, and business development; progressed to Associate General Manager. Role expects Manager-level execution, which aligns well."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 68,
+      "note": "Strong on D2C funnel optimization, CRM/Salesforce, A/B testing, KPI dashboards, lifecycle marketing, and cross-functional collaboration. Missing hands-on ads platform experience (Google Ads, Meta, TikTok), SQL/scripting, and lifecycle automation depth."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 70,
+      "note": "EdTech D2C funnel ownership transfers well to SMB advertiser acquisition and activation. However, no direct experience with ads products, self-serve advertiser onboarding, or high-volume performance marketing funnels."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 75,
+      "note": "Demonstrated 38% CAC improvement, 40% retention uplift, 25% sales growth, and multi-market P&L ownership. Metrics-driven and execution-focused; lacks documented lifecycle and repeat-spend growth in an ads/marketplace context."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 70,
+      "note": "Requires H1B sponsorship; OpenAI (large, well-capitalized company) likely sponsors, but visa sponsorship is not explicitly stated in JD. Adds risk in early-stage evaluation."
+    }
+  ],
+  "missing_keywords": [
+    "ads platform experience (Google Ads, Meta Ads, TikTok for Business, Amazon Ads)",
+    "self-serve advertiser onboarding or lifecycle automation",
+    "SQL or low-code/no-code analytics workflow",
+    "SMB acquisition or advertiser growth specific experience",
+    "performance marketing or demand generation campaign ownership"
+  ],
+  "top_signal": "Hands-on D2C funnel ownership across acquisition, activation, and retention with documented conversion and retention wins (38% CAC lift, 40% churn reversal); strong positioning and messaging expertise; proven ability to diagnose and fix leaky funnels; current expertise in AI-era visibility (GEO) shows fluency with AI tools.",
+  "biggest_gap": "No direct experience with ads platforms (Google Ads, Meta, TikTok, etc.) or self-serve advertiser onboarding flows; EdTech background does not transfer advertiser-specific product knowledge; no evidence of SQL, scripting, or advanced analytics automation that role emphasizes for leverage."
+}

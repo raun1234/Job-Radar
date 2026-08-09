@@ -1,0 +1,11 @@
+OpenAI's GTM organization is at an inflection point where scaling execution matters as much as strategy — and that intersection is where most of my eight years have been spent.
+
+The posting calls for someone who can lead complex cross-functional programs from strategy through execution and build repeatable operating mechanisms that help the business scale. At BYJU'S, I owned P&L across five city markets and led a 60+ member cross-functional team through end-to-end D2C funnel management. When I identified messaging-market fit gaps across three regions, I didn't just surface the finding — I redesigned the GTM positioning, aligned stakeholders across sales, marketing, and operations, and drove 25% sales growth within six months. That loop — diagnosis, structured program design, cross-functional alignment, measurable outcome — is the operating motion this role describes.
+
+At PlanetSpark, I diagnosed a top-of-funnel leak costing 30% of leads, rebuilt the multi-channel GTM sequence across paid, outbound, and referral, and lifted customer acquisition 38% in two quarters. Alongside that, I implemented CRM-based lead scoring that improved conversion 27% and rebuilt sales onboarding systems that delivered a 42% productivity uplift. Each of those was a program with its own governance, stakeholder map, and accountability structure — not a single-team project.
+
+One dimension I'd add beyond the posting's requirements: through my current research at BU's Questrom Consulting Lab, I built a Generative Engine Optimization audit framework across seven AI platforms — ChatGPT, Claude, Gemini, Perplexity, and others — benchmarking competitor positioning and delivering GTM recommendations to live client stakeholders. Working on brand visibility inside AI-generated answers at a company that generates those answers is a specific kind of relevant.
+
+OpenAI sits at a moment where GTM complexity is compounding faster than most organizations can build infrastructure to match it. The opportunity to build the operating mechanisms that let that organization scale — at this company, on this problem — is exactly the work I want to do next.
+
+I'd welcome the conversation. I should note upfront that I currently require OPT sponsorship, with H-1B to follow.

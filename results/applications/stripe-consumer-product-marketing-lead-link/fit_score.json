@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and positioning expertise with proven D2C funnel ownership, but lacks direct B2C fintech/payments experience and early-stage consumer product marketing at scale.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "Manager-level experience across GTM, product marketing, and growth; P&L ownership signals readiness for lead role, but no explicit PMM title or consumer-facing product marketing leadership at comparable scale."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 78,
+      "note": "Strong on GTM strategy, positioning, competitive intelligence, D2C funnel, KPI tracking, cross-functional leadership. Weaker on consumer research synthesis, brand partnership strategy, and consumer-specific growth metrics."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 65,
+      "note": "EdTech B2C SaaS experience is relevant for D2C motion and scaling, but lacks fintech, payments, or financial services background. Consumer wallet/digital payment dynamics are materially different from EdTech positioning."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 72,
+      "note": "Demonstrated 38% CAC lift, 40% retention improvement, 25% sales growth through repositioning, and cross-functional execution at scale. Lacks evidence of consumer research leadership, brand campaign influence, or consumer adoption metrics at 250M+ user scale."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 65,
+      "note": "Requires H1B sponsorship; Stripe is large enough to sponsor, but candidate is still in MBA program (graduating May 2027) and will not be job-ready until mid-2027. Timeline misalignment is a moderate risk."
+    }
+  ],
+  "missing_keywords": [
+    "consumer product marketing",
+    "fintech or payments experience",
+    "brand marketing partnership",
+    "user research / consumer research synthesis",
+    "consumer adoption metrics"
+  ],
+  "top_signal": "Proven ability to diagnose and fix leaky GTM funnels (38% CAC improvement), redesign positioning for messaging-market fit (25% sales growth), and own end-to-end D2C funnel with cross-functional leadership\u2014directly transferable to Link's consumer growth challenge.",
+  "biggest_gap": "No demonstrated experience in consumer-scale fintech, digital wallets, or payments; no direct track record building consumer research programs or influencing brand marketing campaigns; graduation timeline (May 2027) may not align with immediate hiring needs."
+}

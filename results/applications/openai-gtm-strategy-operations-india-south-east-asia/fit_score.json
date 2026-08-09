@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM strategy and ops foundation with India/SEA market knowledge, but lacks direct revenue ops, territory management, and Salesforce quota-setting depth at scale.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "Manager-level with P&L ownership and cross-functional leadership; role expects 7+ years revenue ops/strategy\u2014candidate has 8+ GTM years but not pure revenue ops trajectory."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 68,
+      "note": "Strong on GTM strategy, forecasting, pipeline review, KPI dashboards, Salesforce CRM, A/B testing, ABM. Weak on territory design, quota-setting, comp plans, and systematic process implementation."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 78,
+      "note": "Deep EdTech GTM experience translates well to B2B SaaS motion. GEO research signals AI product familiarity. No explicit enterprise sales ops or large-deal revenue strategy background."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 72,
+      "note": "Demonstrated funnel optimization, sales enablement, CRM-led segmentation, and P&L accountability. Metrics show conversion/retention wins but lack territory/quota/comp plan case studies."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 68,
+      "note": "Requires H1B sponsorship (currently OPT); OpenAI is large and likely sponsors, but Singapore location adds complexity. India/SEA market familiarity is a plus."
+    }
+  ],
+  "missing_keywords": [
+    "Territory allocation & design",
+    "Quota-setting & comp plan management",
+    "Revenue operations (RevOps) background",
+    "Enterprise/large-deal sales motion",
+    "Systematic process implementation at scale"
+  ],
+  "top_signal": "P&L ownership across 5 city markets at BYJU's + proven GTM redesign and sales enablement impact (38% acquisition lift, 42% rep productivity gain); GEO expertise signals understanding of AI product landscape.",
+  "biggest_gap": "No demonstrated experience designing territories, building comp plans, or setting quotas\u2014core RevOps functions that the role emphasizes; background is GTM strategy + growth execution rather than revenue operations infrastructure."
+}

@@ -1,0 +1,42 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and positioning skills with EdTech scale experience, but lacks fintech/payments domain expertise and has visa sponsorship requirement.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 78,
+      "note": "Manager-level experience with P&L ownership and cross-functional leadership aligns well; PMM title not held but positioning/messaging work is core to background."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 76,
+      "note": "Strong match on positioning, messaging, competitive intelligence, sales enablement, cross-functional collaboration, content strategy, and D2C funnel work. Missing: fintech-specific positioning skills."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 58,
+      "note": "EdTech B2C experience does not transfer directly to B2B fintech/payments infrastructure. No demonstrated expertise in payments, financial infrastructure, or developer platforms."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 78,
+      "note": "Proven ability to redesign GTM positioning (25% sales uplift), build sales enablement (42% productivity uplift), and manage competitive campaigns across 5 markets. Quantified outcomes align with role expectations."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 55,
+      "note": "Requires H1B sponsorship. Stripe is a large, well-funded public company that likely sponsors visas, but this adds friction vs. local candidates."
+    }
+  ],
+  "missing_keywords": [
+    "fintech",
+    "payments infrastructure",
+    "developer-facing platforms",
+    "competitive intelligence scaling",
+    "analyst relations",
+    "payments/revenue management buying process"
+  ],
+  "top_signal": "Proven ability to translate complex technical capabilities into clear value propositions (core PMM skill), with demonstrated cross-functional execution at scale (P&L ownership, 60+ team leadership, 38\u201342% impact lifts).",
+  "biggest_gap": "Zero fintech or payments domain expertise; entire background is EdTech. Stripe explicitly prefers candidates with deep understanding of how payment and revenue management products are bought and sold\u2014this is a structural knowledge gap that will require significant ramp time."
+}

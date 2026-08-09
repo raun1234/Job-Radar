@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and product marketing fundamentals with AI-era GEO differentiation, but lacks regulated vertical experience (Life Sciences, Banking, Healthcare) and enterprise sales motion depth required for this specific role.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 78,
+      "note": "Manager-level positioning solid; AGM P&L ownership signals readiness for strategic accountability. However, no prior 'Industry PMM' or vertical marketing title\u2014progression has been growth/GTM rather than industry-focused."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 75,
+      "note": "Strong match on positioning, messaging, GTM strategy, cross-functional leadership, sales enablement, ABM, launch execution, field assets, and narrative development. GEO work shows AI curiosity. Missing: regulated vertical expertise, technical product translation depth, policy/governance messaging experience."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 62,
+      "note": "EdTech D2C experience transfers well to enterprise GTM structure and customer segmentation. However, zero demonstrated experience in Life Sciences, Banking, Healthcare, or regulated/high-trust verticals. No evidence of marketing to C-suite, regulatory stakeholders, or compliance-sensitive audiences."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 75,
+      "note": "Quantified wins on positioning redesign (+25% sales), funnel optimization (+38% CAC), messaging-market fit, and cross-functional execution all directly relevant. Field enablement and asset building evident. Missing: customer proof mobilization, account-based enterprise campaigns, or regulated industry case studies."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 65,
+      "note": "H1B sponsorship required; OpenAI is large, well-capitalized tech org with demonstrated sponsorship capacity. No stated visa restrictions at OpenAI. However, Boston-based (graduating May 2027) and currently on OPT\u2014relocation to San Francisco required. Timing: MBA not complete until May 2027; unclear if role expects immediate availability."
+    }
+  ],
+  "missing_keywords": [
+    "Life Sciences / Banking / Healthcare vertical experience",
+    "Regulated industry / compliance / governance messaging",
+    "Enterprise C-suite and practitioner audience marketing",
+    "Policy, Legal, Compliance stakeholder management",
+    "Customer proof mobilization and ROI narrative building"
+  ],
+  "top_signal": "Hands-on Generative Engine Optimization research across 7 AI platforms (ChatGPT, Claude, Gemini, Perplexity) combined with 8+ years of demonstrable positioning redesign, GTM narrative, and cross-functional execution\u2014rare Manager-level depth in translating frontier AI capabilities into clear, defensible go-to-market language.",
+  "biggest_gap": "Zero experience in regulated, high-trust verticals (Life Sciences, Banking, Healthcare) or enterprise C-suite/practitioner marketing\u2014the role explicitly prioritizes PMM background in these domains. EdTech D2C motion, while transferable, does not de-risk the vertical knowledge and governance/policy sensitivity required for OpenAI's sensitive category and responsible marketing mandate."
+}

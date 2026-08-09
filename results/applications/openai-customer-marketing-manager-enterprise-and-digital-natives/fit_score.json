@@ -1,0 +1,42 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and growth foundation with relevant cross-functional skills, but lacks direct customer marketing, storytelling, and content creation experience that OpenAI specifically emphasizes.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "Manager-level experience confirmed (AGM, Senior PM roles); OpenAI role is Manager tier. Progression and P&L ownership align well."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 68,
+      "note": "Strong on GTM, cross-functional leadership, stakeholder management. Missing: customer storytelling, editorial/content creation, case study development, film/video coordination."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 75,
+      "note": "EdTech-to-AI transition credible via GEO research and hands-on AI platform exposure. B2C SaaS background translates; enterprise B2B storytelling is new."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 70,
+      "note": "Proven ability to own customer acquisition funnels, positioning redesign, multi-stakeholder coordination. No demonstrated track record shipping customer stories or managing content pipelines."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 75,
+      "note": "Requires H1B sponsorship. OpenAI (large, well-capitalized company) typically sponsors; no stated barrier, but adds friction vs. unrestricted candidate."
+    }
+  ],
+  "missing_keywords": [
+    "customer storytelling",
+    "case studies",
+    "content creation/editorial",
+    "film/video production coordination",
+    "enterprise customer interviews",
+    "narrative development"
+  ],
+  "top_signal": "Raunak's GEO research and direct exposure to frontier AI platforms (ChatGPT, Claude, Gemini, Perplexity) combined with 8+ years of GTM strategy ownership and proven ability to translate complex product implementations into positioning and messaging make him a credible bridge from growth GTM into customer narrative strategy at an AI company.",
+  "biggest_gap": "No demonstrated experience developing, writing, or shipping customer stories, case studies, or customer-facing content narratives\u2014the core output of this role. His background is funnel optimization and GTM execution, not content/storytelling production. This is a meaningful pivot, not a lateral move."
+}

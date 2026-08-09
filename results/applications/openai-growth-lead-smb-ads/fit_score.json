@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong D2C funnel, GTM, and analytical chops; GEO expertise is a rare plus; lacks direct advertiser/merchant platform experience and performance marketing depth.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 75,
+      "note": "AGM + SPM titles map to Growth Lead level; P&L ownership and 60+ team leadership demonstrate readiness; less pure 'growth lead' title history but strategic + execution experience present."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 70,
+      "note": "Strong: funnel analysis, A/B testing, CRM, KPI dashboards, acquisition strategy, onboarding, cross-functional leadership. Gaps: no stated performance marketing, CAC/LTV/payback metrics, or paid acquisition channel expertise (SEM, display, social)."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 68,
+      "note": "EdTech D2C funnel ownership transfers well; GEO research is directly relevant to 'organic search (SEO & GEO)' requirement. No advertiser/merchant platform, ad tech, or SMB software (Google Ads, Meta, Shopify, HubSpot) experience stated."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 78,
+      "note": "38% CAC improvement, 40% retention uplift, 27% conversion lift, 19% revenue growth, P&L ownership across 5 markets\u2014concrete metrics. Weakness: no evidence of scaling self-serve platforms or advertiser/creator monetization funnels."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 72,
+      "note": "Requires H1B sponsorship; OpenAI is a large, well-funded company with clear sponsorship capacity. MBA + MS in Digital Technology (May 2027) shows commitment to US-based career. Risk: timing (still in school) may complicate start date."
+    }
+  ],
+  "missing_keywords": [
+    "Performance marketing / SEM / paid acquisition channels",
+    "CAC, LTV, payback period, spend expansion metrics",
+    "Advertiser / merchant / creator platform experience",
+    "Google Ads, Meta Ads, TikTok for Business, Amazon Ads ecosystem",
+    "Self-serve / product-led growth (PLG) at scale in ads/payments"
+  ],
+  "top_signal": "Generative Engine Optimization (GEO) research + framework built across 7 AI platforms is a rare, directly relevant differentiator for OpenAI's 'organic search (SEO & GEO)' channel; combined with proven D2C funnel diagnosis (leaky top-of-funnel), redesign, and 38% CAC improvement, shows both strategic insight and execution velocity.",
+  "biggest_gap": "No direct experience with advertiser acquisition, performance marketing (paid social, SEM, display), or self-serve ad platform funnels (Google Ads, Meta, TikTok for Business, etc.); EdTech D2C does not map cleanly to the SMB advertiser motion, and there is no evidence of CAC, LTV, payback, or spend expansion metrics in practice\u2014all core to the role."
+}

@@ -1,0 +1,41 @@
+{
+  "overall_score": 72,
+  "verdict": "Good Fit",
+  "verdict_note": "Strong GTM and D2C funnel expertise with proven subscription/conversion work, but lacks direct consumer subscription product marketing leadership and premium SaaS positioning at OpenAI's scale.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 70,
+      "note": "AGM + Senior PM titles signal readiness for 'Lead' role, but role expects hands-on IC PMM leadership, not P&L ownership. Candidate's background is more growth operations + business development than pure product marketing."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 78,
+      "note": "Strong match: positioning, competitive intelligence, customer research, messaging, D2C funnel, launch strategy, cross-functional alignment, pricing collaboration. Missing: premium positioning narrative, subscription lifecycle marketing, churn/retention frameworks."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 68,
+      "note": "EdTech D2C and live-class subscription models transfer well to ChatGPT freemium-to-paid conversion. However, no direct experience with premium consumer software positioning (Plus/Pro tier narratives) or global B2C SaaS scale."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 74,
+      "note": "38% CAC improvement, 27% conversion lift, 40% retention gains prove impact on funnel metrics. P&L ownership and international expansion show commercial maturity. Gap: no named quota, free-to-paid conversion %, or subscription-specific growth narrative."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 70,
+      "note": "Requires H1B sponsorship. OpenAI is a large, well-funded company likely willing to sponsor, but visa requirement is a friction point vs. domestic candidates."
+    }
+  ],
+  "missing_keywords": [
+    "consumer subscriptions / subscription marketing",
+    "premium positioning / premium tiers",
+    "free-to-paid conversion / freemium funnel",
+    "pricing strategy (explicit ownership)",
+    "lifecycle marketing / churn / retention strategy"
+  ],
+  "top_signal": "Generative Engine Optimization research directly relevant to ChatGPT positioning; proven ability to redesign GTM messaging (25% sales lift at BYJU'S), rebuild sales systems (42% productivity), and drive funnel conversion (38% CAC, 27% conversion, 40% retention).",
+  "biggest_gap": "No direct product marketing leadership for consumer subscriptions, premium tiering, or free-to-paid conversion at scale; career arc is growth operations + business development, not consumer subscription PMM\u2014role may feel like a step down in responsibility (P&L \u2192 IC) and a shift in core discipline."
+}

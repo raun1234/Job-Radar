@@ -1,0 +1,41 @@
+{
+  "overall_score": 78,
+  "verdict": "Strong Fit",
+  "verdict_note": "Manager-level GTM/growth marketing expertise with direct D2C funnel ownership, cross-functional execution, and emerging AI visibility research; H1B sponsorship requirement is manageable for OpenAI's scale.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 82,
+      "note": "Associate General Manager + Senior Program Manager roles align with Manager-level expectations; P&L ownership and 60+ team leadership demonstrate seniority, though title is growth strategy vs. explicit 'growth product marketing manager.'"
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 80,
+      "note": "Strong match on GTM, D2C funnel optimization, lifecycle marketing, positioning, messaging, cross-functional execution, experimentation, CRM/Salesforce, KPI dashboards. GEO expertise is unique asset for AI product context; some gaps in 'performance creative,' 'in-product optimization' depth."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 75,
+      "note": "EdTech B2C SaaS background transfers well to consumer product marketing, but no direct AI platform, B2B SaaS, or creator/subscription marketing experience. GEO research partially bridges AI gap; consumer product marketing coursework in progress."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 78,
+      "note": "Demonstrated impact: 38% CAC lift, 40% retention improvement, 25% positioning-driven sales growth, 27% conversion lift via CRM scoring. Metrics-driven, funnel-focused, and cross-functional. Lacks explicit launch velocity, in-product experiments, or global scale narrative."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 75,
+      "note": "Requires H1B sponsorship; OpenAI is large enough to support this. Currently on OPT, MBA+MS completion May 2027 may create timeline friction if hiring urgency is Q1 2025."
+    }
+  ],
+  "missing_keywords": [
+    "performance creative",
+    "in-product optimization",
+    "creator partnerships",
+    "subscription economics",
+    "global/international product marketing at scale"
+  ],
+  "top_signal": "Hands-on GEO research at scale across 7 AI platforms (ChatGPT, Claude, Gemini, Perplexity) positions him uniquely to advise OpenAI on how brands earn visibility in AI-generated answers\u2014a critical competitive insight for ChatGPT's moat; combined with proven D2C funnel ownership, positioning redesigns, and metrics-driven execution.",
+  "biggest_gap": "No explicit in-product optimization, experimentation framework, or launch velocity narrative; EdTech-only domain background requires more explicit translation to AI consumer product and subscription contexts; MBA completion timeline (May 2027) may conflict with immediate hiring needs, though current coursework in Product Management and Marketing Analytics mitigates risk."
+}

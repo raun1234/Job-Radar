@@ -1,0 +1,70 @@
+{
+  "summary_line": "GTM and product marketing leader with 8+ years driving messaging, positioning, D2C funnel ownership, and cross-functional product launches at EdTech scale.",
+  "experience": [
+    {
+      "title": "Graduate Research Assistant",
+      "company": "Boston University \u2014 Questrom Consulting Lab",
+      "dates": "May 2026 \u2013 Present",
+      "bullets": [
+        "Built a Generative Engine Optimization audit framework across 7 AI platforms (ChatGPT, Claude, Gemini, Perplexity, Meltwater, Google, Bing) for a live client, identifying brand visibility gaps in AI-generated answers \u2014 directly applicable to product awareness and discoverability strategy",
+        "Benchmarked 6 competitor programs across 7 strategic dimensions including pricing, audience targeting, value proposition, and channel strategy to surface differentiation opportunities",
+        "Developed positioning matrices, persona frameworks, and buyer journey maps; delivered GTM messaging recommendations directly to client stakeholders"
+      ]
+    },
+    {
+      "title": "Senior Program Manager, Growth & Expansion",
+      "company": "PlanetSpark (Winspark Innovations)",
+      "dates": "Sep 2024 \u2013 Aug 2025",
+      "bullets": [
+        "Diagnosed a top-of-funnel awareness gap costing 30% of leads; redesigned the multi-channel GTM sequence across paid, outbound, and referral, lifting customer acquisition 38% in two quarters",
+        "Implemented CRM-based lead scoring and segmentation, boosting pipeline conversion rates by 27% across US, UK, and Middle East markets",
+        "Rebuilt sales enablement systems and onboarding, delivering a 42% productivity uplift and equipping sales teams to communicate product value more effectively",
+        "Surfaced a day-14 cohort churn cliff using funnel analytics and deployed a lifecycle retention intervention that improved 30-day retention by 40%",
+        "Managed international sales pipeline across three regions, increasing recurring revenue by 19%"
+      ]
+    },
+    {
+      "title": "Associate General Manager, Growth Strategy",
+      "company": "BYJU'S (Think & Learn)",
+      "dates": "Apr 2023 \u2013 Jun 2024",
+      "bullets": [
+        "Owned P&L across 5 city markets with full accountability for revenue, costs, and operating performance \u2014 providing commercial grounding to every messaging and positioning decision",
+        "Identified messaging-market fit gaps across 3 regions through competitive intelligence and customer research; redesigned GTM positioning, driving 25% sales growth in 6 months",
+        "Ran ABM campaigns using CRM-driven segmentation to improve high-intent lead conversion across 5 business units",
+        "Optimized multi-market sales operations, improving team productivity by 20% and increasing revenue throughput"
+      ]
+    },
+    {
+      "title": "Senior Program Manager, GTM Strategy & Execution",
+      "company": "BYJU'S (Think & Learn)",
+      "dates": "Jul 2021 \u2013 Mar 2023",
+      "bullets": [
+        "Owned end-to-end D2C funnel from acquisition through conversion, leading a 60+ member cross-functional team spanning product, sales, and marketing",
+        "Built KPI performance dashboards that compressed decision cycles and improved conversion visibility for senior leadership",
+        "Designed and scaled onboarding for 200+ monthly hires, achieving a 45% conversion rate from onboarded rep to revenue-generating \u2014 directly enabling sales teams to articulate product value"
+      ]
+    },
+    {
+      "title": "Program Manager, Business Development",
+      "company": "BYJU'S (Think & Learn)",
+      "dates": "Jul 2019 \u2013 Jun 2021",
+      "bullets": [
+        "Generated $5M in revenue across 6 quarters through targeted, segmented GTM campaigns consistently above quarterly targets",
+        "Built weekly performance dashboards used by senior leadership to drive market expansion decisions",
+        "Coordinated cross-functional execution across 4+ teams, improving on-time delivery of GTM programs by 25%"
+      ]
+    }
+  ],
+  "skills_to_surface": [
+    "Messaging & Positioning",
+    "Go-to-Market Strategy",
+    "Sales Enablement",
+    "Competitive Intelligence",
+    "D2C Funnel Optimization",
+    "ABM & Audience Segmentation",
+    "CRM & Funnel Analytics (Salesforce)",
+    "Generative Engine Optimization (GEO)"
+  ],
+  "job_title": "Product Marketing Manager",
+  "job_company": "stripe"
+}

@@ -1,0 +1,41 @@
+{
+  "overall_score": 78,
+  "verdict": "Strong Fit",
+  "verdict_note": "Raunak has 8+ years of directly relevant GTM strategy and cross-functional program leadership with proven ability to scale operations, build systems, and drive execution\u2014nearly all core requirements are met, though enterprise SaaS GTM depth and launch process maturity could be deeper.",
+  "breakdown": [
+    {
+      "category": "Title & Seniority Match",
+      "score": 82,
+      "note": "Associate General Manager + Senior Program Manager titles map well to this strategic operator role; P&L ownership and 60+ team leadership demonstrate required seniority. No gap on 8+ years or program ownership."
+    },
+    {
+      "category": "Skills & Keyword Match",
+      "score": 80,
+      "note": "Strong coverage: GTM strategy, cross-functional leadership, product launches, sales enablement, CRM/Salesforce, KPI dashboards, funnel analytics, A/B testing, data-driven insights. Missing explicit enterprise GTM, product-led growth, or large-scale operating cadence/governance design experience."
+    },
+    {
+      "category": "Domain & Industry Fit",
+      "score": 75,
+      "note": "EdTech SaaS is not enterprise software or AI/platform; however, D2C and multi-market expansion show scalability mindset. AI/GEO research and current MBA in Digital Technology provide modern AI exposure, but no prior enterprise SaaS, platform, or large B2B GTM operations background."
+    },
+    {
+      "category": "Track Record Fit",
+      "score": 78,
+      "note": "Concrete outcomes: 38% CAC lift, 19% revenue growth, 42% sales productivity gains, 25% sales growth from positioning redesign. Strong on execution and metrics. Launch experience and operating model/governance building less articulated; mostly tactical program wins rather than scaling operating rhythms."
+    },
+    {
+      "category": "Eligibility Fit",
+      "score": 75,
+      "note": "Requires H1B sponsorship; OpenAI (large, well-capitalized, high-visa-sponsorship capacity) mitigates risk substantially. Currently on OPT; timeline for H1B petition is normal. No blockers, but sponsorship is a dependency."
+    }
+  ],
+  "missing_keywords": [
+    "enterprise GTM",
+    "product-led growth",
+    "operating models and launch processes",
+    "executive reporting and governance cadence",
+    "high-growth SaaS at scale"
+  ],
+  "top_signal": "8+ years of progressive GTM and operations leadership (Associate Program Manager \u2192 AGM) with documented ability to redesign cross-functional execution, build systems (CRM scoring, dashboards, onboarding), and drive measurable business impact (38% CAC lift, 25% sales growth, 42% productivity gain); plus current hands-on research into AI visibility (GEO), which aligns with OpenAI's mission.",
+  "biggest_gap": "No explicit experience building large-scale operating models, launch governance cadences, or enterprise product launch processes in a high-growth SaaS or AI platform context; most wins are tactical program execution rather than architectural scaling of GTM infrastructure. EdTech D2C background is transferable but not enterprise-grade SaaS or platform GTM depth."
+}
