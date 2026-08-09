@@ -97,7 +97,9 @@ h1{font-size:22px;font-weight:600;letter-spacing:-0.2px;color:var(--text)}
 .togbtn:hover{color:var(--text)}
 .togbtn i{transition:transform 0.2s}
 .togbtn.on i{transform:rotate(180deg)}
-.cmp-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:0.5px solid var(--border)}
+.cmp-row{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:0.5px solid var(--border);text-decoration:none;color:inherit;cursor:pointer;border-radius:6px;transition:background 0.1s}
+.cmp-row:hover{background:var(--card2)}
+.cmp-row:hover .cmp-t{color:var(--blue)}
 .cmp-row:last-child{border-bottom:none}
 .cmp-sc{font-size:17px;font-weight:600;min-width:32px}
 .cmp-logo{width:24px;height:24px;border-radius:5px;background:var(--card2);border:0.5px solid var(--border);display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:600;color:var(--text2);text-transform:uppercase}
@@ -267,13 +269,13 @@ function compact(e){
   const co=coDisplay(job.company);
   const lc=logoColor(job.company);
   const isTop=s>=88;
-  return`<div class="cmp-row">
+  return`<a class="cmp-row" href="${job.url}" target="_blank" rel="noopener">
     <span class="cmp-sc" style="color:${tierColor(s)}">${s}</span>
     <div class="cmp-logo" style="background:${lc.bg};color:${lc.txt}">${coInitials(co)}</div>
     <div class="cmp-info"><div class="cmp-t">${job.title}</div><div class="cmp-c">${co} &middot; ${job.location||''}</div></div>
     ${isTop?`<span class="pill pill-top" style="font-size:9px">Top</span>`:''}
-    <a href="${job.url}" target="_blank" style="color:var(--blue);font-size:14px;text-decoration:none"><i class="ti ti-external-link" aria-hidden="true"></i></a>
-  </div>`;
+    <i class="ti ti-external-link" aria-hidden="true" style="color:var(--text3);font-size:14px"></i>
+  </a>`;
 }
 
 function markApplied(url,btn){
