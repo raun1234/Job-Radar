@@ -131,14 +131,14 @@ hr{border:none;border-top:0.5px solid var(--border);margin:1.5rem 0}
 <header>
   <div>
     <h1>Job Radar</h1>
-    <p class="hdr-sub">Raunak Jaiswal &nbsp;&middot;&nbsp; 382 companies &nbsp;&middot;&nbsp; daily 9am ET</p>
+    <p class="hdr-sub">Raunak Jaiswal<span id="hdr-co-wrap" style="display:none">&nbsp;&middot;&nbsp;<span id="hdr-co"></span> companies</span>&nbsp;&middot;&nbsp;daily 9am ET</p>
   </div>
   <span class="live"><span class="dot"></span>Active</span>
 </header>
 
 <div class="stats">
   <div class="st"><div class="st-lbl">Last run</div><div class="st-val" id="s-dt" style="font-size:16px;margin-top:3px">No runs yet</div><div class="st-sub" id="s-tm"></div></div>
-  <div class="st"><div class="st-lbl">Companies</div><div class="st-val" id="s-co">382</div><div class="st-sub" id="s-cn">Greenhouse and Lever</div></div>
+  <div class="st"><div class="st-lbl">Companies</div><div class="st-val" id="s-co" style="color:var(--text3);font-size:20px">&middot;&middot;&middot;</div><div class="st-sub" id="s-cn">checking list</div></div>
   <div class="st"><div class="st-lbl">New today</div><div class="st-val" id="s-nw">0</div><div class="st-sub">postings scored</div></div>
   <div class="st"><div class="st-lbl">Kits ready</div><div class="st-val" id="s-kt">0</div><div class="st-sub">resume and letter</div></div>
   <div class="st"><div class="st-lbl">Run cost</div><div class="st-val" id="s-cs">$0.00</div><div class="st-sub">est. API spend</div></div>
@@ -328,7 +328,9 @@ const DEMO=[
 ];
 
 async function doUrl(){
-  noErr();const url=document.getElementById('url-in').value.trim();
+  noErr();
+  loadCompanyCount().then(loadVerification).then(loadHealth);
+  const url=document.getElementById('url-in').value.trim();
   if(!url){err('Enter a URL.');return}
   try{
     const[r1,r2]=await Promise.all([fetch(url+'?t='+Date.now()),fetch(REPO+'connection_health.json?t='+Date.now()).catch(()=>null)]);
@@ -348,8 +350,71 @@ function doDemo(){
 }
 
 document.getElementById('url-in').value=REPO+'all_results.json';
+
+const RAW='https://raw.githubusercontent.com/raun1234/Job-Radar/main/';
+
+function setCompanyCount(n){
+  const stat=document.getElementById('s-co');
+  stat.textContent=n;
+  stat.style.color='';          // back to full-strength text
+  stat.style.fontSize='';       // back to the large stat size
+  document.getElementById('hdr-co').textContent=n;
+  document.getElementById('hdr-co-wrap').style.display='inline';
+}
+
+async function loadCompanyCount(){
+  // Source of truth: companies.json (written by the verifier)
+  try{
+    const r=await fetch(RAW+'companies.json?t='+Date.now());
+    const co=await r.json();
+    if(Array.isArray(co)&&co.length){
+      const n=co.length;
+      setCompanyCount(n);
+      const by={};
+      co.forEach(c=>{by[c.ats]=(by[c.ats]||0)+1});
+      const parts=Object.entries(by)
+        .sort((a,b)=>b[1]-a[1])
+        .map(([k,v])=>`${v} ${k.charAt(0).toUpperCase()+k.slice(1)}`);
+      document.getElementById('s-cn').textContent=parts.join(' · ');
+      return n;
+    }
+  }catch(e){}
+  document.getElementById('s-cn').textContent='run the verifier';
+  return null;
+}
+
+async function loadVerification(){
+  try{
+    const r=await fetch(RAW+'results/verification_report.json?t='+Date.now());
+    const v=await r.json();
+    if(v&&v.verified!==undefined){
+      document.getElementById('s-cn').textContent=
+        `${v.verified} verified of ${v.checked}`;
+    }
+  }catch(e){}
+}
+
+async function loadHealth(){
+  try{
+    const r=await fetch(REPO+'connection_health.json?t='+Date.now());
+    const h=await r.json();
+    if(h&&h.summary){
+      setCompanyCount(h.summary.total);
+      document.getElementById('s-cn').textContent=
+        `${h.summary.connected} connected today`;
+    }
+  }catch(e){}
+}
+
 (async()=>{
-  try{const r=await fetch(REPO+'all_results.json?t='+Date.now());const d=await r.json();if(Array.isArray(d)&&d.length)renderAll(d);}catch(e){}
+  await loadCompanyCount();
+  await loadVerification();
+  await loadHealth();          // most recent run wins if it exists
+  try{
+    const r=await fetch(REPO+'all_results.json?t='+Date.now());
+    const d=await r.json();
+    if(Array.isArray(d)&&d.length)renderAll(d);
+  }catch(e){}
 })();
 </script>
 </body>
