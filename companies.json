@@ -990,14 +990,14 @@
     "token": "emplifi"
   },
   {
-    "name": "Expel",
-    "ats": "greenhouse",
-    "token": "expel"
-  },
-  {
     "name": "Salt Security",
     "ats": "greenhouse",
     "token": "saltsecurity"
+  },
+  {
+    "name": "Expel",
+    "ats": "greenhouse",
+    "token": "expel"
   },
   {
     "name": "Springboard",
@@ -1025,14 +1025,14 @@
     "token": "assemblyai"
   },
   {
-    "name": "PlanetScale",
-    "ats": "greenhouse",
-    "token": "planetscale"
-  },
-  {
     "name": "Mirakl",
     "ats": "greenhouse",
     "token": "mirakl"
+  },
+  {
+    "name": "PlanetScale",
+    "ats": "greenhouse",
+    "token": "planetscale"
   },
   {
     "name": "BigID",
@@ -1245,14 +1245,14 @@
     "token": "medium"
   },
   {
-    "name": "Inngest",
-    "ats": "ashby",
-    "token": "inngest"
-  },
-  {
     "name": "Trigger.dev",
     "ats": "ashby",
     "token": "triggerdev"
+  },
+  {
+    "name": "Inngest",
+    "ats": "ashby",
+    "token": "inngest"
   },
   {
     "name": "Hightouch",
