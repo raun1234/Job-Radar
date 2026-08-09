@@ -135,6 +135,63 @@ def title_ok(title):
     return any(k in t for k in INCLUDE)
 
 
+# Non-US regions/countries that sometimes appear directly in the title
+# ("GTM Strategy, India & South East Asia") even when the location field
+# is empty or says something generic. Word-boundary so "Indiana" etc. don't
+# false-positive.
+NON_US_REGION_PATTERNS = [
+    r"\bindia\b", r"\bsouth east asia\b", r"\bsoutheast asia\b", r"\bapac\b",
+    r"\bemea\b", r"\blatam\b", r"\blatin america\b",
+    r"\buk\b", r"\bunited kingdom\b", r"\bireland\b",
+    r"\bgermany\b", r"\bfrance\b", r"\bspain\b", r"\bitaly\b", r"\bnetherlands\b",
+    r"\bsingapore\b", r"\bjapan\b", r"\bkorea\b", r"\bchina\b", r"\bhong kong\b",
+    r"\baustralia\b", r"\bnew zealand\b",
+    r"\bcanada\b", r"\btoronto\b", r"\bvancouver\b",
+    r"\bmexico\b", r"\bbrazil\b",
+    r"\bmiddle east\b", r"\buae\b", r"\bdubai\b",
+    r"\bafrica\b", r"\bnigeria\b", r"\bsouth africa\b",
+]
+NON_US_RE = re.compile("|".join(NON_US_REGION_PATTERNS), re.IGNORECASE)
+
+US_STATE_ABBR = {
+    "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA",
+    "KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
+    "NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT",
+    "VA","WA","WV","WI","WY","DC",
+}
+
+def location_ok(job):
+    """True if the posting is US-based or remote with no other country
+    specified. Checks the title (regional postings often say so right there,
+    e.g. 'GTM Strategy, India & South East Asia') and the location field."""
+    title = job.get("title", "")
+    loc   = (job.get("location") or "").strip()
+
+    if NON_US_RE.search(title):
+        return False
+    if loc and NON_US_RE.search(loc):
+        return False
+
+    if not loc:
+        # No location given at all -- don't block on title alone if the
+        # title itself had no country reference (already checked above).
+        return True
+
+    ll = loc.lower()
+    if "united states" in ll or ", usa" in ll or " usa" in ll or "u.s." in ll:
+        return True
+    if "remote" in ll and not NON_US_RE.search(loc):
+        return True
+    # "City, ST" pattern -- a two-letter US state abbreviation
+    m = re.search(r",\s*([A-Z]{2})\b", loc)
+    if m and m.group(1) in US_STATE_ABBR:
+        return True
+
+    # Location field present but doesn't look like a US location and doesn't
+    # look like an unambiguous remote posting -- skip it rather than guess.
+    return False
+
+
 # ── FETCHERS ──────────────────────────────────────────────────────────────────
 def extract_salary(text):
     patterns = [
@@ -626,8 +683,11 @@ def main():
     new_results = []
     connected, failed = [], []
     seen_titles = set()  # Feature 4: duplicate detector
+    cap_hit = False
 
     for c in companies:
+        if cap_hit:
+            break
         fetcher = FETCHERS.get(c.get("ats"))
         if not fetcher:
             failed.append({"name": c["name"], "token": c["token"], "reason": "unknown ats"})
@@ -645,7 +705,11 @@ def main():
             if job["id"] in seen:
                 continue
             if not title_ok(job["title"]):
-                seen[job["id"]] = {"skipped": True}
+                seen[job["id"]] = {"skipped": True, "reason": "title"}
+                continue
+
+            if not location_ok(job):
+                seen[job["id"]] = {"skipped": True, "reason": "non-US location"}
                 continue
 
             # Feature 4: skip duplicates
@@ -665,6 +729,8 @@ def main():
                 result = claude(SCORE_PROMPT, context(profile, job), 1100, SCORE_MODEL)
             except RuntimeError as e:
                 print(f"\n[SPEND CAP] {e}")
+                print(f"Stopping the entire run here — {len(new_results)} postings scored so far.")
+                cap_hit = True
                 break
             except Exception as e:
                 print(f"  [warn] scoring failed: {e}")
@@ -685,6 +751,9 @@ def main():
                     print(f"  -> kit saved: {kit_folder}")
                 except RuntimeError as e:
                     print(f"\n[SPEND CAP] {e}")
+                    print(f"Stopping the entire run here — {len(new_results)} postings scored so far.")
+                    cap_hit = True
+                    break
                 except Exception as e:
                     print(f"  [warn] kit generation failed: {e}")
 
