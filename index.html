@@ -389,19 +389,24 @@ async function loadVerification(){
     const v=await r.json();
     if(v&&v.verified!==undefined){
       document.getElementById('s-cn').textContent=
-        `${v.verified} verified of ${v.checked}`;
+        `${v.verified} verified of ${v.checked} tested`;
     }
   }catch(e){}
 }
 
 async function loadHealth(){
+  // NOTE: does NOT touch the company count. companies.json is the source of
+  // truth for how many companies are in the list. connection_health.json can
+  // be stale (written by an older run, before verification).
   try{
     const r=await fetch(REPO+'connection_health.json?t='+Date.now());
     const h=await r.json();
-    if(h&&h.summary){
-      setCompanyCount(h.summary.total);
-      document.getElementById('s-cn').textContent=
-        `${h.summary.connected} connected today`;
+    if(h&&h.summary&&h.run_at){
+      const d=new Date(h.run_at);
+      const days=Math.floor((Date.now()-d)/86400000);
+      const when=days===0?'last run':days===1?'yesterday':`${days}d ago`;
+      const el=document.getElementById('s-cn');
+      el.textContent=`${el.textContent} · ${h.summary.connected} connected ${when}`;
     }
   }catch(e){}
 }
