@@ -1,0 +1,54 @@
+name: Verify Companies
+
+# One-time (or occasional) company token verification.
+# Makes ZERO Claude API calls — costs nothing.
+# Run manually from the Actions tab.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Verify all company tokens
+        run: python -u verify_companies.py
+
+      - name: Show verification summary
+        if: always()
+        run: |
+          if [ -f results/verification_report.json ]; then
+            python3 -c "
+import json
+r = json.load(open('results/verification_report.json'))
+print('=' * 55)
+print(f\"  Checked:   {r['checked']}\")
+print(f\"  VERIFIED:  {r['verified']}  ({r['rate']})\")
+print(f\"  Removed:   {r['dead']}\")
+print('=' * 55)
+print()
+print('Top 25 most active verified boards:')
+for c in r['verified_companies'][:25]:
+    print(f\"  {c['jobs_at_verify']:>4} jobs   {c['name']}\")
+"
+          fi
+
+      - name: Commit verified company list
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add companies.json results/verification_report.json
+          git diff --staged --quiet || git commit -m "Verified company list — only working tokens"
+          git push
