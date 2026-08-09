@@ -2,7 +2,7 @@ name: Job Radar
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # daily at 13:00 UTC (~9am ET)
+    - cron: "0 13 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -18,33 +18,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: pip install requests
-
-      - name: Install Node dependencies
-        run: npm install docx
 
       - name: Run job radar
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           AUTH_STATUS: sponsorship
           JOB_RADAR_SCORE_MODEL: claude-haiku-4-5-20251001
-          JOB_RADAR_TAILOR_MODEL: claude-sonnet-4-6
-          JOB_RADAR_TAILOR_THRESHOLD: "70"
-          JOB_RADAR_MAX_SPEND: "1.00"
+          JOB_RADAR_TOP_THRESHOLD: "75"
+          JOB_RADAR_MAX_SPEND: "0.15"
+          JOB_RADAR_MAX_AGE_DAYS: "21"
+          JOB_RADAR_MAX_YEARS: "8"
         run: python -u search.py
-
-      - name: Show connection health
-        if: always()
-        run: |
-          if [ -f results/connection_health.json ]; then
-            echo "Connection health report:"
-            cat results/connection_health.json
-          fi
 
       - name: Commit results
         run: |
