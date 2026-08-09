@@ -90,27 +90,28 @@ INCLUDE = [
 ]
 
 # Title containing any EXCLUDE word/phrase → skipped before any API call
-EXCLUDE = [
-    "director", "vice president", " vp ", "vp,", "vp-", "svp", "evp",
-    "chief", "cmo", "cro", "coo", "ceo", "c-suite",
-    "principal", " staff ", "distinguished", "fellow",
-    "intern", "internship", "apprentice", "trainee",
-    "counsel", "legal", "attorney", "paralegal",
-    "recruiter", "recruiting", "talent acquisition", "sourcer",
-    " hr ", "human resources", "people business partner", "people partner",
-    "finance", "financial", "accounting", "controller", "fp&a",
-    "data scientist", "data engineer", "data analyst",
-    "software engineer", "ml engineer", "machine learning engineer",
-    "devops", "backend", "frontend", "full stack", "fullstack",
-    "gtm systems", "gtm operations", "gtm enablement",
-    "gtm finance", "gtm engineer", "gtm architect",
-    "solutions architect", "sales engineer", "presales",
-    "representative", " bdr", " sdr", "account executive",
-    "customer success manager", "customer success lead",
-    "consultant", "associate consultant",
-    "head of growth", "head of gtm", "head of marketing",
-    "head of product marketing",
+EXCLUDE_PATTERNS = [
+    r"\bdirector\b", r"\bvice president\b", r"\bvp\b", r"\bsvp\b", r"\bevp\b",
+    r"\bchief\b", r"\bcmo\b", r"\bcro\b", r"\bcoo\b", r"\bceo\b", r"c-suite",
+    r"\bprincipal\b", r"\bstaff\b", r"\bdistinguished\b", r"\bfellow\b",
+    r"\bleader\b",                    # "GTM Leader" reads as a Director/Head-equivalent title
+    r"\bintern\b", r"internship", r"\bapprentice\b", r"\btrainee\b",
+    r"\bcounsel\b", r"\blegal\b", r"\battorney\b", r"\bparalegal\b",
+    r"\brecruiter\b", r"recruiting", r"talent acquisition", r"\bsourcer\b",
+    r"\bhr\b", r"human resources", r"people business partner", r"people partner",
+    r"\bfinance\b", r"financial", r"accounting", r"\bcontroller\b", r"fp&a",
+    r"data scientist", r"data engineer", r"\bdata analyst\b",
+    r"software engineer", r"ml engineer", r"machine learning engineer",
+    r"\bdevops\b", r"\bbackend\b", r"\bfrontend\b", r"full.?stack",
+    r"gtm systems", r"gtm operations", r"gtm enablement",
+    r"gtm finance", r"gtm engineer", r"gtm architect",
+    r"solutions architect", r"sales engineer", r"pre.?sales",
+    r"\brepresentative\b", r"\bbdr\b", r"\bsdr\b", r"account executive",
+    r"customer success", r"\bconsultant\b", r"associate consultant",
+    r"head of growth", r"head of gtm", r"head of marketing",
+    r"head of product marketing", r"\bhead of\b",
 ]
+EXCLUDE_RE = re.compile("|".join(EXCLUDE_PATTERNS), re.IGNORECASE)
 
 
 # ── HELPERS ───────────────────────────────────────────────────────────────────
@@ -128,9 +129,9 @@ def slugify(t):
     return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
 
 def title_ok(title):
-    t = title.lower()
-    if any(e in t for e in EXCLUDE):
+    if EXCLUDE_RE.search(title):
         return False
+    t = title.lower()
     return any(k in t for k in INCLUDE)
 
 
@@ -373,8 +374,7 @@ SCORE_PROMPT = """You are an expert recruiter. Given a CANDIDATE PROFILE and JOB
   ],
   "missing_keywords": ["up to 5 key JD terms not in profile"],
   "top_signal": "strongest reason candidate stands out",
-  "biggest_gap": "biggest risk or gap",
-  "tailored_bullets": ["3 bullets rewritten from REAL experience — never invent"]
+  "biggest_gap": "biggest risk or gap"
 }
 
 Target band: Manager / Senior Manager level. Be honest — do not inflate scores.
@@ -413,6 +413,60 @@ def context(profile, job):
             f"JOB POSTING:\nTitle: {job['title']}\nCompany: {job['company']}\n"
             f"Location: {job['location']}\n\n{job['description'][:5000]}")
 
+def extract_json(text):
+    """Pull the first complete JSON object out of a model response.
+
+    Handles three real-world failure modes seen in production:
+      1. ```json fences around the object
+      2. explanatory prose before or after the object  -> 'Extra data'
+      3. output truncated by max_tokens mid-string     -> 'Unterminated string'
+    """
+    s = text.strip()
+    s = re.sub(r"^```(?:json)?\s*", "", s)
+    s = re.sub(r"\s*```$", "", s).strip()
+
+    start = s.find("{")
+    if start == -1:
+        return None
+
+    # Walk the string tracking brace depth, ignoring braces inside strings
+    depth, in_str, esc = 0, False, False
+    for i in range(start, len(s)):
+        c = s[i]
+        if esc:
+            esc = False
+            continue
+        if c == "\\":
+            esc = True
+            continue
+        if c == '"':
+            in_str = not in_str
+            continue
+        if in_str:
+            continue
+        if c == "{":
+            depth += 1
+        elif c == "}":
+            depth -= 1
+            if depth == 0:
+                try:
+                    return json.loads(s[start:i + 1])
+                except json.JSONDecodeError:
+                    break
+
+    # Truncated mid-object: close it off and salvage what completed
+    frag = s[start:]
+    if in_str:
+        frag += '"'
+    frag = re.sub(r",\s*$", "", frag)
+    frag += "]" * frag.count("[") if frag.count("[") > frag.count("]") else ""
+    frag += "}" * max(0, frag.count("{") - frag.count("}"))
+    try:
+        return json.loads(frag)
+    except json.JSONDecodeError:
+        return None
+
+
 def claude(system, user, max_tokens, model):
     global estimated_spend
     tier = "haiku" if "haiku" in model else "sonnet"
@@ -435,8 +489,7 @@ def claude(system, user, max_tokens, model):
                  if b.get("type") == "text"), None)
     if not text:
         return None
-    clean = re.sub(r"^```(json)?", "", text.strip()).strip()
-    return json.loads(re.sub(r"```$", "", clean).strip())
+    return extract_json(text)
 
 
 # ── KIT GENERATION ────────────────────────────────────────────────────────────
@@ -609,7 +662,7 @@ def main():
                 print(f"[score] {job['title']} @ {job['company']}")
 
             try:
-                result = claude(SCORE_PROMPT, context(profile, job), 900, SCORE_MODEL)
+                result = claude(SCORE_PROMPT, context(profile, job), 1100, SCORE_MODEL)
             except RuntimeError as e:
                 print(f"\n[SPEND CAP] {e}")
                 break
