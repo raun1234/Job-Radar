@@ -212,6 +212,17 @@ def fetch_lever(token):
                 posted = datetime.datetime.fromtimestamp(j["createdAt"]/1000, tz=datetime.timezone.utc).isoformat()
             except Exception:
                 pass
+
+        # Lever returns a STRUCTURED salaryRange — prefer it over regex on the description
+        salary = ""
+        sr = j.get("salaryRange") or {}
+        if sr.get("min") and sr.get("max"):
+            cur = sr.get("currency", "USD")
+            sym = "$" if cur == "USD" else f"{cur} "
+            salary = f"{sym}{int(sr['min']):,} - {sym}{int(sr['max']):,}"
+        if not salary:
+            salary = extract_salary(desc)
+
         out.append({
             "id": f"lv:{token}:{j['id']}",
             "company": token,
@@ -219,14 +230,57 @@ def fetch_lever(token):
             "location": loc,
             "url": j["hostedUrl"],
             "description": desc,
-            "salary": extract_salary(desc),
+            "salary": salary,
             "work_type": extract_work_type(title, loc, desc),
             "seniority": extract_seniority(title),
             "posted_at": posted,
         })
     return out
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever}
+
+def fetch_ashby(token):
+    """Ashby public job board API. Returns structured compensation data."""
+    r = requests.get(
+        f"https://api.ashbyhq.com/posting-api/job-board/{token}?includeCompensation=true",
+        timeout=10)
+    r.raise_for_status()
+    data = r.json()
+    postings = data.get("jobs", []) if isinstance(data, dict) else data
+    out = []
+    for j in postings:
+        title = j.get("title", "")
+        loc   = j.get("location", "") or ""
+        desc  = strip_html(j.get("descriptionPlain") or j.get("descriptionHtml") or "")
+
+        # Ashby gives a clean, pre-formatted salary string
+        salary = ""
+        comp = j.get("compensation") or {}
+        salary = (comp.get("scrapeableCompensationSalarySummary")
+                  or comp.get("compensationTierSummary") or "")
+        if not salary:
+            salary = extract_salary(desc)
+
+        # Ashby has an explicit remote flag and workplaceType
+        wt = j.get("workplaceType", "") or ""
+        if not wt:
+            wt = "Remote" if j.get("isRemote") else extract_work_type(title, loc, desc)
+
+        out.append({
+            "id": f"ab:{token}:{j.get('id','')}",
+            "company": token,
+            "title": title,
+            "location": loc,
+            "url": j.get("jobUrl") or j.get("applyUrl", ""),
+            "description": desc,
+            "salary": salary,
+            "work_type": wt,
+            "seniority": extract_seniority(title),
+            "posted_at": j.get("publishedAt", "") or j.get("updatedAt", ""),
+        })
+    return out
+
+
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby}
 
 
 # ── FEATURE 1: RECRUITER FINDER ──────────────────────────────────────────────
