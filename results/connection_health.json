@@ -1,16 +1,16 @@
 {
-  "run_at": "2026-08-10T14:20:50.603172+00:00",
+  "run_at": "2026-08-11T14:20:46.166067+00:00",
   "summary": {
     "total": 252,
-    "connected": 11,
-    "failed": 0,
-    "rate": "4%",
-    "estimated_spend": 0.1436,
-    "run_at": "2026-08-10T14:20:50.603172+00:00",
+    "connected": 29,
+    "failed": 1,
+    "rate": "12%",
+    "estimated_spend": 0.144,
+    "run_at": "2026-08-11T14:20:46.166067+00:00",
     "skip_counts": {
-      "title": 593,
-      "location": 27,
-      "age": 2,
+      "title": 866,
+      "location": 31,
+      "age": 10,
       "years": 0,
       "hard_req": 0
     }
@@ -20,68 +20,182 @@
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 821
+      "jobs_found": 812
     },
     {
       "name": "OpenAI",
       "token": "openai",
       "ats": "ashby",
-      "jobs_found": 749
+      "jobs_found": 730
     },
     {
       "name": "Stripe",
       "token": "stripe",
       "ats": "greenhouse",
-      "jobs_found": 555
+      "jobs_found": 562
     },
     {
       "name": "Datadog",
       "token": "datadog",
       "ats": "greenhouse",
-      "jobs_found": 440
-    },
-    {
-      "name": "MongoDB",
-      "token": "mongodb",
-      "ats": "greenhouse",
-      "jobs_found": 405
+      "jobs_found": 443
     },
     {
       "name": "Anthropic",
       "token": "anthropic",
       "ats": "greenhouse",
-      "jobs_found": 390
+      "jobs_found": 397
     },
     {
       "name": "Harvey",
       "token": "harvey",
       "ats": "ashby",
-      "jobs_found": 373
+      "jobs_found": 388
     },
     {
       "name": "Okta",
       "token": "okta",
       "ats": "greenhouse",
-      "jobs_found": 347
-    },
-    {
-      "name": "Zscaler",
-      "token": "zscaler",
-      "ats": "greenhouse",
-      "jobs_found": 326
+      "jobs_found": 337
     },
     {
       "name": "Toast",
       "token": "toast",
       "ats": "greenhouse",
-      "jobs_found": 319
+      "jobs_found": 331
+    },
+    {
+      "name": "Zscaler",
+      "token": "zscaler",
+      "ats": "greenhouse",
+      "jobs_found": 329
+    },
+    {
+      "name": "Cloudflare",
+      "token": "cloudflare",
+      "ats": "greenhouse",
+      "jobs_found": 302
     },
     {
       "name": "Brex",
       "token": "brex",
       "ats": "greenhouse",
-      "jobs_found": 303
+      "jobs_found": 288
+    },
+    {
+      "name": "Verkada",
+      "token": "verkada",
+      "ats": "greenhouse",
+      "jobs_found": 282
+    },
+    {
+      "name": "Samsara",
+      "token": "samsara",
+      "ats": "greenhouse",
+      "jobs_found": 278
+    },
+    {
+      "name": "Braze",
+      "token": "braze",
+      "ats": "greenhouse",
+      "jobs_found": 253
+    },
+    {
+      "name": "Elastic",
+      "token": "elastic",
+      "ats": "greenhouse",
+      "jobs_found": 246
+    },
+    {
+      "name": "ElevenLabs",
+      "token": "elevenlabs",
+      "ats": "ashby",
+      "jobs_found": 239
+    },
+    {
+      "name": "xAI",
+      "token": "xai",
+      "ats": "greenhouse",
+      "jobs_found": 218
+    },
+    {
+      "name": "Pinterest",
+      "token": "pinterest",
+      "ats": "greenhouse",
+      "jobs_found": 217
+    },
+    {
+      "name": "Adyen",
+      "token": "adyen",
+      "ats": "greenhouse",
+      "jobs_found": 213
+    },
+    {
+      "name": "Scale AI",
+      "token": "scaleai",
+      "ats": "greenhouse",
+      "jobs_found": 209
+    },
+    {
+      "name": "Fivetran",
+      "token": "fivetran",
+      "ats": "greenhouse",
+      "jobs_found": 206
+    },
+    {
+      "name": "Affirm",
+      "token": "affirm",
+      "ats": "greenhouse",
+      "jobs_found": 198
+    },
+    {
+      "name": "Sierra",
+      "token": "sierra",
+      "ats": "ashby",
+      "jobs_found": 191
+    },
+    {
+      "name": "Airbnb",
+      "token": "airbnb",
+      "ats": "greenhouse",
+      "jobs_found": 181
+    },
+    {
+      "name": "ClickHouse",
+      "token": "clickhouse",
+      "ats": "greenhouse",
+      "jobs_found": 177
+    },
+    {
+      "name": "Coinbase",
+      "token": "coinbase",
+      "ats": "greenhouse",
+      "jobs_found": 169
+    },
+    {
+      "name": "Figma",
+      "token": "figma",
+      "ats": "greenhouse",
+      "jobs_found": 166
+    },
+    {
+      "name": "Twilio",
+      "token": "twilio",
+      "ats": "greenhouse",
+      "jobs_found": 165
+    },
+    {
+      "name": "Reddit",
+      "token": "reddit",
+      "ats": "greenhouse",
+      "jobs_found": 162
     }
   ],
-  "failed": []
+  "failed": [
+    {
+      "name": "MongoDB",
+      "token": "mongodb",
+      "reason": "HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=10)"
+    }
+  ]
 }
