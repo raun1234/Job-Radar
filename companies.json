@@ -160,14 +160,14 @@
     "token": "workato"
   },
   {
-    "name": "Grafana Labs",
-    "ats": "greenhouse",
-    "token": "grafanalabs"
-  },
-  {
     "name": "Netskope",
     "ats": "greenhouse",
     "token": "netskope"
+  },
+  {
+    "name": "Grafana Labs",
+    "ats": "greenhouse",
+    "token": "grafanalabs"
   },
   {
     "name": "Klaviyo",
@@ -640,6 +640,21 @@
     "token": "betterment"
   },
   {
+    "name": "Amplitude",
+    "ats": "greenhouse",
+    "token": "amplitude"
+  },
+  {
+    "name": "Everlaw",
+    "ats": "greenhouse",
+    "token": "everlaw"
+  },
+  {
+    "name": "Cockroach Labs",
+    "ats": "greenhouse",
+    "token": "cockroachlabs"
+  },
+  {
     "name": "Modal",
     "ats": "ashby",
     "token": "modal"
@@ -658,11 +673,6 @@
     "name": "Bandwidth",
     "ats": "greenhouse",
     "token": "bandwidth"
-  },
-  {
-    "name": "Cockroach Labs",
-    "ats": "greenhouse",
-    "token": "cockroachlabs"
   },
   {
     "name": "Celigo",
@@ -738,6 +748,11 @@
     "name": "PagerDuty",
     "ats": "greenhouse",
     "token": "pagerduty"
+  },
+  {
+    "name": "Khan Academy",
+    "ats": "greenhouse",
+    "token": "khanacademy"
   },
   {
     "name": "CaptivateIQ",
@@ -965,6 +980,11 @@
     "token": "descript"
   },
   {
+    "name": "Expel",
+    "ats": "greenhouse",
+    "token": "expel"
+  },
+  {
     "name": "Springboard",
     "ats": "greenhouse",
     "token": "springboard"
@@ -990,14 +1010,14 @@
     "token": "assemblyai"
   },
   {
-    "name": "PlanetScale",
-    "ats": "greenhouse",
-    "token": "planetscale"
-  },
-  {
     "name": "Mirakl",
     "ats": "greenhouse",
     "token": "mirakl"
+  },
+  {
+    "name": "PlanetScale",
+    "ats": "greenhouse",
+    "token": "planetscale"
   },
   {
     "name": "Emplifi",
@@ -1220,14 +1240,14 @@
     "token": "weaviate"
   },
   {
-    "name": "Trigger.dev",
-    "ats": "ashby",
-    "token": "triggerdev"
-  },
-  {
     "name": "Inngest",
     "ats": "ashby",
     "token": "inngest"
+  },
+  {
+    "name": "Trigger.dev",
+    "ats": "ashby",
+    "token": "triggerdev"
   },
   {
     "name": "Hightouch",
