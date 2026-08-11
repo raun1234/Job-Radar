@@ -207,6 +207,26 @@ def deprioritized(company_token):
     return company_token.lower() in DEPRIORITIZE_TOKENS
 
 
+def recruiter_search_url(company_name, job_title):
+    """LinkedIn people-search URL scoped to the company and role function.
+    Pure URL construction, no API call, zero cost."""
+    import urllib.parse
+    t = job_title.lower()
+    if "gtm" in t or "go-to-market" in t:
+        role_type = "recruiter OR talent acquisition OR GTM"
+    elif "product marketing" in t:
+        role_type = "recruiter OR product marketing OR talent"
+    elif "growth" in t:
+        role_type = "recruiter OR growth OR talent acquisition"
+    elif "business development" in t or "partnerships" in t or "alliance" in t:
+        role_type = "recruiter OR partnerships OR talent"
+    else:
+        role_type = "recruiter OR talent acquisition OR hiring"
+    query = f"{company_name} {role_type}"
+    encoded = urllib.parse.quote(query)
+    return f"https://www.linkedin.com/search/results/people/?keywords={encoded}&origin=GLOBAL_SEARCH_HEADER"
+
+
 def strip_html(html):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or "")).strip()
 
@@ -299,15 +319,73 @@ def fetch_ashby(token):
                      "posted_at": j.get("publishedAt", "") or j.get("updatedAt", "")})
     return out
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby}
+def fetch_workable(token):
+    r = requests.get(f"https://apply.workable.com/api/v1/widget/accounts/{token}", timeout=10)
+    r.raise_for_status()
+    data = r.json()
+    postings = data.get("jobs", [])
+    out = []
+    for j in postings:
+        title = j.get("title", "")
+        loc = j.get("location", {}) or {}
+        loc_str = ", ".join(filter(None, [loc.get("city",""), loc.get("region",""), loc.get("country","")]))
+        desc = strip_html(j.get("description", ""))
+        url = j.get("url") or f"https://apply.workable.com/{token}/j/{j.get('shortcode','')}"
+        out.append({"id": f"wk:{token}:{j.get('shortcode', j.get('id',''))}", "company": token, "title": title,
+                     "location": loc_str, "url": url, "description": desc,
+                     "salary": extract_salary(desc), "work_type": extract_work_type(title, loc_str, desc),
+                     "seniority": extract_seniority(title), "posted_at": j.get("published_on", "") or j.get("created_at", "")})
+    return out
+
+def fetch_recruitee(token):
+    r = requests.get(f"https://{token}.recruitee.com/api/offers/", timeout=10)
+    r.raise_for_status()
+    data = r.json()
+    postings = data.get("offers", [])
+    out = []
+    for j in postings:
+        title = j.get("title", "")
+        loc = ", ".join(filter(None, [j.get("city",""), j.get("country","")]))
+        desc = strip_html(j.get("description", "") or j.get("requirements", ""))
+        out.append({"id": f"rc:{token}:{j.get('id','')}", "company": token, "title": title,
+                     "location": loc, "url": j.get("careers_url", ""), "description": desc,
+                     "salary": extract_salary(desc), "work_type": extract_work_type(title, loc, desc),
+                     "seniority": extract_seniority(title), "posted_at": j.get("published_at", "") or j.get("created_at", "")})
+    return out
+
+def fetch_personio(token):
+    r = requests.get(f"https://{token}.jobs.personio.de/xml", timeout=10)
+    r.raise_for_status()
+    import xml.etree.ElementTree as ET
+    root = ET.fromstring(r.content)
+    out = []
+    for j in root.findall(".//position"):
+        def gt(tag):
+            el = j.find(tag)
+            return el.text.strip() if el is not None and el.text else ""
+        title = gt("name")
+        loc = gt("office")
+        desc_parts = [gt("jobDescriptions/jobDescription/name") or "",
+                      gt("jobDescriptions/jobDescription/jobDescriptionValue") or ""]
+        desc = strip_html(" ".join(desc_parts))
+        job_id = gt("id")
+        out.append({"id": f"pr:{token}:{job_id}", "company": token, "title": title,
+                     "location": loc, "url": f"https://{token}.jobs.personio.de/job/{job_id}" if job_id else "",
+                     "description": desc, "salary": extract_salary(desc),
+                     "work_type": extract_work_type(title, loc, desc),
+                     "seniority": extract_seniority(title), "posted_at": gt("createdAt")})
+    return out
+
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby,
+            "workable": fetch_workable, "recruitee": fetch_recruitee, "personio": fetch_personio}
 
 
-SCORE_PROMPT = """You are an expert recruiter. Given a CANDIDATE PROFILE and JOB POSTING, output ONLY a JSON object, no markdown, no preamble.
+SCORE_PROMPT = """You are an expert recruiter scoring how well a candidate fits a specific posting. Output ONLY a JSON object, no markdown, no preamble.
 
 {
   "overall_score": 0-100,
-  "verdict": "Strong Fit"|"Good Fit"|"Stretch"|"Weak Fit",
-  "verdict_note": "one sentence",
+  "verdict": "Top Choice"|"Strong Fit"|"Worth Applying"|"Stretch"|"Weak Fit",
+  "verdict_note": "one sentence, specific to this posting, not generic",
   "breakdown": [
     {"category": "Title & Seniority Match", "score": 0-100, "note": "short"},
     {"category": "Skills & Keyword Match",  "score": 0-100, "note": "short"},
@@ -320,7 +398,16 @@ SCORE_PROMPT = """You are an expert recruiter. Given a CANDIDATE PROFILE and JOB
   "biggest_gap": "biggest risk or gap"
 }
 
-Target band: Manager / Senior Manager level. Keep every note under 12 words.
+SCORING RUBRIC - use this to justify overall_score, do not pick a number that just feels right:
+  90-100  Top Choice.       Nearly every stated requirement is met with direct, quantified proof from the profile. No material gap.
+  75-89   Strong Fit.       Core requirements are met. At most one moderate gap (e.g. adjacent domain, one missing tool) that a strong track record offsets.
+  60-74   Worth Applying.   Real overlap in skills and level, but a genuine gap exists - wrong domain depth, missing a named requirement, or a title/seniority mismatch of one tier.
+  40-59   Stretch.          Meaningful mismatch in more than one dimension. Candidate could make a case but it is not the obvious fit.
+  0-39    Weak Fit.         Fundamental mismatch in function, seniority, or domain. Applying would not be a good use of time.
+
+CRITICAL - avoid score clustering: do not default to "safe" round numbers like 72, 75, or 78 out of habit. Two different postings with two different real gaps must not receive the same score just because they feel similarly qualified. Let the actual specifics of THIS posting (which requirements are met, which are not, how deep the gap is) produce a number that could plausibly differ by 1-15 points from the last posting you scored, even within the same verdict band. Use the full 0-100 range across a batch of postings, not just the 60-80 window.
+
+Target band: Manager / Senior Manager level. Keep every note under 12 words, and make each note specific to this posting - never a generic phrase that could apply to any GTM/growth/PMM role.
 Eligibility: candidate needs H1B sponsorship. Score this higher for large, established employers and lower for small startups unless sponsorship is explicitly stated in the posting.
 Be honest, do not inflate scores. Return ONLY the JSON object, nothing after the closing brace."""
 
@@ -507,6 +594,7 @@ def main():
             print(f"  score: {score} -- {result.get('verdict')}{' [deprioritized company]' if dep else ''}")
 
             entry = {"job": job, "result": result, "deprioritized": dep,
+                     "recruiter_url": recruiter_search_url(job["company"].replace("-"," ").title(), job["title"]),
                      "found_at": datetime.now(timezone.utc).isoformat()}
             new_results.append(entry)
             all_results.append(entry)
