@@ -189,7 +189,7 @@ function setCompanyCount(n){
 
 function tier(s){return s>=75?'hi':s>=55?'md':'lo'}
 function tierColor(s){const t=tier(s);return t==='hi'?'var(--gh)':t==='md'?'var(--mid)':'var(--lo)'}
-function verdictClass(v){if(v==='Top Choice')return'pill-top';if(v==='Strong Fit')return'pill-hi';if(v==='Worth Applying')return'pill-hi';if(v==='Stretch')return'pill-md';return'pill-lo'}
+function verdictClass(v){if(v==='Top Choice')return'pill-top';if(v==='Strong Fit')return'pill-hi';if(v==='Worth Applying')return'pill-hi';if(v==='Good Fit')return'pill-hi';if(v==='Stretch')return'pill-md';return'pill-lo'}
 
 function ago(iso){
   if(!iso)return'';
