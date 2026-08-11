@@ -512,6 +512,59 @@ def write_report(all_results, new_results, health):
     open(REPORT_PATH, "w").write("\n".join(lines))
 
 
+def write_csv(all_results):
+    """Writes results/tracker.csv -- every posting ever scored, one row each,
+    sorted newest first. Designed to be pulled into Google Sheets via
+    IMPORTDATA() so the sheet updates itself on every run, at zero cost."""
+    import csv as csv_mod
+    path = os.path.join(RESULTS_DIR, "tracker.csv")
+    cols = ["date_found", "score", "verdict", "company", "title", "location",
+            "work_type", "seniority", "salary", "sponsorship_likely",
+            "posted_age_days", "deprioritized", "top_signal", "biggest_gap",
+            "missing_keywords", "posting_url", "recruiter_search_url"]
+
+    def sponsor_likely(result):
+        elig = next((b for b in result.get("breakdown", []) if "Eligibility" in b.get("category", "")), None)
+        return "Yes" if elig and elig.get("score", 0) >= 65 else ""
+
+    def posted_days(job, found_at):
+        posted = job.get("posted_at") or found_at
+        try:
+            dt = datetime.fromisoformat(posted.replace("Z", "+00:00"))
+            return (datetime.now(timezone.utc) - dt).days
+        except Exception:
+            return ""
+
+    rows = []
+    for e in sorted(all_results, key=lambda x: x.get("found_at", ""), reverse=True):
+        j, r = e["job"], e["result"]
+        rows.append([
+            e.get("found_at", "")[:10],
+            r.get("overall_score", ""),
+            r.get("verdict", ""),
+            j.get("company", "").replace("-", " ").title(),
+            j.get("title", ""),
+            j.get("location", ""),
+            j.get("work_type", ""),
+            j.get("seniority", ""),
+            j.get("salary", ""),
+            sponsor_likely(r),
+            posted_days(j, e.get("found_at", "")),
+            "Yes" if e.get("deprioritized") else "",
+            r.get("top_signal", ""),
+            r.get("biggest_gap", ""),
+            "; ".join(r.get("missing_keywords", [])),
+            j.get("url", ""),
+            e.get("recruiter_url", ""),
+        ])
+
+    os.makedirs(RESULTS_DIR, exist_ok=True)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv_mod.writer(f)
+        w.writerow(cols)
+        w.writerows(rows)
+
+
 def main():
     global estimated_spend
     if not API_KEY:
@@ -617,6 +670,7 @@ def main():
         "failed": failed,
     })
     write_report(all_results, new_results, health)
+    write_csv(all_results)
 
     print(f"\n{'='*60}")
     print(f"Companies:    {len(companies)} checked, {len(connected)} connected, {len(failed)} failed")
