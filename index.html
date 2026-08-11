@@ -147,11 +147,16 @@ hr{border:none;border-top:0.5px solid var(--border);margin:1.5rem 0}
 <div class="tabs">
   <button class="tab on" onclick="tab('today',this)">Today's hits</button>
   <button class="tab" onclick="tab('all',this)">All-time top 15</button>
+  <button class="tab" onclick="tab('hist',this)">History</button>
   <button class="tab" onclick="tab('trk',this)">Tracker</button>
 </div>
 
 <div id="tab-today"><div class="cards" id="c-today"><div class="empty"><i class="ti ti-radar" aria-hidden="true"></i><p>No results yet. Load your data or try the demo below.</p></div></div></div>
 <div id="tab-all" style="display:none"><div id="c-all"></div></div>
+<div id="tab-hist" style="display:none">
+  <p style="font-size:12px;color:var(--text2);margin-bottom:1rem">Every posting scored to date, most recent first.</p>
+  <div id="c-hist"></div>
+</div>
 <div id="tab-trk" style="display:none"><p style="font-size:12px;color:var(--text2);margin-bottom:1rem">Track applications through the pipeline. Saved in your browser.</p><div id="c-trk"></div></div>
 
 <hr>
@@ -184,7 +189,7 @@ function setCompanyCount(n){
 
 function tier(s){return s>=75?'hi':s>=55?'md':'lo'}
 function tierColor(s){const t=tier(s);return t==='hi'?'var(--gh)':t==='md'?'var(--mid)':'var(--lo)'}
-function verdictClass(v){if(v==='Strong Fit')return'pill-hi';if(v==='Good Fit')return'pill-hi';if(v==='Stretch')return'pill-md';return'pill-lo'}
+function verdictClass(v){if(v==='Top Choice')return'pill-top';if(v==='Strong Fit')return'pill-hi';if(v==='Worth Applying')return'pill-hi';if(v==='Stretch')return'pill-md';return'pill-lo'}
 
 function ago(iso){
   if(!iso)return'';
@@ -252,6 +257,7 @@ function card(e,idx){
   </div>
   <div class="footer">
     <a class="btn" href="${job.url}" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i> View posting</a>
+    ${e.recruiter_url?`<a class="btn" href="${e.recruiter_url}" target="_blank"><i class="ti ti-brand-linkedin" aria-hidden="true"></i> Find recruiter</a>`:''}
     <button class="btn${TRK[job.url]==='applied'?' on':''}" onclick="markApplied('${job.url}',this)"><i class="ti ti-check" aria-hidden="true"></i> ${TRK[job.url]==='applied'?'Applied':'Mark applied'}</button>
     <button class="togbtn" id="tog${idx}" onclick="tog(${idx})"><i class="ti ti-chevron-down" aria-hidden="true"></i></button>
   </div>
@@ -282,6 +288,31 @@ function markApplied(url,btn){
   TRK[url]='applied';localStorage.setItem('jr4',JSON.stringify(TRK));
   btn.className='btn on';btn.innerHTML='<i class="ti ti-check" aria-hidden="true"></i> Applied';
   renderTracker();
+  renderHistory();
+}
+
+function historyRow(e){
+  const {job,result}=e;
+  const s=result.overall_score;
+  const co=coDisplay(job.company);
+  const lc=logoColor(job.company);
+  const status=TRK[job.url]||'';
+  const d=new Date(e.found_at);
+  const dateStr=d.toLocaleDateString('en-US',{month:'short',day:'numeric'});
+  const statusPill=status?`<span class="pill pill-blue" style="font-size:9px">${status[0].toUpperCase()+status.slice(1)}</span>`:'';
+  return`<a class="cmp-row" href="${job.url}" target="_blank" rel="noopener">
+    <span class="cmp-sc" style="color:${tierColor(s)}">${s}</span>
+    <div class="cmp-logo" style="background:${lc.bg};color:${lc.txt}">${coInitials(co)}</div>
+    <div class="cmp-info"><div class="cmp-t">${job.title}</div><div class="cmp-c">${co} &middot; ${dateStr}</div></div>
+    ${statusPill}
+    <i class="ti ti-external-link" aria-hidden="true" style="color:var(--text3);font-size:14px"></i>
+  </a>`;
+}
+
+function renderHistory(){
+  const sorted=[...ALL].sort((a,b)=>new Date(b.found_at)-new Date(a.found_at));
+  const el=document.getElementById('c-hist');
+  el.innerHTML=sorted.length?sorted.map(historyRow).join(''):'<div class="empty"><i class="ti ti-history" aria-hidden="true"></i><p>No postings scored yet.</p></div>';
 }
 function updateStatus(url,v){TRK[url]=v;localStorage.setItem('jr4',JSON.stringify(TRK));}
 
@@ -305,10 +336,11 @@ function renderTracker(){
 }
 
 function tab(name,btn){
-  ['today','all','trk'].forEach(t=>document.getElementById('tab-'+t).style.display=t===name?'block':'none');
+  ['today','all','hist','trk'].forEach(t=>document.getElementById('tab-'+t).style.display=t===name?'block':'none');
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
   btn.classList.add('on');
   if(name==='trk')renderTracker();
+  if(name==='hist')renderHistory();
 }
 
 function renderAll(data){
