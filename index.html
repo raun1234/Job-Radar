@@ -257,7 +257,6 @@ function card(e,idx){
   </div>
   <div class="footer">
     <a class="btn" href="${job.url}" target="_blank"><i class="ti ti-external-link" aria-hidden="true"></i> View posting</a>
-    ${e.recruiter_url?`<a class="btn" href="${e.recruiter_url}" target="_blank"><i class="ti ti-brand-linkedin" aria-hidden="true"></i> Find recruiter</a>`:''}
     <button class="btn${TRK[job.url]==='applied'?' on':''}" onclick="markApplied('${job.url}',this)"><i class="ti ti-check" aria-hidden="true"></i> ${TRK[job.url]==='applied'?'Applied':'Mark applied'}</button>
     <button class="togbtn" id="tog${idx}" onclick="tog(${idx})"><i class="ti ti-chevron-down" aria-hidden="true"></i></button>
   </div>
