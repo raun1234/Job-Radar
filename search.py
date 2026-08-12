@@ -73,6 +73,12 @@ INCLUDE = [
     "ai growth manager", "ai partnerships", "ai commercialization",
     "generative ai gtm", "enterprise ai gtm", "ai solutions marketing",
     "ai market", "ai adoption manager",
+    "solutions marketing lead", "solutions marketing manager",
+    "vertical marketing manager", "industry marketing manager",
+    "lifecycle marketing manager", "lifecycle marketing lead",
+    "gtm alliances manager", "strategic alliances manager",
+    "channel partner manager", "channel manager",
+    "ecosystem partner manager", "ecosystem manager",
 ]
 
 EXCLUDE_PATTERNS = [
