@@ -2650,21 +2650,6 @@
     "token": "discordapp"
   },
   {
-    "name": "Intercom",
-    "ats": "lever",
-    "token": "intercom"
-  },
-  {
-    "name": "Front",
-    "ats": "lever",
-    "token": "front"
-  },
-  {
-    "name": "Coupa",
-    "ats": "lever",
-    "token": "coupa"
-  },
-  {
     "name": "CaptivateIQ",
     "ats": "lever",
     "token": "captivateiq"
@@ -2680,19 +2665,9 @@
     "token": "dnb"
   },
   {
-    "name": "Highspot",
-    "ats": "lever",
-    "token": "highspot"
-  },
-  {
     "name": "Mistral AI",
     "ats": "lever",
     "token": "mistral"
-  },
-  {
-    "name": "Wealthsimple",
-    "ats": "lever",
-    "token": "wealthsimple"
   },
   {
     "name": "Q4 Inc",
@@ -2715,39 +2690,9 @@
     "token": "paloaltonetworks"
   },
   {
-    "name": "Plaid",
-    "ats": "lever",
-    "token": "plaid"
-  },
-  {
-    "name": "Brex",
-    "ats": "lever",
-    "token": "brex"
-  },
-  {
-    "name": "Attentive",
-    "ats": "lever",
-    "token": "attentive"
-  },
-  {
     "name": "Benchling",
     "ats": "lever",
     "token": "benchling"
-  },
-  {
-    "name": "Vanta",
-    "ats": "lever",
-    "token": "vanta"
-  },
-  {
-    "name": "Ironclad",
-    "ats": "lever",
-    "token": "ironclad"
-  },
-  {
-    "name": "Verkada",
-    "ats": "lever",
-    "token": "verkada"
   },
   {
     "name": "Anduril",
@@ -2765,29 +2710,9 @@
     "token": "nuro"
   },
   {
-    "name": "Scale AI",
-    "ats": "lever",
-    "token": "scaleai"
-  },
-  {
-    "name": "Zip",
-    "ats": "lever",
-    "token": "zip"
-  },
-  {
     "name": "Ontra",
     "ats": "lever",
     "token": "ontra"
-  },
-  {
-    "name": "Spotify",
-    "ats": "lever",
-    "token": "spotify"
-  },
-  {
-    "name": "Shopify",
-    "ats": "lever",
-    "token": "shopify"
   },
   {
     "name": "KOHO",
@@ -2805,51 +2730,6 @@
     "token": "cursor"
   },
   {
-    "name": "Perplexity",
-    "ats": "ashby",
-    "token": "perplexity"
-  },
-  {
-    "name": "Harvey",
-    "ats": "ashby",
-    "token": "harvey"
-  },
-  {
-    "name": "Sierra",
-    "ats": "ashby",
-    "token": "sierra"
-  },
-  {
-    "name": "Decagon",
-    "ats": "ashby",
-    "token": "decagon"
-  },
-  {
-    "name": "Abridge",
-    "ats": "ashby",
-    "token": "abridge"
-  },
-  {
-    "name": "Cresta",
-    "ats": "ashby",
-    "token": "cresta"
-  },
-  {
-    "name": "Baseten",
-    "ats": "ashby",
-    "token": "baseten"
-  },
-  {
-    "name": "Modal",
-    "ats": "ashby",
-    "token": "modal"
-  },
-  {
-    "name": "Together AI",
-    "ats": "ashby",
-    "token": "together"
-  },
-  {
     "name": "Fireworks AI",
     "ats": "ashby",
     "token": "fireworks"
@@ -2860,34 +2740,9 @@
     "token": "contextual"
   },
   {
-    "name": "Writer",
-    "ats": "ashby",
-    "token": "writer"
-  },
-  {
     "name": "Hebbia",
     "ats": "ashby",
     "token": "hebbia"
-  },
-  {
-    "name": "Glean",
-    "ats": "ashby",
-    "token": "glean"
-  },
-  {
-    "name": "Cohere",
-    "ats": "ashby",
-    "token": "cohere"
-  },
-  {
-    "name": "Mistral",
-    "ats": "ashby",
-    "token": "mistral"
-  },
-  {
-    "name": "ElevenLabs",
-    "ats": "ashby",
-    "token": "elevenlabs"
   },
   {
     "name": "Suno",
@@ -2905,16 +2760,6 @@
     "token": "pika"
   },
   {
-    "name": "Runway",
-    "ats": "ashby",
-    "token": "runway"
-  },
-  {
-    "name": "Synthesia",
-    "ats": "ashby",
-    "token": "synthesia"
-  },
-  {
     "name": "Bland",
     "ats": "ashby",
     "token": "bland"
@@ -2930,34 +2775,9 @@
     "token": "retellai"
   },
   {
-    "name": "Deepgram",
-    "ats": "ashby",
-    "token": "deepgram"
-  },
-  {
-    "name": "AssemblyAI",
-    "ats": "ashby",
-    "token": "assemblyai"
-  },
-  {
-    "name": "LangChain",
-    "ats": "ashby",
-    "token": "langchain"
-  },
-  {
     "name": "LlamaIndex",
     "ats": "ashby",
     "token": "llamaindex"
-  },
-  {
-    "name": "Weaviate",
-    "ats": "ashby",
-    "token": "weaviate"
-  },
-  {
-    "name": "Pinecone",
-    "ats": "ashby",
-    "token": "pinecone"
   },
   {
     "name": "Chroma",
@@ -2968,31 +2788,6 @@
     "name": "Qdrant",
     "ats": "ashby",
     "token": "qdrant"
-  },
-  {
-    "name": "Anthropic",
-    "ats": "ashby",
-    "token": "anthropic"
-  },
-  {
-    "name": "OpenAI",
-    "ats": "ashby",
-    "token": "openai"
-  },
-  {
-    "name": "Scale AI",
-    "ats": "ashby",
-    "token": "scale"
-  },
-  {
-    "name": "Clay",
-    "ats": "ashby",
-    "token": "clay"
-  },
-  {
-    "name": "Unify",
-    "ats": "ashby",
-    "token": "unify"
   },
   {
     "name": "Regie AI",
@@ -3023,46 +2818,6 @@
     "name": "11x",
     "ats": "ashby",
     "token": "11x"
-  },
-  {
-    "name": "Linear",
-    "ats": "ashby",
-    "token": "linear"
-  },
-  {
-    "name": "Ramp",
-    "ats": "ashby",
-    "token": "ramp"
-  },
-  {
-    "name": "Vanta",
-    "ats": "ashby",
-    "token": "vanta"
-  },
-  {
-    "name": "Deel",
-    "ats": "ashby",
-    "token": "deel"
-  },
-  {
-    "name": "Replit",
-    "ats": "ashby",
-    "token": "replit"
-  },
-  {
-    "name": "Supabase",
-    "ats": "ashby",
-    "token": "supabase"
-  },
-  {
-    "name": "Render",
-    "ats": "ashby",
-    "token": "render"
-  },
-  {
-    "name": "Railway",
-    "ats": "ashby",
-    "token": "railway"
   },
   {
     "name": "Neon",
@@ -3150,29 +2905,9 @@
     "token": "zed"
   },
   {
-    "name": "Sourcegraph",
-    "ats": "ashby",
-    "token": "sourcegraph"
-  },
-  {
     "name": "Val Town",
     "ats": "ashby",
     "token": "valtown"
-  },
-  {
-    "name": "Vercel",
-    "ats": "ashby",
-    "token": "vercel"
-  },
-  {
-    "name": "Netlify",
-    "ats": "ashby",
-    "token": "netlify"
-  },
-  {
-    "name": "PlanetScale",
-    "ats": "ashby",
-    "token": "planetscale"
   },
   {
     "name": "Clerk",
@@ -3215,11 +2950,6 @@
     "token": "plain"
   },
   {
-    "name": "Mercury",
-    "ats": "ashby",
-    "token": "mercury"
-  },
-  {
     "name": "Pave",
     "ats": "ashby",
     "token": "pave"
@@ -3230,24 +2960,9 @@
     "token": "middesk"
   },
   {
-    "name": "Sardine",
-    "ats": "ashby",
-    "token": "sardine"
-  },
-  {
     "name": "Increase",
     "ats": "ashby",
     "token": "increase"
-  },
-  {
-    "name": "Highnote",
-    "ats": "ashby",
-    "token": "highnote"
-  },
-  {
-    "name": "Lithic",
-    "ats": "ashby",
-    "token": "lithic"
   },
   {
     "name": "Assembled",
@@ -3258,36 +2973,6 @@
     "name": "Runway Financial",
     "ats": "ashby",
     "token": "runwayfinancial"
-  },
-  {
-    "name": "Brex",
-    "ats": "ashby",
-    "token": "brex"
-  },
-  {
-    "name": "Rippling",
-    "ats": "ashby",
-    "token": "rippling"
-  },
-  {
-    "name": "Gusto",
-    "ats": "ashby",
-    "token": "gusto"
-  },
-  {
-    "name": "Hightouch",
-    "ats": "ashby",
-    "token": "hightouch"
-  },
-  {
-    "name": "Census",
-    "ats": "ashby",
-    "token": "census"
-  },
-  {
-    "name": "Common Room",
-    "ats": "ashby",
-    "token": "commonroom"
   },
   {
     "name": "Correlated",
@@ -3335,49 +3020,9 @@
     "token": "parallelhealth"
   },
   {
-    "name": "Grow Therapy",
-    "ats": "ashby",
-    "token": "growtherapy"
-  },
-  {
     "name": "Headway",
     "ats": "ashby",
     "token": "headway"
-  },
-  {
-    "name": "Spring Health",
-    "ats": "ashby",
-    "token": "springhealth"
-  },
-  {
-    "name": "Whatnot",
-    "ats": "ashby",
-    "token": "whatnot"
-  },
-  {
-    "name": "Faire",
-    "ats": "ashby",
-    "token": "faire"
-  },
-  {
-    "name": "Ramp Alt",
-    "ats": "ashby",
-    "token": "rampcom"
-  },
-  {
-    "name": "Notion",
-    "ats": "ashby",
-    "token": "notion"
-  },
-  {
-    "name": "Figma",
-    "ats": "ashby",
-    "token": "figma"
-  },
-  {
-    "name": "Airtable",
-    "ats": "ashby",
-    "token": "airtable"
   },
   {
     "name": "Gamma",
@@ -3385,13 +3030,433 @@
     "token": "gamma"
   },
   {
-    "name": "Granola",
-    "ats": "ashby",
-    "token": "granola"
-  },
-  {
     "name": "Raycast",
     "ats": "ashby",
     "token": "raycast"
+  },
+  {
+    "name": "Nasuni",
+    "ats": "greenhouse",
+    "token": "nasuni"
+  },
+  {
+    "name": "Lovable",
+    "ats": "ashby",
+    "token": "lovable"
+  },
+  {
+    "name": "3E",
+    "ats": "ashby",
+    "token": "3e"
+  },
+  {
+    "name": "Inferact",
+    "ats": "ashby",
+    "token": "inferact"
+  },
+  {
+    "name": "Owner.com",
+    "ats": "ashby",
+    "token": "owner"
+  },
+  {
+    "name": "Hiive",
+    "ats": "ashby",
+    "token": "hiive"
+  },
+  {
+    "name": "Hoxhunt",
+    "ats": "ashby",
+    "token": "hoxhunt"
+  },
+  {
+    "name": "GoodParty.org",
+    "ats": "ashby",
+    "token": "goodparty"
+  },
+  {
+    "name": "SplitMetrics",
+    "ats": "ashby",
+    "token": "splitmetrics"
+  },
+  {
+    "name": "Gen Digital",
+    "ats": "ashby",
+    "token": "gen-digital"
+  },
+  {
+    "name": "Captions",
+    "ats": "ashby",
+    "token": "captions"
+  },
+  {
+    "name": "QuickNode",
+    "ats": "ashby",
+    "token": "quicknode"
+  },
+  {
+    "name": "DailyPay",
+    "ats": "ashby",
+    "token": "dailypay"
+  },
+  {
+    "name": "adjoe",
+    "ats": "ashby",
+    "token": "adjoe"
+  },
+  {
+    "name": "Fiddler AI",
+    "ats": "ashby",
+    "token": "fiddler-ai"
+  },
+  {
+    "name": "Lightspeed Commerce",
+    "ats": "ashby",
+    "token": "lightspeedhq"
+  },
+  {
+    "name": "Ravio",
+    "ats": "ashby",
+    "token": "ravio"
+  },
+  {
+    "name": "Primer",
+    "ats": "ashby",
+    "token": "primer.io"
+  },
+  {
+    "name": "SiteMinder",
+    "ats": "ashby",
+    "token": "siteminder"
+  },
+  {
+    "name": "PeopleCert",
+    "ats": "workable",
+    "token": "peoplecert"
+  },
+  {
+    "name": "Supercritical",
+    "ats": "workable",
+    "token": "supercritical"
+  },
+  {
+    "name": "GetResponse",
+    "ats": "workable",
+    "token": "getresponse"
+  },
+  {
+    "name": "Resource Guru",
+    "ats": "workable",
+    "token": "resource-guru"
+  },
+  {
+    "name": "Tresata",
+    "ats": "workable",
+    "token": "tresata"
+  },
+  {
+    "name": "Driftrock",
+    "ats": "workable",
+    "token": "driftrock"
+  },
+  {
+    "name": "QbDVision",
+    "ats": "workable",
+    "token": "qbdvision"
+  },
+  {
+    "name": "Upstream",
+    "ats": "workable",
+    "token": "upstream"
+  },
+  {
+    "name": "dopay",
+    "ats": "workable",
+    "token": "dopay-8"
+  },
+  {
+    "name": "DeepHealth",
+    "ats": "recruitee",
+    "token": "deephealth"
+  },
+  {
+    "name": "LegalFly",
+    "ats": "recruitee",
+    "token": "legalfly"
+  },
+  {
+    "name": "Red Sky",
+    "ats": "recruitee",
+    "token": "redsky"
+  },
+  {
+    "name": "Jobgether",
+    "ats": "lever",
+    "token": "jobgether"
+  },
+  {
+    "name": "Culture Trip",
+    "ats": "lever",
+    "token": "culturetrip"
+  },
+  {
+    "name": "Agiloft",
+    "ats": "lever",
+    "token": "agiloft"
+  },
+  {
+    "name": "Anrok",
+    "ats": "ashby",
+    "token": "anrok"
+  },
+  {
+    "name": "Chronosphere",
+    "ats": "ashby",
+    "token": "chronosphere"
+  },
+  {
+    "name": "Cribl",
+    "ats": "ashby",
+    "token": "cribl"
+  },
+  {
+    "name": "Fly.io",
+    "ats": "ashby",
+    "token": "flyio"
+  },
+  {
+    "name": "Typeform",
+    "ats": "workable",
+    "token": "typeform"
+  },
+  {
+    "name": "Deputy",
+    "ats": "workable",
+    "token": "deputy"
+  },
+  {
+    "name": "AppsFlyer",
+    "ats": "workable",
+    "token": "appsflyer"
+  },
+  {
+    "name": "Culligan",
+    "ats": "workable",
+    "token": "culligan-uk-limited"
+  },
+  {
+    "name": "iT1",
+    "ats": "workable",
+    "token": "it1"
+  },
+  {
+    "name": "Brandwatch",
+    "ats": "workable",
+    "token": "brandwatch"
+  },
+  {
+    "name": "Synthesio",
+    "ats": "workable",
+    "token": "synthesio"
+  },
+  {
+    "name": "Talkwalker",
+    "ats": "workable",
+    "token": "talkwalker"
+  },
+  {
+    "name": "MoEngage",
+    "ats": "workable",
+    "token": "moengage"
+  },
+  {
+    "name": "WebEngage",
+    "ats": "workable",
+    "token": "webengage"
+  },
+  {
+    "name": "Recruitee",
+    "ats": "recruitee",
+    "token": "recruitee"
+  },
+  {
+    "name": "Spendesk",
+    "ats": "recruitee",
+    "token": "spendesk"
+  },
+  {
+    "name": "Payfit",
+    "ats": "recruitee",
+    "token": "payfit"
+  },
+  {
+    "name": "Aircall",
+    "ats": "recruitee",
+    "token": "aircall"
+  },
+  {
+    "name": "Swile",
+    "ats": "recruitee",
+    "token": "swile"
+  },
+  {
+    "name": "Alan",
+    "ats": "recruitee",
+    "token": "alan"
+  },
+  {
+    "name": "Back Market",
+    "ats": "recruitee",
+    "token": "backmarket"
+  },
+  {
+    "name": "Qonto",
+    "ats": "recruitee",
+    "token": "qonto"
+  },
+  {
+    "name": "Pigment",
+    "ats": "recruitee",
+    "token": "pigment"
+  },
+  {
+    "name": "Malt",
+    "ats": "recruitee",
+    "token": "malt"
+  },
+  {
+    "name": "Ledger",
+    "ats": "recruitee",
+    "token": "ledger"
+  },
+  {
+    "name": "Shift Technology",
+    "ats": "recruitee",
+    "token": "shift-technology"
+  },
+  {
+    "name": "Celonis",
+    "ats": "personio",
+    "token": "celonis"
+  },
+  {
+    "name": "GetYourGuide",
+    "ats": "personio",
+    "token": "getyourguide"
+  },
+  {
+    "name": "Trade Republic",
+    "ats": "personio",
+    "token": "traderepublic"
+  },
+  {
+    "name": "N26",
+    "ats": "personio",
+    "token": "n26"
+  },
+  {
+    "name": "Flix",
+    "ats": "personio",
+    "token": "flixbus"
+  },
+  {
+    "name": "Lendable",
+    "ats": "ashby",
+    "token": "lendable"
+  },
+  {
+    "name": "Cloaked",
+    "ats": "ashby",
+    "token": "cloaked"
+  },
+  {
+    "name": "Netspend",
+    "ats": "ashby",
+    "token": "netspend"
+  },
+  {
+    "name": "Upvest",
+    "ats": "ashby",
+    "token": "upvest"
+  },
+  {
+    "name": "Absorb LMS",
+    "ats": "ashby",
+    "token": "absorblms"
+  },
+  {
+    "name": "Rogo",
+    "ats": "ashby",
+    "token": "rogo"
+  },
+  {
+    "name": "Prompt Therapy Solutions",
+    "ats": "ashby",
+    "token": "prompt"
+  },
+  {
+    "name": "Granted",
+    "ats": "ashby",
+    "token": "granted"
+  },
+  {
+    "name": "Stepful",
+    "ats": "ashby",
+    "token": "stepful"
+  },
+  {
+    "name": "Turquoise Health",
+    "ats": "ashby",
+    "token": "turquoise-health"
+  },
+  {
+    "name": "Healthie",
+    "ats": "greenhouse",
+    "token": "healthie"
+  },
+  {
+    "name": "1Password",
+    "ats": "ashby",
+    "token": "1password"
+  },
+  {
+    "name": "Horizon3 AI",
+    "ats": "ashby",
+    "token": "horizon3ai"
+  },
+  {
+    "name": "TLDR",
+    "ats": "ashby",
+    "token": "tldr.tech"
+  },
+  {
+    "name": "Mento",
+    "ats": "ashby",
+    "token": "mento"
+  },
+  {
+    "name": "DOSS",
+    "ats": "ashby",
+    "token": "doss"
+  },
+  {
+    "name": "Sequoia (Benefits)",
+    "ats": "ashby",
+    "token": "sequoia"
+  },
+  {
+    "name": "Wrapbook",
+    "ats": "ashby",
+    "token": "wrapbook"
+  },
+  {
+    "name": "Bitpanda",
+    "ats": "ashby",
+    "token": "bitpanda"
+  },
+  {
+    "name": "Justworks",
+    "ats": "ashby",
+    "token": "justworks"
   }
 ]
