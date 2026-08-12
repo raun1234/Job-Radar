@@ -213,25 +213,6 @@ def deprioritized(company_token):
     return company_token.lower() in DEPRIORITIZE_TOKENS
 
 
-def recruiter_search_url(company_name, job_title):
-    """LinkedIn people-search URL scoped to the company and role function.
-    Pure URL construction, no API call, zero cost."""
-    import urllib.parse
-    t = job_title.lower()
-    if "gtm" in t or "go-to-market" in t:
-        role_type = "recruiter OR talent acquisition OR GTM"
-    elif "product marketing" in t:
-        role_type = "recruiter OR product marketing OR talent"
-    elif "growth" in t:
-        role_type = "recruiter OR growth OR talent acquisition"
-    elif "business development" in t or "partnerships" in t or "alliance" in t:
-        role_type = "recruiter OR partnerships OR talent"
-    else:
-        role_type = "recruiter OR talent acquisition OR hiring"
-    query = f"{company_name} {role_type}"
-    encoded = urllib.parse.quote(query)
-    return f"https://www.linkedin.com/search/results/people/?keywords={encoded}&origin=GLOBAL_SEARCH_HEADER"
-
 
 def strip_html(html):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html or "")).strip()
@@ -527,7 +508,7 @@ def write_csv(all_results):
     cols = ["date_found", "score", "verdict", "company", "title", "location",
             "work_type", "seniority", "salary", "sponsorship_likely",
             "posted_age_days", "deprioritized", "top_signal", "biggest_gap",
-            "missing_keywords", "posting_url", "recruiter_search_url"]
+            "missing_keywords", "posting_url"]
 
     def sponsor_likely(result):
         elig = next((b for b in result.get("breakdown", []) if "Eligibility" in b.get("category", "")), None)
@@ -561,7 +542,6 @@ def write_csv(all_results):
             r.get("biggest_gap", ""),
             "; ".join(r.get("missing_keywords", [])),
             j.get("url", ""),
-            e.get("recruiter_url", ""),
         ])
 
     os.makedirs(RESULTS_DIR, exist_ok=True)
@@ -653,7 +633,6 @@ def main():
             print(f"  score: {score} -- {result.get('verdict')}{' [deprioritized company]' if dep else ''}")
 
             entry = {"job": job, "result": result, "deprioritized": dep,
-                     "recruiter_url": recruiter_search_url(job["company"].replace("-"," ").title(), job["title"]),
                      "found_at": datetime.now(timezone.utc).isoformat()}
             new_results.append(entry)
             all_results.append(entry)
