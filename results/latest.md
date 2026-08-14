@@ -1,171 +1,179 @@
 # Job Radar
 
-Run: 2026-08-13T14:23:30.054463+00:00
+Run: 2026-08-14T14:17:17.465075+00:00
 
-Companies: 269 checked, 79 connected, 1 failed
-Estimated spend this run: $0.1437
+Companies: 269 checked, 181 connected, 1 failed
+Estimated spend this run: $0.1489
 
-## New this run (20)
+## New this run (21)
 
-### 82 -- Product Marketing Manager, Knowledge Work - Core Products @ Anthropic (San Francisco, CA | New York City, NY)
-**Strong Fit** -- Deep PMM fundamentals and AI platform expertise align well; EdTech domain shift and IC-level role (vs. P&L ownership) are moderate gaps.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5385651008)
+### 76 -- Partner Growth Manager @ Apolloio (Remote, United States)
+**Strong Fit** -- Exceptional D2C funnel ownership and segmentation expertise directly transfers; lacks named partner ecosystem or PartnerStack experience but growth motion design is core strength.
+[View posting](https://job-boards.greenhouse.io/apolloio/jobs/6138182004)
 
-- Top signal: Hands-on GEO research on AI platforms (ChatGPT, Claude, Gemini, Perplexity) and proven ability to redesign positioning for measurable uplift (25% sales growth) in complex, multi-segment markets.
-- Biggest gap: EdTech domain and absence of demonstrated battlecard/objection-handling systems; role expects deep IC PMM craft, but candidate's strongest credential is P&L and team leadership at BYJU's.
-- Missing keywords: battlecards, objection handling playbooks, enterprise B2B sales motions, economic buyer narratives, use case library architecture
+- Top signal: 8+ years owning end-to-end D2C funnels with obsessive segmentation, automation, and cohort-level KPI rigor—exactly how Apollo wants to treat long-tail partners as a customer base, not relationships.
+- Biggest gap: Zero hands-on partner channel, agency ecosystem, or PartnerStack/Crossbeam exposure means onboarding will require learning new operational tools and partner-specific incentive mechanics despite strong foundational GTM motion design.
+- Missing keywords: PartnerStack, Crossbeam, Partner commission/incentive design, Agency ecosystem management, Account mapping / overlap detection
 
-### 76 -- Product Marketing Lead, GTM Strategy - Claude for Knowledge Work @ Anthropic (San Francisco, CA | New York City, NY)
-**Strong Fit** -- Owns end-to-end D2C and enterprise GTM motions with segment-by-segment strategy and campaign execution; GEO research is adjacent to AI product adoption—core gap is B2B SaaS depth and no named enterprise account activation at scale.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5385602008)
+### 73 -- Senior Category Growth Manager @ Coursera (United States)
+**Worth Applying** -- Strong GTM and growth fundamentals with proven cross-functional leadership, but lacks direct consumer subscription portfolio experience and demonstrated category management depth.
+[View posting](https://job-boards.greenhouse.io/coursera/jobs/6127488004)
 
-- Top signal: Built and shipped end-to-end D2C funnel for 60+ team, redesigned multi-segment GTM positioning for 25% sales lift, and conducts hands-on GEO research across AI platforms—directly mirrors "turn activation into flywheel" and "ship content yourself" mandate.
-- Biggest gap: No proven track record activating champions and running lifecycle programs inside large enterprise accounts; EdTech is B2C-heavy, not enterprise SaaS buyer motion.
-- Missing keywords: B2B SaaS enterprise account activation, Knowledge work personas (ops/finance/legal buyer behavior), Lifecycle programs inside named accounts, Field marketing coordination at enterprise scale, AI adoption motions or LLM product growth
+- Top signal: Eight years progressive GTM ownership including P&L accountability across 5 markets and proven cross-functional leadership at scale (60+ team), paired with quantified growth outcomes (38% CAC lift, 40% retention gain) directly applicable to Coursera's revenue and conversion mandate.
+- Biggest gap: No demonstrated category portfolio management, subscription LTV metrics ownership, or retention-as-primary-driver optimization—Coursera's emphasis on paid conversion, retention, and LTV sits adjacent to candidate's acquisition and sales enablement strength.
+- Missing keywords: Category Management / Portfolio Management, Lifetime Value (LTV) optimization, Subscription/Freemium business model, Retention-centric growth strategy, Paid conversion funnel (monetization focus)
 
-### 72 -- Product Marketing Manager - Incident Response @ Datadog (New York, New York, USA; San Francisco, California, USA)
-**Worth Applying** -- Strong GTM and D2C funnel expertise with proven messaging/positioning wins, but lacks direct incident response or observability domain depth and is overleveled for a core PMM role.
-[View posting](https://careers.datadoghq.com/detail/8121553/?gh_jid=8121553)
+### 72 -- Digital Growth Manager @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and growth fundamentals with P&L ownership, but lacks direct B2B SaaS/enterprise growth marketing depth and on-site availability conflict unresolved.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5211647007)
 
-- Top signal: Proven ability to redesign GTM positioning and messaging (25% sales lift), paired with hands-on sales enablement and D2C funnel ownership at scale—core PMM competencies.
-- Biggest gap: No domain expertise in incident response, observability, or developer/SRE buyer psychology; positioned as bonus but strongly preferred for credibility with engineering stakeholders.
-- Missing keywords: incident response, incident management, observability, on-call, DevOps, SRE buyers
+- Top signal: P&L ownership across 5 markets + 38% quantified CAC improvement + international expansion track record demonstrates senior operator capability Verkada seeks.
+- Biggest gap: No demonstrated hands-on execution in paid search, LinkedIn, or Meta campaigns—core to Verkada's digital growth mandate—and on-site requirement unaddressed in candidate profile.
+- Missing keywords: Paid search (SEM/Google Ads), LinkedIn/Meta campaign execution, B2B SaaS/enterprise marketing, Marketing automation/ops, Sales pipeline forecasting (revenue ops lens)
 
-### 72 -- Sr. Product Marketing Manager, Sigma Apps @ Sigmacomputing (San Francisco, CA)
-**Worth Applying** -- Strong PMM fundamentals and GTM strategy depth, but lacks direct B2B enterprise application development software experience and no-code/low-code ecosystem exposure.
-[View posting](https://job-boards.greenhouse.io/sigmacomputing/jobs/7784474003)
+### 72 -- Senior Product Marketing Manager @ Gomotive (United States - Remote)
+**Worth Applying** -- Strong GTM and positioning background, but lacks pure product marketing depth and AI-SaaS hardware experience that posting prioritizes.
+[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8684528002)
 
-- Top signal: Proven ability to translate complex product positioning for multiple buyer personas (IT vs. business) and ship GTM strategies that drive measurable sales impact; GEO research shows AI-era market sophistication.
-- Biggest gap: No hands-on experience in B2B enterprise application software, BI platforms, or the cloud data ecosystem—the JD assumes familiarity with how IT/data teams evaluate these tools.
-- Missing keywords: no-code/low-code platforms, embedded analytics, cloud data warehouse ecosystem, enterprise application development tools, IT/data engineering buyer evaluation
+- Top signal: P&L ownership across 5 city markets plus proven ability to redesign GTM positioning and lift sales 25%+ in 6 months demonstrates commercial accountability at senior level.
+- Biggest gap: Career anchored in EdTech B2C; lacks demonstrated experience in enterprise, mid-market, or hardware-enabled SaaS environments that posting emphasizes as strongly preferred.
+- Missing keywords: PLG (product-led growth), Product launch management, SaaS-enabled hardware, Enterprise/mid-market GTM, Feature adoption campaigns
 
-### 72 -- Product Marketing Manager, Growth @ Chime (San Francisco, CA, USA)
-**Worth Applying** -- Strong GTM and growth fundamentals with proven funnel optimization, but lacks fintech/financial services domain depth and is slightly overleveled in P&L scope for this individual contributor role.
-[View posting](https://boards.greenhouse.io/chime/jobs/8657239002?gh_jid=8657239002)
+### 72 -- Senior Product Marketing Manager @ Recordedfuture (Boston, MA) (deprioritized company)
+**Worth Applying** -- Strong GTM and positioning skills, but lacks cybersecurity domain depth and agentic AI product experience that role prioritizes.
+[View posting](https://job-boards.greenhouse.io/recordedfuture/jobs/8700130002)
 
-- Top signal: Proven 38% CAC improvement and 27% conversion rate lift through systematic funnel redesign and messaging optimization directly mirrors Chime's acquisition and activation mandate.
-- Biggest gap: Zero fintech or financial services domain experience; all context is EdTech, creating onboarding and competitive credibility risk in payments/banking environment.
-- Missing keywords: fintech, financial services, payments, banking, member retention
+- Top signal: Direct GEO research on AI platforms + proven ability to redesign positioning across multiple buyer personas and drive measurable GTM lifts.
+- Biggest gap: No cybersecurity, threat intelligence, or enterprise security background; EdTech D2C buyer psychology differs materially from CISO/risk buyer psychology.
+- Missing keywords: cybersecurity domain expertise, threat intelligence platform experience, agentic AI/MCP product knowledge, enterprise security buyer personas, CISO/technical buyer engagement depth
 
-### 68 -- Senior Product Marketing Manager @ Postman (San Francisco, California, United States) (deprioritized company)
-**Worth Applying** -- Strong PMM fundamentals and positioning expertise, but lacks direct SaaS/DevTools and developer-audience experience that Postman prioritizes.
-[View posting](https://job-boards.greenhouse.io/postman/jobs/7729921003)
+### 71 -- Business Development Manager, Strategic Partnerships @ Dropbox (Remote - US: Select locations)
+**Worth Applying** -- Strong BD and cross-functional GTM track record, but SaaS/cloud experience is EdTech-adjacent, not core enterprise SaaS, and sponsorship need creates marginal risk for large tech employer.
+[View posting](https://jobs.dropbox.com/listing/8048847?gh_jid=8048847)
 
-- Top signal: Demonstrated positioning redesign and competitive intelligence work; ability to translate complex product (BYJU'S, PlanetSpark) into customer value narratives across segments.
-- Biggest gap: No direct experience marketing to developers or creating technical content; EdTech D2C positioning does not substitute for SaaS/DevTools PMM credibility Postman seeks.
-- Missing keywords: Developer marketing / developer audience experience, SaaS or DevTools product marketing, Feature launch execution at scale, Developer content creation (blogs, tutorials, videos for technical personas), Platform/API familiarity or technical product depth
+- Top signal: Owned $5M BD pipeline across 6 quarters with consistent target overachievement; rebuilt sales operations for 42% productivity gain; international expansion across 3 markets shows partnership scaling capability.
+- Biggest gap: EdTech D2C background, not enterprise SaaS/cloud/hardware ecosystems; no explicit strategic distribution or device partnership experience; visa sponsorship requirement at large US tech firm carries hiring friction.
+- Missing keywords: distribution partnerships, hardware ecosystems, AI agent ecosystems, device distribution, enterprise SaaS
 
-### 68 -- Growth Marketing Manager, Ad Studio @ Hightouch (Remote (North America))
-**Worth Applying** -- Strong GTM and growth fundamentals, but lacks direct B2B SaaS paid acquisition and performance marketing depth that posting prioritizes.
-[View posting](https://job-boards.greenhouse.io/hightouch/jobs/6142201004)
+### 71 -- Lead Product Marketing Manager @ Mindbody (United States)
+**Worth Applying** -- Strong GTM and messaging credentials, but lacks direct SaaS PMM depth and consulting pedigree that posting explicitly values.
+[View posting](https://www.playlist.com/careers/opportunities/4703645006?gh_jid=4703645006)
 
-- Top signal: Diagnosed and fixed a leaky top-of-funnel through GTM redesign (+38% CAC), demonstrating systems thinking and funnel mastery that maps to Ad Studio's full-motion mandate.
-- Biggest gap: No demonstrated hands-on experience running and optimizing paid ad campaigns across platforms—posting emphasizes performance marketing 5+ years, not just growth strategy.
-- Missing keywords: Paid acquisition (LinkedIn, Meta, Google), Demand generation execution, CPL and CAC optimization, Attribution and experiment design, Content marketing / blog writing
+- Top signal: Owns GTM positioning redesigns with measurable sales impact (25% growth, 38% CAC lift); cross-functional execution and sales enablement proven at scale.
+- Biggest gap: No explicit SaaS product marketing or consulting background; EdTech-to-B2B SaaS domain shift requires bridge; no content portfolio mentioned.
+- Missing keywords: Strategy or management consulting background, 8+ years product marketing SaaS specifically, Portfolio / content samples, Launch campaign execution end-to-end, B2B SaaS platform or pricing complexity
 
-### 58 -- Solutions Marketing Lead, Public Sector @ Anthropic (San Francisco, CA | New York City, NY)
-**Stretch** -- Strong GTM and positioning skills, but zero public sector or government experience and no demonstrated enterprise sales enablement track record.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5385586008)
+### 68 -- Senior Product Marketing Operations Manager @ Dropbox (Remote - US: Select locations)
+**Worth Applying** -- Strong GTM and operations foundation, but lacks direct PMM ops experience and messaging/positioning lifecycle ownership at scale.
+[View posting](https://jobs.dropbox.com/listing/8070685?gh_jid=8070685)
 
-- Top signal: P&L ownership across 5 markets and proven ability to rebuild GTM positioning from diagnosis (leaky funnel → 38% CAC lift) shows strategic rigor and cross-functional execution.
-- Biggest gap: Zero government or public sector background; EdTech consumer funnel expertise does not signal readiness for federal agency stakeholder navigation, compliance messaging, or defense procurement cycles.
-- Missing keywords: public sector / government experience, federal agency / defense sector, enterprise sales enablement at scale, procurement / compliance cycles, thought leadership / speaking engagements
+- Top signal: Built KPI dashboards and cross-functional operating cadences at BYJU's that drove clarity and accountability; directly transferable to PMM ops mandate.
+- Biggest gap: No demonstrated ownership of messaging frameworks, positioning asset repositories, or PMM-specific content ops infrastructure at enterprise scale.
+- Missing keywords: product marketing operations, messaging and positioning lifecycle, launch governance, content systems, portfolio roadmap visibility
 
-### 52 -- Product Marketing Manager - SASE @ Netskope (United States) (deprioritized company)
-**Stretch** -- Strong GTM and growth track record, but zero enterprise security domain depth and no SWG/CASB/ZTNA experience in a role requiring SME-level technical credibility.
-[View posting](https://www.netskope.com/company/careers/open-positions/?gh_jid=8074980)
+### 68 -- Fractional Sales Enablement Lead @ Stepful (Remote, United States)
+**Worth Applying** -- Strong GTM and cross-functional leadership; lacks direct sales enablement and healthcare experience but EdTech background and startup agility offset gaps.
+[View posting](https://jobs.ashbyhq.com/stepful/71d8731a-5f25-426f-be5c-b349996ae35e)
 
-- Top signal: P&L ownership, 38% CAC lift, 40% retention improvement, and cross-functional GTM execution at scale demonstrate commercial acumen and delivery discipline.
-- Biggest gap: Zero hands-on experience in enterprise security, cloud infrastructure, or SASE technology domains; would require steep ramp to credibly serve as SME for customers, analysts, and press.
-- Missing keywords: SWG (Secure Web Gateway), CASB (Cloud Access Security Broker), ZTNA (Zero Trust Network Access), enterprise security, data protection
+- Top signal: Built and scaled multi-team GTM functions at BYJU's (60+ cross-functional team) with measurable sales ops productivity gains (20–42%); natural fit for greenfield enablement architecture.
+- Biggest gap: No direct sales or client success enablement program ownership or learning design experience; transition from GTM strategy execution to enablement function building requires re-skilling on training methodologies and adoption measurement.
+- Missing keywords: Sales enablement program design, Learning and development expertise, Gong platform experience, HubSpot knowledge, Healthcare industry background
 
-### 52 -- Senior Partnerships Manager, Solutions @ Zoominfo (Waltham, Massachusetts, United States)
-**Stretch** -- Strong GTM and growth track record, but solutions partner program architecture and delivery partner enablement are materially different from D2C/direct sales GTM motions.
-[View posting](https://www.zoominfo.com/careers?gh_jid=8537341002)
+### 68 -- Growth Manager, Performance Marketing @ Omni (San Francisco, CA)
+**Worth Applying** -- Strong GTM and funnel optimization skills, but performance marketing execution and paid media platform expertise are material gaps for this paid-acquisition-focused role.
+[View posting](https://jobs.ashbyhq.com/omni/2080eef2-1eee-4366-8db6-bcbbbb718c9e)
 
-- Top signal: Proven ability to diagnose GTM friction (30% leak at awareness stage), redesign cross-functional workflows (sales enablement +42% productivity), and drive measurable adoption—signals systems-thinking that could translate to partner program architecture.
-- Biggest gap: No demonstrated experience building, scaling, or managing partner ecosystems; all wins are direct sales, D2C funnel, or internal ops—this role requires hands-on partner recruitment and delivery partner enablement from day one.
-- Missing keywords: solutions partner program, implementation partner enablement, delivery partner recruitment, partner business planning and QBRs, partner performance metrics
+- Top signal: P&L ownership across 5 markets and 60-person cross-functional team demonstrates commercial accountability and scaling ability that translates to growth manager scope.
+- Biggest gap: No demonstrated hands-on experience managing paid advertising platforms (Google, Meta, LinkedIn, YouTube) or quantified paid acquisition metrics, which are central to this role.
+- Missing keywords: performance marketing, Google Ads, Meta / Facebook Ads, LinkedIn advertising, paid media ROI
 
-### 52 -- Partner Manager @ Gusto (San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote)
-**Stretch** -- Strong GTM and growth experience, but Partner Manager role requires deep accounting firm relationship management and B2B SaaS partnership acumen that candidate's EdTech D2C background does not demonstrate.
-[View posting](https://job-boards.greenhouse.io/gusto/jobs/7834234)
+### 62 -- Product Marketing Operations Manager, Research @ Anthropic (San Francisco, CA | New York City, NY)
+**Worth Applying** -- Strong cross-functional execution and process-building skills, but lacks direct launch operations or product operations background that posting emphasizes.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5385715008)
 
-- Top signal: Proven ability to redesign GTM messaging for 25% sales lift and manage cross-functional teams at scale (60+ members) shows strategic rigor and execution discipline.
-- Biggest gap: Candidate's entire background is EdTech D2C funnel optimization; Partner Manager requires relationship-driven B2B SaaS partnership management in a regulated professional services vertical—fundamentally different motion.
-- Missing keywords: Partner relationship management, Account portfolio management, Quarterly Business Reviews (QBRs), Renewal and upsell at enterprise scale, Accounting/professional services domain knowledge
+- Top signal: Rebuilt sales enablement and onboarding systems; designed KPI dashboards for senior leadership; comfortable with complex, shifting cross-functional coordination.
+- Biggest gap: No demonstrated experience owning model/product launch calendars, review workflows, or launch-day execution — the core accountability of this role.
+- Missing keywords: launch operations, release management, technical program management, launch calendar, cross-functional orchestration at launch scale
 
-### 52 -- Senior Product Marketing Manager, WebApp @ Horizon3Ai (US, Remote)
-**Stretch** -- Strong GTM fundamentals and growth track record, but lacks cybersecurity domain depth and technical security practitioner background required for this AppSec/ASPM launch.
-[View posting](https://jobs.ashbyhq.com/horizon3ai/f82ec7bc-14e8-4ebc-8ebe-16f9621776a6)
+### 62 -- Sr Product Marketing Manager, Cloud Data Protection @ Rubrik (United states)
+**Worth Applying** -- Strong GTM and PMM fundamentals with proven positioning/messaging wins, but lacks cybersecurity domain depth and cloud platform specificity that this role prioritizes.
+[View posting](https://www.rubrik.com/company/careers/departments/job.8053682?gh_jid=8053682)
 
-- Top signal: 8+ years of proven GTM strategy, product launch, and cross-functional execution with quantified pipeline/revenue wins; comfortable translating complex technical capabilities into market narratives.
-- Biggest gap: Zero cybersecurity or application security domain experience; EdTech B2C playbook does not transfer to enterprise security buyer psychology, threat landscape, or vendor evaluation criteria required to launch NodeZero WebApp into ASPM market.
-- Missing keywords: AppSec / Application Security Posture Management (ASPM), DAST / Dynamic Application Security Testing, Penetration testing / Pen tester background, Security practitioner / offensive security, Enterprise cybersecurity SaaS GTM
+- Top signal: Proven ability to redesign product positioning and messaging (BYJU's 25% sales uplift, PlanetSpark 38% CAC improvement) directly mirrors the role's core demand.
+- Biggest gap: Zero stated experience in cybersecurity, data protection, or cloud platforms—a material domain gap that cannot be offset by GTM execution alone in a specialized B2B security role.
+- Missing keywords: cybersecurity / data protection domain, AWS / Azure / Google Cloud experience, data security or cloud security background, Claude Cowork / AI tool fluency (stated), analyst relations / Gartner engagement
 
-### 52 -- Senior Business Development Associate, Payer Partnerships @ Headway (Remote)
-**Stretch** -- Strong GTM and growth chops, but healthcare/payer BD is specialized domain; candidate has zero payer or healthcare sales experience despite excellent commercial fundamentals.
-[View posting](https://jobs.ashbyhq.com/headway/ca870cc4-4266-4c29-be87-1b8f5a9dd531)
+### 62 -- Product Marketing Manager @ Lumaai (Redwood City, CA)
+**Worth Applying** -- Strong GTM execution and P&L ownership, but lacks creative software domain depth and generative AI startup experience the role prioritizes.
+[View posting](https://jobs.ashbyhq.com/lumaai/47df4baa-8cfa-4834-9659-5abedfbcaa3e)
 
-- Top signal: 8+ years building scalable GTM motions with quantified revenue impact and cross-functional leadership; AI fluency and research rigor evident from GEO audit work.
-- Biggest gap: Zero healthcare or payer BD experience; EdTech D2C funnel expertise does not transfer to complex B2B healthcare negotiations and regulatory/claims workflows that define payer sales.
-- Missing keywords: payer partnerships, health plan negotiations, healthcare claims/credentialing, insurance operations, provider network management
+- Top signal: 8+ years GTM strategy ownership, P&L accountability across 5 markets, 38% customer acquisition lift and international pipeline scaling directly transfer to Luma's early-stage, ambitious GTM build.
+- Biggest gap: No hands-on experience in creative software or generative AI verticals; EdTech context limits credibility in visual/creative tool positioning and storytelling that role prioritizes.
+- Missing keywords: creative software positioning, visual craft and design sensibility, generative AI startup experience, creative verticals networks (VFX, film, advertising), category-defining narratives
 
-### 52 -- Revenue Operations Manager  @ Sigmacomputing (New York City, NY)
-**Stretch** -- Strong GTM and growth ops foundation, but lacks direct Revenue Operations title, Salesforce proficiency, and LLM-automation hands-on experience required for this strategic ops role.
-[View posting](https://job-boards.greenhouse.io/sigmacomputing/jobs/7750787003)
+### 62 -- Lead Customer Marketing Manager  @ Gofundme (Remote)
+**Worth Applying** -- Strong cross-functional GTM operator with B2B SaaS growth experience, but customer marketing and AM enablement are adjacent to—not central to—his track record.
+[View posting](https://job-boards.greenhouse.io/gofundme/jobs/8095442)
 
-- Top signal: Built KPI dashboards and operating systems for high-growth businesses; P&L ownership across 5 markets signals strategic business acumen and VP-partnership credibility.
-- Biggest gap: No direct Revenue Operations background, Salesforce expertise, or demonstrated hands-on LLM/AI automation work—three named requirements in a strategic ops role.
-- Missing keywords: Revenue Operations (title), Salesforce (platform proficiency), B2B SaaS sales operations, Territory management & coverage models, LLM-powered automation (hands-on deployment)
+- Top signal: Proven ability to redesign multi-channel GTM sequences, rebuild sales enablement systems (42% productivity uplift), and act as connective tissue across sales, product, and operations teams.
+- Biggest gap: No demonstrated ownership of customer lifecycle campaigns, review generation, or AM-facing enablement collateral; expertise is demand generation and acquisition, not retention and expansion marketing.
+- Missing keywords: Customer marketing, Lifecycle marketing, Review generation programs, Gong / Gainsight / HubSpot, QBR / EBR templates
 
-### 52 -- Partner Manager, MSP @ 1Password (United States)
-**Stretch** -- Strong GTM and growth credentials but lacks direct MSP channel, partner management, or cybersecurity SaaS background.
-[View posting](https://jobs.ashbyhq.com/1password/2a81499d-bfda-4de9-8897-a8ebcec29a65)
+### 52 -- Senior Strategic Partnerships Manager - Enterprise @ Mercury (San Francisco, CA, New York, NY, Portland, OR, or Remote within United States)
+**Stretch** -- Strong GTM and growth track record, but lacks proven platform-scale partnership closing and enterprise relationship network that role demands.
+[View posting](https://job-boards.greenhouse.io/mercury/jobs/6113876004)
 
-- Top signal: Proven ability to redesign GTM positioning, drive 30%+ pipeline lifts, manage cross-functional teams, and scale revenue operations at scale (BYJU's, PlanetSpark).
-- Biggest gap: Zero experience in partner/reseller channel management, MSP sales motions, or B2B SaaS—candidate's entire career is direct-to-consumer EdTech growth, not enterprise partner ecosystems.
-- Missing keywords: MSP ecosystem and reseller channels, B2B SaaS recurring revenue / ARR models, Cybersecurity or identity/access management, Partner onboarding and deployment coordination, Enterprise IT environment complexity
+- Top signal: 8+ years GTM and cross-functional leadership proven at scale; P&L accountability and 38% CAC improvement show strategic execution discipline.
+- Biggest gap: No track record of closing platform-scale distribution deals or building enterprise partnerships; candidate's BD experience was bottom-up, segmented campaigns, not top-down hunter motion.
+- Missing keywords: Platform partnerships, Enterprise deal structuring, Embedded finance, API integrations, C-suite network activation
 
-### 52 -- Sr. Product Marketing Manager, Lending @ Chime (San Francisco, CA, USA)
-**Stretch** -- Strong GTM and D2C funnel chops, but lacks required lending/financial services domain depth and credit risk exposure.
-[View posting](https://boards.greenhouse.io/chime/jobs/8684361002?gh_jid=8684361002)
+### 52 -- Strategic Partnerships Manager - AI/API @ Mercury (San Francisco, CA, New York, NY, Portland, OR, or Remote within United States)
+**Stretch** -- Strong GTM and growth background, but lacks the developer ecosystem immersion, technical credibility with engineers, and partnership sourcing track record this role demands.
+[View posting](https://job-boards.greenhouse.io/mercury/jobs/6113878004)
 
-- Top signal: Owns full D2C funnel lifecycle with quantified outcomes (acquisition, retention, conversion) and proven ability to redesign GTM positioning for measurable sales lift.
-- Biggest gap: Zero exposure to lending, credit products, or regulated financial services; candidate would need to prove transferability from EdTech to high-stakes lending domain.
-- Missing keywords: consumer lending experience, credit risk / underwriting exposure, regulated financial services, loan servicing, compliance / regulatory frameworks
+- Top signal: GEO research demonstrates hands-on AI platform navigation and positioning work; MBA coursework in product and analytics shows continued learning velocity.
+- Biggest gap: No evidence of hunting/sourcing partnerships, building presence in developer communities, or earning technical credibility with engineers—core to this role's DNA.
+- Missing keywords: Developer Relations, API partnerships, Technical credibility with engineers/CTOs, Partnership sourcing and closure, Fintech or payments experience
 
-### 52 -- Senior Product Partnerships Manager - Expansion @ Mercury (San Francisco, CA, New York, NY, Portland, OR, or Remote within United States)
-**Stretch** -- Strong GTM and cross-functional leadership, but lacks direct payroll product experience and strategic partnership negotiation track record.
-[View posting](https://job-boards.greenhouse.io/mercury/jobs/6104219004)
+### 52 -- Commercial Lead (Biz Dev & Sales) @ Redsky (Remote, Poland)
+**Stretch** -- Strong GTM and commercial strategy background, but lacks direct enterprise B2B sales closing experience and Poland/EU market familiarity.
+[View posting](https://redsky.recruitee.com/o/commercial-lead-biz-dev-sales)
 
-- Top signal: 8+ years managing complex multi-stakeholder GTM operations and cross-functional alignment across product, sales, and engineering teams.
-- Biggest gap: No demonstrated experience managing partnerships, negotiating vendor contracts, or owning payroll integrations—core to this role's mandate.
-- Missing keywords: strategic partnerships, vendor negotiation, contract negotiation, RFP process, payroll ecosystem
+- Top signal: 8+ years commercial leadership with P&L ownership, proven funnel redesign (38% CAC lift), and cross-functional execution at scale.
+- Biggest gap: Profile is GTM/growth strategy-focused, not field sales—candidate has not demonstrated direct enterprise deal closure, negotiation, or sustained account farming at the deal level this role requires.
+- Missing keywords: Enterprise B2B sales closing, Complex deal negotiation, Account management at scale, Outbound prospecting motion, Poland/EU market experience
 
-### 42 -- Revenue Operations Manager (Process) @ Headway (Remote - New York)
-**Stretch** -- Strong GTM/growth foundation and cross-functional leadership, but lacks core Rev Ops, AI-native workflow automation, and SQL/Python technical depth the role demands.
-[View posting](https://jobs.ashbyhq.com/headway/3433bad6-2ae5-4451-9433-3a12b6f586e0)
+### 48 -- Senior Marketing Operations Manager @ Salesloft (United States, Remote)
+**Stretch** -- Strong GTM and growth background, but lacks hands-on marketing operations, Marketo, LeanData, and Tray.io expertise that define this technical role.
+[View posting](https://www.salesloft.com/company/careers?gh_jid=8022101)
 
-- Top signal: P&L ownership and international pipeline scaling demonstrate commercial accountability; GEO research shows emerging AI fluency relevant to AI-native tooling evaluation.
-- Biggest gap: Profile is GTM/growth execution, not operational automation or technical infrastructure; Headway needs someone already shipping AI workflows daily, not learning Rev Ops from a growth PMM angle.
-- Missing keywords: Revenue Operations / Rev Ops, SQL / data querying, prompt engineering / agentic workflows, API integration / orchestration, Python (automation/operational use)
+- Top signal: Proven ability to diagnose funnel leaks, redesign GTM sequences, and build KPI systems that drive measurable pipeline growth—strong analytical rigor.
+- Biggest gap: Zero hands-on marketing operations or martech stack management experience; this is a technical execution role requiring deep tool expertise Raunak has not demonstrated.
+- Missing keywords: Marketo administration & architecture, LeanData lead routing, Tray.io workflow automation, Marketing technology stack ownership, Email marketing platform expertise
 
-### 42 -- Revenue Operations Manager (Insights & AI) @ Headway (Remote)
-**Stretch** -- Strong GTM and growth credentials, but lacks the analytics infrastructure, SQL/data modeling, and healthcare revenue ops depth this role demands.
-[View posting](https://jobs.ashbyhq.com/headway/64998174-15cc-46e4-8a51-e67c131b94af)
+### 42 -- Business Development Manager @ Culligan-Uk-Limited ()
+**Stretch** -- Strong GTM and growth chops, but B2C EdTech experience misaligns with Culligan's B2B water treatment sales cycle and regional UK focus.
+[View posting](https://apply.workable.com/j/F977E0EC84)
 
-- Top signal: Built KPI dashboards and funnel analytics; demonstrated cross-functional data communication; proven ability to scale operations across complex multi-location P&L.
-- Biggest gap: Core role requires 0→1 analytics infrastructure and SQL fluency; candidate's strength is GTM strategy and operational leverage, not data engineering or healthcare domain.
-- Missing keywords: SQL, data modeling, healthcare / health systems, self-service analytics, predictive analytics / AI for churn/risk
+- Top signal: Demonstrated ability to diagnose leaky funnels, redesign GTM sequences, and drive 25–42% revenue uplift in scaled environments.
+- Biggest gap: Culligan is B2B field sales; candidate is D2C growth marketer with zero water, industrial, or regional UK sales experience; sponsorship unlikely for SME.
+- Missing keywords: field sales, account management, consultative selling, B2B enterprise, water treatment or facilities
 
-### 28 -- Business Development Manager - Americas PRINCE2 (Greece Based) @ Peoplecert ()
-**Weak Fit** -- Candidate is GTM/growth focused; role requires PRINCE2 certification sales expertise and Greece-based operations with no visa sponsorship mention.
-[View posting](https://apply.workable.com/j/4B19E31B1A)
+### 41 -- Senior Revenue Operations Manager @ Automatticcareers (Remote)
+**Stretch** -- Strong GTM and analytics foundation, but lacks the specialized RevOps build-from-scratch experience and technical depth (SQL, Salesforce flows) this 0→1 RevOps role demands.
+[View posting](https://job-boards.greenhouse.io/automatticcareers/jobs/7475345)
 
-- Top signal: 8+ years GTM and revenue growth leadership with quantified pipeline and acquisition results.
-- Biggest gap: Role demands PRINCE2 certification sales expertise and Greece-based operations; candidate is US-based GTM strategist with EdTech/SaaS background and requires visa sponsorship that employer unlikely to provide for European role.
-- Missing keywords: PRINCE2 certification, Project management training sales, B2B certification/credentialing, Enterprise training partnerships, Greece operations experience
+- Top signal: Proven ability to build KPI systems, dashboards, and funnel analytics under commercial pressure; direct Salesforce and forecasting rigor.
+- Biggest gap: No demonstrated 0→1 RevOps build or deep technical RevOps foundation—background is GTM/growth strategy, not revenue operations architecture or data engineering.
+- Missing keywords: SQL, RevOps 0→1 build, Salesforce flows and integrations, Territory planning and quota setting, Data governance and quality frameworks, Churn prediction and health scoring, AI/automation in RevOps context
+
+### 28 -- Sales & GTM Leadership Coach @ Mento (Remote - US)
+**Weak Fit** -- Candidate lacks the 15+ years and Director/VP-level team leadership at scale required; is a Manager stepping into MBA, not an experienced people leader ready to coach peers.
+[View posting](https://jobs.ashbyhq.com/mento/1188c101-0a6e-40d8-afe9-aeff07c946b7)
+
+- Top signal: Cross-functional team scaling, sales enablement system design, and ABM/CRM expertise show GTM acumen; MBA in progress signals learning mindset.
+- Biggest gap: Posting requires 15+ years and Director/VP-level team leadership; candidate has 8 years as Manager/AGM without direct quota-carrying sales team P&L—a fundamental seniority and experience gap that cannot be bridged by strong GTM strategy skills alone.
+- Missing keywords: 15+ years professional experience, Director or VP level, managed quota-carrying sales teams, team revenue target accountability, Revenue Operations leadership, coached managers toward performance, enterprise SaaS hypergrowth
 
 ## Top 15 all-time
 
@@ -192,6 +200,14 @@ Estimated spend this run: $0.1437
 ### 76 -- Product Marketing Lead, GTM Strategy - Claude for Knowledge Work @ Anthropic (San Francisco, CA | New York City, NY)
 **Strong Fit** -- Owns end-to-end D2C and enterprise GTM motions with segment-by-segment strategy and campaign execution; GEO research is adjacent to AI product adoption—core gap is B2B SaaS depth and no named enterprise account activation at scale.
 [View posting](https://job-boards.greenhouse.io/anthropic/jobs/5385602008)
+
+### 76 -- Partner Growth Manager @ Apolloio (Remote, United States)
+**Strong Fit** -- Exceptional D2C funnel ownership and segmentation expertise directly transfers; lacks named partner ecosystem or PartnerStack experience but growth motion design is core strength.
+[View posting](https://job-boards.greenhouse.io/apolloio/jobs/6138182004)
+
+### 73 -- Senior Category Growth Manager @ Coursera (United States)
+**Worth Applying** -- Strong GTM and growth fundamentals with proven cross-functional leadership, but lacks direct consumer subscription portfolio experience and demonstrated category management depth.
+[View posting](https://job-boards.greenhouse.io/coursera/jobs/6127488004)
 
 ### 72 -- Industry Product Marketing Manager @ Openai (San Francisco)
 **Good Fit** -- Strong GTM and product marketing fundamentals with AI-era GEO differentiation, but lacks regulated vertical experience (Life Sciences, Banking, Healthcare) and enterprise sales motion depth required for this specific role.
@@ -220,11 +236,3 @@ Estimated spend this run: $0.1437
 ### 72 -- Growth Marketing Manager, SMB Ads @ Openai (San Francisco)
 **Good Fit** -- Strong GTM and funnel optimization foundation with proven D2C execution, but lacks hands-on ads platform experience and SMB-specific growth marketing track record.
 [View posting](https://jobs.ashbyhq.com/openai/dc503400-f7a8-4ad4-b50b-b33d2d12cc2d)
-
-### 72 -- Strategic Partner Manager @ Openai (San Francisco)
-**Good Fit** -- Strong cross-functional operator with proven GTM and partnership execution at scale, but lacks direct strategic partnerships and product integration experience that OpenAI prioritizes.
-[View posting](https://jobs.ashbyhq.com/openai/cf9c63d6-3cf3-4951-af4f-ef60d71a3521)
-
-### 72 -- Product Marketing Lead, Consumer Subscriptions @ Openai (San Francisco)
-**Good Fit** -- Strong GTM and D2C funnel expertise with proven subscription/conversion work, but lacks direct consumer subscription product marketing leadership and premium SaaS positioning at OpenAI's scale.
-[View posting](https://jobs.ashbyhq.com/openai/f8f026e4-043d-40d1-ae45-d97b0a460ee7)
