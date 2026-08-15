@@ -7920,5 +7920,746 @@
     },
     "deprioritized": false,
     "found_at": "2026-08-14T14:17:16.690917+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:anthropic:5391155008",
+      "company": "anthropic",
+      "title": "Global Technology Partner Manager",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391155008",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;3:1-3:18;34-51&quot;&gt;About the role&lt;/h2&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;5:1-5:422;53-474&quot;&gt;Anthropic is seeking a Global Technology Partner Lead to build and scale our strategic partnerships with leading technology platforms. In this role, you&#39;ll own multi-dimensional relationships spanning product integrations, co-selling, channel enablement, and joint go-to-market execution \u2014 turning key partnerships into major revenue drivers for Anthropic while helping partners capture real value from the AI landscape.&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;7:1-7:328;476-803&quot;&gt;This is a foundational role: you&#39;ll build the Global Technology Partnerships function from the ground up, defining team strategy and establishing the operating model as the group scales. You&#39;ll operate at the executive level with partner leadership while also driving tactical execution across a portfolio of priority accounts.&lt;/p&gt; &lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;9:1-9:24;805-828&quot;&gt;Key responsibilities&lt;/h2&gt; &lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1&quot; data-sourcepos=&quot;11:1-20:102;830-2053&quot;&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;11:1-11:126;830-955&quot;&gt;Build the Global Technology Partnerships function, including team development, operating model, goals, and overall strategy&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;12:1-12:119;956-1074&quot;&gt;Own the joint go-to-market relationship and joint business plan with a portfolio of named global technology partners&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;13:1-13:157;1075-1231&quot;&gt;Define the joint value proposition for each partner in collaboration with account teams, including which products, use cases, and industries to prioritize&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;14:1-14:133;1232-1364&quot;&gt;Build and maintain executive relationships within partner leadership teams, identifying their largest transformation opportunities&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;15:1-15:99;1365-1463&quot;&gt;Develop competitive positioning and enablement programs across partner sales and technical teams&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;16:1-16:125;1464-1588&quot;&gt;Create sales tools, training curricula, and certification programs that equip partner teams to effectively position Claude&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;17:1-17:77;1589-1665&quot;&gt;Partner with marketing on co-marketing, events, and joint customer stories&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;18:1-18:153;1666-1818&quot;&gt;Partner with technical teams to build production-grade, Claude-powered solutions, including reference architectures and industry-specific accelerators&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;19:1-19:133;1819-1951&quot;&gt;Establish success criteria for joint accounts, ensure implementation support, and create feedback loops for continuous improvement&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;20:1-20:102;1952-2053&quot;&gt;Own the partnerships&#39; P&amp;amp;L contribution and establish metrics and governance for partner performance&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;22:1-22:26;2055-2080&quot;&gt;Minimum qualifications&lt;/h2&gt; &lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1&quot; data-sourcepos=&quot;24:1-28:103;2082-2584&quot;&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;24:1-24:96;2082-2177&quot;&gt;Experience managing strategic partnerships with technology, cloud, or data platform companies&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;25:1-25:123;2178-2300&quot;&gt;Experience owning revenue-generating partnership or channel relationships, including forecasting and pipeline management&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;26:1-26:91;2301-2391&quot;&gt;Experience structuring and negotiating complex, multi-stakeholder partnership agreements&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;27:1-27:90;2392-2481&quot;&gt;Experience engaging directly with executive-level stakeholders at partner organizations&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;28:1-28:103;2482-2584&quot;&gt;Experience partnering cross-functionally with engineering or technical teams on product integrations&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;30:1-30:28;2586-2613&quot;&gt;Preferred qualifications&lt;/h2&gt; &lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1&quot; data-sourcepos=&quot;32:1-37:83;2615-3191&quot;&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;32:1-32:94;2615-2708&quot;&gt;8+ years of experience managing strategic partnerships with leading data or cloud platforms&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;33:1-33:97;2709-2805&quot;&gt;Existing relationships with VP-level and above leaders within technology partner organizations&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;34:1-34:93;2806-2898&quot;&gt;Experience owning partnerships that generated $50M or more in influenced or direct revenue&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;35:1-35:115;2899-3013&quot;&gt;Familiarity with the AI and data platform landscape and ability to articulate Claude&#39;s technical differentiation&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;36:1-36:95;3014-3108&quot;&gt;Experience building partnership programs, metrics, and operating cadences from the ground up&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;37:1-37:83;3109-3191&quot;&gt;Technical understanding of enterprise architectures, software, and data services&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt; &lt;p&gt;For sales roles, the range provided is the role\u2019s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$365,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$425,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor\u2019s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt; &lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links\u2014visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact \u2014 advancing our long-term goals of steerable, trustworthy AI \u2014 rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt; &lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-08-14T18:06:50-04:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM, P&L, and partnership execution chops, but lacks named enterprise technology partnerships and SaaS channel maturity that Anthropic's foundational role demands.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Senior Program Manager \u2192 Partner Lead is one tier up; P&L ownership and team leadership signal readiness, but no prior partnerships title."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 71,
+          "note": "Strong on GTM, sales enablement, competitive positioning, joint business planning. Missing: channel strategy, partner ecosystem, co-selling maturity."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 64,
+          "note": "EdTech GTM transfers to B2B SaaS, but no enterprise technology partnerships, ISV relationships, or platform integrations shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 66,
+          "note": "38% CAC lift, 40% retention gain, 25% positioning-driven growth are strong. No evidence of $M-scale partnership revenue or multi-year partner account ownership."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 72,
+          "note": "H1B sponsorship required; Anthropic is large, well-funded AI leader likely to sponsor. No visa blocker in role or geography."
+        }
+      ],
+      "missing_keywords": [
+        "channel partnerships",
+        "technology partner ecosystem",
+        "co-selling",
+        "ISV integrations",
+        "enterprise account management"
+      ],
+      "top_signal": "Built GTM functions from scratch, owns P&L, excels at competitive positioning and sales enablement\u2014exact skills Anthropic needs to launch partnerships function.",
+      "biggest_gap": "No demonstrated experience building or scaling technology partnerships, channel strategy, or multi-year strategic partner account ownership at enterprise scale."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:27:09.688700+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:anthropic:5391191008",
+      "company": "anthropic",
+      "title": "Strategic Business Development Lead",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391191008",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;4:1-4:18;139-156&quot;&gt;About the role&lt;/h2&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;6:1-6:574;158-731&quot;&gt;We&#39;re seeking a senior business development leader to own Anthropic&#39;s BD partnership footprint with a small number of the world&#39;s largest and most consequential technology companies. These are not single-threaded accounts. Each relationship spans many businesses at once \u2014 consumer products, devices and operating systems, productivity and collaboration software, cloud and developer platforms, commerce, and enterprise distribution. Your job is to see the whole board, decide where Anthropic should lean in and where it shouldn&#39;t, and turn that judgment into signed deals.&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;8:1-8:474;733-1206&quot;&gt;The center of gravity for this role is product and distribution partnerships: co-developing opportunities with partners, and structuring the commercial, technical, and go-to-market terms that make those partnerships durable. You&#39;ll typically be running several deal streams inside the same partner in parallel \u2014 at different stages, with different counterparts, and with terms that interact with one another \u2014 and you&#39;ll be the person responsible for keeping them coherent.&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; data-sourcepos=&quot;10:1-10:336;1208-1543&quot;&gt;This is an individual contributor role for a seasoned dealmaker who is comfortable as the primary counterpart to senior executives at very large companies, who brings strong judgment to ambiguous, high-stakes situations, and who can carry a complex, multi-party negotiation from first conversation through signature and into execution.&lt;/p&gt; &lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;12:1-12:24;1545-1568&quot;&gt;Key responsibilities&lt;/h2&gt; &lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1&quot; data-sourcepos=&quot;14:1-20:283;1570-3585&quot;&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;14:1-14:295;1570-1864&quot;&gt;Manage a small number of large, multi-faceted partner relationships end to end: set the strategy for each relationship, decide which opportunities to pursue and in what order, and stay accountable for the overall health and commercial output of the partnership across every surface it touches&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;15:1-15:310;1865-2174&quot;&gt;Lead product partnerships: identify and structure opportunities to embed Claude in partners&#39; consumer and enterprise products, co-develop new products and features, and define the product, technical, data, and brand terms that come with them, working closely with Anthropic&#39;s product and engineering leaders&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;16:1-16:314;2175-2488&quot;&gt;Run multiple deal streams in parallel: manage several concurrent negotiations within the same partner \u2014 product integrations, distribution and go-to-market, commercial and consumption agreements, and infrastructure \u2014 and sequence and connect them so terms in one stream reinforce rather than undercut the others&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;17:1-17:279;2489-2767&quot;&gt;Negotiate complex, first-of-kind agreements: lead end-to-end negotiations involving novel commercial structures, revenue and economics sharing, product and roadmap commitments, exclusivity and competitive provisions, data terms, and multi-year, multi-component value exchanges&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;18:1-18:266;2768-3033&quot;&gt;Act as an executive counterpart: build and manage relationships with senior executives and their teams on the partner side, serve as Anthropic&#39;s primary voice into the partnership, and prepare and steer Anthropic&#39;s own executives through partner-level engagements&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;19:1-19:269;3034-3302&quot;&gt;Exercise judgment on behalf of Anthropic: weigh commercial upside against strategic, competitive, product, and mission considerations; know when to say no; and make clear, well-reasoned recommendations to Anthropic leadership on trade-offs that don&#39;t have a playbook&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;20:1-20:283;3303-3585&quot;&gt;Drive cross-functional execution: coordinate Product, Engineering, Sales, Marketing, Finance, Legal, and Policy across the life of a partnership, from initial structuring through negotiation, launch, and ongoing governance, ensuring what we sign is something Anthropic can deliver&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;22:1-22:26;3587-3612&quot;&gt;Minimum qualifications&lt;/h2&gt; &lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1&quot; data-sourcepos=&quot;24:1-28:175;3614-4506&quot;&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;24:1-24:169;3614-3782&quot;&gt;Direct experience owning a large, multi-business partner relationship, where you were responsible for the whole relationship rather than a single deal or product line&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;25:1-25:234;3783-4016&quot;&gt;Track record of structuring and closing product partnerships \u2014 embedding technology into partner products, co-developed products, distribution through partner surfaces, or similar \u2014 in addition to conventional commercial agreements&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;26:1-26:191;4017-4207&quot;&gt;Experience personally leading complex, multi-stakeholder negotiations with senior executives, including deals with interlocking terms, competitive sensitivities, and multi-year commitments&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;27:1-27:124;4208-4331&quot;&gt;Demonstrated ability to manage several significant negotiations at the same time without losing the thread on any of them&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;28:1-28:175;4332-4506&quot;&gt;Experience coordinating cross-functional execution (e.g., Product, Engineering, Legal, Finance) to bring a complex agreement from structuring through signature and delivery&lt;/li&gt; &lt;/ul&gt; &lt;h2 class=&quot;mt-3 -mb-1 text-[1.125rem] font-bold&quot; data-sourcepos=&quot;30:1-30:28;4508-4535&quot;&gt;Preferred qualifications&lt;/h2&gt; &lt;ul class=&quot;[li_&amp;amp;]:mb-0 [li_&amp;amp;]:mt-1 [li_&amp;amp;]:gap-1 [&amp;amp;:not(:last-child)_ul]:pb-1 [&amp;amp;:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3 print:block print:space-y-1&quot; data-sourcepos=&quot;32:1-37:146;4537-5580&quot;&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;32:1-32:207;4537-4743&quot;&gt;10+ years in strategic business development, strategic partnerships, or corporate development at technology companies, with meaningful time spent managing relationships with very large technology partners&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;33:1-33:127;4744-4870&quot;&gt;Experience on either side of a partnership between a foundation model or AI platform provider and a large technology company&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;34:1-34:195;4871-5065&quot;&gt;Experience working inside one of the very large technology companies, with a practical understanding of how decisions get made, who holds budget and roadmap authority, and how to navigate them&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;35:1-35:176;5066-5241&quot;&gt;Experience with partnerships that span both consumer and enterprise businesses, or that combine product, distribution, and infrastructure components in a single relationship&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;36:1-36:193;5242-5434&quot;&gt;Understanding of foundation model capabilities and how they translate into partner products, with enough technical fluency to work credibly with product and engineering leaders on both sides&lt;/li&gt; &lt;li class=&quot;font-claude-response-body whitespace-normal break-words pl-2&quot; data-sourcepos=&quot;37:1-37:146;5435-5580&quot;&gt;Background in corporate development, strategy, or a legal or finance discipline involving structuring and papering unusually complex agreements&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt; &lt;p&gt;For sales roles, the range provided is the role\u2019s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$365,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$425,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor\u2019s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt; &lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links\u2014visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact \u2014 advancing our long-term goals of steerable, trustworthy AI \u2014 rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt; &lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Lead",
+      "posted_at": "2026-08-14T18:07:04-04:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong BD and partnership experience, but lacks named enterprise software/tech partnerships and high-stakes multi-party negotiation at scale with Fortune 500 tech counterparts.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Senior Program Manager and AGM roles demonstrate seniority, but no explicit C-suite or executive partnership leadership."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 71,
+          "note": "Strong on GTM strategy, partnerships, multi-stakeholder coordination; weak on negotiation, commercial structuring, exclusivity/IP terms."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "EdTech D2C and international growth are transferable, but zero experience with enterprise tech partnerships, Fortune 500 negotiations, or B2B SaaS infrastructure deals."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 68,
+          "note": "Solid revenue growth and funnel optimization; lacks multi-year, multi-component deal execution or strategic partnership P&L ownership."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; Anthropic is large, established, well-funded AI company likely able to sponsor, but adds friction vs. authorized candidates."
+        }
+      ],
+      "missing_keywords": [
+        "Enterprise software partnerships",
+        "Complex commercial negotiation",
+        "Revenue/economics structuring",
+        "Exclusivity and competitive provisions",
+        "Fortune 500 tech counterparts"
+      ],
+      "top_signal": "Generative Engine Optimization research directly relevant to Claude integration opportunities; multi-functional cross-team coordination at scale across BYJU'S and PlanetSpark.",
+      "biggest_gap": "No demonstrated experience negotiating first-of-kind, multi-year, multi-component strategic tech partnerships with Fortune 500 companies or structuring complex commercial/IP/exclusivity terms."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:27:16.312519+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:pendo:8526974002",
+      "company": "pendo",
+      "title": "Lead Product Marketing Manager - Novus",
+      "location": "Remote / San Francisco, CA / New York, NY / Raleigh, NC ",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8526974002",
+      "description": "&lt;h2&gt;The Team + The Role&lt;/h2&gt; &lt;p&gt;Software is being written faster than ever, and AI coding agents are accelerating how teams build and ship. Novus is Pendo&#39;s answer to what happens after software ships: helping fast-moving teams understand what is actually happening in their products and where to focus next. This is a new product, in a new category, for an audience Pendo has not traditionally sold to before: product engineers and application owners building AI-native software.&lt;/p&gt; &lt;p&gt;As Lead Product Marketing Manager for Novus, you are the marketing lead and GTM owner for the product. You own the narrative, positioning, demand strategy, community presence, launch moments, and early commercial outcomes end to end. This is a 0-to-1 role for someone who can write the playbook, execute it hands-on, and drive clarity across product, sales, marketing, and leadership.&lt;/p&gt; &lt;p&gt;This is a remote role in the US. We have offices in San Francisco, CA, Raleigh, NC, or New York, NY.&lt;/p&gt; &lt;h2&gt;What this looks like day-to-day&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Narrative and positioning:&lt;/strong&gt; Own the messaging, positioning, and talk tracks for Novus, including the breakthrough narrative, category story, and positioning documentation. Keep product, sales, marketing, and leadership aligned as the product and market evolve.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;End-to-end GTM ownership:&lt;/strong&gt; Build and run the full go-to-market plan across audience targeting, channel strategy, campaign strategy, sales readiness, launch moments, and success metrics. Own the outcomes rather than handing strategy off to another team.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Top-of-funnel and conversion:&lt;/strong&gt; Partner with revenue marketing to define the acquisition channel mix, run campaigns, and drive early-access signups. Connect demand activity to free-to-paid conversion and early commercial signals.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Community building:&lt;/strong&gt; Build Novus&#39; presence where builders already spend time, including developer forums, social channels, influencer relationships, and event-driven activation. Earn trust with audiences that are skeptical of traditional marketing.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;PLG motion:&lt;/strong&gt; Partner with product and growth to design self-serve onboarding, activation flows, and freemium-to-paid conversion paths. Use data and feedback to improve how users discover, try, activate, and expand with Novus.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Novus and Pendo positioning:&lt;/strong&gt; Define how Novus and Pendo exist together in the market. Shape the path for customers moving from fast-moving AI-native teams into more complex product organizations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales and partner enablement:&lt;/strong&gt; Build the materials, messaging, and proof points that help sales and partner teams have credible conversations with product engineers. Translate the product for a buyer that is meaningfully different from Pendo&#39;s traditional PM audience.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Metrics and commercial impact:&lt;/strong&gt; Work with revenue marketing to define and track the metrics that connect Novus activity to pipeline and early revenue outcomes. Focus on activation, free-to-paid conversion, marketing-sourced ARR, and other signals that show whether the motion is working.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Who You Are&lt;/h2&gt; &lt;p&gt;Beyond the qualifications, we hire through a specific lens. These aren&#39;t buzzwords; they&#39;re the things we&#39;ll actually look for in how you talk about your work.&lt;/p&gt; &lt;p&gt;You&#39;re a builder, not a maintainer.&lt;/p&gt; &lt;p&gt;You&#39;re most energized when there isn&#39;t a clear path yet, and you get to define it. You don&#39;t wait for direction; you identify gaps, shape solutions, and drive them forward. At Pendo, great Product Marketing Directors don&#39;t just follow instructions; they operate as strategic advisors, influencing decisions, guiding stakeholders, and elevating how we work.&lt;/p&gt; &lt;p&gt;You&#39;re AI-curious - genuinely.&lt;/p&gt; &lt;p&gt;You&#39;re not using AI tools occasionally. You&#39;re rewiring how you work around them. You&#39;re faster, sharper, and more prolific because of it, and you bring that energy to everything \u2014 how you approach your work, how you prep, how you communicate, how you think. We want someone who sees AI as a multiplier, not a shortcut.&lt;/p&gt; &lt;h2&gt;Must-haves&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;7+ years of marketing experience with real ownership of positioning and narrative for a product or category at the individual contributor level.&lt;/li&gt; &lt;li&gt;Proven ability to drive a launch, repositioning, or category story end to end, including the writing and strategic thinking behind the work.&lt;/li&gt; &lt;li&gt;Strong content instincts, with the ability to create crisp narratives, sharp positioning documents, and launch materials that audiences actually engage with.&lt;/li&gt; &lt;li&gt;Active, practical fluency with AI tools such as Claude, ChatGPT, or similar, with evidence that AI has meaningfully changed how you work and what you ship.&lt;/li&gt; &lt;li&gt;High bias to action, with a track record of shipping, gathering feedback, iterating, and filling gaps without waiting for perfect information.&lt;/li&gt; &lt;li&gt;Ability to translate technical depth into clear, compelling messaging without oversimplifying a novel product.&lt;/li&gt; &lt;li&gt;Strong cross-functional influence with product, sales, marketing, and leadership stakeholders, especially in environments where you need to drive alignment without direct authority.&lt;/li&gt; &lt;li&gt;Experience with PLG motions, including self-serve acquisition, freemium conversion, activation, or community-led distribution.&lt;/li&gt; &lt;li&gt;Credibility with developer or builder audiences, including an understanding of how technical users discover, evaluate, and build trust in new tools.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Nice-to-haves&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Hands-on experience building community among developers or other technical builder audiences.&lt;/li&gt; &lt;li&gt;Technical fluency from building software or working closely enough with engineers to understand codebases, pull requests, and deploy cycles.&lt;/li&gt; &lt;li&gt;Experience in product analytics, instrumentation, observability, developer tools, open source, or AI coding tools.&lt;/li&gt; &lt;li&gt;Growth-hacking experience in an early-stage or 0-to-1 product environment.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;About Pendo&lt;/h2&gt; &lt;p&gt;Pendo was founded in 2013 by former product managers, who combined their heads and hearts to build something they wanted but never had as product managers: a simple way to understand and attack what truly drives product success. Our mission is to improve society&#39;s experience with software. Come join one of the fastest-growing startups, supported by best-in-class institutions like Battery Ventures, Salesforce Ventures, Spark Capital and Meritech.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Pendo Core Values:&lt;/strong&gt; Bias to Act, Hone Your Craft, The Team is Pendo, and Maniacal Focus.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Pendo is a hybrid culture. In-office 3 days per week unless designated remote.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; The expected salary range for this role to be performed in New York, NY or San Francisco, CA is $196,300 - $249,000.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; Pendo offers highly competitive, employer-heavy coverage in the United States, including $0 premium options, strong 401(k) match, equity, and flexible time off.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;EEOC:&lt;/strong&gt; We are an equal opportunity employer and believe having diverse teams where everyone brings their whole self to Pendo is key to our success. We welcome all people of different backgrounds, experiences, abilities and perspectives.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt; Pendo is committed to working with, and providing access and reasonable accommodation to, applicants with mental and/or physical disabilities. If you think you may require an accommodation for any part of the recruitment process, please send a request to: accommodation@pendo.io. All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.&lt;/p&gt;",
+      "salary": "$196,300 - $249,000",
+      "work_type": "Remote",
+      "seniority": "Lead",
+      "posted_at": "2026-08-14T17:31:17-04:00"
+    },
+    "result": {
+      "overall_score": 76,
+      "verdict": "Strong Fit",
+      "verdict_note": "8+ years GTM/PMM in EdTech with proven 0-to-1 growth execution and positioning redesigns; strong narrative skills and cross-functional leadership; lacks developer/PLG motion and AI product depth, but track record offsets.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Associate GM + Senior PM at scale signals readiness for Lead PMM; no director title yet but owned P&L and 60+ teams."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 74,
+          "note": "Owns GTM, positioning, narrative, funnel optimization, sales enablement, metrics; missing PLG, developer marketing, community-first channel expertise."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 68,
+          "note": "EdTech SaaS B2C/B2B experience transfers well; no developer-first, AI-native product, or PLG background; Novus targets builders, not parents/admins."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 82,
+          "note": "38% CAC lift, 25% sales growth via repositioning, 40% retention improvement, launched multi-market campaigns; execution-heavy, results-driven."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 68,
+          "note": "Requires H1B sponsorship; Pendo is large, established (venture-backed SaaS), but posting does not explicitly confirm sponsorship willingness."
+        }
+      ],
+      "missing_keywords": [
+        "Developer marketing",
+        "Product-led growth (PLG)",
+        "Community building",
+        "AI-native product launch",
+        "Freemium-to-paid conversion"
+      ],
+      "top_signal": "Diagnosed and fixed leaky funnel (30% leak \u2192 38% CAC lift in 2Q); rebuilt sales systems (+42% productivity); repositioned messaging across regions (+25% growth)\u2014exactly the 0-to-1 builder DNA Pendo seeks.",
+      "biggest_gap": "No prior experience launching to developer/builder audiences, designing community-first channels, or executing PLG motions; EdTech D2C funnel differs significantly from AI-native product self-serve motion."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:27:44.455512+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:pendo:8558208002",
+      "company": "pendo",
+      "title": "Sr. Product Marketing Manager",
+      "location": "Remote / San Francisco, CA /  New York, NY / Raleigh, NC ",
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8558208002",
+      "description": "&lt;h2&gt;The Team + The Role&lt;/h2&gt; &lt;p&gt;Pendo&#39;s Product Marketing team translates what we build into why it matters. The team works at the intersection of product, revenue, and marketing, owning the narratives, positioning, and go-to-market motions that drive pipeline and commercial outcomes. It operates as a small, senior team with high ownership, low overhead, and a strong bias toward work that moves the business forward.&lt;/p&gt; &lt;p&gt;Pendo is looking for a Sr. Product Marketing Manager to play a key role in our growing Enterprise business. You will partner closely across Product, Sales, and Marketing to package and position Pendo&#39;s offerings as powerful solutions for Enterprise clients. This is an individual contributor role for a builder who can create, test, adapt, and make an immediate impact in a fast-moving, AI-native environment.&lt;/p&gt; &lt;p&gt;This is a remote role in the US. We have offices in San Francisco, CA, Raleigh, NC, or New York, NY.&lt;/p&gt; &lt;h2&gt;What this looks like day-to-day&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Enterprise positioning:&lt;/strong&gt; Own and maintain clear, concise, and impactful solutions messaging for the Enterprise market. Translate Pendo&#39;s product capabilities into value-driven narratives that resonate with Enterprise buyers.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cross-functional partnership:&lt;/strong&gt; Collaborate strategically with Product, PMM, Sales, and Marketing teams to package and position Pendo&#39;s offerings for Enterprise clients. Serve as a key conduit between Enterprise go-to-market teams and Product by bringing field feedback into product conversations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Flexible execution:&lt;/strong&gt; Move fluidly across adjacent work as priorities shift, including solutions marketing, growth-hacker-style experiments, and demand-gen support. Adapt quickly rather than staying in a single fixed lane.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;AI-enabled GTM:&lt;/strong&gt; Leverage AI tools and workflows, including building agents, to accelerate research, content creation, and go-to-market execution. Use AI as a practical multiplier for how you work and what you ship.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Market research:&lt;/strong&gt; Conduct in-depth research to define, understand, and articulate the distinct needs and opportunities within the Enterprise landscape for Pendo. Use that insight to shape messaging, campaign direction, and sales conversations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales partnership:&lt;/strong&gt; Forge strong partnerships with the Enterprise Sales team to understand their requirements, challenges, and revenue opportunities. Participate in strategic Enterprise deals by providing product and solutions expertise.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Testing and iteration:&lt;/strong&gt; Rapidly test, learn, and adapt messaging and campaigns in a fast-changing environment. Use feedback from the market, Sales, and Product to improve the work quickly.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Enterprise content:&lt;/strong&gt; Develop compelling content and collateral for Enterprise audiences, including presentations, white papers, and case studies. Ensure materials are clear, persuasive, and aligned to the needs of Enterprise buyers.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Enterprise strategy support:&lt;/strong&gt; Elevate and accelerate Pendo&#39;s overall Enterprise marketing strategy and execution. Contribute strategically to competitive intelligence, pricing considerations, and enablement programs tailored for the Enterprise market.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Who You Are&lt;/h2&gt; &lt;p&gt;Beyond the qualifications, we hire through a specific lens. These aren&#39;t buzzwords; they&#39;re the things we&#39;ll actually look for in how you talk about your work.&lt;/p&gt; &lt;p&gt;You&#39;re a builder, not a maintainer.&lt;/p&gt; &lt;p&gt;You&#39;re most energized when there isn&#39;t a clear path yet, and you get to define it. You don&#39;t wait for direction; you identify gaps, shape solutions, and drive them forward. At Pendo, great Sr. Product Marketing Managers don&#39;t just follow instructions; they operate as strategic advisors, influencing decisions, guiding stakeholders, and elevating how we work.&lt;/p&gt; &lt;p&gt;You&#39;re AI-curious - genuinely.&lt;/p&gt; &lt;p&gt;You&#39;re not using AI tools occasionally. You&#39;re rewiring how you work around them. You&#39;re faster, sharper, and more prolific because of it, and you bring that energy to everything \u2014 how you approach your work, how you prep, how you communicate, how you think. We want someone who sees AI as a multiplier, not a shortcut.&lt;/p&gt; &lt;h2&gt;Must-haves&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;A proven track record of building and shipping product marketing work, with depth of ownership that matters more than the number of years in seat.&lt;/li&gt; &lt;li&gt;Experience creating, testing, and adapting product marketing work in fast-moving, high-growth, startup, or similarly ambiguous environments.&lt;/li&gt; &lt;li&gt;AI fluency, including comfort working in an AI-shaped environment and using AI tools or workflows to improve research, content creation, and execution.&lt;/li&gt; &lt;li&gt;Ability to operate in ambiguity, move across shifting priorities, and flex into adjacent areas such as solutions marketing, growth, and demand generation.&lt;/li&gt; &lt;li&gt;Exceptional ability to translate technical product features into compelling, value-driven solutions for buyers.&lt;/li&gt; &lt;li&gt;Demonstrated experience conducting market research, competitive analysis, and developing targeted messaging.&lt;/li&gt; &lt;li&gt;Strong collaboration and communication skills, with the ability to partner effectively across Product, Sales, and Marketing teams.&lt;/li&gt; &lt;li&gt;Excellent written and verbal communication skills, including the ability to present complex information clearly and persuasively.&lt;/li&gt; &lt;li&gt;Ability to travel occasionally.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;Nice-to-haves&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience building AI agents or workflows to accelerate product marketing or go-to-market work.&lt;/li&gt; &lt;li&gt;Experience supporting Enterprise marketing, Enterprise sales motions, or strategic Enterprise deals.&lt;/li&gt; &lt;li&gt;Experience contributing to competitive intelligence, pricing considerations, or enablement programs tailored for Enterprise markets.&lt;/li&gt; &lt;li&gt;Experience developing Enterprise-facing collateral such as presentations, white papers, and case studies.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;About Pendo&lt;/h2&gt; &lt;p&gt;Pendo was founded in 2013 by former product managers, who combined their heads and hearts to build something they wanted but never had as product managers: a simple way to understand and attack what truly drives product success. Our mission is to improve society&#39;s experience with software. Come join one of the fastest-growing startups, supported by best-in-class institutions like Battery Ventures, Salesforce Ventures, Spark Capital and Meritech.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Pendo Core Values:&lt;/strong&gt; Bias to Act, Hone Your Craft, The Team is Pendo, and Maniacal Focus.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Pendo is a hybrid culture. In-office 3 days per week unless designated remote.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compensation:&lt;/strong&gt; The expected salary range for this role to be performed in San Francisco, CA or New York, NY is $145,400 - $175,000, and in Raleigh, NC is $132,200 - $159,000.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Benefits:&lt;/strong&gt; Pendo offers highly competitive, employer-heavy coverage in the United States, including $0 premium options, strong 401(k) match, equity, and flexible time off.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;EEOC:&lt;/strong&gt; We are an equal opportunity employer and believe having diverse teams where everyone brings their whole self to Pendo is key to our success. We welcome all people of different backgrounds, experiences, abilities and perspectives.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Accessibility:&lt;/strong&gt; Pendo is committed to working with, and providing access and reasonable accommodation to, applicants with mental and/or physical disabilities. If you think you may require an accommodation for any part of the recruitment process, please send a request to: accommodation@pendo.io. All requests for accommodations are treated discreetly and confidentially, as practical and permitted by law.&lt;/p&gt;",
+      "salary": "$145,400 - $175,000,",
+      "work_type": "Remote",
+      "seniority": "Senior",
+      "posted_at": "2026-08-14T14:22:13-04:00"
+    },
+    "result": {
+      "overall_score": 78,
+      "verdict": "Strong Fit",
+      "verdict_note": "Exceptional GTM builder with proven Enterprise and D2C funnel ownership, but lacks direct SaaS PMM depth and hands-on Enterprise software positioning track record.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 82,
+          "note": "Senior Program Manager title and AGM scope match Sr. PMM level; P&L ownership across 5 markets signals commercial maturity."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 76,
+          "note": "Strong on positioning, competitive intelligence, cross-functional leadership, A/B testing, CRM. Missing direct solutions marketing and Enterprise SaaS collateral depth."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 72,
+          "note": "EdTech B2C/SaaS hybrid background; Enterprise pipeline and ABM experience present, but no B2B SaaS or software buyer journey depth evident."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 81,
+          "note": "Quantified GTM outcomes (38% CAC lift, 27% conversion gains, 25% sales growth). Fluent in testing and iteration; builder mindset clear."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 71,
+          "note": "Requires H1B sponsorship; Pendo is large, established tech company (sponsor-friendly), but no explicit sponsorship mention in posting reduces score slightly."
+        }
+      ],
+      "missing_keywords": [
+        "solutions marketing",
+        "Enterprise SaaS",
+        "technical product knowledge",
+        "white papers / case studies (depth)",
+        "buyer personas (Enterprise software)"
+      ],
+      "top_signal": "Rare combination of builder mentality, quantified GTM execution, and hands-on AI/GEO research that aligns with Pendo's 'AI-curious' and fast-iteration culture.",
+      "biggest_gap": "No direct B2B SaaS Enterprise software positioning experience; EdTech D2C GTM motion differs from Enterprise platform buyer journey and sales cycles."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:27:51.408258+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:upstream:970655B352",
+      "company": "upstream",
+      "title": "Business Development Manager - Europe",
+      "location": "",
+      "url": "https://apply.workable.com/j/970655B352",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-04-03"
+    },
+    "result": {
+      "overall_score": 51,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth pedigree, but European market entry with visa sponsorship at startup scale is a material risk.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager level confirmed; BDM title is one level below AGM, but shows relevant progression."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Business development, pipeline, ABM, sales enablement present; lacks martech/SaaS domain keywords."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 42,
+          "note": "EdTech + India/US experience; upstream positioning and European market unknown; no explicit SaaS or B2B2B signals."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "International expansion proven (US, UK, Middle East); P&L ownership and pipeline growth solid; European market entry untested."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 28,
+          "note": "Requires H1B sponsorship; startup stage role typically cannot or unwilling to sponsor; significant visa risk."
+        }
+      ],
+      "missing_keywords": [
+        "Europe market entry",
+        "SaaS/B2B2B sales",
+        "Partner ecosystem",
+        "Startup go-to-market",
+        "Regional expansion"
+      ],
+      "top_signal": "Scaled international pipeline across 3 geographies (US, UK, ME) with 19% recurring revenue uplift; proven cross-border GTM execution.",
+      "biggest_gap": "Upstream company profile, product, and European market strategy are opaque; startup-stage visa sponsorship capacity is highly constrained."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:05.204199+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:boulevard:4679237006",
+      "company": "boulevard",
+      "title": "Product Marketing Manager, Core Verticals ",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/boulevard/jobs/4679237006",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Who is Boulevard? &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most.&lt;/p&gt; &lt;p&gt;Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-friendly platform that meets the unique needs of their business. Our roots may be in hair salons, but we are built for the broader self-care industry, including many types of salons, spas, medspa, barbershops, and more. Our technology not only helps our customers survive but thrive. Take a look at&amp;nbsp;&lt;a class=&quot;css-tgpl01&quot; href=&quot;https://www.joinblvd.com/&quot; target=&quot;_blank&quot;&gt;how we (and YOU) can make that happen&lt;/a&gt;.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We have an insatiable curiosity and embrace experimentation. We believe that simple solutions require the most sophistication, and we design each and every detail to maximize potential, power, and impact. Do our values match? Read through &lt;a class=&quot;css-tgpl01&quot; href=&quot;https://www.joinblvd.com/about&quot; target=&quot;_blank&quot;&gt;our story and what we value the most&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Our team values and celebrates our diverse backgrounds. Being open about who we are and what we do allows us to do the best work of our lives. We believe in equal opportunity for all, and you should too.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Who is Boulevard&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt; &lt;p&gt;At Boulevard, we&#39;re building the first and only client experience platform purpose-built for appointment-based, self-care businesses. Our software powers bookings, payments, memberships, marketing, and more\u2014helping businesses deliver seamless, personalized experiences to their clients while running more efficient, profitable operations.&lt;/p&gt; &lt;p&gt;We serve a growing base of medspas, salons, and spas, and are focused on helping our customers scale their businesses while elevating the client experience they provide.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Come do your best work at Boulevard&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt; &lt;p&gt;Boulevard has built deep expertise in three core verticals: Medspa, Salon, and Spa. To scale our impact and competitive advantage, we need a strategic steward who owns how we show up in these markets.&lt;/p&gt; &lt;p&gt;As Product Marketing Manager, Core Verticals, you&#39;ll be the resident SME for Boulevard&#39;s highest-growth verticals. You&#39;ll own the vertical positioning architecture, ICPs, and GTM toolkits that define how we show up. This means the value propositions and communication pillars that establish credibility, ICP definitions and target account guidance, and the messaging frameworks that Sales, Marketing, Enablement, and product teams rely on when it comes to how we show up to our various audiences.&lt;/p&gt; &lt;p&gt;More than that, you&#39;re the voice of each vertical within Boulevard. You\u2019ll synthesize market research, win/loss analysis, and vertical-specific competitive intelligence into a clear, defensible read on what operators need, where competitors are winning, and where Boulevard has the right to win. You&#39;ll share that perspective proactively across the organization, from Sales to Product to leadership. Your insights inform roadmap sequencing, positioning evolution, and how we maintain coherence as we expand our platform capabilities.&lt;/p&gt; &lt;p&gt;This role sits in the Market Intelligence arm of Product Marketing, focused on SMB operators but working in concert with our Enterprise team to ensure Boulevard&#39;s narrative is cohesive across customer segments.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What you\u2019ll do here:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Own the vertical positioning architecture&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You&#39;ll be the steward of how Boulevard shows up in Medspa, Salon, and Spa. You&#39;ll build and maintain the vertical positioning architecture: the value proposition, communication pillars, and how that messaging evolves as the market moves.&lt;/li&gt; &lt;li&gt;Develop and own vertical GTM toolkits: positioning statements, messaging frameworks, ICP definitions, target account guidance, and segment-specific collateral that Sales, Marketing, Enablement, and other PMMs rely on for execution.&lt;/li&gt; &lt;li&gt;Translate complex market dynamics into sharp, differentiated narratives for each vertical. Each market has different buyer motivations, compliance realities, and competitive pressures. Your job is to make Boulevard&#39;s response to each crystal clear.&lt;/li&gt; &lt;li&gt;Work proactively with Sales, Growth Marketing, and Enablement to ensure your toolkits are actually being used and refined based on frontline feedback. You&#39;ll adjust positioning as market conditions evolve and as we learn what resonates.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Identify claims by vertical&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Identify and catalog the marketable metrics, proof points, and customer evidence that substantiate Boulevard&#39;s positioning in Medspa, Salon, and Spa.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Work with Product, Sales, and Customer Success to validate these claims and ensure they&#39;re backed by real data and customer reality.&lt;/li&gt; &lt;li&gt;Ensure accuracy and market impact. Your claims will inform Sales conversations, campaigns, and executive messaging.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Synthesize market research and vertical-specific intelligence&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lead voice-of-customer work and win/loss analysis for your verticals. Understand what motivates buyers, where they&#39;re struggling with current solutions, and what pushes them toward Boulevard vs. competitors.&lt;/li&gt; &lt;li&gt;Work with the Competitive Intelligence function to dimensionalize their research by vertical. Translate platform-level competitive intelligence into vertical-specific battlecards, positioning, and proof points that help teams understand how we compete in each market.&lt;/li&gt; &lt;li&gt;Produce internal market reporting (think: semi-annual trend reports for Medspa, etc.). Share insights on industry trends, emerging competitors, regulatory changes, and market movements that inform how Boulevard should evolve our positioning and product.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Represent The Voice Of Customer Internally&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Be the proactive expert that Product, Sales, CS, and leadership rely on when they need to understand what&#39;s happening in core verticals. Identify patterns from customer conversations and market signals and bring insights to the right people at the right time.&lt;/li&gt; &lt;li&gt;Join occasional product roadmap conversations to represent the voice of customer. Your job isn&#39;t to own the roadmap, but to ensure the vertical perspective and buyer needs inform sequencing decisions.&lt;/li&gt; &lt;li&gt;Work alongside our Enterprise PMM to respect both SMB and upmarket positioning. Ensure that as SMB customers evolve into enterprise, there&#39;s positioning continuity and clear value architecture across segments.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What You&#39;ll Need To Thrive&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;4+ years in product marketing or a closely related strategic GTM role at a B2B SaaS company. You&#39;ve built positioning, messaging, and market narratives that moved businesses.&lt;/li&gt; &lt;li&gt;A researcher at your core. You thrive running win/loss interviews, synthesizing customer conversations, reading market signals, and turning messy data into clear perspective.&lt;/li&gt; &lt;li&gt;A track record of developing and owning market points of view, not just executing on ones handed to you. You form conviction, back it with data, and know how to influence others to act on it.&lt;/li&gt; &lt;li&gt;Deep industry knowledge in one or more of our verticals (Medspa, Salon, Spa). You come with familiarity in the space, so you&#39;re not learning the buyer landscape on the job. You understand operator pain points, regulatory considerations (especially in Medspa), and market dynamics.&lt;/li&gt; &lt;li&gt;Confident, precise communication skills. You tell clear stories that land with execs and frontline teams alike. You&#39;re comfortable in Sales calls, customer conversations, and exec briefings.&lt;/li&gt; &lt;li&gt;Strong analytical mindset. You interpret data, form hypotheses, and use insights to guide strategy and messaging.&lt;/li&gt; &lt;li&gt;Proven ability to create and enable teams. The toolkits and messaging you build need to be usable and used. You work well with Sales, Enablement, and other cross-functional partners.&lt;/li&gt; &lt;li&gt;Comfort operating in ambiguity. You can take a vague market problem and turn it into a clear point of view, actionable plan, and set of deliverables.&lt;/li&gt; &lt;li&gt;You see AI as a force multiplier. You&#39;re fluent in using modern tools to compress timelines, sharpen your thinking, and unlock what you and your teams can create.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Experience in vertical SaaS, particularly in selfcare (medspa, salon, or spa industries).&lt;/li&gt; &lt;li&gt;Familiarity with medical aesthetics, clinical operations, or healthcare-adjacent compliance considerations.&lt;/li&gt; &lt;li&gt;Experience marketing to or operating within SMB service-based businesses.&lt;/li&gt; &lt;li&gt;Background in strategy, consulting, or market research.&lt;/li&gt; &lt;li&gt;Experience contributing to pricing and packaging decisions.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;How we&#39;ll take care of you&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Boulevard, we work hard to structure compensation in a way that balances internal equity with local market competitiveness, and we\u2019re happy to share a good-faith estimate of the base salary range for this role. For candidates in NYC, the SF Bay Area, and Seattle, the anticipated base salary range is $91,500 - $114,100 per year. For all other U.S. locations, the anticipated base salary range is $83,000 - $114,000 per year. In addition to this base compensation, this role may be eligible to participate in a variable compensation program. Final compensation will vary based on a variety of factors which include but are not limited to applicable experience, location, and final leveling.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;In addition to the wonderful people you\u2019ll get to work with and challenging projects that\u2019ll push you - Boulevard is here to make sure you\u2019re always at the top of your game emotionally, mentally, and physically.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In addition to the wonderful people you\u2019ll get to work with&amp;nbsp;and challenging projects that\u2019ll push you - Boulevard is here to make sure you\u2019re always at the top of your game emotionally, mentally, and physically.&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;\u2728 We\u2019ve got you covered with a 401(k) match plus dental, medical, vision, and life insurance.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83c\udfdd Take a break whenever you need with our flexible vacation day policy.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udda5 Fully remote so you can choose where you want to work. You\u2019ll receive a work from home stipend every month.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udc9a Family planning resources and specialized support programs.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udd2e Equity: get ahead on the ground floor and grow with Boulevard.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udc85 Boulevard Bucks Learning and Development program allows employees to explore businesses in the market we serve.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;\ud83d\udcf2 We recommend following &lt;a href=&quot;https://www.linkedin.com/company/boulevard/&quot;&gt;our official LinkedIn page&lt;/a&gt; to stay up to date on all things Boulevard life!&lt;/p&gt; &lt;p&gt;&lt;em&gt;Boulevard Labs, Inc. is an Equal Opportunity Employer committed to hiring a diverse workforce and sustaining an inclusive culture. All employment decisions at Boulevard Labs, Inc. are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$91,500 - $114,100 per year",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-08-12T14:47:23-04:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and positioning chops, but lacks direct SMB SaaS experience and named vertical expertise in beauty/wellness\u2014meaningful gap despite excellent fundamentals.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Manager level confirmed, but role expects vertical SME depth; Raunak is generalist GTM strategist."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 75,
+          "note": "Positioning, messaging, ICP definition, competitive intelligence all present; lacks vertical-specific collateral or segment GTM toolkit evidence."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "EdTech B2C funnel expertise transfers to SMB SaaS, but no beauty, wellness, salon, or medspa market knowledge demonstrated."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 73,
+          "note": "P&L ownership, sales enablement, and multi-market GTM delivery proven; but no evidence of owning vertical positioning architecture or win/loss analysis."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 55,
+          "note": "Requires H1B sponsorship; Boulevard is growth-stage SaaS (likely 100\u2013300 headcount), mid-tier sponsorship risk vs. enterprise."
+        }
+      ],
+      "missing_keywords": [
+        "vertical expertise (medspa, salon, spa)",
+        "win/loss analysis",
+        "SMB operator research",
+        "segment-specific collateral",
+        "ICP buyer motivations mapping"
+      ],
+      "top_signal": "6+ years P&L-owning GTM strategy, positioning redesign (25% sales lift), and cross-functional execution at scale; positioned messaging and competitive intelligence deeply embedded in track record.",
+      "biggest_gap": "No demonstrated domain expertise in beauty/wellness/self-care verticals and no evidence of owning multi-segment positioning architecture or conducting vertical-specific competitive analysis."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:12.244373+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:boulevard:4700762006",
+      "company": "boulevard",
+      "title": "Senior Product Marketing Manager, Enterprise Segment ",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/boulevard/jobs/4700762006",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Who is Boulevard? &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most.&lt;/p&gt; &lt;p&gt;Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-friendly platform that meets the unique needs of their business. Our roots may be in hair salons, but we are built for the broader self-care industry, including many types of salons, spas, medspa, barbershops, and more. Our technology not only helps our customers survive but thrive. Take a look at&amp;nbsp;&lt;a class=&quot;css-tgpl01&quot; href=&quot;https://www.joinblvd.com/&quot; target=&quot;_blank&quot;&gt;how we (and YOU) can make that happen&lt;/a&gt;.&amp;nbsp;&lt;/p&gt; &lt;p&gt;We have an insatiable curiosity and embrace experimentation. We believe that simple solutions require the most sophistication, and we design each and every detail to maximize potential, power, and impact. Do our values match? Read through &lt;a class=&quot;css-tgpl01&quot; href=&quot;https://www.joinblvd.com/about&quot; target=&quot;_blank&quot;&gt;our story and what we value the most&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Our team values and celebrates our diverse backgrounds. Being open about who we are and what we do allows us to do the best work of our lives. We believe in equal opportunity for all, and you should too.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Boulevard is entering its next chapter. We&#39;re expanding our focus to include more sophisticated, multi-location operators across medspa, salon, and spa \u2014 businesses with higher expectations for scale, reporting, and operational control, and with buying committees that demand real proof of platform maturity. This is a significant growth opportunity for Boulevard, and we&#39;re building the product marketing function to win it.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Come do your best work at Boulevard&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Boulevard has established a strong market position with small and mid-sized operators across medspa, salon, and spa. We&#39;re expanding our focus to include enterprise, multi-location operators with different buying processes and buying committees.&lt;/p&gt; &lt;p&gt;This represents a significant growth opportunity, and you&#39;ll be the product marketer who shapes how Boulevard wins in this segment. You&#39;ll be deeply embedded in the commercial strategy for upmarket buyers, from positioning and narrative through sales enablement, deal support, and product influence. You&#39;ll be the internal expert in this segment: the person product, sales, marketing, and executive teams rely on to understand what these buyers care about, how they evaluate, and what it takes to close them.&lt;/p&gt; &lt;p&gt;Success in this role means measurable progress in our enterprise segment:&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Sales teams consistently use your messaging and enablement assets to win larger deals.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Enterprise buyers view Boulevard as a credible, premium platform for scaled operators.&amp;nbsp;&lt;/li&gt; &lt;li&gt;Win rates measurably improve in the segment as your positioning and tools gain traction across the frontline.&lt;/li&gt; &lt;li&gt;Product decisions increasingly reflect upmarket priorities&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This role demands both strategic vision and hands-on execution. You&#39;ll develop positioning frameworks, build sales decks for strategic deals, customize materials based on buyer feedback, and create the infrastructure that helps enterprise sales teams move with confidence.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Define and own the upmarket segment&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Sharpen Boulevard&#39;s upmarket ICP across our core verticals&lt;/li&gt; &lt;li&gt;Map buying committee dynamics: economic buyers, operators, franchisees, and decision influencers&lt;/li&gt; &lt;li&gt;Develop clear POV on segment priorities and roadmapping: what they care about and what they need from a platform like Boulevard&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Build the overarching upmarket narrative&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Craft the definitive positioning story that establishes Boulevard as the platform of choice for sophisticated operators, articulating how our full platform delivers cohesive value for scaled businesses&lt;/li&gt; &lt;li&gt;Develop sharp messaging, competitive positioning, and proof points tailored to enterprise evaluation criteria&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Partner deeply with GTM and deliver tools that drive deals&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Equip sales with segment-specific tools, presentations, messaging and collateral that move upmarket prospects from awareness through conversion&lt;/li&gt; &lt;li&gt;Partner directly with enterprise sales team: Join strategic calls, customize materials, and refine approach based on real-world signals and buyer feedback&lt;/li&gt; &lt;li&gt;Develop proposal templates, scripts, and objection handling that sales teams trust and use consistently. Partner with enablement teams to bring it to frontline teams&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Influence product strategy for upmarket buyers&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work closely with GTM teams to capture and prioritize product requirements from upmarket prospects, consolidating insights to build a clear view of capabilities needed to win this segment&lt;/li&gt; &lt;li&gt;Bring structured market and buyer insights into R&amp;amp;D roadmapping discussions, advocating for the capabilities that matter most to this segment&lt;/li&gt; &lt;li&gt;Ensure new features are sequenced, framed, and released in a way that reinforces the platform story and delivers the most value to the enterprise segment&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;7+ years of product marketing experience, with significant time spent marketing and selling into enterprise buyers in vertical SaaS&lt;/li&gt; &lt;li&gt;A track record of building positioning, narratives for complex, multi-product platforms \u2014 not just feature-level messaging&lt;/li&gt; &lt;li&gt;Fluency in enterprise GTM motions: buying committees, longer cycles, proof-driven evaluations, executive-level conversations, and committee-driven objection handling&lt;/li&gt; &lt;li&gt;Deep experience developing enterprise sales tools that equip sellers to show platform depth, defend price, and earn conviction from sophisticated buyers&lt;/li&gt; &lt;li&gt;Experience marketing platform APIs and integrations to enterprise audiences \u2014 translating technical depth into commercial value and positioning the product as an open, extensible layer in a modern tech stack&lt;/li&gt; &lt;li&gt;Demonstrated ability to influence product direction through structured market insight, not just advocacy&lt;/li&gt; &lt;li&gt;Confident, precise communication skills and the ability to tell a really clear story&lt;/li&gt; &lt;li&gt;Range: you can hold your own with executives in the morning and with AEs on a deal review by the afternoon&lt;/li&gt; &lt;li&gt;You thrive in situations where there\u2019s no playbook. You\u2019re comfortable building the plane while flying it, leading in ambiguity, and taking an iterative approach to break down blockers.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus points&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience in franchise or multi-location business models&lt;/li&gt; &lt;li&gt;Experience in vertical SaaS, particularly in selfcare (medspa, salon, or spa industries)&lt;/li&gt; &lt;li&gt;Previous PMM experience at companies that successfully moved and/or served enterprise customers&lt;/li&gt; &lt;li&gt;Hands-on experience with enterprise sales tools and methodologies&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;How we&#39;ll take care of you:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Boulevard, we work hard to structure compensation in a way that balances internal equity with local market competitiveness, and we\u2019re happy to share a good-faith estimate of the base salary range for this role. For candidates in NYC, the SF Bay Area, and Seattle, the anticipated base salary range is $123,000-$154,000 per year. For all other U.S. locations, the anticipated base salary range is $112,000 - $154,000 per year. In addition to this base compensation, this role may be eligible to participate in a variable compensation program. Final compensation will vary based on a variety of factors, which include but are not limited to applicable experience, location, and final leveling.&lt;/p&gt; &lt;p&gt;In addition to the wonderful people you\u2019ll get to work with and challenging projects that\u2019ll push you - Boulevard is here to make sure you\u2019re always at the top of your game emotionally, mentally, and physically.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;In addition to the wonderful people you\u2019ll get to work with&amp;nbsp;and challenging projects that\u2019ll push you - Boulevard is here to make sure you\u2019re always at the top of your game emotionally, mentally, and physically.&amp;nbsp;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;\u2728 We\u2019ve got you covered with a 401(k) match plus dental, medical, vision, and life insurance.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83c\udfdd Take a break whenever you need with our flexible vacation day policy.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udda5 Fully remote so you can choose where you want to work. You\u2019ll receive a work from home stipend every month.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udc9a Family planning resources and specialized support programs.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udd2e Equity: get ahead on the ground floor and grow with Boulevard.&amp;nbsp;&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;\ud83d\udc85 Boulevard Bucks Learning and Development program allows employees to explore businesses in the market we serve.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;\ud83d\udcf2 We recommend following &lt;a href=&quot;https://www.linkedin.com/company/boulevard/&quot;&gt;our official LinkedIn page&lt;/a&gt; to stay up to date on all things Boulevard life!&lt;/p&gt; &lt;p&gt;&lt;em&gt;Boulevard Labs, Inc. is an Equal Opportunity Employer committed to hiring a diverse workforce and sustaining an inclusive culture. All employment decisions at Boulevard Labs, Inc. are based on business needs, job requirements, and individual qualifications, without regard to race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$123,000-$154,000 per year",
+      "work_type": "Remote",
+      "seniority": "Senior",
+      "posted_at": "2026-08-12T14:47:23-04:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and positioning credentials, but lacks direct enterprise SaaS sales enablement depth and zero vertical expertise in self-care/salon/spa software.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Senior PM title is adjacent; AGM + P&L ownership signals commercial weight, but not pure PMM seniority."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 76,
+          "note": "Positioning, ABM, competitive intelligence, sales enablement, D2C funnels all present; missing enterprise deal support and buying committee mapping."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 54,
+          "note": "EdTech B2C/D2C is structurally different from enterprise SaaS; no medspa, salon, spa, or vertical software background."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 78,
+          "note": "25% sales growth, 38% CAC lift, messaging-market fit redesigns proven; no named enterprise pipeline or multi-stakeholder deal closure examples."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 45,
+          "note": "Requires H1B sponsorship; Boulevard is mid-size growth company, not large enterprise. Sponsorship risk is material."
+        }
+      ],
+      "missing_keywords": [
+        "enterprise sales enablement",
+        "buying committee dynamics",
+        "multi-stakeholder negotiations",
+        "deal support",
+        "vertical software expertise (salon/spa/medspa)"
+      ],
+      "top_signal": "P&L ownership across 5 city markets + proven ability to diagnose messaging gaps, reposition, and lift revenue 25%+ in 6 months\u2014exactly what Boulevard needs to crack upmarket.",
+      "biggest_gap": "No experience in enterprise SaaS, vertical software, or selling to multi-location operators with buying committees; H1B sponsorship requirement for a growth-stage company adds execution risk."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:18.930566+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:greenhouse:7411199",
+      "company": "greenhouse",
+      "title": "Senior Product Marketing Manager",
+      "location": "Anywhere in the United States",
+      "url": "https://job-boards.greenhouse.io/greenhouse/jobs/7411199?gh_jid=7411199",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Our &lt;a href=&quot;https://www.greenhouse.com/mission&quot; target=&quot;_blank&quot;&gt;mission&lt;/a&gt; at Greenhouse is to make hiring work for everyone \u2013 so we go to great lengths to hire great people because we believe that they\u2019re the foundation of our success. At Greenhouse, you\u2019ll join a team that collaborates purposefully, fosters inclusivity, and communicates with transparency and accountability so we can achieve our mission.&lt;/p&gt; &lt;p&gt;Join us to do the best work of your career, solving meaningful problems with remarkable teams.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Greenhouse is looking for a &lt;strong&gt;Senior Product Marketing Manager&lt;/strong&gt; to drive product input and go-to-market strategy for our core platform.&lt;br&gt;&lt;br&gt;This role will deeply understand the voice of the customer and increase customer lifetime value. You\u2019ll ensure we have crisp narratives, compelling offers, and repeatable motions that help customers understand the value of our newest solutions and \u201cbetter together\u201d partner stories.&lt;br&gt;&lt;br&gt;You\u2019ll work closely with Product, Marketing, Sales, Customer Success, and channel/partner teams to shape new offerings, define how they show up in the market, and build the GTM muscle that turns early traction into scalable growth. This is a strategic and hands-on role, with a mix of upstream product work, launch execution, and ongoing iteration to support GTM campaigns.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Who will love this job&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;A&lt;strong&gt; full stack PMM&lt;/strong&gt; \u2013 You love evolving existing and developing new products from idea to market, creating a compelling story, packaging, and driving the GTM from start to finish.&lt;/li&gt; &lt;li&gt;A &lt;strong&gt;strong and independent executor&lt;/strong&gt; - You thrive on owning all aspects of GTM success for your product domain, owning and driving, and working closely with Product to develop out ideas.&lt;/li&gt; &lt;li&gt;A &lt;strong&gt;cross-functional connector &amp;amp; influencer&lt;/strong&gt; \u2013 You thrive on partnering with Product, Sales, and Marketing, and can rally diverse stakeholders around clear narratives and plans.&lt;/li&gt; &lt;li&gt;A &lt;strong&gt;sharp storyteller&lt;/strong&gt; \u2013 You\u2019re excellent at turning complex concepts (integrations, AI workflows, multi-party solutions) into simple, concrete stories that resonate with customers, the field, and partners.&lt;/li&gt; &lt;li&gt;An &lt;strong&gt;AI adopter and advocate&lt;/strong&gt; \u2013 You\u2019re using the latest technologies to automate workflows, save time, and spend the creative human needed energy where it matters most.&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own product marketing for top priority features from positioning and messaging through packaging, launch, and early commercialization.&lt;/li&gt; &lt;li&gt;Shape new solutions with Product, using market research, customer feedback, and experiment readouts to clarify ICP, use cases, problem statements, and success criteria.&lt;/li&gt; &lt;li&gt;Define and refine packaging and offers (tiers, bundles, add-ons, and early pricing hypotheses) for add-on products in collaboration with Product, Pricing, Revenue, and other teams.&lt;/li&gt; &lt;li&gt;Build focused GTM plans and enablement, from messaging frameworks and pitch narratives to sales tools and customer-facing collateral, that make it easy for field and partner teams to position and sell.&lt;/li&gt; &lt;li&gt;Run and iterate GTM programs (campaigns, plays, content, and partner motions) to drive awareness, adoption, and advocacy, and bring back insights that influence roadmap, packaging, and future GTM.&lt;/li&gt; &lt;li&gt;Additional projects and responsibilities as business needs require&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;You should have&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;5+ years of experience in SaaS Product Marketing, with meaningful experience launching new products or offers and/or serving small and mid-sized businesses.&lt;/li&gt; &lt;li&gt;Proven experience partnering with Product to take features and offerings from concept to launch, including problem validation, targeting, and early packaging hypotheses.&lt;/li&gt; &lt;li&gt;Flexible, follow the opportunity attitude towards juggling priorities&lt;/li&gt; &lt;li&gt;Exceptional positioning, messaging, and content development skills, with a track record of communicating complex value (integrations, workflows, AI features, multi-party solutions) in clear, compelling language.&lt;/li&gt; &lt;li&gt;Strong cross-functional collaboration and organizational skills, with the ability to act as the GTM \u201cdriver\u201d for launches\u2014managing multiple initiatives, aligning stakeholders, and bringing structure to complex efforts.&lt;/li&gt; &lt;li&gt;Data-informed, experiment-oriented mindset, using qualitative and quantitative insights to test, learn, and iterate messaging, packaging, and programs, and to demonstrate impact on awareness, adoption, and revenue.&lt;/li&gt; &lt;li&gt;AI-driven capabilities and experience working with the latest technology, building new agents, advocating for early adoption and testing of automation where applicable (keeping human centered decision making and creativity in mind)&lt;/li&gt; &lt;li&gt;Your own unique talents! Your background has given you a unique perspective and set of transferable skills that aren&#39;t always in alignment with a given role - but those are qualities we value at Greenhouse. If you don&#39;t meet 100% of the qualifications outlined above, we still strongly encourage you to apply.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Applicants must be currently authorized to work in the United States on a full-time basis.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are based in California, we encourage you to read this important information for California residents linked&lt;/span&gt;&lt;a href=&quot;https://www.greenhouse.io/ccpa-candidate&quot;&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The national pay range for this role is $145,000- $180,000. Individual compensation will be commensurate with the candidate&#39;s experience and qualifications. Certain roles may be eligible for additional compensation, including stock option awards, bonuses, and merit increases. Additionally, certain roles have the opportunity to receive sales commissions that are based on the terms of the sales commission plan applicable to the role.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Greenhouse provides a variety of benefits to employees, including medical, dental, and vision insurance, basic life insurance, mental health resources, financial wellness benefits, and a fully paid parental leave program. For US-based employees, we offer short-term and long-term disability coverage, a 401(k) plan and company match. U.S. based employees also receive, per calendar year, up to 14 scheduled paid holidays and up to 80 hours of paid sick leave. Non-exempt employees accrue up to 20-25 days of paid vacation time annually, depending on tenure, and exempt employees have flexible paid time off (PTO).&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The anticipated closing date for this role is August 21, 2026.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;em&gt;This hiring process utilizes artificial intelligence tools to assist in candidate screening and assessment. Our AI tools are designed to complement, not replace, human decision-making.&lt;br&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Greenhouse, we live by our mission through &lt;a href=&quot;https://www.greenhouse.com/interviewing-at-greenhouse&quot; target=&quot;_blank&quot;&gt;using our own product&lt;/a&gt; to help us hire the right person for the job, every time. We\u2019re committed to designing and responsibly using AI tools to transform how we work while keeping people at the center. We are a remote-first company and have shared office spaces in New York City and Ireland, and optional co-working spaces that give us flexibility to do our best work anywhere. We take an active role in our growth through a performance review program that\u2019s committed to providing actionable feedback, and a bonus structure that rewards great performance. We believe that bringing together a variety of perspectives makes us a stronger company \u2013 and we nurture leaders who create an inclusive culture and invest into employee resource groups that celebrate our differences and life experiences. We\u2019re proud to have built an&amp;nbsp;&lt;a href=&quot;https://www.greenhouse.com/awards&quot; target=&quot;_blank&quot;&gt;award-winning culture&lt;/a&gt; that\u2019s been recognized as Fortune\u2019s Best Places to Work and Inc.\u2019s Best Workplaces multiple years in a row.&amp;nbsp;&lt;/p&gt; &lt;p&gt;\u2013&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Greenhouse Software is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran status, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation during the application process, reach out to accommodations@greenhouse.io.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Emails about job opportunities at Greenhouse Software are only offered by employees with @greenhouse.io email addresses. See &lt;/em&gt;&lt;a href=&quot;https://www.greenhouse.com/candidate-phishing-scams&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;this page&lt;/em&gt;&lt;/a&gt;&lt;em&gt; on our website if you suspect a phishing scam.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$145,000- $180,000",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-08-06T15:30:19-04:00"
+    },
+    "result": {
+      "overall_score": 76,
+      "verdict": "Strong Fit",
+      "verdict_note": "Full-stack PMM experience with proven GTM ownership and cross-functional leadership; EdTech background transfers well; sponsorship need is the limiting factor for a large, established enterprise SaaS company.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 82,
+          "note": "Senior Program Manager at BYJU's and PlanetSpark; AGM title is above target but GTM strategy focus aligns perfectly with Senior PMM scope."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 81,
+          "note": "Positioning, messaging, product launch, GTM strategy, cross-functional leadership, ABM, sales enablement all directly demonstrated. CRM/Salesforce, analytics tools present."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 68,
+          "note": "Strong SaaS GTM motion but EdTech-specific; Greenhouse is B2B SMB recruiting SaaS\u2014different buyer, urgency, and use case than live-class EdTech or B2C SaaS."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 76,
+          "note": "D2C funnel ownership, multi-region GTM redesigns, 38% CAC lift, launch execution proven. Missing explicit SMB/mid-market or enterprise SaaS launch narrative."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "H1B sponsorship required; Greenhouse is large, established employer (favorable for sponsorship), but posting does not explicitly confirm sponsorship willingness."
+        }
+      ],
+      "missing_keywords": [
+        "SMB or mid-market buyer expertise",
+        "Enterprise SaaS or recruiting software background",
+        "Pricing strategy or packaging experience (named)",
+        "Field/sales team enablement (named separately from GTM)",
+        "Partner or channel GTM motion"
+      ],
+      "top_signal": "Full-stack PMM with P&L ownership, proven ability to reshape GTM positioning across markets, and direct experience launching new offerings with cross-functional rigor\u2014exactly what Greenhouse's Senior PMM role requires.",
+      "biggest_gap": "EdTech domain and B2C/D2C funnel focus do not directly translate to recruiting software, SMB dynamics, or enterprise buyer complexity; no explicit mid-market GTM narrative in profile."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:27.963717+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:orcasecurity:6128456004",
+      "company": "orcasecurity",
+      "title": "National Partner Manager",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://orca.security/about/careers/6128456004?gh_jid=6128456004",
+      "description": "&lt;p&gt;&lt;strong&gt;Location: Chicago, IL (Remote)&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Big Ideas. Real People.&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At Orca, in the right environment and with the right team, talent has no boundaries. This team spirit, together with our drive to always aim high, has quickly earned us unicorn status and turned us into a global cloud security innovation leader. So if you\u2019re ready to join an amazing team of people who inspire each other every day, now is the time to find your place in our pod.&lt;/p&gt; &lt;p&gt;We\u2019re looking for driven and talented people like you to join our Partners team and our mission to change the future of cloud security. &lt;strong&gt;Ready to dive in and swim with our pod?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Highlights:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;High-growth: &lt;/strong&gt;Over the past seven years, we\u2019ve consistently achieved milestones that take other companies a decade or more. During this time, we\u2019ve significantly grown our employee base, expanded our customer reach, and rapidly advanced our product capabilities.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Disruptive innovation:&lt;/strong&gt; Our founders saw that traditional security didn\u2019t work for the cloud, so they set out to carve a new path. We\u2019re relentless pioneers who invented agentless technology and continue to be the most comprehensive and innovative cloud security company.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Well-capitalized:&lt;/strong&gt; With a valuation of $1.8 billion, Orca is a cybersecurity unicorn dominating the cloud security space. We\u2019re backed by an impressive team of investors such as Capital G, ICONIQ, GGV, and SVCI, a syndicate of CISOs who invest their own money after conducting their due diligence.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Respectful and transparent culture:&lt;/strong&gt; Our executives pride themselves on being accessible to everyone and believe in sharing knowledge with the employees. Each employee has a place in shaping the future of our industry.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;About the role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;As a &lt;strong&gt;National Partner Manager&lt;/strong&gt;, you will lead Orca Security\u2019s strategic partnerships with SHI, CDW, and GuidePoint Security\u2014three of the most influential cybersecurity solution providers in North America.&lt;/p&gt; &lt;p&gt;This is a high-impact role where you\u2019ll own executive relationships, drive partner-sourced pipeline, and scale revenue through national partners. You\u2019ll work cross-functionally with Orca\u2019s regional sales teams to build joint strategies, enable partner organizations, and accelerate cloud security adoption.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;On a typical day you&#39;ll:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;&lt;strong&gt;Build Strategic Partner Relationships&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and grow Orca\u2019s national partnership with SHI, CDW, as well as GuidePoint Security&amp;nbsp;&lt;/li&gt; &lt;li&gt;Develop and execute joint business plans with partner leadership&lt;/li&gt; &lt;li&gt;Position Orca as a strategic cloud security platform within each partner&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Drive Pipeline and Revenue&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Generate partner-sourced and partner-influenced pipeline&lt;/li&gt; &lt;li&gt;Identify and develop joint opportunities with Orca regional sales teams&lt;/li&gt; &lt;li&gt;Create repeatable sales motions to accelerate cloud security adoption&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Activate the Field&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Enable partner sales and technical teams on Orca\u2019s platform&lt;/li&gt; &lt;li&gt;Drive field engagement across partner regions and security practices&lt;/li&gt; &lt;li&gt;Collaborate with marketing on joint demand generation initiatives&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Executive Alignment&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Build strong relationships with partner executives and practice leaders&lt;/li&gt; &lt;li&gt;Lead partner strategy sessions, business reviews, and executive briefings&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;About you:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;8+ years of experience in channel sales or partner management&lt;/li&gt; &lt;li&gt;Proven success building pipeline and revenue through national partners&lt;/li&gt; &lt;li&gt;Strong relationships with SHI, CDW, GuidePoint Security, and similar cybersecurity partners&lt;/li&gt; &lt;li&gt;Experience in cybersecurity, cloud security, or enterprise SaaS&lt;/li&gt; &lt;li&gt;Track record of collaborating with enterprise sales teams on complex deals&lt;/li&gt; &lt;li&gt;Ability to influence both executive leadership and field sellers&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What We Offer:&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Competitive salary, commission, and equity package&lt;/li&gt; &lt;li&gt;Discounted medical, dental, and vision benefits with significant employer contribution&lt;/li&gt; &lt;li&gt;Benefits coverage starting on your first day of employment&lt;/li&gt; &lt;li&gt;Generous PTO with U.S. holidays observed and flexible hybrid &amp;amp; remote work environments&lt;/li&gt; &lt;li&gt;Your choice of Mac or Windows laptop&lt;/li&gt; &lt;li&gt;Work-from-home stipend to be used in your first month of employment&lt;/li&gt; &lt;li&gt;Monthly reimbursement for cell phone and for home internet&lt;/li&gt; &lt;li&gt;The chance to collaborate with a team of talented global colleagues all around the world&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;em&gt;Annual Salary range: $150,000-$170,000 base salary and $100,000-$110&lt;/em&gt;&lt;em&gt;,000 performance-based commissions. This represents the typical salary range for this position based on experience, skills, and other factors.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;This position is open until filled. Applications will be accepted on an ongoing basis.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Orca Security is an equal opportunity employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status.&lt;/em&gt;&lt;/p&gt;",
+      "salary": "$150,000-$170,000",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-08-13T11:19:34-04:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth background, but lacks named channel/partner management experience and cybersecurity domain depth required for this national partner role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Senior Manager level matches, but role is channel/partner-specific, not GTM/PMM."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "GTM, sales enablement, cross-functional leadership present; missing channel sales, partner management, vendor relationships."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "EdTech background; no cybersecurity, cloud security, or enterprise SaaS domain experience demonstrated."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 52,
+          "note": "Strong pipeline generation and revenue ownership, but no named partner account ownership or channel-led growth metrics."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 30,
+          "note": "H1B sponsorship required for small startup-stage unicorn; no explicit sponsorship commitment in posting."
+        }
+      ],
+      "missing_keywords": [
+        "channel sales",
+        "partner management",
+        "vendor relationships",
+        "cybersecurity",
+        "cloud security"
+      ],
+      "top_signal": "Eight years progressive GTM ownership with P&L accountability, cross-functional leadership, and quantified pipeline/revenue generation translates to partnership execution capability.",
+      "biggest_gap": "Zero named cybersecurity or cloud security domain experience; no demonstrated partner/channel account management or SHI/CDW/GuidePoint relationships."
+    },
+    "deprioritized": true,
+    "found_at": "2026-08-15T13:28:33.384318+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:blend:6129195004",
+      "company": "blend",
+      "title": "Partnerships Manager",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/blend/jobs/6129195004",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Blend is a diverse team of problem solvers who believe that the world\u2019s financial resources should be more accessible. Our cloud banking platform is used by Wells Fargo, U.S. Bank, and over 330 other financial services firms to acquire more customers, increase productivity, and deliver end-to-end digital experiences. Our software enables our customers to process an average of more than $5 billion in loans per day, making it possible for consumers to reach their financial goals faster and lead better lives. Come do work that matters.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Opportunity&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This is not a traditional channel sales role.&lt;/p&gt; &lt;p&gt;Our partners are integrated into the Blend platform\u2014not simply reselling our solutions. Success means creating meaningful, mutually beneficial relationships that drive adoption, customer value, and revenue for both organizations.&lt;/p&gt; &lt;p&gt;You&#39;ll inherit an established portfolio of strategic partners while helping shape the future of Blend&#39;s partnership strategy. Approximately 70% of your time will focus on maximizing the success of existing partnerships, with the remaining 30% dedicated to identifying and onboarding new strategic partners.&lt;/p&gt; &lt;p&gt;This is an individual contributor role designed for a seasoned partnership professional who enjoys building strategy, executing independently, and influencing cross-functional teams.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and manage Blend&#39;s strategic partnership portfolio.&lt;/li&gt; &lt;li&gt;Strengthen existing partner relationships by increasing engagement, collaboration, and mutual success.&lt;/li&gt; &lt;li&gt;Develop joint business plans that create measurable value for both Blend and our partners.&lt;/li&gt; &lt;li&gt;Identify opportunities to expand existing integrations, commercial relationships, and go-to-market initiatives.&lt;/li&gt; &lt;li&gt;Evaluate current partnership agreements and recommend improvements or renegotiations where appropriate.&lt;/li&gt; &lt;li&gt;Serve as the primary point of contact for partner executives and key stakeholders.&lt;/li&gt; &lt;li&gt;Collaborate closely with Product, Sales, Marketing, Customer Success, and Engineering to ensure partner success.&lt;/li&gt; &lt;li&gt;Identify, evaluate, and recruit new strategic technology partners that complement Blend&#39;s platform.&lt;/li&gt; &lt;li&gt;Build a scalable partnership program that supports future growth.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Current Partner Ecosystem&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You&#39;ll initially manage relationships with several strategic partners. The goal is to deepen these relationships while thoughtfully expanding the ecosystem from approximately four strategic partners today to six or seven high-impact partnerships over time.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What We&#39;re Looking For&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;7+ years of experience in strategic partnerships, business development, channel management, or alliance management within SaaS or fintech.&lt;/li&gt; &lt;li&gt;Experience managing technology integrations and strategic partnerships rather than purely reseller relationships.&lt;/li&gt; &lt;li&gt;Proven success growing existing partner relationships while developing new partnerships.&lt;/li&gt; &lt;li&gt;Strong executive presence with the ability to influence senior leaders internally and externally.&lt;/li&gt; &lt;li&gt;Comfortable working independently with significant ownership and autonomy.&lt;/li&gt; &lt;li&gt;Strategic thinker who can also execute day-to-day partnership initiatives.&lt;/li&gt; &lt;li&gt;Excellent negotiation, communication, and relationship management skills.&lt;/li&gt; &lt;li&gt;Experience working cross-functionally with Product, Sales, Marketing, and Customer Success teams.&lt;/li&gt; &lt;li&gt;Experience selling or partnering within the financial services, banking, mortgage, or fintech ecosystem is highly preferred.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What Success Looks Like&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;During your first year, your primary focus will be strengthening Blend&#39;s existing partner ecosystem by improving partner satisfaction, driving greater engagement, expanding joint opportunities, and ensuring our partnerships deliver meaningful value for both organizations. As that foundation is established, you&#39;ll help strategically expand the ecosystem by identifying and launching new partnerships that align with Blend&#39;s long-term growth strategy.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;&lt;strong&gt;Our Benefits at a Glance&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We offer a comprehensive and competitive benefits package designed to support your health and work-life balance.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Health &amp;amp; Wellbeing&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;We offer medical, dental, and vision benefits, with a generous employer contribution that helps keep your medical insurance costs low.&lt;/li&gt; &lt;li&gt;Company-paid life, short-term, and long-term disability coverage&lt;/li&gt; &lt;li&gt;Generous PTO, holidays, and maternity/parental leave&lt;/li&gt; &lt;li&gt;Employee Assistance Program (EAP): mental health, legal, childcare &amp;amp; eldercare, financial planning, college search, and more&lt;/li&gt; &lt;li&gt;Voluntary benefits: accident, critical illness, hospital indemnity, identity theft, and legal insurance&lt;/li&gt; &lt;li&gt;Monthly wellness stipend for fitness, mental health, and well-being&lt;/li&gt; &lt;li&gt;Additional perks: Milk Stork, pet insurance, and paid volunteer time off&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Growth &amp;amp; Future&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;401(k) retirement plan with company match&lt;/li&gt; &lt;li&gt;Pre-tax savings: healthcare &amp;amp; dependent care FSAs, Limited Purpose FSA, and HSA&lt;/li&gt; &lt;/ul&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-07-28T18:02:13-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and cross-functional leadership, but lacks direct strategic partnerships, technology integration, or fintech experience\u2014core to this role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 62,
+          "note": "Manager-level confirmed; role is IC not manager. Business development experience spans 6+ years but not partnerships specifically."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Strong on GTM, cross-functional leadership, negotiation. Missing: partnership strategy, technology integrations, ecosystem building, alliance management."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 38,
+          "note": "EdTech background; posting requires fintech or financial services. No mortgage, banking, or fintech ecosystem exposure evident."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 54,
+          "note": "Proven ability to grow revenue through segmented campaigns and cross-functional alignment. No evidence of managing strategic tech partnerships or integrations."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; Blend is established, well-capitalized fintech company\u2014visa feasible but not preferred candidate pool."
+        }
+      ],
+      "missing_keywords": [
+        "strategic partnerships",
+        "technology integrations",
+        "fintech or financial services",
+        "alliance management",
+        "partner ecosystem building"
+      ],
+      "top_signal": "Demonstrated P&L ownership across 5 markets, ABM execution, and proven ability to design and scale cross-functional programs with measurable impact.",
+      "biggest_gap": "Zero direct experience in strategic technology partnerships, integrations, or fintech/banking; candidate background is EdTech GTM, not partnership strategy."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:40.488391+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:expel:8672668002",
+      "company": "expel",
+      "title": "Senior Product Marketing Manager",
+      "location": "Remote",
+      "url": "https://expel.com/about/career-listing/8672668002?gh_jid=8672668002",
+      "description": "&lt;p&gt;You know great products don&#39;t sell themselves. The best ones are brought to market by people who deeply understand their customers, can simplify complex technology, and know how to tell stories that resonate with technical buyers.&lt;/p&gt; &lt;p&gt;If you&#39;re passionate about cybersecurity, enjoy partnering across Product, Sales, Customer Success, and Marketing, and love translating technical capabilities into clear customer value, we&#39;d love to talk.&lt;/p&gt; &lt;p&gt;At Expel, we&#39;re redefining how organizations approach Managed Detection and Response (MDR). In a market crowded with vendors focused on products, we focus on outcomes. Our customers trust us to help them detect, investigate, and respond to threats faster, and Product Marketing plays a critical role in helping tell that story.&lt;/p&gt; &lt;p&gt;As a Senior Product Marketing Manager, you&#39;ll own product marketing for a key slice of Expel&#39;s portfolio, our threat hunting, phishing, and add-on services, alongside the orchestration and automation areas of our MDR service. You&#39;ll partner closely with Product Management, Sales, Customer Success, Marketing, and executive stakeholders to develop messaging, launch new capabilities, enable customer-facing teams, and create compelling content that helps customers understand why Expel is different.&lt;/p&gt; &lt;p&gt;This role blends real ownership with hands-on execution. You&#39;ll drive strategy and GTM plans for your focus areas while partnering closely with a small, talented product marketing team. This isn&#39;t a role where you&#39;ll be flying solo, but it is one where you&#39;ll be trusted to run your own areas of the business.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What Expel can do for you&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Give you the opportunity to influence how one of the industry&#39;s leading MDR providers tells its story.&lt;/li&gt; &lt;li&gt;Surround you with collaborative Product, Sales, Customer Success, Marketing, and Engineering teams that genuinely enjoy building together.&lt;/li&gt; &lt;li&gt;Give you the freedom to experiment with new messaging, launch strategies, and AI-powered workflows that help us move faster.&lt;/li&gt; &lt;li&gt;Let you own meaningful initiatives while continuing to grow your product marketing expertise.&lt;/li&gt; &lt;li&gt;Provide the opportunity to influence go-to-market strategy while remaining close to customers and products.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What you can do for Expel&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own product marketing for Expel&#39;s threat hunting, phishing, and add-on services portfolio, developing messaging, positioning, and GTM plans that establish these as recognized differentiators against competitors like CrowdStrike, Arctic Wolf, and ReliaQuest.&lt;/li&gt; &lt;li&gt;Partner closely with Product Management throughout the lifecycle of your focus areas, from roadmap through launch, to drive successful releases and customer adoption.&lt;/li&gt; &lt;li&gt;Refresh and maintain core messaging platforms and website/FAQ content for your focus areas, replacing outdated positioning with something sharper.&lt;/li&gt; &lt;li&gt;Deliver complete, on-time GTM launch packages, messaging, content, and enablement, for every release tied to your focus areas.&lt;/li&gt; &lt;li&gt;Build and deliver sales and Customer Success enablement that helps customer-facing teams confidently position your focus areas, handle objections, and communicate customer value.&lt;/li&gt; &lt;li&gt;Create high-quality customer-facing content including messaging frameworks, solution briefs, webpages, presentations, blogs, battlecards, and technical sales collateral.&lt;/li&gt; &lt;li&gt;Develop and maintain competitive intelligence, messaging, battlecards, and market analysis, that helps sellers win throughout the sales cycle.&lt;/li&gt; &lt;li&gt;Turn market, competitive, and customer insights into recommendations that directly inform roadmap prioritization decisions.&lt;/li&gt; &lt;li&gt;Partner with Marketing to launch content and demand-generation programs tied to each planned release in your focus areas.&lt;/li&gt; &lt;li&gt;Launch prospect and customer engagement programs that grow qualified pipeline and expansion for your product areas.&lt;/li&gt; &lt;li&gt;Spend time with customers, prospects, and internal stakeholders to understand buyer challenges, market dynamics, and evolving security priorities.&lt;/li&gt; &lt;li&gt;Represent Expel through webinars, customer engagements, analyst briefings, and industry events as a subject matter expert on your focus areas.&lt;/li&gt; &lt;li&gt;Leverage AI tools such as Gemini and Claude to accelerate research, messaging development, competitive analysis, and content creation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What you should bring with you&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Exceptional written and verbal communication skills with the ability to simplify highly technical cybersecurity concepts for multiple audiences.&lt;/li&gt; &lt;li&gt;Solid experience in Product Marketing, Product Management, Technical Marketing, Sales Engineering, or a similar go-to-market role.&lt;/li&gt; &lt;li&gt;Experience working within cybersecurity or a closely related technical B2B SaaS environment.&lt;/li&gt; &lt;li&gt;Experience marketing cybersecurity technologies such as MDR, XDR, SIEM, SecOps, cloud security, identity security, or adjacent markets is a strong plus.&lt;/li&gt; &lt;li&gt;A track record running product launches big and small, knowing who to bring in and when, and owning stakeholder management from kickoff through release.&lt;/li&gt; &lt;li&gt;The ability to quickly learn a new product space and translate customer, persona, and market insights into GTM strategies and content plans.&lt;/li&gt; &lt;li&gt;Comfort driving alignment across technical PMs, Sales, Marketing, and business stakeholders, and delivering enablement to internal and external audiences, including customers and analysts.&lt;/li&gt; &lt;li&gt;Demonstrated skill building messaging and positioning that speaks to key personas and differentiates Expel in the market.&lt;/li&gt; &lt;li&gt;Strong project management skills with the ability to manage multiple initiatives simultaneously while consistently delivering high-quality work.&lt;/li&gt; &lt;li&gt;A customer-first mindset with genuine curiosity to understand buyer pain points and translate those insights into stronger messaging.&lt;/li&gt; &lt;li&gt;Experience incorporating AI tools into day-to-day workflows to improve productivity and accelerate content development.&lt;/li&gt; &lt;li&gt;A Bachelor&#39;s degree or a compelling story.&lt;/li&gt; &lt;/ul&gt; &lt;hr&gt; &lt;h2&gt;Additional notes&lt;/h2&gt; &lt;p&gt;The base salary range for this role is between $130,600 USD and $189,400 USD + bonus eligibility and equity.&lt;br&gt;&lt;br&gt;We believe in paying transparently and equitably. Your salary will ultimately be based on factors such as your experience, skills, team equity, and market data. You\u2019ll also be eligible for unlimited PTO (which we model and encourage), work location flexibility, up to 24 weeks of parental leave, and really excellent health benefits.&lt;/p&gt; &lt;p&gt;We\u2019re only hiring those authorized to work in the United States. We do not currently sponsor immigration visas.&lt;/p&gt; &lt;p&gt;We&#39;re an Equal Opportunity Employer: You&#39;ll receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, or on the basis of disability.&lt;/p&gt; &lt;p&gt;We\u2019ll ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please let us know if you need accommodation of any kind.&lt;/p&gt; &lt;p&gt;#LI-Remote&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Salary Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$130,600&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$189,400 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Senior",
+      "posted_at": "2026-08-12T01:02:14-04:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and positioning expertise, but cybersecurity domain gap and limited B2B enterprise sales motion experience are material mismatches for this MDR-focused technical buyer role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Senior PM title matches; P&L ownership and cross-functional leadership align, but no direct PMM title or enterprise SaaS background."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 72,
+          "note": "Strong on positioning, messaging, GTM strategy, competitive intelligence, sales enablement, content. Missing: battlecards, analyst briefings, technical security knowledge."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 48,
+          "note": "EdTech is consumer/K-12 focused; zero cybersecurity, MDR, threat hunting, or enterprise security domain experience. No mention of security buyer psychology or compliance motions."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 71,
+          "note": "D2C funnel optimization and positioning redesigns proven. International pipeline and market expansion relevant. But no B2B enterprise segment or land-expand motions shown."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 58,
+          "note": "Requires H1B sponsorship; Expel is established company (good sign), but posting does not explicitly confirm sponsorship, and this is a real friction point."
+        }
+      ],
+      "missing_keywords": [
+        "Cybersecurity domain expertise",
+        "Managed Detection and Response (MDR)",
+        "B2B enterprise sales motion",
+        "Technical buyer personas",
+        "Analyst relations / briefings"
+      ],
+      "top_signal": "Proven ability to diagnose positioning-market fit gaps, redesign GTM messaging, and drive measurable adoption (38% CAC lift, 25% sales growth); cross-functional leadership at scale (60+ team) transfers well to PMM partnership model.",
+      "biggest_gap": "Zero cybersecurity or security operations background; EdTech is B2C/K-12, not enterprise; no demonstrated experience selling to CISO/security buyer personas or navigating compliance-driven buying cycles that are core to MDR."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:49.027192+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:getresponse:E849DF75C7",
+      "company": "getresponse",
+      "title": "Senior Business Development Executive",
+      "location": "",
+      "url": "https://apply.workable.com/j/E849DF75C7",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-03-27"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and growth track record, but lacking SaaS marketing automation domain depth and unclear if sponsorship-friendly employer.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Senior Program Manager + AGM level maps to Senior BDE; P&L ownership and cross-functional leadership present."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 71,
+          "note": "Business development, GTM strategy, pipeline management, sales enablement all directly match; CRM and analytics strong."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 58,
+          "note": "EdTech D2C and B2C SaaS experience, but no direct marketing automation platform, email, or martech background."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 75,
+          "note": "38% CAC lift, 19% ARR growth, 27% conversion gains, and $5M revenue generation all quantified and relevant."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 55,
+          "note": "Requires H1B sponsorship; GetResponse is mid-market SaaS (Polish company), lower likelihood of sponsorship infrastructure vs. Fortune 500."
+        }
+      ],
+      "missing_keywords": [
+        "email marketing platforms",
+        "marketing automation domain expertise",
+        "B2B SaaS sales motion",
+        "enterprise customer success",
+        "inbound lead qualification"
+      ],
+      "top_signal": "Hands-on P&L ownership across 5 city markets with 25% sales growth redesign; proven ability to diagnose funnel leaks and scale pipeline.",
+      "biggest_gap": "No marketing automation platform or email-driven SaaS background; sponsorship risk with mid-market, non-US headquartered employer."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:28:57.657046+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:qbdvision:DF1A7DC583",
+      "company": "qbdvision",
+      "title": "Sales Enablement Manager",
+      "location": "",
+      "url": "https://apply.workable.com/j/DF1A7DC583",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-06-18"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth pedigree, but Sales Enablement Manager is narrower function with less P&L ownership than candidate's experience suggests.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 62,
+          "note": "Manager-level confirmed, but last role was Senior PM at growth company; Sales Enablement is more specialized subset."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 58,
+          "note": "Sales enablement, CRM, Salesforce, KPI dashboards present; lacks specific sales training, collateral design, or rep coaching depth."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 48,
+          "note": "EdTech and D2C focus; qbdvision context missing\u2014cannot assess B2B/B2C fit or vertical alignment."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 50,
+          "note": "Rebuilt sales onboarding and enablement (42% productivity uplift) is relevant; P&L ownership and growth leadership may overshadow specialist role."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 45,
+          "note": "Requires H1B sponsorship; no company size/sponsorship history provided in posting\u2014high risk for small/mid-market firm."
+        }
+      ],
+      "missing_keywords": [
+        "sales training program design",
+        "sales collateral creation",
+        "rep coaching and development",
+        "sales operations",
+        "onboarding playbooks"
+      ],
+      "top_signal": "Rebuilt sales onboarding systems at PlanetSpark with 42% productivity uplift and CRM-led enablement at BYJU'S; direct experience bridging GTM strategy into rep execution.",
+      "biggest_gap": "No evidence of sales training design, collateral authorship, or ongoing rep coaching\u2014Sales Enablement Manager role typically requires hands-on L&D and content creation, not just pipeline/funnel optimization."
+    },
+    "deprioritized": false,
+    "found_at": "2026-08-15T13:29:05.782430+00:00"
   }
 ]
