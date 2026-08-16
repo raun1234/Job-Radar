@@ -3458,5 +3458,290 @@
     "name": "Justworks",
     "ats": "ashby",
     "token": "justworks"
+  },
+  {
+    "name": "Crogl",
+    "ats": "ashby",
+    "token": "crogl"
+  },
+  {
+    "name": "Ema",
+    "ats": "ashby",
+    "token": "ema"
+  },
+  {
+    "name": "10x Team",
+    "ats": "ashby",
+    "token": "10xteam"
+  },
+  {
+    "name": "Immersive Labs",
+    "ats": "ashby",
+    "token": "immersivelabs"
+  },
+  {
+    "name": "AppSamurai",
+    "ats": "lever",
+    "token": "appsamurai"
+  },
+  {
+    "name": "Wintermute",
+    "ats": "lever",
+    "token": "wintermute-trading"
+  },
+  {
+    "name": "Provectus",
+    "ats": "lever",
+    "token": "provectus"
+  },
+  {
+    "name": "LendingOne",
+    "ats": "workable",
+    "token": "lendingone"
+  },
+  {
+    "name": "MYOB",
+    "ats": "lever",
+    "token": "myob-2"
+  },
+  {
+    "name": "Storyly",
+    "ats": "lever",
+    "token": "storyly"
+  },
+  {
+    "name": "Salesforce",
+    "ats": "ashby",
+    "token": "salesforce"
+  },
+  {
+    "name": "ServiceNow",
+    "ats": "ashby",
+    "token": "servicenow"
+  },
+  {
+    "name": "Workday",
+    "ats": "ashby",
+    "token": "workday"
+  },
+  {
+    "name": "Atlassian",
+    "ats": "ashby",
+    "token": "atlassian"
+  },
+  {
+    "name": "Gitlab",
+    "ats": "ashby",
+    "token": "gitlab"
+  },
+  {
+    "name": "New Relic",
+    "ats": "ashby",
+    "token": "newrelic"
+  },
+  {
+    "name": "Splunk",
+    "ats": "ashby",
+    "token": "splunk"
+  },
+  {
+    "name": "Dynatrace",
+    "ats": "ashby",
+    "token": "dynatrace"
+  },
+  {
+    "name": "Freshpaint",
+    "ats": "ashby",
+    "token": "freshpaint"
+  },
+  {
+    "name": "Segment",
+    "ats": "ashby",
+    "token": "segment"
+  },
+  {
+    "name": "mParticle",
+    "ats": "ashby",
+    "token": "mparticle"
+  },
+  {
+    "name": "Tealium",
+    "ats": "ashby",
+    "token": "tealium"
+  },
+  {
+    "name": "Lytics",
+    "ats": "ashby",
+    "token": "lytics"
+  },
+  {
+    "name": "Treasure Data",
+    "ats": "ashby",
+    "token": "treasuredata"
+  },
+  {
+    "name": "Twilio Segment",
+    "ats": "ashby",
+    "token": "twiliosegment"
+  },
+  {
+    "name": "Wise",
+    "ats": "lever",
+    "token": "wise"
+  },
+  {
+    "name": "Revolut",
+    "ats": "lever",
+    "token": "revolut"
+  },
+  {
+    "name": "Monzo",
+    "ats": "lever",
+    "token": "monzo"
+  },
+  {
+    "name": "Starling Bank",
+    "ats": "lever",
+    "token": "starlingbank"
+  },
+  {
+    "name": "GoCardless",
+    "ats": "lever",
+    "token": "gocardless"
+  },
+  {
+    "name": "TrueLayer",
+    "ats": "lever",
+    "token": "truelayer"
+  },
+  {
+    "name": "Tink",
+    "ats": "lever",
+    "token": "tink"
+  },
+  {
+    "name": "Zopa",
+    "ats": "lever",
+    "token": "zopa"
+  },
+  {
+    "name": "Curve",
+    "ats": "lever",
+    "token": "curve"
+  },
+  {
+    "name": "Yapily",
+    "ats": "lever",
+    "token": "yapily"
+  },
+  {
+    "name": "Snapdocs",
+    "ats": "ashby",
+    "token": "snapdocs"
+  },
+  {
+    "name": "Reonomy",
+    "ats": "ashby",
+    "token": "reonomy"
+  },
+  {
+    "name": "Homebase",
+    "ats": "ashby",
+    "token": "homebase"
+  },
+  {
+    "name": "Squire",
+    "ats": "ashby",
+    "token": "squire"
+  },
+  {
+    "name": "Boulevard HQ",
+    "ats": "ashby",
+    "token": "boulevardhq"
+  },
+  {
+    "name": "Fresha",
+    "ats": "workable",
+    "token": "fresha"
+  },
+  {
+    "name": "Vagaro",
+    "ats": "workable",
+    "token": "vagaro"
+  },
+  {
+    "name": "MindBody HQ",
+    "ats": "workable",
+    "token": "mindbodyhq"
+  },
+  {
+    "name": "Verkada HQ",
+    "ats": "lever",
+    "token": "verkadahq"
+  },
+  {
+    "name": "Rubrik HQ",
+    "ats": "ashby",
+    "token": "rubrikhq"
+  },
+  {
+    "name": "Illumio HQ",
+    "ats": "ashby",
+    "token": "illumiohq"
+  },
+  {
+    "name": "Netskope HQ",
+    "ats": "ashby",
+    "token": "netskopehq"
+  },
+  {
+    "name": "Zscaler HQ",
+    "ats": "ashby",
+    "token": "zscalerhq"
+  },
+  {
+    "name": "Wiz HQ",
+    "ats": "ashby",
+    "token": "wizhq"
+  },
+  {
+    "name": "Snyk HQ",
+    "ats": "ashby",
+    "token": "snykhq"
+  },
+  {
+    "name": "Chargify HQ",
+    "ats": "workable",
+    "token": "chargifyhq"
+  },
+  {
+    "name": "Baremetrics",
+    "ats": "workable",
+    "token": "baremetrics"
+  },
+  {
+    "name": "ProfitWell",
+    "ats": "workable",
+    "token": "profitwell"
+  },
+  {
+    "name": "Recharge",
+    "ats": "ashby",
+    "token": "rechargepayments"
+  },
+  {
+    "name": "Bolt Checkout",
+    "ats": "ashby",
+    "token": "bolt"
+  },
+  {
+    "name": "Fast Checkout",
+    "ats": "ashby",
+    "token": "fast"
+  },
+  {
+    "name": "Extend",
+    "ats": "ashby",
+    "token": "extend"
   }
 ]
