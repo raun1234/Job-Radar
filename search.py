@@ -209,6 +209,22 @@ def hard_requirements_ok(description):
     return not HARD_REQ_RE.search(description[:6000])
 
 
+NEW_GRAD_PATTERNS = [
+    r"class of 2027", r"2027 graduate", r"2027 grad\b",
+    r"mba 2027", r"mba class of 2027",
+    r"\bnew grad\b", r"new graduate",
+    r"rotational program", r"leadership development program",
+    r"\bldp\b", r"early career program", r"early in career",
+    r"start date.{0,20}summer 2027", r"summer 2027 start",
+    r"graduating in 2027", r"expected graduation.{0,10}2027",
+]
+NEW_GRAD_RE = re.compile("|".join(NEW_GRAD_PATTERNS), re.IGNORECASE)
+
+def is_new_grad_program(job):
+    text = job.get("title", "") + " " + job.get("description", "")[:4000]
+    return bool(NEW_GRAD_RE.search(text))
+
+
 def deprioritized(company_token):
     return company_token.lower() in DEPRIORITIZE_TOKENS
 
@@ -507,7 +523,7 @@ def write_csv(all_results):
     path = os.path.join(RESULTS_DIR, "tracker.csv")
     cols = ["date_found", "score", "verdict", "company", "title", "location",
             "work_type", "seniority", "salary", "sponsorship_likely",
-            "posted_age_days", "deprioritized", "top_signal", "biggest_gap",
+            "posted_age_days", "deprioritized", "new_grad_program", "top_signal", "biggest_gap",
             "missing_keywords", "posting_url"]
 
     def sponsor_likely(result):
@@ -538,6 +554,7 @@ def write_csv(all_results):
             sponsor_likely(r),
             posted_days(j, e.get("found_at", "")),
             "Yes" if e.get("deprioritized") else "",
+            "Yes" if e.get("new_grad_program") else "",
             r.get("top_signal", ""),
             r.get("biggest_gap", ""),
             "; ".join(r.get("missing_keywords", [])),
@@ -630,9 +647,11 @@ def main():
 
             score = result.get("overall_score", 0)
             dep = deprioritized(job["company"])
-            print(f"  score: {score} -- {result.get('verdict')}{' [deprioritized company]' if dep else ''}")
+            ng = is_new_grad_program(job)
+            print(f"  score: {score} -- {result.get('verdict')}{' [deprioritized company]' if dep else ''}{' [NEW GRAD]' if ng else ''}")
 
             entry = {"job": job, "result": result, "deprioritized": dep,
+                     "new_grad_program": ng,
                      "found_at": datetime.now(timezone.utc).isoformat()}
             new_results.append(entry)
             all_results.append(entry)
