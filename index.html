@@ -147,6 +147,7 @@ hr{border:none;border-top:0.5px solid var(--border);margin:1.5rem 0}
 <div class="tabs">
   <button class="tab on" onclick="tab('today',this)">Today's hits</button>
   <button class="tab" onclick="tab('all',this)">All-time top 15</button>
+  <button class="tab" onclick="tab('ng',this)">New Grad</button>
   <button class="tab" onclick="tab('hist',this)">History</button>
   <button class="tab" onclick="tab('trk',this)">Tracker</button>
 </div>
@@ -156,6 +157,10 @@ hr{border:none;border-top:0.5px solid var(--border);margin:1.5rem 0}
 <div id="tab-hist" style="display:none">
   <p style="font-size:12px;color:var(--text2);margin-bottom:1rem">Every posting scored to date, most recent first.</p>
   <div id="c-hist"></div>
+</div>
+<div id="tab-ng" style="display:none">
+  <p style="font-size:12px;color:var(--text2);margin-bottom:1rem">Postings mentioning 2027 graduate, MBA 2027, new grad, or a rotational/early-career program.</p>
+  <div class="cards" id="c-ng"></div>
 </div>
 <div id="tab-trk" style="display:none"><p style="font-size:12px;color:var(--text2);margin-bottom:1rem">Track applications through the pipeline. Saved in your browser.</p><div id="c-trk"></div></div>
 
@@ -235,6 +240,7 @@ function card(e,idx){
       </div>
       <div class="jc-title">${job.title}</div>
       <div class="meta-row">
+        ${e.new_grad_program?`<span class="pill pill-top"><i class="ti ti-school" aria-hidden="true" style="font-size:10px"></i> New Grad Program</span>`:''}
         ${isTop?`<span class="pill pill-top"><i class="ti ti-star" aria-hidden="true" style="font-size:10px"></i> Top match</span>`:''}
         <span class="pill ${verdictClass(result.verdict)}">${result.verdict}</span>
         ${isSponsor?`<span class="pill pill-sponsor"><i class="ti ti-passport" aria-hidden="true" style="font-size:10px"></i> Sponsorship likely</span>`:''}
@@ -313,6 +319,11 @@ function renderHistory(){
   const el=document.getElementById('c-hist');
   el.innerHTML=sorted.length?sorted.map(historyRow).join(''):'<div class="empty"><i class="ti ti-history" aria-hidden="true"></i><p>No postings scored yet.</p></div>';
 }
+function renderNewGrad(){
+  const matches=ALL.filter(e=>e.new_grad_program).sort((a,b)=>b.result.overall_score-a.result.overall_score);
+  const el=document.getElementById('c-ng');
+  el.innerHTML=matches.length?matches.map(card).join(''):'<div class="empty"><i class="ti ti-school" aria-hidden="true"></i><p>No new-grad or rotational postings found yet.</p></div>';
+}
 function updateStatus(url,v){TRK[url]=v;localStorage.setItem('jr4',JSON.stringify(TRK));}
 
 function renderTracker(){
@@ -335,11 +346,12 @@ function renderTracker(){
 }
 
 function tab(name,btn){
-  ['today','all','hist','trk'].forEach(t=>document.getElementById('tab-'+t).style.display=t===name?'block':'none');
+  ['today','all','ng','hist','trk'].forEach(t=>document.getElementById('tab-'+t).style.display=t===name?'block':'none');
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
   btn.classList.add('on');
   if(name==='trk')renderTracker();
   if(name==='hist')renderHistory();
+  if(name==='ng')renderNewGrad();
 }
 
 function renderAll(data){
