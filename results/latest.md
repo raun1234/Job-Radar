@@ -1,43 +1,11 @@
 # Job Radar
 
-Run: 2026-08-16T13:28:59.692291+00:00
+Run: 2026-08-17T13:37:04.289117+00:00
 
-Companies: 283 checked, 282 connected, 1 failed
-Estimated spend this run: $0.0252
+Companies: 283 checked, 283 connected, 0 failed
+Estimated spend this run: $0.0000
 
-## New this run (4)
-
-### 71 -- Customer Marketing Manager, Industries @ Anthropic (San Francisco, CA | New York City, NY)
-**Worth Applying** -- Strong GTM and cross-functional skills, but lacks direct customer marketing/advocacy experience and proven storytelling track record at enterprise scale.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5390155008)
-
-- Top signal: P&L ownership across 5 city markets and proven ability to redesign positioning and drive adoption through cross-functional teams mirrors the autonomy and strategic scope required.
-- Biggest gap: No demonstrated experience building customer reference programs, guiding approval processes, or creating customer-facing content assets (case studies, videos, press announcements).
-- Missing keywords: customer advocacy, case studies, PR/Communications partnership, customer storytelling, technical content creation
-
-### 52 -- Business Development Manager, Partnerships Channel @ Lendingone ()
-**Stretch** -- Strong GTM and growth foundation, but partnerships channel BD is different from D2C and sales pipeline motions in profile.
-[View posting](https://apply.workable.com/j/88ECA98C5B)
-
-- Top signal: Eight years scaling revenue through structured BD motions, cross-functional execution, and sales operations optimization across complex multi-unit environments.
-- Biggest gap: No lending, fintech, or channel partnership experience; sponsorship requirement may be blocking factor for mid-market lender without explicit sponsorship commitment.
-- Missing keywords: partnerships channel strategy, channel partner management, financial services, lending operations, partner enablement programs
-
-### 52 -- Regional Business Development Manager @ Lendingone ()
-**Stretch** -- Strong GTM and growth background, but lending/fintech domain is absent and BD scope appears narrower than P&L-owned expansion experience.
-[View posting](https://apply.workable.com/j/3501202F31)
-
-- Top signal: Owned P&L and sales expansion across 5 city markets at BYJU's; scaled revenue 38% through funnel redesign and 19% through international pipeline growth.
-- Biggest gap: Zero fintech or lending domain experience; visa sponsorship status may disqualify at smaller or non-multinational companies.
-- Missing keywords: lending, fintech, credit products, loan origination, customer acquisition cost
-
-### 28 -- Business Development Manager, New Construction @ Lendingone ()
-**Weak Fit** -- Strong GTM/growth background in EdTech SaaS, but new construction lending is a fundamentally different function requiring B2B sales ops and construction/real estate domain expertise.
-[View posting](https://apply.workable.com/j/2549495B2B)
-
-- Top signal: P&L ownership, pipeline management, and international expansion show commercial accountability at scale.
-- Biggest gap: No construction, lending, or financial services domain experience; EdTech D2C motions do not map to construction loan origination workflows or B2B contractor sales.
-- Missing keywords: construction lending, loan origination, real estate development, contractor relationships, financial services
+## No new matching postings this run.
 
 ## Top 15 all-time
 
