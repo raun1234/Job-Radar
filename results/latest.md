@@ -1,11 +1,27 @@
 # Job Radar
 
-Run: 2026-08-17T13:37:04.289117+00:00
+Run: 2026-08-18T13:40:29.173757+00:00
 
-Companies: 283 checked, 283 connected, 0 failed
-Estimated spend this run: $0.0000
+Companies: 283 checked, 280 connected, 3 failed
+Estimated spend this run: $0.0145
 
-## No new matching postings this run.
+## New this run (2)
+
+### 76 -- Senior Business Development Manager @ Greenhouse (Anywhere in the United States)
+**Strong Fit** -- 8+ years of BD and GTM execution in SaaS with proven portfolio management and cross-functional leadership, though partnership-specific lifecycle management is understated versus deal-closing emphasis.
+[View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8115010?gh_jid=8115010)
+
+- Top signal: 8+ years driving BD revenue targets in SaaS, P&L ownership across 5 markets, and cross-functional execution at scale (60+ team leadership) match Senior Manager rigor.
+- Biggest gap: Portfolio management and partnership post-signature lifecycle (QBRs, health tracking, renewals) are not explicitly detailed; profile emphasizes deal generation and funnel optimization over long-term partner relationship depth.
+- Missing keywords: partner lifecycle management, co-sell motion, integration roadmap alignment, QBR facilitation, ecosystem strategy
+
+### 71 -- Lifecycle & Growth Marketing Lead @ Lumaai (Redwood City, CA)
+**Worth Applying** -- Strong lifecycle, funnel, and experimentation fundamentals; EdTech D2C expertise transfers well, but lacks explicit conversion optimization and marketing automation platform depth.
+[View posting](https://jobs.ashbyhq.com/lumaai/bc29ab04-630e-4acf-bc84-1100ca68f235)
+
+- Top signal: Diagnosed and redesigned multi-channel GTM sequence, lifted customer acquisition 38% and 30-day retention 40%—demonstrates systems thinking, hypothesis-driven prioritization, and measurable funnel impact.
+- Biggest gap: No demonstrated expertise in structured CRO programs, A/B testing methodology at scale, or marketing automation platform sophistication (Braze, HubSpot) that role explicitly values.
+- Missing keywords: conversion rate optimization (CRO), landing page optimization, Braze, HubSpot, marketing automation platforms, behavioral data analysis, PLG (product-led growth)
 
 ## Top 15 all-time
 
@@ -49,6 +65,10 @@ Estimated spend this run: $0.0000
 **Strong Fit** -- Full-stack PMM experience with proven GTM ownership and cross-functional leadership; EdTech background transfers well; sponsorship need is the limiting factor for a large, established enterprise SaaS company.
 [View posting](https://job-boards.greenhouse.io/greenhouse/jobs/7411199?gh_jid=7411199)
 
+### 76 -- Senior Business Development Manager @ Greenhouse (Anywhere in the United States)
+**Strong Fit** -- 8+ years of BD and GTM execution in SaaS with proven portfolio management and cross-functional leadership, though partnership-specific lifecycle management is understated versus deal-closing emphasis.
+[View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8115010?gh_jid=8115010)
+
 ### 73 -- Senior Category Growth Manager @ Coursera (United States)
 **Worth Applying** -- Strong GTM and growth fundamentals with proven cross-functional leadership, but lacks direct consumer subscription portfolio experience and demonstrated category management depth.
 [View posting](https://job-boards.greenhouse.io/coursera/jobs/6127488004)
@@ -64,7 +84,3 @@ Estimated spend this run: $0.0000
 ### 72 -- GTM Strategy & Operations, India & South East Asia @ Openai (Singapore)
 **Good Fit** -- Strong GTM strategy and ops foundation with India/SEA market knowledge, but lacks direct revenue ops, territory management, and Salesforce quota-setting depth at scale.
 [View posting](https://jobs.ashbyhq.com/openai/a38926a6-a514-4ee0-bfe1-408922a2790c)
-
-### 72 -- Customer Marketing Manager, Enterprise and Digital Natives @ Openai (San Francisco)
-**Good Fit** -- Strong GTM and growth foundation with relevant cross-functional skills, but lacks direct customer marketing, storytelling, and content creation experience that OpenAI specifically emphasizes.
-[View posting](https://jobs.ashbyhq.com/openai/efb24a0b-cb44-42cc-8cd9-023af778073a)

@@ -8893,5 +8893,123 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-08-16T13:28:45.847407+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:lumaai:bc29ab04-630e-4acf-bc84-1100ca68f235",
+      "company": "lumaai",
+      "title": "Lifecycle & Growth Marketing Lead",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/lumaai/bc29ab04-630e-4acf-bc84-1100ca68f235",
+      "description": "ABOUT THE ROLE Luma is looking for a Growth Marketer to own the systems and experiences that turn interest into customers, and customers into more engaged, higher-value customers. You'll own the full conversion journey across our website, landing pages, onboarding, lifecycle marketing, and retention. You'll be responsible for understanding where people get stuck, figuring out what will move them, and building the programs and experiences that make it happen. This is a highly cross-functional role. You'll work closely with Product, Design, Sales, and Marketing to improve everything from the first website visit to trial conversion, activation, expansion, and re-engagement. You'll combine strong marketing instincts with analytical rigor: understanding the numbers, forming hypotheses, and then turning those hypotheses into better experiences. We're looking for someone who can zoom out and see the funnel as a system, then zoom in and obsess over the words on a landing page, the timing of an email, or the friction in a signup flow. You\u2019ll have an amazing instinct for what to say and when to say it. You'll have support to execute campaigns and programs in our marketing tools. Your job is to determine what we should build, who it's for, why it should work, and how we'll know if it did. WHAT YOU'LL OWN CONVERSION & WEBSITE - Own conversion strategy across the Luma website and key acquisition surfaces - Identify and prioritize opportunities across the website funnel, from first visit through signup, trial, and purchase - Develop and optimize landing pages for campaigns, products, audiences, and use cases - Partner with Design and Web to improve messaging, information architecture, CTAs, and conversion paths - Develop and run a structured CRO program: establish hypotheses, prioritize tests, analyze results, and continuously improve conversion - Use behavioral and funnel data to understand where users drop off and why - Analyze conversion across tiers, plans, and customer segments to identify opportunities for growth LIFECYCLE MARKETING - Own lifecycle strategy across the customer journey: nurture, trial conversion, onboarding, activation, engagement, cross-sell, expansion, and re-engagement - Design segmented, sequenced programs that move people toward the next meaningful action, rather than simply sending more email - Develop lifecycle journeys across email and in-product surfaces in partnership with Product - Partner with Sales and Growth to connect lifecycle programs to the actual customer journey and buying process - Establish segmentation and behavioral triggers that make lifecycle communication increasingly relevant and personalized - Build experiments that increase activation, retention, expansion/upgrades, and customer engagement EXPERIMENTATION & GROWTH - Establish a clear growth experimentation roadmap across website, pricing, conversion, and lifecycle - Define hypotheses, success metrics, and testing methodology - Analyze performance and translate data into actionable insights - Build a culture of continuous experimentation rather than one-off optimization - Identify the highest-leverage opportunities across the funnel and prioritize accordingly SYSTEMS & MEASUREMENT - Own the strategy and architecture of our lifecycle and conversion systems - Define the funnel and lifecycle metrics that matter, including visitor-to-signup, signup-to-trial, trial-to-paid, activation, engagement, expansion, and re-engagement - Build reporting that gives the team a clear view of where growth is coming from and where we're losing it - Continuously improve our systems, processes, and measurement as the company scales WHAT WE'RE LOOKING FOR - 8+ years in growth, lifecycle, CRM, conversion, or related marketing roles, ideally with experience spanning both PLG and sales-assisted motions - A track record of improving measurable funnel outcomes, not just launching campaigns - Experience with lifecycle marketing, segmentation, experimentation, and marketing automation - Strong understanding of website conversion and landing pages. - Strong analytical instincts, you're comfortable digging into funnel data, identifying patterns, and turning them into hypotheses - Strong editorial instincts, you know that better conversion isn't just about buttons and mechanics; it's about getting the message, value proposition, and experience right - Excellent writer and communicator who can personally develop messaging when needed - Bonus points if you\u2019ve worked with Braze, Hubspot, Sanity, Vercel, Linear - Curious about the product and willing to understand how it works, why it matters, and who it's for - Highly autonomous and comfortable owning an ambiguous, evolving area - Equally comfortable setting strategy and getting into the details LUMA AT A GLANCE: Luma AI is a frontier research lab and an AI-native product company. We're building creative agents that expand what creative professionals can imagine and make. AI is a story that gets told on social first, and Luma's is one of the best there is to tell. This is a rare shot to own that narrative, define a category, and make Luma the brand the creative world can't stop watching.",
+      "salary": "$150K - $205K",
+      "work_type": "Hybrid",
+      "seniority": "Lead",
+      "posted_at": "2026-08-17T17:17:48.309+00:00"
+    },
+    "result": {
+      "overall_score": 71,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong lifecycle, funnel, and experimentation fundamentals; EdTech D2C expertise transfers well, but lacks explicit conversion optimization and marketing automation platform depth.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Senior Program Manager level aligns with Growth Lead scope; P&L ownership signals readiness for autonomous growth ownership."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "D2C funnel, lifecycle, segmentation, CRM, KPI dashboards present; missing explicit CRO, landing page optimization, and Braze/HubSpot/Sanity experience."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "EdTech B2C SaaS shares funnel complexity but different buyer journey; AI/creative tools buyer psychology and product motion not evidenced."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 75,
+          "note": "Proven retention interventions, segmentation-driven conversion lifts (27%, 40%), cross-functional execution; lacks quantified website/landing page optimization wins."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; Luma is well-funded startup (good sponsor profile), but no explicit sponsorship statement in JD."
+        }
+      ],
+      "missing_keywords": [
+        "conversion rate optimization (CRO)",
+        "landing page optimization",
+        "Braze",
+        "HubSpot",
+        "marketing automation platforms",
+        "behavioral data analysis",
+        "PLG (product-led growth)"
+      ],
+      "top_signal": "Diagnosed and redesigned multi-channel GTM sequence, lifted customer acquisition 38% and 30-day retention 40%\u2014demonstrates systems thinking, hypothesis-driven prioritization, and measurable funnel impact.",
+      "biggest_gap": "No demonstrated expertise in structured CRO programs, A/B testing methodology at scale, or marketing automation platform sophistication (Braze, HubSpot) that role explicitly values."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-08-18T13:39:26.798899+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:greenhouse:8115010",
+      "company": "greenhouse",
+      "title": "Senior Business Development Manager",
+      "location": "Anywhere in the United States",
+      "url": "https://job-boards.greenhouse.io/greenhouse/jobs/8115010?gh_jid=8115010",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Our &lt;a href=&quot;https://www.greenhouse.com/mission&quot; target=&quot;_blank&quot;&gt;mission&lt;/a&gt; at Greenhouse is to make hiring work for everyone \u2013 so we go to great lengths to hire great people because we believe that they\u2019re the foundation of our success. At Greenhouse, you\u2019ll join a team that collaborates purposefully, fosters inclusivity, and communicates with transparency and accountability so we can achieve our mission.&lt;/p&gt; &lt;p&gt;Join us to do the best work of your career, solving meaningful problems with remarkable teams.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Greenhouse is looking for a &lt;/span&gt;&lt;strong&gt;Senior Business Development Manager &lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;to join our team!&lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;The Senior Business Development Manager will drive the execution of Greenhouse&#39;s partner strategy and own a portfolio of high-impact strategic partners across our ecosystem. This role sits within the Corporate Development &amp;amp; Strategy team and will turn strategic partnership priorities into signed deals, live integrations, and measurable revenue outcomes.&amp;nbsp;&lt;/p&gt; &lt;p&gt;You&#39;ll lead how Greenhouse builds, structures, and grows strategic partnerships, working closely with Product, Sales, Marketing, and Legal to both launch new integrations and deepen existing relationships. This is a highly cross-functional, execution-focused role for someone who wants to identify and deliver new growth and meaningful impact through our ecosystem.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Who will love this job&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;A connector&lt;/strong&gt; - you build strong, trust-based relationships with partners and internal stakeholders, and you enjoy being the primary point of contact who keeps everyone aligned and moving forward.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;A strategist&lt;/strong&gt; - you like translating big-picture partnership priorities into concrete programs, commercial structures, and clear business cases that drive revenue and ROI.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;A builder&lt;/strong&gt; - you thrive in environments without fully built playbooks, creating structure, process, and repeatable motion where it doesn&#39;t yet exist.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;An operator&lt;/strong&gt; - you are organized, detail-oriented, and have high follow-through, comfortably managing complex launches, competing priorities, and end-to-end execution.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Drive the execution of Greenhouse&#39;s partner strategy, turning strategic partner decisions into successful, revenue-generating initiatives across our ecosystem.&lt;/li&gt; &lt;li&gt;Own a portfolio of strategic partners end-to-end, serving as the primary point of contact and owning revenue goals tied to those relationships.&lt;/li&gt; &lt;li&gt;Lead new partnership launches, from initial scoping through go-live, partnering closely with Product, CGS (Customer Growth &amp;amp; Success), and Marketing.&lt;/li&gt; &lt;li&gt;Collaborate with Product &amp;amp; Engineering on integration scope, roadmap alignment, and prioritization to ensure joint solutions create clear customer value.&lt;/li&gt; &lt;li&gt;Partner with CGSand Sales on co-sell motions and partner-sourced pipeline, ensuring the field is enabled to effectively sell with and through partners.&lt;/li&gt; &lt;li&gt;Work with Marketing on joint go-to-market and co-marketing programs that drive awareness, adoption, and expansion for strategic integrations.&lt;/li&gt; &lt;li&gt;Own partner performance and reporting, defining KPIs and leading the process to track partner health, goals, and ROI in collaboration with Sales and Finance.&lt;/li&gt; &lt;li&gt;Negotiate and manage commercial agreements, partnering with Legal on contract terns and overseeing renewals, amendments, and ongoing commercial structures.&lt;/li&gt; &lt;li&gt;Identify new partnership opportunities and ecosystem bets that can unlock incremental growth, and make data-driven recommendations on where to invest next.&lt;/li&gt; &lt;li&gt;Additional projects and responsibilities as business needs require.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;You should have&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;6 - 9 years of experience in business development, partnerships, strategic alliances, or a related function at a B2B or B2C SaaS company.&lt;/li&gt; &lt;li&gt;Proven experience managing partner relationships post-signature, including QBRs, performance tracking, and relationship troubleshooting - not just sourcing and closing deals.&lt;/li&gt; &lt;li&gt;Strong cross-functional collaboration skills, with demonstrated experience working closely with Product/Engineering on integration partnerships, Sales on co-sell or channel motions, and Marketing on GTM programs.&lt;/li&gt; &lt;li&gt;Commercial and analytical fluency, including building business cases, modeling partnership ROI, and negotiating commercial terms such as revenue share, referral fees, Marketing development funds, and minimum commitments.&lt;/li&gt; &lt;li&gt;Excellent written and verbal communication skills, with comfort presenting to senior stakeholders and translating partnership activity into clear strategic narratives.&lt;/li&gt; &lt;li&gt;A builder&#39;s mindset and high follow-through - you&#39;re comfortable operating without fully built playbooks, creating structure where it doesn&#39;t exist, and managing through complexity as a hands-on project owner.&lt;/li&gt; &lt;li&gt;A track record of achieving realized ARR or revenue goals through partnerships.&lt;/li&gt; &lt;li&gt;Experience in HR tech or recruiting software, a plus.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Y&lt;span style=&quot;font-weight: 400;&quot;&gt;our own unique talents! Your background has given you a unique perspective and set of transferable skills that aren&#39;t always in alignment with a given role - but those are qualities we value at Greenhouse. If you don&#39;t meet 100% of the qualifications outlined above, we still strongly encourage you to apply.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Applicants must be currently authorized to work in the United States on a full-time basis.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are based in California, we encourage you to read this important information for California residents linked&lt;/span&gt;&lt;/em&gt;&lt;a href=&quot;https://www.greenhouse.io/ccpa-candidate&quot;&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The national pay range for this role is $163,800 - $213,100. Individual compensation will be commensurate with the candidate&#39;s experience and qualifications. Certain roles may be eligible for additional compensation, including stock option awards, bonuses, and merit increases. Additionally, certain roles have the opportunity to receive sales commissions that are based on the terms of the sales commission plan applicable to the role.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Greenhouse provides a variety of benefits to employees, including medical, dental, and vision insurance, basic life insurance, mental health resources, financial wellness benefits, and a fully paid parental leave program. For US-based employees, we offer short-term and long-term disability coverage, a 401(k) plan and company match. U.S. based employees also receive, per calendar year, up to 14 scheduled paid holidays and up to 80 hours of paid sick leave. Non-exempt employees accrue up to 20-25 days of paid vacation time annually, depending on tenure, and exempt employees have flexible paid time off (PTO).&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;The anticipated closing date for this role is September 25th, 2026.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;#LI-SS1&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Greenhouse, we live by our mission through &lt;a href=&quot;https://www.greenhouse.com/interviewing-at-greenhouse&quot; target=&quot;_blank&quot;&gt;using our own product&lt;/a&gt; to help us hire the right person for the job, every time. We\u2019re committed to designing and responsibly using AI tools to transform how we work while keeping people at the center. We are a remote-first company and have shared office spaces in New York City and Ireland, and optional co-working spaces that give us flexibility to do our best work anywhere. We take an active role in our growth through a performance review program that\u2019s committed to providing actionable feedback, and a bonus structure that rewards great performance. We believe that bringing together a variety of perspectives makes us a stronger company \u2013 and we nurture leaders who create an inclusive culture and invest into employee resource groups that celebrate our differences and life experiences. We\u2019re proud to have built an&amp;nbsp;&lt;a href=&quot;https://www.greenhouse.com/awards&quot; target=&quot;_blank&quot;&gt;award-winning culture&lt;/a&gt; that\u2019s been recognized as Fortune\u2019s Best Places to Work and Inc.\u2019s Best Workplaces multiple years in a row.&amp;nbsp;&lt;/p&gt; &lt;p&gt;\u2013&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Greenhouse Software is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran status, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation during the application process, reach out to accommodations@greenhouse.io.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Emails about job opportunities at Greenhouse Software are only offered by employees with @greenhouse.io email addresses. See &lt;/em&gt;&lt;a href=&quot;https://www.greenhouse.com/candidate-phishing-scams&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;this page&lt;/em&gt;&lt;/a&gt;&lt;em&gt; on our website if you suspect a phishing scam.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$163,800 - $213,100",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-08-17T12:20:09-04:00"
+    },
+    "result": {
+      "overall_score": 76,
+      "verdict": "Strong Fit",
+      "verdict_note": "8+ years of BD and GTM execution in SaaS with proven portfolio management and cross-functional leadership, though partnership-specific lifecycle management is understated versus deal-closing emphasis.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 82,
+          "note": "Senior Manager level confirmed via P&L ownership and 60+ team leadership; title progression clear."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 78,
+          "note": "Strong on BD, GTM, cross-functional leadership, CRM, KPI dashboards; light on explicit partnership lifecycle and co-sell/co-marketing execution."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 72,
+          "note": "EdTech B2C SaaS experience is adjacent to B2B SaaS hiring platform; GTM motions transfer but recruiting ecosystem less visible."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 77,
+          "note": "Revenue targets met consistently, sales operations optimized, multi-stakeholder coordination proven; less explicit ecosystem/integration launch depth."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 70,
+          "note": "Requires H1B sponsorship; Greenhouse is large/established so sponsorship risk is moderate but still a real friction point."
+        }
+      ],
+      "missing_keywords": [
+        "partner lifecycle management",
+        "co-sell motion",
+        "integration roadmap alignment",
+        "QBR facilitation",
+        "ecosystem strategy"
+      ],
+      "top_signal": "8+ years driving BD revenue targets in SaaS, P&L ownership across 5 markets, and cross-functional execution at scale (60+ team leadership) match Senior Manager rigor.",
+      "biggest_gap": "Portfolio management and partnership post-signature lifecycle (QBRs, health tracking, renewals) are not explicitly detailed; profile emphasizes deal generation and funnel optimization over long-term partner relationship depth."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-08-18T13:39:52.273776+00:00"
   }
 ]
