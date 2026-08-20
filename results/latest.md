@@ -1,51 +1,75 @@
 # Job Radar
 
-Run: 2026-08-19T13:42:38.445948+00:00
+Run: 2026-08-20T13:44:22.863565+00:00
 
-Companies: 283 checked, 281 connected, 2 failed
-Estimated spend this run: $0.0362
+Companies: 283 checked, 283 connected, 0 failed
+Estimated spend this run: $0.0567
 
-## New this run (5)
+## New this run (8)
 
-### 72 -- GTM Strategy & Operations Lead @ Affirm (Remote US)
-**Worth Applying** -- Strong GTM and cross-functional execution experience, but lacks explicit fintech/payments domain depth and merchant ecosystem familiarity that posting emphasizes as must-have.
-[View posting](https://job-boards.greenhouse.io/affirm/jobs/7833171003)
+### 72 -- Product Marketing Manager, Competitive Intelligence @ Hightouch (Remote (North America))
+**Worth Applying** -- Strong GTM and competitive positioning background, but CI function ownership is not directly demonstrated; lacks named CDP/martech domain depth despite adjacent SaaS experience.
+[View posting](https://job-boards.greenhouse.io/hightouch/jobs/6147286004)
 
-- Top signal: Diagnosed and fixed a 30% top-of-funnel leak via GTM sequence redesign (+38% CAC lift in 2Q), demonstrating exactly the 'vague objective → coherent plan → tracked adoption' motion Affirm describes.
-- Biggest gap: No demonstrated experience with merchant-facing GTM, payments, lending, or fintech—posting lists merchant/fintech familiarity as 'must-have,' not nice-to-have, and Raunak's entire background is B2C EdTech consumer acquisition.
-- Missing keywords: fintech ecosystem, merchant GTM, payment rails, lending product strategy, revenue operations
+- Top signal: Built GTM positioning frameworks, competitive segmentation, and sales enablement at scale across multi-region P&L; demonstrated ability to translate complex market research into actionable field tools.
+- Biggest gap: No demonstrated ownership of a dedicated competitive intelligence program; EdTech background lacks CDP, martech, or data infrastructure domain familiarity that the role explicitly flags as domain fit.
+- Missing keywords: CDP/customer data platform domain, win/loss interview cycle ownership, analyst relations / report synthesis, competitive battlecards (owned end-to-end), martech ecosystem knowledge
 
-### 68 -- ISV Ecosystem Growth Marketing Manager @ Okta (Bellevue, Washington; Chicago, Illinois; San Francisco, California; Washington, DC)
-**Worth Applying** -- Strong funnel optimization and growth motion expertise, but ISV/partner ecosystem and developer marketing depth are unproven; EdTech D2C motion doesn't directly map to B2B SaaS platform partnerships.
-[View posting](https://www.okta.com/company/careers/opportunity/8139717?gh_jid=8139717)
+### 72 -- Growth Product Marketing Manager @ Chime (San Francisco, CA, USA)
+**Worth Applying** -- Strong growth fundamentals and D2C funnel expertise, but EdTech domain depth and lack of fintech/consumer banking experience create a genuine gap for a role requiring member-centric growth at scale.
+[View posting](https://boards.greenhouse.io/chime/jobs/8731186002?gh_jid=8731186002)
 
-- Top signal: Owned end-to-end D2C funnel conversion redesign lifting acquisition 38% and retention 40%—directly transferable funnel rigor to ISV lifecycle motion.
-- Biggest gap: No demonstrated partner marketing, developer relations, or ISV ecosystem experience; EdTech B2C funnel playbook may not unlock B2B platform partnership dynamics.
-- Missing keywords: developer marketing, ISV / independent software vendor partnerships, partner enablement toolkit, ecosystem growth programs, contact enrichment / data sourcing
+- Top signal: P&L ownership across 5 city markets + 38% CA improvement + 40% retention uplift directly signal ability to move Chime's acquisition-to-activation funnel.
+- Biggest gap: Zero fintech, banking, or consumer payments experience; all domain knowledge is EdTech, requiring on-the-job learning curve for member-centric financial product motions.
+- Missing keywords: performance marketing, lifecycle marketing, fintech or banking domain, member acquisition cost (CAC) optimization, paid channel management
 
-### 68 -- Senior Demand Gen Manager @ Paytient (United States)
-**Worth Applying** -- Strong GTM and growth execution track record, but healthcare/benefits domain is new territory and demand gen specificity gaps exist.
-[View posting](https://job-boards.greenhouse.io/paytient/jobs/5215049007)
+### 72 -- Product & Customer Marketing Manager @ Observeai (Redwood City, CA (Hybrid))
+**Worth Applying** -- Strong GTM and storytelling chops with proven customer/field enablement work, but seniority and customer marketing depth are notably below the IC3+ trajectory expected.
+[View posting](https://www.observe.ai/position?gh_jid=5395837008)
 
-- Top signal: Diagnosed and fixed leaky top-of-funnel with multi-channel GTM redesign, lifting CAC 38%; directly applicable to Paytient's pipeline acceleration mandate.
-- Biggest gap: Zero healthcare/employee benefits domain experience and no explicit demand gen campaign ownership; role demands B2B benefits acumen Paytient will need to train.
-- Missing keywords: Demand generation campaign management, Paid media (PPC, LinkedIn, display), Marketing automation platform expertise, Lead scoring and nurture workflows, B2B healthcare or employee benefits GTM
+- Top signal: 8+ years GTM strategy and positioning redesign at scale, plus hands-on research into AI platform visibility—highly relevant for enterprise AI CX product.
+- Biggest gap: No demonstrated ownership of customer advocacy, reference, or case study programs; moving from growth/BD P&L into customer marketing execution role signals potential overqualification or seniority mismatch.
+- Missing keywords: customer advocacy program management, G2/Gartner review management, case study creation, customer testimonials & video, reference program ownership
 
-### 62 -- Sr. Product Marketing Manager, Trust & Safety @ Chime (San Francisco, CA, USA)
-**Worth Applying** -- Strong GTM and positioning fundamentals with proven product marketing chops, but missing 3+ years regulated financial services depth that posting explicitly requires.
-[View posting](https://boards.greenhouse.io/chime/jobs/8694719002?gh_jid=8694719002)
+### 68 -- Global Technology Alliance Manager, Databricks @ Fivetran (Oakland, California, United States, AMER)
+**Worth Applying** -- Strong GTM and cross-functional leadership skills, but lacks direct partner/alliance management experience and data infrastructure domain depth.
+[View posting](https://www.fivetran.com/careers/job?gh_jid=7850882003)
 
-- Top signal: Demonstrated ownership of end-to-end GTM from messaging redesign through adoption lift (38–40% gains), cross-functional alignment at scale (60+ team), and direct competitive positioning work at BYJU's and PlanetSpark.
-- Biggest gap: Zero explicit regulated financial services, compliance, or trust/fraud/security product marketing experience—posting requires 3+ years in regulated fintech, and EdTech D2C funnel optimization does not transfer that regulatory/risk mindset.
-- Missing keywords: regulated financial services, compliance/regulatory marketing, fintech/banking domain, fraud prevention/security product messaging, financial trust narratives
+- Top signal: 8+ years GTM ownership, cross-functional orchestration of 60+ teams, and proven ability to redesign positioning and sales workflows at scale.
+- Biggest gap: No prior experience managing strategic technology partnerships or partner ecosystems; EdTech background does not translate directly to data infrastructure positioning or Databricks relationship dynamics.
+- Missing keywords: strategic partnerships, partner programs, joint go-to-market, channel development, vendor/alliance management
 
-### 28 -- Senior GRC Partnerships Manager @ Thoropass (United States)
-**Weak Fit** -- Candidate's entire background is GTM, product marketing, and growth—this role requires GRC partnerships operations, vendor management, and compliance domain expertise.
-[View posting](https://job-boards.greenhouse.io/thoropass/jobs/6146641004)
+### 52 -- Sr. Strategic Partner Manager, Content @ Pinterest (New York, NY, US; Remote, US)
+**Stretch** -- Strong GTM and growth chops, but lacks direct creator/community ecosystem and content partnerships experience that defines this role.
+[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8082169)
 
-- Top signal: Strong senior manager seniority and cross-functional leadership at scale (60+ team coordination, P&L ownership), but in entirely wrong domain.
-- Biggest gap: Zero compliance, audit, GRC, or partnerships operations experience; entire career is demand generation and growth in EdTech—fundamentally misaligned with partner operations and compliance domain.
-- Missing keywords: GRC partnerships, vendor management, compliance automation platform, partner operations, audit firm collaboration, referral pipeline management, strategic partnerships execution
+- Top signal: 8+ years GTM + growth strategy, P&L ownership across 5 markets, and proven ability to diagnose funnel gaps and redesign positioning at scale—demonstrates strategic rigor and cross-functional leadership.
+- Biggest gap: No direct experience managing creator or content-supplier communities, building partnerships with media/publishing entities, or driving content strategy for a vertical—core pillars of this role.
+- Missing keywords: creator partnerships, community management, content ecosystem, media/publishing partnerships, creator education programs
+
+### 42 -- Partner Alliance Manager- PubSec Ecosystem @ Okta (Chicago, Illinois; Colorado; Texas; Washington, DC)
+**Stretch** -- Strong GTM and growth credentials, but lacks required public sector channel sales experience and quota-driven sales track record.
+[View posting](https://www.okta.com/company/careers/opportunity/8142155?gh_jid=8142155)
+
+- Top signal: 8+ years GTM and revenue-driven business development with demonstrated cross-functional leadership and quantified pipeline growth.
+- Biggest gap: Zero public sector channel sales experience; EdTech B2C funnel expertise does not transfer to government reseller/SI ecosystems or quota-driven channel models.
+- Missing keywords: Public Sector / SLED / Federal channel sales, Long-tail partner recruitment and enablement, Quota attainment and accountability, Systems Integrator (SI) relationship management, Channel pipeline and sourced-deal reporting
+
+### 42 -- Sales Enablement Manager @ Culligan-Uk-Limited ()
+**Stretch** -- Strong GTM and growth background, but sales enablement at a B2B water treatment company requires different domain depth and go-to-market motion.
+[View posting](https://apply.workable.com/j/171FF56B4D)
+
+- Top signal: Rebuilt sales onboarding and enablement systems, achieving 42% productivity uplift at PlanetSpark.
+- Biggest gap: No B2B enterprise or field sales background; experience is entirely D2C/growth-driven EdTech, not industrial/commercial sales support.
+- Missing keywords: field sales coaching, territory management, sales operations, B2B enterprise sales, sales training programs
+
+### 38 -- Marketing Operations Manager @ Cockroachlabs (New York, NY) (deprioritized company)
+**Weak Fit** -- Strong GTM strategist but lacks marketing operations, Marketo admin, and systems integration depth this role requires.
+[View posting](https://www.cockroachlabs.com/careers/job/?gh_jid=8055505)
+
+- Top signal: CRM mastery (Salesforce), KPI dashboards, cross-functional coordination, and AI-platform research differentiate for emerging automation tools.
+- Biggest gap: No hands-on marketing operations, Marketo administration, email campaign ownership, or data/systems management experience—core 60% of this role.
+- Missing keywords: Marketo administrator, email operations, n8n, Openprise, database enrichment and deduplication, PLG tracking, lead scoring workflows, marketing technology integrations, campaign QA, deliverability management
 
 ## Top 15 all-time
 
