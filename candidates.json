@@ -3743,5 +3743,235 @@
     "name": "Extend",
     "ats": "ashby",
     "token": "extend"
+  },
+  {
+    "name": "Higgsfield AI",
+    "ats": "ashby",
+    "token": "higgsfieldai"
+  },
+  {
+    "name": "EliseAI",
+    "ats": "ashby",
+    "token": "eliseai"
+  },
+  {
+    "name": "Sana",
+    "ats": "ashby",
+    "token": "sana-roles"
+  },
+  {
+    "name": "Sentient",
+    "ats": "ashby",
+    "token": "sentient"
+  },
+  {
+    "name": "GetNextStep",
+    "ats": "ashby",
+    "token": "getnextstep"
+  },
+  {
+    "name": "The Global Talent Co",
+    "ats": "ashby",
+    "token": "the-global-talent-co"
+  },
+  {
+    "name": "Liquid AI",
+    "ats": "ashby",
+    "token": "liquid-ai"
+  },
+  {
+    "name": "Wand AI",
+    "ats": "ashby",
+    "token": "wand-ai"
+  },
+  {
+    "name": "Coram AI",
+    "ats": "ashby",
+    "token": "coram-ai"
+  },
+  {
+    "name": "A.Team",
+    "ats": "ashby",
+    "token": "a-team"
+  },
+  {
+    "name": "AKASA",
+    "ats": "ashby",
+    "token": "akasa"
+  },
+  {
+    "name": "Trener Robotics",
+    "ats": "ashby",
+    "token": "trener-robotics"
+  },
+  {
+    "name": "Synthflow AI",
+    "ats": "ashby",
+    "token": "synthflow"
+  },
+  {
+    "name": "Reo.Dev",
+    "ats": "ashby",
+    "token": "reo-dev"
+  },
+  {
+    "name": "Alex AI",
+    "ats": "ashby",
+    "token": "alexai"
+  },
+  {
+    "name": "Jerry.ai",
+    "ats": "ashby",
+    "token": "jerry.ai"
+  },
+  {
+    "name": "Talent Pluto",
+    "ats": "workable",
+    "token": "talentpluto"
+  },
+  {
+    "name": "Windsurf",
+    "ats": "ashby",
+    "token": "windsurf"
+  },
+  {
+    "name": "Codeium",
+    "ats": "ashby",
+    "token": "codeium"
+  },
+  {
+    "name": "Magic AI",
+    "ats": "ashby",
+    "token": "magic"
+  },
+  {
+    "name": "Poolside",
+    "ats": "ashby",
+    "token": "poolside"
+  },
+  {
+    "name": "Imbue",
+    "ats": "ashby",
+    "token": "imbue"
+  },
+  {
+    "name": "Adept",
+    "ats": "ashby",
+    "token": "adept"
+  },
+  {
+    "name": "Speak",
+    "ats": "ashby",
+    "token": "speak"
+  },
+  {
+    "name": "Jasper AI",
+    "ats": "ashby",
+    "token": "jasperai"
+  },
+  {
+    "name": "Writesonic",
+    "ats": "ashby",
+    "token": "writesonic"
+  },
+  {
+    "name": "Bolt.new",
+    "ats": "ashby",
+    "token": "boltnew"
+  },
+  {
+    "name": "Vapi AI",
+    "ats": "ashby",
+    "token": "vapiai"
+  },
+  {
+    "name": "Ada Support",
+    "ats": "ashby",
+    "token": "adasupport"
+  },
+  {
+    "name": "Forethought",
+    "ats": "ashby",
+    "token": "forethought"
+  },
+  {
+    "name": "Fin AI",
+    "ats": "ashby",
+    "token": "fin"
+  },
+  {
+    "name": "Crescendo AI",
+    "ats": "ashby",
+    "token": "crescendo"
+  },
+  {
+    "name": "Yellow.ai",
+    "ats": "ashby",
+    "token": "yellowai"
+  },
+  {
+    "name": "Kore.ai",
+    "ats": "ashby",
+    "token": "koreai"
+  },
+  {
+    "name": "Wonder Dynamics",
+    "ats": "ashby",
+    "token": "wonderdynamics"
+  },
+  {
+    "name": "Pika Labs",
+    "ats": "ashby",
+    "token": "pikalabs"
+  },
+  {
+    "name": "Ideogram",
+    "ats": "ashby",
+    "token": "ideogram"
+  },
+  {
+    "name": "Krea AI",
+    "ats": "ashby",
+    "token": "krea"
+  },
+  {
+    "name": "Leonardo AI",
+    "ats": "ashby",
+    "token": "leonardoai"
+  },
+  {
+    "name": "Midjourney",
+    "ats": "ashby",
+    "token": "midjourney"
+  },
+  {
+    "name": "Civitai",
+    "ats": "ashby",
+    "token": "civitai"
+  },
+  {
+    "name": "Recraft",
+    "ats": "ashby",
+    "token": "recraft"
+  },
+  {
+    "name": "Freepik",
+    "ats": "ashby",
+    "token": "freepik"
+  },
+  {
+    "name": "Opus Clip",
+    "ats": "ashby",
+    "token": "opusclip"
+  },
+  {
+    "name": "Vizard AI",
+    "ats": "ashby",
+    "token": "vizardai"
+  },
+  {
+    "name": "Argil AI",
+    "ats": "ashby",
+    "token": "argil"
   }
 ]
