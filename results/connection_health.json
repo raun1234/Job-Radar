@@ -1,26 +1,32 @@
 {
-  "run_at": "2026-08-22T13:29:58.977678+00:00",
+  "run_at": "2026-08-23T13:29:19.567553+00:00",
   "summary": {
     "total": 304,
-    "connected": 303,
-    "failed": 1,
+    "connected": 304,
+    "failed": 0,
     "rate": "100%",
-    "estimated_spend": 0.0495,
-    "run_at": "2026-08-22T13:29:58.977678+00:00",
+    "estimated_spend": 0.0,
+    "run_at": "2026-08-23T13:29:19.567553+00:00",
     "skip_counts": {
-      "title": 957,
-      "location": 14,
-      "age": 3,
+      "title": 214,
+      "location": 0,
+      "age": 0,
       "years": 0,
       "hard_req": 0
     }
   },
   "connected": [
     {
+      "name": "Jobgether",
+      "token": "jobgether",
+      "ats": "lever",
+      "jobs_found": 4015
+    },
+    {
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 816
+      "jobs_found": 821
     },
     {
       "name": "Stripe",
@@ -32,7 +38,7 @@
       "name": "Anthropic",
       "token": "anthropic",
       "ats": "greenhouse",
-      "jobs_found": 517
+      "jobs_found": 518
     },
     {
       "name": "Datadog",
@@ -56,7 +62,7 @@
       "name": "Okta",
       "token": "okta",
       "ats": "greenhouse",
-      "jobs_found": 335
+      "jobs_found": 338
     },
     {
       "name": "Toast",
@@ -116,7 +122,7 @@
       "name": "Pinterest",
       "token": "pinterest",
       "ats": "greenhouse",
-      "jobs_found": 225
+      "jobs_found": 224
     },
     {
       "name": "Adyen",
@@ -323,22 +329,22 @@
       "jobs_found": 107
     },
     {
-      "name": "Diligent",
-      "token": "diligentcorporation",
-      "ats": "greenhouse",
-      "jobs_found": 105
-    },
-    {
       "name": "EliseAI",
       "token": "eliseai",
       "ats": "ashby",
-      "jobs_found": 105
+      "jobs_found": 106
     },
     {
       "name": "PointClickCare",
       "token": "pointclickcare",
       "ats": "lever",
       "jobs_found": 103
+    },
+    {
+      "name": "Diligent",
+      "token": "diligentcorporation",
+      "ats": "greenhouse",
+      "jobs_found": 102
     },
     {
       "name": "Mixpanel",
@@ -353,16 +359,16 @@
       "jobs_found": 95
     },
     {
-      "name": "OpenTable",
-      "token": "opentable",
-      "ats": "greenhouse",
-      "jobs_found": 91
-    },
-    {
       "name": "Gusto",
       "token": "gusto",
       "ats": "greenhouse",
       "jobs_found": 91
+    },
+    {
+      "name": "OpenTable",
+      "token": "opentable",
+      "ats": "greenhouse",
+      "jobs_found": 90
     },
     {
       "name": "Dialpad",
@@ -485,15 +491,15 @@
       "jobs_found": 63
     },
     {
-      "name": "Faire",
-      "token": "faire",
-      "ats": "greenhouse",
-      "jobs_found": 62
-    },
-    {
       "name": "Suno",
       "token": "suno",
       "ats": "ashby",
+      "jobs_found": 63
+    },
+    {
+      "name": "Faire",
+      "token": "faire",
+      "ats": "greenhouse",
       "jobs_found": 62
     },
     {
@@ -662,7 +668,7 @@
       "name": "SiteMinder",
       "token": "siteminder",
       "ats": "ashby",
-      "jobs_found": 41
+      "jobs_found": 40
     },
     {
       "name": "PandaDoc",
@@ -1247,12 +1253,6 @@
       "jobs_found": 14
     },
     {
-      "name": "Yotpo",
-      "token": "yotpo",
-      "ats": "greenhouse",
-      "jobs_found": 14
-    },
-    {
       "name": "LearnUpon",
       "token": "learnupon",
       "ats": "greenhouse",
@@ -1269,6 +1269,12 @@
       "token": "sequoia",
       "ats": "ashby",
       "jobs_found": 14
+    },
+    {
+      "name": "Yotpo",
+      "token": "yotpo",
+      "ats": "greenhouse",
+      "jobs_found": 13
     },
     {
       "name": "Udemy",
@@ -1373,6 +1379,12 @@
       "jobs_found": 11
     },
     {
+      "name": "Doximity",
+      "token": "doximity",
+      "ats": "greenhouse",
+      "jobs_found": 11
+    },
+    {
       "name": "PlanetScale",
       "token": "planetscale",
       "ats": "greenhouse",
@@ -1399,12 +1411,6 @@
     {
       "name": "Springboard",
       "token": "springboard",
-      "ats": "greenhouse",
-      "jobs_found": 10
-    },
-    {
-      "name": "Doximity",
-      "token": "doximity",
       "ats": "greenhouse",
       "jobs_found": 10
     },
@@ -1835,11 +1841,5 @@
       "jobs_found": 1
     }
   ],
-  "failed": [
-    {
-      "name": "Jobgether",
-      "token": "jobgether",
-      "reason": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=10)"
-    }
-  ]
+  "failed": []
 }
