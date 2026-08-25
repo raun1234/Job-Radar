@@ -1,11 +1,43 @@
 # Job Radar
 
-Run: 2026-08-24T13:48:52.879914+00:00
+Run: 2026-08-25T13:47:37.468312+00:00
 
-Companies: 304 checked, 302 connected, 2 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 299 connected, 5 failed
+Estimated spend this run: $0.0290
 
-## No new matching postings this run.
+## New this run (4)
+
+### 72 -- Technical Product Marketing Manager @ Bloomreach (United States)
+**Worth Applying** -- Strong GTM and positioning skills with relevant SaaS experience, but lacks demonstrated technical depth in APIs, agentic AI, and martech ecosystems that this role emphasizes.
+[View posting](https://job-boards.greenhouse.io/bloomreach/jobs/4339594)
+
+- Top signal: GEO research directly proves hands-on fluency translating AI platform capabilities into technical buyer narratives—closest proxy to the agentic platform storytelling Bloomreach needs.
+- Biggest gap: No demonstrated experience with API-driven products, enterprise platform integrations, or martech landscape; EdTech D2C does not prepare for B2B SaaS technical buyer motion required here.
+- Missing keywords: APIs and integrations, agentic AI architectures, MCP frameworks, martech ecosystem knowledge, technical buyer personas (developers, architects, IT leaders)
+
+### 72 -- Product Marketing Manager (TEMPORARY) @ Tebra (United States - Remote)
+**Worth Applying** -- Strong PMM and positioning skills, but healthcare domain gap and temporary role status are material concerns for visa sponsorship.
+[View posting](https://job-boards.greenhouse.io/tebra/jobs/4724258005)
+
+- Top signal: Proven positioning and messaging redesign (25% sales growth in 6 months at BYJU'S) and structured competitive intelligence delivery directly match Tebra's core PMM mandate.
+- Biggest gap: No healthcare, EHR, or regulated B2B SaaS background; temporary role designation creates legal and retention risk for visa sponsorship candidate.
+- Missing keywords: EHR (Electronic Health Records), Healthcare technology, B2B SaaS, Regulated markets compliance, Private practice market
+
+### 52 -- Economic Mobility Partnerships Manager - Career Pathways @ Anthropic (San Francisco, CA; Washington, DC)
+**Stretch** -- Strong GTM and growth chops, but lacks direct partnership leadership, workforce development deployment, and nonprofit/public sector operating experience.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5228098008)
+
+- Top signal: P&L ownership and cross-functional program orchestration at scale (60+ team members, multiple markets) demonstrates ability to build structure and drive measurable outcomes under ambiguity.
+- Biggest gap: Zero direct experience building, deploying, or leading multi-year partnerships with nonprofits, government agencies, or workforce organizations—the core of this role's mandate.
+- Missing keywords: partnership development and closing, nonprofit and public sector operations, workforce development program design, learning and training deployment, economic mobility or social impact
+
+### 52 -- Partner Marketing Manager - Insurance and Strategic Partnerships @ Samsara (Remote - SF Bay Area)
+**Stretch** -- Strong GTM and growth chops, but zero partner marketing or insurance/OEM channel experience; lacks named category expertise posting prioritizes.
+[View posting](https://www.samsara.com/company/careers/roles/8142214?gh_jid=8142214)
+
+- Top signal: P&L ownership, sales operations redesign, and cross-functional execution at scale across 60+ teams show capability to drive measurable outcomes with multi-stakeholder alignment.
+- Biggest gap: Zero demonstrated experience in partner channel strategy, co-marketing, or insurance/OEM ecosystems; role requires architect-level fluency in partner motion, not pure GTM strategy.
+- Missing keywords: Partner Marketing / Channel Marketing, Insurance partnerships / Insurance channel, OEM partnerships, Co-marketing programs, Partner enablement / partner sales support
 
 ## Top 15 all-time
 
