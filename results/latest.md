@@ -1,43 +1,35 @@
 # Job Radar
 
-Run: 2026-08-25T13:47:37.468312+00:00
+Run: 2026-08-26T13:53:32.270185+00:00
 
-Companies: 304 checked, 299 connected, 5 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 303 connected, 1 failed
+Estimated spend this run: $0.0217
 
-## New this run (4)
+## New this run (3)
 
-### 72 -- Technical Product Marketing Manager @ Bloomreach (United States)
-**Worth Applying** -- Strong GTM and positioning skills with relevant SaaS experience, but lacks demonstrated technical depth in APIs, agentic AI, and martech ecosystems that this role emphasizes.
-[View posting](https://job-boards.greenhouse.io/bloomreach/jobs/4339594)
+### 62 -- Senior Customer Marketing Manager @ Obsidiansecurity (US Remote) (deprioritized company)
+**Worth Applying** -- Strong GTM and growth foundation with customer-facing work, but customer marketing and advocacy program ownership gaps create meaningful mismatch versus pure CMM role.
+[View posting](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5405649008)
 
-- Top signal: GEO research directly proves hands-on fluency translating AI platform capabilities into technical buyer narratives—closest proxy to the agentic platform storytelling Bloomreach needs.
-- Biggest gap: No demonstrated experience with API-driven products, enterprise platform integrations, or martech landscape; EdTech D2C does not prepare for B2B SaaS technical buyer motion required here.
-- Missing keywords: APIs and integrations, agentic AI architectures, MCP frameworks, martech ecosystem knowledge, technical buyer personas (developers, architects, IT leaders)
+- Top signal: Proven ability to redesign messaging-market fit across geographies and rebuild sales systems; strong research and positioning acumen directly applicable to customer storytelling.
+- Biggest gap: No demonstrated experience owning customer advocacy, reference programs, or lifecycle engagement initiatives—the core job responsibilities. Background is acquisition/growth, not customer retention/advocacy.
+- Missing keywords: customer advocacy program management, case study development, customer reference networks, customer success collaboration cadence, cybersecurity or SaaS security domain
 
-### 72 -- Product Marketing Manager (TEMPORARY) @ Tebra (United States - Remote)
-**Worth Applying** -- Strong PMM and positioning skills, but healthcare domain gap and temporary role status are material concerns for visa sponsorship.
-[View posting](https://job-boards.greenhouse.io/tebra/jobs/4724258005)
+### 52 -- Sr. Industry Marketing Manager, Startups @ Databricks (United States) (deprioritized company)
+**Stretch** -- Strong GTM and segment strategy skills, but lacks direct startup/VC ecosystem marketing experience and technical depth in data/AI infrastructure required for Databricks.
+[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8638650002)
 
-- Top signal: Proven positioning and messaging redesign (25% sales growth in 6 months at BYJU'S) and structured competitive intelligence delivery directly match Tebra's core PMM mandate.
-- Biggest gap: No healthcare, EHR, or regulated B2B SaaS background; temporary role designation creates legal and retention risk for visa sponsorship candidate.
-- Missing keywords: EHR (Electronic Health Records), Healthcare technology, B2B SaaS, Regulated markets compliance, Private practice market
+- Top signal: 8+ years GTM strategy ownership with quantified growth outcomes (38% CAC lift, 25% sales growth, 42% productivity gains) and cross-functional leadership at scale; P&L accountability across 5 markets demonstrates commercial rigor.
+- Biggest gap: Zero demonstrable experience marketing to startups, venture firms, or developer audiences; no technical fluency in data/AI/ML/vector search/agents; EdTech D2C positioning does not prepare for B2B infrastructure buying motion or VC ecosystem dynamics.
+- Missing keywords: venture ecosystem / VC relationships, startup buying dynamics / funding stages, data infrastructure / AI/ML platforms, developer marketing / community programs, product-led growth / consumption metrics
 
-### 52 -- Economic Mobility Partnerships Manager - Career Pathways @ Anthropic (San Francisco, CA; Washington, DC)
-**Stretch** -- Strong GTM and growth chops, but lacks direct partnership leadership, workforce development deployment, and nonprofit/public sector operating experience.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5228098008)
+### 52 -- Retail Sales Enablement Manager @ Toast (Boston, MA)
+**Stretch** -- Strong GTM and enablement foundation, but lacks direct sales experience and retail/POS domain expertise that Toast explicitly requires.
+[View posting](https://careers.toasttab.com/jobs?gh_jid=8144310)
 
-- Top signal: P&L ownership and cross-functional program orchestration at scale (60+ team members, multiple markets) demonstrates ability to build structure and drive measurable outcomes under ambiguity.
-- Biggest gap: Zero direct experience building, deploying, or leading multi-year partnerships with nonprofits, government agencies, or workforce organizations—the core of this role's mandate.
-- Missing keywords: partnership development and closing, nonprofit and public sector operations, workforce development program design, learning and training deployment, economic mobility or social impact
-
-### 52 -- Partner Marketing Manager - Insurance and Strategic Partnerships @ Samsara (Remote - SF Bay Area)
-**Stretch** -- Strong GTM and growth chops, but zero partner marketing or insurance/OEM channel experience; lacks named category expertise posting prioritizes.
-[View posting](https://www.samsara.com/company/careers/roles/8142214?gh_jid=8142214)
-
-- Top signal: P&L ownership, sales operations redesign, and cross-functional execution at scale across 60+ teams show capability to drive measurable outcomes with multi-stakeholder alignment.
-- Biggest gap: Zero demonstrated experience in partner channel strategy, co-marketing, or insurance/OEM ecosystems; role requires architect-level fluency in partner motion, not pure GTM strategy.
-- Missing keywords: Partner Marketing / Channel Marketing, Insurance partnerships / Insurance channel, OEM partnerships, Co-marketing programs, Partner enablement / partner sales support
+- Top signal: P&L ownership across 5 markets and proven ability to rebuild sales systems (onboarding, pipelines, operations) with quantified uplift.
+- Biggest gap: No documented 2+ years in a direct sales role; career is GTM strategy and operations, not front-line selling—a core requirement Toast cannot waive.
+- Missing keywords: 2+ years direct sales experience, Retail or restaurant/hospitality domain, SPIN, Challenger, MEDDPICC sales methodologies, Conversational intelligence platforms, Formal sales enablement program ownership
 
 ## Top 15 all-time
 
