@@ -1,35 +1,67 @@
 # Job Radar
 
-Run: 2026-08-26T13:53:32.270185+00:00
+Run: 2026-08-27T22:46:40.473389+00:00
 
 Companies: 304 checked, 303 connected, 1 failed
-Estimated spend this run: $0.0217
+Estimated spend this run: $0.0494
 
-## New this run (3)
+## New this run (7)
 
-### 62 -- Senior Customer Marketing Manager @ Obsidiansecurity (US Remote) (deprioritized company)
-**Worth Applying** -- Strong GTM and growth foundation with customer-facing work, but customer marketing and advocacy program ownership gaps create meaningful mismatch versus pure CMM role.
-[View posting](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5405649008)
+### 68 -- Product Marketing Manager 08 2026 @ Bombora (New York, NY (Hybrid))
+**Worth Applying** -- Strong GTM and positioning expertise, but lacks direct B2B SaaS/DaaS product marketing depth and is overqualified in P&L accountability for a Manager-level role.
+[View posting](https://bombora.com/about/bombora-careers?gh_jid=8755552002)
 
-- Top signal: Proven ability to redesign messaging-market fit across geographies and rebuild sales systems; strong research and positioning acumen directly applicable to customer storytelling.
-- Biggest gap: No demonstrated experience owning customer advocacy, reference programs, or lifecycle engagement initiatives—the core job responsibilities. Background is acquisition/growth, not customer retention/advocacy.
-- Missing keywords: customer advocacy program management, case study development, customer reference networks, customer success collaboration cadence, cybersecurity or SaaS security domain
+- Top signal: Generative Engine Optimization research and AI platforms work shows ability to master emerging, technical domains and translate complexity into stakeholder-ready insights—valuable for Bombora's data cooperative positioning.
+- Biggest gap: Zero visible product marketing or case study work; career is growth strategy and GTM execution, not PMM-specific activities like product launches, enablement materials, or customer storytelling.
+- Missing keywords: product launch execution, case studies and customer advocacy, B2B SaaS or DaaS experience, intent data or cooperative model familiarity, AdTech or MarTech domain depth
 
-### 52 -- Sr. Industry Marketing Manager, Startups @ Databricks (United States) (deprioritized company)
-**Stretch** -- Strong GTM and segment strategy skills, but lacks direct startup/VC ecosystem marketing experience and technical depth in data/AI infrastructure required for Databricks.
-[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8638650002)
+### 62 -- Lifecycle Marketing Manager @ Chime (New York, NY, USA)
+**Worth Applying** -- Strong funnel and retention foundation with D2C expertise, but lacks direct lifecycle marketing channel depth (Braze, email automation) and fintech domain knowledge.
+[View posting](https://boards.greenhouse.io/chime/jobs/8752367002?gh_jid=8752367002)
 
-- Top signal: 8+ years GTM strategy ownership with quantified growth outcomes (38% CAC lift, 25% sales growth, 42% productivity gains) and cross-functional leadership at scale; P&L accountability across 5 markets demonstrates commercial rigor.
-- Biggest gap: Zero demonstrable experience marketing to startups, venture firms, or developer audiences; no technical fluency in data/AI/ML/vector search/agents; EdTech D2C positioning does not prepare for B2B infrastructure buying motion or VC ecosystem dynamics.
-- Missing keywords: venture ecosystem / VC relationships, startup buying dynamics / funding stages, data infrastructure / AI/ML platforms, developer marketing / community programs, product-led growth / consumption metrics
+- Top signal: 8+ years scaling D2C funnels with quantified retention wins (40% day-30 lift, 38% CAC improvement) and proven cross-functional leadership in EdTech.
+- Biggest gap: No hands-on experience with Braze or email/SMS automation platforms; fintech domain is adjacent, not core; H1B sponsorship adds hiring risk.
+- Missing keywords: Braze or marketing automation platform, Email campaign management at scale, SMS/push channel execution, Fintech or financial services, Member retention or churn reduction metrics
 
-### 52 -- Retail Sales Enablement Manager @ Toast (Boston, MA)
-**Stretch** -- Strong GTM and enablement foundation, but lacks direct sales experience and retail/POS domain expertise that Toast explicitly requires.
-[View posting](https://careers.toasttab.com/jobs?gh_jid=8144310)
+### 52 -- Senior Business Development Manager ANZ @ Peoplecert ()
+**Stretch** -- Strong GTM and growth chops, but ANZ business development role expects regional sales leadership and territory ownership—candidate's BD experience is campaign-driven, not territory-based.
+[View posting](https://apply.workable.com/j/4916B0DC5D)
 
-- Top signal: P&L ownership across 5 markets and proven ability to rebuild sales systems (onboarding, pipelines, operations) with quantified uplift.
-- Biggest gap: No documented 2+ years in a direct sales role; career is GTM strategy and operations, not front-line selling—a core requirement Toast cannot waive.
-- Missing keywords: 2+ years direct sales experience, Retail or restaurant/hospitality domain, SPIN, Challenger, MEDDPICC sales methodologies, Conversational intelligence platforms, Formal sales enablement program ownership
+- Top signal: Proven ability to redesign GTM positioning and drive 25–38% customer acquisition uplift in competitive, multi-region contexts shows strategic rigor and execution discipline.
+- Biggest gap: No direct B2B enterprise sales territory leadership or account-based new business development; BD work is campaign/cohort-driven revenue within known customer base, not regional expansion or enterprise pipeline building.
+- Missing keywords: ANZ/Australia market knowledge, B2B enterprise sales, Territory/quota management, Account opening/new business development, Compliance/certification industry
+
+### 52 -- Alliance Manager @ Starburst (Boston, MA) (deprioritized company)
+**Stretch** -- Strong GTM and growth track record, but lacks direct infrastructure/data platform partnership ecosystem experience and channel sales depth.
+[View posting](https://job-boards.greenhouse.io/starburst/jobs/5395797008)
+
+- Top signal: 8+ years commercial GTM execution with P&L ownership, proven funnel optimization, and Salesforce/analytics discipline transfers directly to pipeline tracking and deal advancement.
+- Biggest gap: No demonstrated experience in channel, reseller, or strategic partnership ecosystems; role explicitly requires Data/AI infrastructure domain familiarity (Nvidia, Dell, NetApp, Pure, HPE) which candidate lacks.
+- Missing keywords: channel partnerships, reseller enablement, co-sell motion, infrastructure/data platform ecosystem, partner sourced ARR
+
+### 52 -- Senior Partner Manager, Enterprise @ Automatticcareers (Remote)
+**Stretch** -- Strong GTM and growth credentials, but partner/channel management and GSI/SI experience gaps create meaningful misalignment for this partnership-focused role.
+[View posting](https://job-boards.greenhouse.io/automatticcareers/jobs/7482826)
+
+- Top signal: Owns P&L across multi-market segments; proven ability to architect GTM positioning, rebuild operations, and drive 30–40% uplift through data-driven interventions.
+- Biggest gap: No direct partner or channel sales experience; candidate's background is direct B2C/D2C and internal B2B GTM, not ecosystem-driven or GSI/agency partner management.
+- Missing keywords: Partner Manager / Channel Manager, Net Revenue Retention (NRR), GSI/System Integrator, Agency partnerships, Partner enablement / co-selling
+
+### 42 -- Sr. Industry Marketing Manager, Manufacturing & Supply Chain @ Databricks (United States) (deprioritized company)
+**Stretch** -- Strong GTM and PMM skills, but no manufacturing/supply chain domain experience and misses core industry expertise Databricks explicitly requires.
+[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8702736002)
+
+- Top signal: Demonstrated ability to diagnose positioning gaps, redesign GTM messaging, and drive measurable pipeline growth (38% uplift at PlanetSpark, 25% sales growth BYJU's) transfers directly to Databricks' messaging and demand gen mandate.
+- Biggest gap: Zero manufacturing or supply chain domain background; posting explicitly requires 7+ years in target verticals with customer/partner working knowledge that candidate lacks entirely.
+- Missing keywords: manufacturing industry experience, supply chain expertise, operations solutions, industrial IoT / industrial technology, practitioner engagement (supply chain buyers)
+
+### 38 -- CX Partner Manager @ Chime (Remote, USA)
+**Weak Fit** -- GTM/growth background lacks the BPO operations, partner governance, and regulated financial services experience this role requires.
+[View posting](https://boards.greenhouse.io/chime/jobs/8564916002?gh_jid=8564916002)
+
+- Top signal: 8+ years operationally owning P&L, scaling cross-functional execution, and building data-driven performance systems at scale.
+- Biggest gap: No demonstrated experience in partner/BPO governance, regulated financial services, or customer experience operations—core to this role.
+- Missing keywords: BPO operations, partner governance, SLA management, financial services, quality assurance, compliance, vendor management
 
 ## Top 15 all-time
 
