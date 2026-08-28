@@ -1,67 +1,43 @@
 # Job Radar
 
-Run: 2026-08-27T22:46:40.473389+00:00
+Run: 2026-08-28T22:53:35.791606+00:00
 
-Companies: 304 checked, 303 connected, 1 failed
-Estimated spend this run: $0.0494
+Companies: 304 checked, 302 connected, 2 failed
+Estimated spend this run: $0.0290
 
-## New this run (7)
+## New this run (4)
 
-### 68 -- Product Marketing Manager 08 2026 @ Bombora (New York, NY (Hybrid))
-**Worth Applying** -- Strong GTM and positioning expertise, but lacks direct B2B SaaS/DaaS product marketing depth and is overqualified in P&L accountability for a Manager-level role.
-[View posting](https://bombora.com/about/bombora-careers?gh_jid=8755552002)
+### 76 -- Senior Consumer Strategy and Business Development Manager @ Coursera (United States)
+**Strong Fit** -- Proven D2C funnel ownership and partnership-driven growth at scale directly align with role; EdTech context transfers seamlessly; visa sponsorship is the only material gap for a large, established employer.
+[View posting](https://job-boards.greenhouse.io/coursera/jobs/6165119004)
 
-- Top signal: Generative Engine Optimization research and AI platforms work shows ability to master emerging, technical domains and translate complexity into stakeholder-ready insights—valuable for Bombora's data cooperative positioning.
-- Biggest gap: Zero visible product marketing or case study work; career is growth strategy and GTM execution, not PMM-specific activities like product launches, enablement materials, or customer storytelling.
-- Missing keywords: product launch execution, case studies and customer advocacy, B2B SaaS or DaaS experience, intent data or cooperative model familiarity, AdTech or MarTech domain depth
+- Top signal: Direct D2C funnel ownership (60+ team, 200+ monthly hires, 45% conversion) and proven ABM/segmentation execution at scale in a 150M-user platform mirror Coursera-Udemy's partnership growth mandate.
+- Biggest gap: No demonstrated multi-partner portfolio management or explicit partner business review/champion experience; H1B sponsorship requirement may add hiring friction for large employer.
+- Missing keywords: partner channel management, LTV/CAC optimization, strategic distribution partnerships, OEM/telco ecosystems, business review cadence
 
-### 62 -- Lifecycle Marketing Manager @ Chime (New York, NY, USA)
-**Worth Applying** -- Strong funnel and retention foundation with D2C expertise, but lacks direct lifecycle marketing channel depth (Braze, email automation) and fintech domain knowledge.
-[View posting](https://boards.greenhouse.io/chime/jobs/8752367002?gh_jid=8752367002)
+### 72 -- Senior Product Marketing Manager, Internal & Cloud Pentesting @ Horizon3Ai (US, Remote)
+**Worth Applying** -- Strong GTM and growth foundation, but cybersecurity domain depth and technical product marketing experience in pentesting/offensive security are missing.
+[View posting](https://jobs.ashbyhq.com/horizon3ai/270398a6-58bc-4a3e-9dd6-34c23ce49ded)
 
-- Top signal: 8+ years scaling D2C funnels with quantified retention wins (40% day-30 lift, 38% CAC improvement) and proven cross-functional leadership in EdTech.
-- Biggest gap: No hands-on experience with Braze or email/SMS automation platforms; fintech domain is adjacent, not core; H1B sponsorship adds hiring risk.
-- Missing keywords: Braze or marketing automation platform, Email campaign management at scale, SMS/push channel execution, Fintech or financial services, Member retention or churn reduction metrics
+- Top signal: P&L ownership across 5 markets + 38% CAC lift + 45% onboarding-to-revenue conversion demonstrates the commercial acumen and GTM rigor Horizon3 needs.
+- Biggest gap: Zero demonstrated expertise in cybersecurity, pentesting, offensive security, or technical buyer personas (CISOs, SecOps, cloud-security engineers)—requires steep domain ramp.
+- Missing keywords: technical product marketing, offensive security / pentesting, proof-first content strategy, battlecards / competitive positioning, CISO / security executive messaging
 
-### 52 -- Senior Business Development Manager ANZ @ Peoplecert ()
-**Stretch** -- Strong GTM and growth chops, but ANZ business development role expects regional sales leadership and territory ownership—candidate's BD experience is campaign-driven, not territory-based.
-[View posting](https://apply.workable.com/j/4916B0DC5D)
+### 68 -- Growth Marketing Manager @ Cresta (United States (Remote))
+**Worth Applying** -- Strong GTM and funnel optimization background, but lacks direct paid social/search advertising channel expertise that role prioritizes.
+[View posting](https://job-boards.greenhouse.io/cresta/jobs/5409534008)
 
-- Top signal: Proven ability to redesign GTM positioning and drive 25–38% customer acquisition uplift in competitive, multi-region contexts shows strategic rigor and execution discipline.
-- Biggest gap: No direct B2B enterprise sales territory leadership or account-based new business development; BD work is campaign/cohort-driven revenue within known customer base, not regional expansion or enterprise pipeline building.
-- Missing keywords: ANZ/Australia market knowledge, B2B enterprise sales, Territory/quota management, Account opening/new business development, Compliance/certification industry
+- Top signal: Owned end-to-end D2C funnel for 60+ team at scale; diagnosed acquisition bottleneck and lifted CAC 38% through multi-channel redesign—exactly the growth problem-solving mindset Cresta seeks.
+- Biggest gap: No hands-on experience managing paid social (LinkedIn, Meta) or paid search—the core channels this role owns—only inferred CRM/analytics capability.
+- Missing keywords: LinkedIn Ads, Meta Ads, Google Ads, Paid search, Ad creative, CAC/LTV optimization, Campaign pacing, Audience enrichment
 
-### 52 -- Alliance Manager @ Starburst (Boston, MA) (deprioritized company)
-**Stretch** -- Strong GTM and growth track record, but lacks direct infrastructure/data platform partnership ecosystem experience and channel sales depth.
-[View posting](https://job-boards.greenhouse.io/starburst/jobs/5395797008)
+### 52 -- Business Development Lead, Care Partnerships @ Headway (Remote)
+**Stretch** -- Strong GTM and growth foundation, but lacks direct healthcare BD experience and health system sales cycle familiarity that posting prioritizes.
+[View posting](https://jobs.ashbyhq.com/headway/ae5b6ddc-14b2-4fa0-9e87-bcc0a5474c13)
 
-- Top signal: 8+ years commercial GTM execution with P&L ownership, proven funnel optimization, and Salesforce/analytics discipline transfers directly to pipeline tracking and deal advancement.
-- Biggest gap: No demonstrated experience in channel, reseller, or strategic partnership ecosystems; role explicitly requires Data/AI infrastructure domain familiarity (Nvidia, Dell, NetApp, Pure, HPE) which candidate lacks.
-- Missing keywords: channel partnerships, reseller enablement, co-sell motion, infrastructure/data platform ecosystem, partner sourced ARR
-
-### 52 -- Senior Partner Manager, Enterprise @ Automatticcareers (Remote)
-**Stretch** -- Strong GTM and growth credentials, but partner/channel management and GSI/SI experience gaps create meaningful misalignment for this partnership-focused role.
-[View posting](https://job-boards.greenhouse.io/automatticcareers/jobs/7482826)
-
-- Top signal: Owns P&L across multi-market segments; proven ability to architect GTM positioning, rebuild operations, and drive 30–40% uplift through data-driven interventions.
-- Biggest gap: No direct partner or channel sales experience; candidate's background is direct B2C/D2C and internal B2B GTM, not ecosystem-driven or GSI/agency partner management.
-- Missing keywords: Partner Manager / Channel Manager, Net Revenue Retention (NRR), GSI/System Integrator, Agency partnerships, Partner enablement / co-selling
-
-### 42 -- Sr. Industry Marketing Manager, Manufacturing & Supply Chain @ Databricks (United States) (deprioritized company)
-**Stretch** -- Strong GTM and PMM skills, but no manufacturing/supply chain domain experience and misses core industry expertise Databricks explicitly requires.
-[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8702736002)
-
-- Top signal: Demonstrated ability to diagnose positioning gaps, redesign GTM messaging, and drive measurable pipeline growth (38% uplift at PlanetSpark, 25% sales growth BYJU's) transfers directly to Databricks' messaging and demand gen mandate.
-- Biggest gap: Zero manufacturing or supply chain domain background; posting explicitly requires 7+ years in target verticals with customer/partner working knowledge that candidate lacks entirely.
-- Missing keywords: manufacturing industry experience, supply chain expertise, operations solutions, industrial IoT / industrial technology, practitioner engagement (supply chain buyers)
-
-### 38 -- CX Partner Manager @ Chime (Remote, USA)
-**Weak Fit** -- GTM/growth background lacks the BPO operations, partner governance, and regulated financial services experience this role requires.
-[View posting](https://boards.greenhouse.io/chime/jobs/8564916002?gh_jid=8564916002)
-
-- Top signal: 8+ years operationally owning P&L, scaling cross-functional execution, and building data-driven performance systems at scale.
-- Biggest gap: No demonstrated experience in partner/BPO governance, regulated financial services, or customer experience operations—core to this role.
-- Missing keywords: BPO operations, partner governance, SLA management, financial services, quality assurance, compliance, vendor management
+- Top signal: Proven full-cycle BD motion across 5+ markets, international expansion, and P&L accountability with measurable revenue impact ($5M+ generated).
+- Biggest gap: Zero healthcare industry experience; EdTech D2C does not prepare for complex health system procurement, clinical buy-in, or care coordination workflows that define this role.
+- Missing keywords: healthcare/health tech sales experience, health system partnerships, care management workflows, provider organization sales, clinical operations knowledge
 
 ## Top 15 all-time
 
@@ -109,6 +85,10 @@ Estimated spend this run: $0.0494
 **Strong Fit** -- 8+ years of BD and GTM execution in SaaS with proven portfolio management and cross-functional leadership, though partnership-specific lifecycle management is understated versus deal-closing emphasis.
 [View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8115010?gh_jid=8115010)
 
+### 76 -- Senior Consumer Strategy and Business Development Manager @ Coursera (United States)
+**Strong Fit** -- Proven D2C funnel ownership and partnership-driven growth at scale directly align with role; EdTech context transfers seamlessly; visa sponsorship is the only material gap for a large, established employer.
+[View posting](https://job-boards.greenhouse.io/coursera/jobs/6165119004)
+
 ### 73 -- Senior Category Growth Manager @ Coursera (United States)
 **Worth Applying** -- Strong GTM and growth fundamentals with proven cross-functional leadership, but lacks direct consumer subscription portfolio experience and demonstrated category management depth.
 [View posting](https://job-boards.greenhouse.io/coursera/jobs/6127488004)
@@ -120,7 +100,3 @@ Estimated spend this run: $0.0494
 ### 72 -- GTM Strategy & Operations, Overlay @ Openai (San Francisco)
 **Good Fit** -- Strong GTM and operations fundamentals with P&L ownership, but lacks direct Revenue Operations and forecasting experience at scale; visa sponsorship requirement is a secondary consideration for a mature company like OpenAI.
 [View posting](https://jobs.ashbyhq.com/openai/5c5cfcff-91c8-4181-b30d-2ab9b0091539)
-
-### 72 -- GTM Strategy & Operations, India & South East Asia @ Openai (Singapore)
-**Good Fit** -- Strong GTM strategy and ops foundation with India/SEA market knowledge, but lacks direct revenue ops, territory management, and Salesforce quota-setting depth at scale.
-[View posting](https://jobs.ashbyhq.com/openai/a38926a6-a514-4ee0-bfe1-408922a2790c)
