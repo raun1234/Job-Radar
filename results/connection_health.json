@@ -1,15 +1,15 @@
 {
-  "run_at": "2026-08-28T22:53:35.789864+00:00",
+  "run_at": "2026-08-29T16:58:07.204294+00:00",
   "summary": {
     "total": 304,
-    "connected": 302,
-    "failed": 2,
-    "rate": "99%",
-    "estimated_spend": 0.029,
-    "run_at": "2026-08-28T22:53:35.789864+00:00",
+    "connected": 304,
+    "failed": 0,
+    "rate": "100%",
+    "estimated_spend": 0.0,
+    "run_at": "2026-08-29T16:58:07.204294+00:00",
     "skip_counts": {
-      "title": 320,
-      "location": 1,
+      "title": 4157,
+      "location": 74,
       "age": 0,
       "years": 0,
       "hard_req": 0
@@ -17,22 +17,28 @@
   },
   "connected": [
     {
+      "name": "Jobgether",
+      "token": "jobgether",
+      "ats": "lever",
+      "jobs_found": 4203
+    },
+    {
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 856
+      "jobs_found": 857
     },
     {
       "name": "Stripe",
       "token": "stripe",
       "ats": "greenhouse",
-      "jobs_found": 573
+      "jobs_found": 575
     },
     {
       "name": "Anthropic",
       "token": "anthropic",
       "ats": "greenhouse",
-      "jobs_found": 569
+      "jobs_found": 571
     },
     {
       "name": "Datadog",
@@ -56,7 +62,7 @@
       "name": "Okta",
       "token": "okta",
       "ats": "greenhouse",
-      "jobs_found": 347
+      "jobs_found": 348
     },
     {
       "name": "Elastic",
@@ -68,7 +74,7 @@
       "name": "Toast",
       "token": "toast",
       "ats": "greenhouse",
-      "jobs_found": 313
+      "jobs_found": 312
     },
     {
       "name": "Cloudflare",
@@ -86,7 +92,7 @@
       "name": "Verkada",
       "token": "verkada",
       "ats": "greenhouse",
-      "jobs_found": 278
+      "jobs_found": 279
     },
     {
       "name": "Braze",
@@ -104,7 +110,7 @@
       "name": "Samsara",
       "token": "samsara",
       "ats": "greenhouse",
-      "jobs_found": 251
+      "jobs_found": 248
     },
     {
       "name": "Fivetran",
@@ -122,25 +128,25 @@
       "name": "Scale AI",
       "token": "scaleai",
       "ats": "greenhouse",
-      "jobs_found": 218
+      "jobs_found": 219
     },
     {
       "name": "Affirm",
       "token": "affirm",
       "ats": "greenhouse",
-      "jobs_found": 211
+      "jobs_found": 210
     },
     {
       "name": "Pinterest",
       "token": "pinterest",
       "ats": "greenhouse",
-      "jobs_found": 208
+      "jobs_found": 209
     },
     {
       "name": "Coinbase",
       "token": "coinbase",
       "ats": "greenhouse",
-      "jobs_found": 187
+      "jobs_found": 188
     },
     {
       "name": "Talent Pluto",
@@ -158,7 +164,7 @@
       "name": "Airbnb",
       "token": "airbnb",
       "ats": "greenhouse",
-      "jobs_found": 172
+      "jobs_found": 171
     },
     {
       "name": "Scopely",
@@ -188,13 +194,13 @@
       "name": "Reddit",
       "token": "reddit",
       "ats": "greenhouse",
-      "jobs_found": 152
+      "jobs_found": 153
     },
     {
       "name": "Twilio",
       "token": "twilio",
       "ats": "greenhouse",
-      "jobs_found": 145
+      "jobs_found": 144
     },
     {
       "name": "Klaviyo",
@@ -335,16 +341,22 @@
       "jobs_found": 95
     },
     {
-      "name": "OpenTable",
-      "token": "opentable",
-      "ats": "greenhouse",
-      "jobs_found": 92
-    },
-    {
       "name": "PeopleCert",
       "token": "peoplecert",
       "ats": "workable",
       "jobs_found": 92
+    },
+    {
+      "name": "OpenTable",
+      "token": "opentable",
+      "ats": "greenhouse",
+      "jobs_found": 91
+    },
+    {
+      "name": "Gusto",
+      "token": "gusto",
+      "ats": "greenhouse",
+      "jobs_found": 91
     },
     {
       "name": "Vercel",
@@ -361,12 +373,6 @@
     {
       "name": "Mixpanel",
       "token": "mixpanel",
-      "ats": "greenhouse",
-      "jobs_found": 90
-    },
-    {
-      "name": "Gusto",
-      "token": "gusto",
       "ats": "greenhouse",
       "jobs_found": 90
     },
@@ -446,18 +452,18 @@
       "name": "Fireworks AI",
       "token": "fireworks",
       "ats": "ashby",
-      "jobs_found": 68
-    },
-    {
-      "name": "Lendable",
-      "token": "lendable",
-      "ats": "ashby",
-      "jobs_found": 66
+      "jobs_found": 67
     },
     {
       "name": "Faire",
       "token": "faire",
       "ats": "greenhouse",
+      "jobs_found": 67
+    },
+    {
+      "name": "Lendable",
+      "token": "lendable",
+      "ats": "ashby",
       "jobs_found": 66
     },
     {
@@ -485,6 +491,12 @@
       "jobs_found": 63
     },
     {
+      "name": "Together AI",
+      "token": "togetherai",
+      "ats": "greenhouse",
+      "jobs_found": 62
+    },
+    {
       "name": "1Password",
       "token": "1password",
       "ats": "ashby",
@@ -495,12 +507,6 @@
       "token": "suno",
       "ats": "ashby",
       "jobs_found": 62
-    },
-    {
-      "name": "Together AI",
-      "token": "togetherai",
-      "ats": "greenhouse",
-      "jobs_found": 61
     },
     {
       "name": "Carta",
@@ -527,21 +533,15 @@
       "jobs_found": 53
     },
     {
-      "name": "ClassPass",
-      "token": "classpass",
-      "ats": "greenhouse",
-      "jobs_found": 52
-    },
-    {
       "name": "Qualtrics",
       "token": "qualtrics",
       "ats": "greenhouse",
       "jobs_found": 52
     },
     {
-      "name": "Owner.com",
-      "token": "owner",
-      "ats": "ashby",
+      "name": "Discord",
+      "token": "discord",
+      "ats": "greenhouse",
       "jobs_found": 51
     },
     {
@@ -551,14 +551,20 @@
       "jobs_found": 51
     },
     {
+      "name": "Owner.com",
+      "token": "owner",
+      "ats": "ashby",
+      "jobs_found": 50
+    },
+    {
       "name": "Zocdoc",
       "token": "zocdoc",
       "ats": "greenhouse",
       "jobs_found": 50
     },
     {
-      "name": "Discord",
-      "token": "discord",
+      "name": "ClassPass",
+      "token": "classpass",
       "ats": "greenhouse",
       "jobs_found": 50
     },
@@ -573,12 +579,6 @@
       "token": "attio",
       "ats": "ashby",
       "jobs_found": 47
-    },
-    {
-      "name": "Peloton",
-      "token": "peloton",
-      "ats": "greenhouse",
-      "jobs_found": 46
     },
     {
       "name": "adjoe",
@@ -599,8 +599,20 @@
       "jobs_found": 45
     },
     {
+      "name": "Peloton",
+      "token": "peloton",
+      "ats": "greenhouse",
+      "jobs_found": 44
+    },
+    {
       "name": "Recorded Future",
       "token": "recordedfuture",
+      "ats": "greenhouse",
+      "jobs_found": 44
+    },
+    {
+      "name": "GoFundMe",
+      "token": "gofundme",
       "ats": "greenhouse",
       "jobs_found": 44
     },
@@ -609,18 +621,6 @@
       "token": "prompt",
       "ats": "ashby",
       "jobs_found": 44
-    },
-    {
-      "name": "GoFundMe",
-      "token": "gofundme",
-      "ats": "greenhouse",
-      "jobs_found": 43
-    },
-    {
-      "name": "Jerry.ai",
-      "token": "jerry.ai",
-      "ats": "ashby",
-      "jobs_found": 43
     },
     {
       "name": "Ema",
@@ -638,7 +638,7 @@
       "name": "Apollo",
       "token": "apolloio",
       "ats": "greenhouse",
-      "jobs_found": 42
+      "jobs_found": 41
     },
     {
       "name": "Dropbox",
@@ -662,6 +662,12 @@
       "name": "Vonage",
       "token": "vonage",
       "ats": "greenhouse",
+      "jobs_found": 39
+    },
+    {
+      "name": "Jerry.ai",
+      "token": "jerry.ai",
+      "ats": "ashby",
       "jobs_found": 39
     },
     {
@@ -707,12 +713,6 @@
       "jobs_found": 38
     },
     {
-      "name": "Attentive",
-      "token": "attentive",
-      "ats": "greenhouse",
-      "jobs_found": 37
-    },
-    {
       "name": "Culligan",
       "token": "culligan-uk-limited",
       "ats": "workable",
@@ -749,6 +749,12 @@
       "jobs_found": 37
     },
     {
+      "name": "Attentive",
+      "token": "attentive",
+      "ats": "greenhouse",
+      "jobs_found": 36
+    },
+    {
       "name": "Arcesium",
       "token": "arcesiumllc",
       "ats": "greenhouse",
@@ -779,6 +785,12 @@
       "jobs_found": 33
     },
     {
+      "name": "Everlaw",
+      "token": "everlaw",
+      "ats": "greenhouse",
+      "jobs_found": 33
+    },
+    {
       "name": "Tubi",
       "token": "tubitv",
       "ats": "greenhouse",
@@ -794,12 +806,6 @@
       "name": "Primer",
       "token": "primer.io",
       "ats": "ashby",
-      "jobs_found": 32
-    },
-    {
-      "name": "Everlaw",
-      "token": "everlaw",
-      "ats": "greenhouse",
       "jobs_found": 32
     },
     {
@@ -953,6 +959,12 @@
       "jobs_found": 27
     },
     {
+      "name": "Webflow",
+      "token": "webflow",
+      "ats": "greenhouse",
+      "jobs_found": 27
+    },
+    {
       "name": "Kalshi",
       "token": "kalshi",
       "ats": "greenhouse",
@@ -963,12 +975,6 @@
       "token": "upvest",
       "ats": "ashby",
       "jobs_found": 27
-    },
-    {
-      "name": "Webflow",
-      "token": "webflow",
-      "ats": "greenhouse",
-      "jobs_found": 26
     },
     {
       "name": "Wintermute",
@@ -1067,6 +1073,12 @@
       "jobs_found": 22
     },
     {
+      "name": "Anrok",
+      "token": "anrok",
+      "ats": "ashby",
+      "jobs_found": 22
+    },
+    {
       "name": "Hiive",
       "token": "hiive",
       "ats": "ashby",
@@ -1081,12 +1093,6 @@
     {
       "name": "Middesk",
       "token": "middesk",
-      "ats": "ashby",
-      "jobs_found": 21
-    },
-    {
-      "name": "Anrok",
-      "token": "anrok",
       "ats": "ashby",
       "jobs_found": 21
     },
@@ -1133,6 +1139,12 @@
       "jobs_found": 19
     },
     {
+      "name": "Newsela",
+      "token": "newsela",
+      "ats": "greenhouse",
+      "jobs_found": 19
+    },
+    {
       "name": "Warp",
       "token": "warp",
       "ats": "ashby",
@@ -1142,12 +1154,6 @@
       "name": "Bland",
       "token": "bland",
       "ats": "ashby",
-      "jobs_found": 19
-    },
-    {
-      "name": "Greenhouse",
-      "token": "greenhouse",
-      "ats": "greenhouse",
       "jobs_found": 19
     },
     {
@@ -1166,6 +1172,12 @@
       "name": "Homebase",
       "token": "homebase",
       "ats": "ashby",
+      "jobs_found": 18
+    },
+    {
+      "name": "Greenhouse",
+      "token": "greenhouse",
+      "ats": "greenhouse",
       "jobs_found": 18
     },
     {
@@ -1247,12 +1259,6 @@
       "jobs_found": 15
     },
     {
-      "name": "Turquoise Health",
-      "token": "turquoise-health",
-      "ats": "ashby",
-      "jobs_found": 15
-    },
-    {
       "name": "Udemy",
       "token": "udemy",
       "ats": "greenhouse",
@@ -1265,21 +1271,27 @@
       "jobs_found": 15
     },
     {
+      "name": "AssemblyAI",
+      "token": "assemblyai",
+      "ats": "greenhouse",
+      "jobs_found": 15
+    },
+    {
       "name": "Hoxhunt",
       "token": "hoxhunt",
       "ats": "ashby",
       "jobs_found": 15
     },
     {
-      "name": "Sequoia (Benefits)",
-      "token": "sequoia",
+      "name": "Turquoise Health",
+      "token": "turquoise-health",
       "ats": "ashby",
       "jobs_found": 14
     },
     {
-      "name": "AssemblyAI",
-      "token": "assemblyai",
-      "ats": "greenhouse",
+      "name": "Sequoia (Benefits)",
+      "token": "sequoia",
+      "ats": "ashby",
       "jobs_found": 14
     },
     {
@@ -1661,6 +1673,12 @@
       "jobs_found": 4
     },
     {
+      "name": "Alex AI",
+      "token": "alexai",
+      "ats": "ashby",
+      "jobs_found": 4
+    },
+    {
       "name": "Contentful",
       "token": "contentful",
       "ats": "greenhouse",
@@ -1711,12 +1729,6 @@
     {
       "name": "Ideogram",
       "token": "ideogram",
-      "ats": "ashby",
-      "jobs_found": 3
-    },
-    {
-      "name": "Alex AI",
-      "token": "alexai",
       "ats": "ashby",
       "jobs_found": 3
     },
@@ -1829,16 +1841,5 @@
       "jobs_found": 0
     }
   ],
-  "failed": [
-    {
-      "name": "Jobgether",
-      "token": "jobgether",
-      "reason": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=10)"
-    },
-    {
-      "name": "Newsela",
-      "token": "newsela",
-      "reason": "HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=10)"
-    }
-  ]
+  "failed": []
 }

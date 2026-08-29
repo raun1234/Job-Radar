@@ -1,43 +1,11 @@
 # Job Radar
 
-Run: 2026-08-28T22:53:35.791606+00:00
+Run: 2026-08-29T16:58:07.205833+00:00
 
-Companies: 304 checked, 302 connected, 2 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 304 connected, 0 failed
+Estimated spend this run: $0.0000
 
-## New this run (4)
-
-### 76 -- Senior Consumer Strategy and Business Development Manager @ Coursera (United States)
-**Strong Fit** -- Proven D2C funnel ownership and partnership-driven growth at scale directly align with role; EdTech context transfers seamlessly; visa sponsorship is the only material gap for a large, established employer.
-[View posting](https://job-boards.greenhouse.io/coursera/jobs/6165119004)
-
-- Top signal: Direct D2C funnel ownership (60+ team, 200+ monthly hires, 45% conversion) and proven ABM/segmentation execution at scale in a 150M-user platform mirror Coursera-Udemy's partnership growth mandate.
-- Biggest gap: No demonstrated multi-partner portfolio management or explicit partner business review/champion experience; H1B sponsorship requirement may add hiring friction for large employer.
-- Missing keywords: partner channel management, LTV/CAC optimization, strategic distribution partnerships, OEM/telco ecosystems, business review cadence
-
-### 72 -- Senior Product Marketing Manager, Internal & Cloud Pentesting @ Horizon3Ai (US, Remote)
-**Worth Applying** -- Strong GTM and growth foundation, but cybersecurity domain depth and technical product marketing experience in pentesting/offensive security are missing.
-[View posting](https://jobs.ashbyhq.com/horizon3ai/270398a6-58bc-4a3e-9dd6-34c23ce49ded)
-
-- Top signal: P&L ownership across 5 markets + 38% CAC lift + 45% onboarding-to-revenue conversion demonstrates the commercial acumen and GTM rigor Horizon3 needs.
-- Biggest gap: Zero demonstrated expertise in cybersecurity, pentesting, offensive security, or technical buyer personas (CISOs, SecOps, cloud-security engineers)—requires steep domain ramp.
-- Missing keywords: technical product marketing, offensive security / pentesting, proof-first content strategy, battlecards / competitive positioning, CISO / security executive messaging
-
-### 68 -- Growth Marketing Manager @ Cresta (United States (Remote))
-**Worth Applying** -- Strong GTM and funnel optimization background, but lacks direct paid social/search advertising channel expertise that role prioritizes.
-[View posting](https://job-boards.greenhouse.io/cresta/jobs/5409534008)
-
-- Top signal: Owned end-to-end D2C funnel for 60+ team at scale; diagnosed acquisition bottleneck and lifted CAC 38% through multi-channel redesign—exactly the growth problem-solving mindset Cresta seeks.
-- Biggest gap: No hands-on experience managing paid social (LinkedIn, Meta) or paid search—the core channels this role owns—only inferred CRM/analytics capability.
-- Missing keywords: LinkedIn Ads, Meta Ads, Google Ads, Paid search, Ad creative, CAC/LTV optimization, Campaign pacing, Audience enrichment
-
-### 52 -- Business Development Lead, Care Partnerships @ Headway (Remote)
-**Stretch** -- Strong GTM and growth foundation, but lacks direct healthcare BD experience and health system sales cycle familiarity that posting prioritizes.
-[View posting](https://jobs.ashbyhq.com/headway/ae5b6ddc-14b2-4fa0-9e87-bcc0a5474c13)
-
-- Top signal: Proven full-cycle BD motion across 5+ markets, international expansion, and P&L accountability with measurable revenue impact ($5M+ generated).
-- Biggest gap: Zero healthcare industry experience; EdTech D2C does not prepare for complex health system procurement, clinical buy-in, or care coordination workflows that define this role.
-- Missing keywords: healthcare/health tech sales experience, health system partnerships, care management workflows, provider organization sales, clinical operations knowledge
+## No new matching postings this run.
 
 ## Top 15 all-time
 
