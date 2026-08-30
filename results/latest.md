@@ -1,11 +1,19 @@
 # Job Radar
 
-Run: 2026-08-29T16:58:07.205833+00:00
+Run: 2026-08-30T17:11:34.776374+00:00
 
-Companies: 304 checked, 304 connected, 0 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 303 connected, 1 failed
+Estimated spend this run: $0.0072
 
-## No new matching postings this run.
+## New this run (1)
+
+### 72 -- Sales Enablement Manager @ Inspiraeducation (Remote, USA)
+**Worth Applying** -- Strong GTM and sales operations background, but Sales Enablement Manager is a lateral/downward move from AGM-level P&L ownership.
+[View posting](https://job-boards.greenhouse.io/inspiraeducation/jobs/5410143008)
+
+- Top signal: Designed and scaled 200+ monthly onboarding hires with 45% conversion rate at BYJU's; directly mirrors Sales Enablement Manager mandate.
+- Biggest gap: Visa sponsorship risk at early-stage startup + role is a seniority step backward from P&L-owning AGM level, which may signal underutilization or retention risk.
+- Missing keywords: call recording analysis, win/loss analysis, learning management system (LMS), sales certifications, objection handling frameworks
 
 ## Top 15 all-time
 
