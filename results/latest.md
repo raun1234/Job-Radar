@@ -1,19 +1,35 @@
 # Job Radar
 
-Run: 2026-08-30T17:11:34.776374+00:00
+Run: 2026-08-31T19:23:45.174995+00:00
 
-Companies: 304 checked, 303 connected, 1 failed
-Estimated spend this run: $0.0072
+Companies: 304 checked, 301 connected, 3 failed
+Estimated spend this run: $0.0205
 
-## New this run (1)
+## New this run (3)
 
-### 72 -- Sales Enablement Manager @ Inspiraeducation (Remote, USA)
-**Worth Applying** -- Strong GTM and sales operations background, but Sales Enablement Manager is a lateral/downward move from AGM-level P&L ownership.
-[View posting](https://job-boards.greenhouse.io/inspiraeducation/jobs/5410143008)
+### 52 -- Growth Manager @ Talentpluto ()
+**Stretch** -- Strong GTM foundation but unclear if talentpluto's stage, size, and sponsorship appetite align with candidate's seniority and visa needs.
+[View posting](https://apply.workable.com/j/386BBCFED8)
 
-- Top signal: Designed and scaled 200+ monthly onboarding hires with 45% conversion rate at BYJU's; directly mirrors Sales Enablement Manager mandate.
-- Biggest gap: Visa sponsorship risk at early-stage startup + role is a seniority step backward from P&L-owning AGM level, which may signal underutilization or retention risk.
-- Missing keywords: call recording analysis, win/loss analysis, learning management system (LMS), sales certifications, objection handling frameworks
+- Top signal: Owned end-to-end D2C funnels at scale with measurable conversion and retention gains; cross-functional leadership and KPI discipline transfer directly to growth roles.
+- Biggest gap: No talent tech or recruiting platform background; visa sponsorship requirement and unknown talentpluto stage create execution and retention risk for a hire.
+- Missing keywords: talent acquisition platform experience, recruiting/HR tech domain, hiring funnel optimization, employer branding, candidate experience strategy
+
+### 52 -- Retail Partner Manager @ Instacart (United States - Remote )
+**Stretch** -- Strong GTM and cross-functional leadership, but lacks direct account management, retail partnership, and CPG/commerce negotiation experience.
+[View posting](https://instacart.careers/job/?gh_jid=6819435)
+
+- Top signal: 8+ years GTM leadership, P&L ownership across markets, proven funnel optimization and cross-functional team scaling.
+- Biggest gap: No retail account management or B2B partnership deal negotiation experience; background is purely EdTech D2C and internal growth operations.
+- Missing keywords: account management, retail partnerships, CPG negotiation, marketplace operations, catalog management
+
+### 48 --  Senior Marketing Operations Manager @ Prompt (Remote)
+**Stretch** -- Strong GTM and growth background but lacks the deep, hands-on HubSpot MarOps expertise and AI-first operational mindset this role demands.
+[View posting](https://jobs.ashbyhq.com/prompt/1e05bfac-baf2-4459-bdad-6dddab663204)
+
+- Top signal: P&L ownership, multi-market growth strategy, and proven funnel diagnostics (leaky awareness stage, day-14 churn cliff) show systems thinking.
+- Biggest gap: No demonstrated hands-on MarOps or HubSpot architecture experience; role is hiring its first dedicated ops hire and expects someone to architect the entire stack immediately.
+- Missing keywords: HubSpot (hands-on, deep architecture), Email automation systems & compliance, Lead scoring & lifecycle management workflows, Google Analytics 4 (GA4) certification, AI-first automation (Claude MCP, HubSpot AI integrations)
 
 ## Top 15 all-time
 
