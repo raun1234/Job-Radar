@@ -1,35 +1,19 @@
 # Job Radar
 
-Run: 2026-08-31T19:23:45.174995+00:00
+Run: 2026-09-01T17:09:26.656802+00:00
 
-Companies: 304 checked, 301 connected, 3 failed
-Estimated spend this run: $0.0205
+Companies: 304 checked, 296 connected, 8 failed
+Estimated spend this run: $0.0072
 
-## New this run (3)
+## New this run (1)
 
-### 52 -- Growth Manager @ Talentpluto ()
-**Stretch** -- Strong GTM foundation but unclear if talentpluto's stage, size, and sponsorship appetite align with candidate's seniority and visa needs.
-[View posting](https://apply.workable.com/j/386BBCFED8)
+### 52 -- Sr. Manager, Product Marketing Manager - Public Sector @ Samsara (Remote - DC)
+**Stretch** -- Strong GTM and positioning skills, but lacks required public sector procurement and compliance expertise (FedRAMP, StateRAMP, government buying cycles).
+[View posting](https://www.samsara.com/company/careers/roles/8148044?gh_jid=8148044)
 
-- Top signal: Owned end-to-end D2C funnels at scale with measurable conversion and retention gains; cross-functional leadership and KPI discipline transfer directly to growth roles.
-- Biggest gap: No talent tech or recruiting platform background; visa sponsorship requirement and unknown talentpluto stage create execution and retention risk for a hire.
-- Missing keywords: talent acquisition platform experience, recruiting/HR tech domain, hiring funnel optimization, employer branding, candidate experience strategy
-
-### 52 -- Retail Partner Manager @ Instacart (United States - Remote )
-**Stretch** -- Strong GTM and cross-functional leadership, but lacks direct account management, retail partnership, and CPG/commerce negotiation experience.
-[View posting](https://instacart.careers/job/?gh_jid=6819435)
-
-- Top signal: 8+ years GTM leadership, P&L ownership across markets, proven funnel optimization and cross-functional team scaling.
-- Biggest gap: No retail account management or B2B partnership deal negotiation experience; background is purely EdTech D2C and internal growth operations.
-- Missing keywords: account management, retail partnerships, CPG negotiation, marketplace operations, catalog management
-
-### 48 --  Senior Marketing Operations Manager @ Prompt (Remote)
-**Stretch** -- Strong GTM and growth background but lacks the deep, hands-on HubSpot MarOps expertise and AI-first operational mindset this role demands.
-[View posting](https://jobs.ashbyhq.com/prompt/1e05bfac-baf2-4459-bdad-6dddab663204)
-
-- Top signal: P&L ownership, multi-market growth strategy, and proven funnel diagnostics (leaky awareness stage, day-14 churn cliff) show systems thinking.
-- Biggest gap: No demonstrated hands-on MarOps or HubSpot architecture experience; role is hiring its first dedicated ops hire and expects someone to architect the entire stack immediately.
-- Missing keywords: HubSpot (hands-on, deep architecture), Email automation systems & compliance, Lead scoring & lifecycle management workflows, Google Analytics 4 (GA4) certification, AI-first automation (Claude MCP, HubSpot AI integrations)
+- Top signal: Proven ability to redesign GTM positioning and messaging across markets (BYJU'S 5-region repositioning, PlanetSpark multi-channel funnel lift); can own narrative architecture at scale.
+- Biggest gap: Zero public sector, federal compliance, or government procurement experience; role explicitly requires fluency in FedRAMP, contract vehicles, and compliance as strategic GTM levers.
+- Missing keywords: FedRAMP, StateRAMP/GovRAMP, federal procurement, government contracting, compliance frameworks, public sector GTM, mission outcomes messaging
 
 ## Top 15 all-time
 
