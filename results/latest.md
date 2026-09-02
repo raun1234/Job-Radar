@@ -1,19 +1,43 @@
 # Job Radar
 
-Run: 2026-09-01T17:09:26.656802+00:00
+Run: 2026-09-02T17:00:42.633913+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0072
+Estimated spend this run: $0.0277
 
-## New this run (1)
+## New this run (4)
 
-### 52 -- Sr. Manager, Product Marketing Manager - Public Sector @ Samsara (Remote - DC)
-**Stretch** -- Strong GTM and positioning skills, but lacks required public sector procurement and compliance expertise (FedRAMP, StateRAMP, government buying cycles).
-[View posting](https://www.samsara.com/company/careers/roles/8148044?gh_jid=8148044)
+### 71 -- Senior Demand Generation Manager @ Postman (San Francisco, California, United States) (deprioritized company)
+**Worth Applying** -- Strong D2C funnel and GTM strategy background, but lacks explicit demand generation, content marketing, and ABM execution depth at scale.
+[View posting](https://job-boards.greenhouse.io/postman/jobs/7983961003)
 
-- Top signal: Proven ability to redesign GTM positioning and messaging across markets (BYJU'S 5-region repositioning, PlanetSpark multi-channel funnel lift); can own narrative architecture at scale.
-- Biggest gap: Zero public sector, federal compliance, or government procurement experience; role explicitly requires fluency in FedRAMP, contract vehicles, and compliance as strategic GTM levers.
-- Missing keywords: FedRAMP, StateRAMP/GovRAMP, federal procurement, government contracting, compliance frameworks, public sector GTM, mission outcomes messaging
+- Top signal: Owns full D2C funnel end-to-end, rebuilt sales enablement systems (42% uplift), designed positioning that drove 25% sales growth—directly translatable to content-driven pipeline engine.
+- Biggest gap: No hands-on experience building or scaling content-led demand generation programs, nurture campaigns, or thought leadership content strategies that this role centers on.
+- Missing keywords: demand generation, content marketing strategy, nurture campaigns, thought leadership content, paid media orchestration
+
+### 68 -- Sales Enablement Lead, GTM Onboarding @ Anthropic (San Francisco, CA)
+**Worth Applying** -- Strong sales enablement and onboarding redesign track record, but lacks explicit training curriculum design and adult learning framework experience that Anthropic emphasizes.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5390972008)
+
+- Top signal: Rebuilt sales onboarding systems from scratch at PlanetSpark, achieving 42% productivity uplift through structured enablement—directly analogous to owning GTM cohort onboarding end-to-end.
+- Biggest gap: No demonstrated experience designing and delivering formal training curricula, applying adult learning frameworks, or measuring comprehension—core to Anthropic's emphasis on curriculum quality and ramp measurement.
+- Missing keywords: Curriculum design, Adult learning principles, Comprehension assessment, Training delivery facilitation, Ramp metrics tracking
+
+### 51 -- Growth Manager @ Talentpluto ()
+**Stretch** -- Strong GTM fundamentals, but posting lacks specifics on function, seniority level, and company size—making visa sponsorship risk material.
+[View posting](https://apply.workable.com/j/EAF2BA1AE1)
+
+- Top signal: 8+ years proven GTM ownership in scaling EdTech with quantified acquisition, retention, and P&L impact; GEO research adds rare AI-native positioning angle.
+- Biggest gap: Posting provides zero context on domain, company scale, or visa sponsorship appetite; impossible to assess genuine fit or sponsor likelihood without details on talentpluto's stage, function, and GTM maturity.
+- Missing keywords: company size or funding stage, visa sponsorship willingness, specific product or customer segment, required technical stack, revenue/commercial accountability expectation
+
+### 42 -- GTM Strategy/Operations Associate @ Datadog (New York, New York, USA)
+**Stretch** -- Raunak is overqualified in seniority (AGM/P&L owner) but fundamentally mismatched on role level—posting seeks 1-3yr analyst/associate; he's 8yr Manager seeking peer roles, not support positions.
+[View posting](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303)
+
+- Top signal: Demonstrated ownership of KPI systems, multi-market P&L accountability, and GTM redesign with measurable uplift (25–42% growth) directly relevant to quota and strategy work.
+- Biggest gap: Role is explicitly junior analyst (1–3yr); candidate is mid-level manager (8yr AGM). Applying would signal either role-fit confusion or willingness to step backward—both red flags for Datadog's hiring bar.
+- Missing keywords: quota modeling, capacity planning, revenue operations, SQL, enterprise sales strategy
 
 ## Top 15 all-time
 
