@@ -1,43 +1,27 @@
 # Job Radar
 
-Run: 2026-09-02T17:00:42.633913+00:00
+Run: 2026-09-03T16:54:48.793688+00:00
 
-Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0277
+Companies: 304 checked, 302 connected, 2 failed
+Estimated spend this run: $0.0145
 
-## New this run (4)
+## New this run (2)
 
-### 71 -- Senior Demand Generation Manager @ Postman (San Francisco, California, United States) (deprioritized company)
-**Worth Applying** -- Strong D2C funnel and GTM strategy background, but lacks explicit demand generation, content marketing, and ABM execution depth at scale.
-[View posting](https://job-boards.greenhouse.io/postman/jobs/7983961003)
+### 72 -- Product Marketing Manager II @ Sproutsocial (Remote US)
+**Worth Applying** -- Strong GTM and product positioning fundamentals, but Product Marketing Manager II is a lateral move from AGM level; visa sponsorship adds friction at mid-market SaaS.
+[View posting](https://sproutsocial.com/careers/open-positions/8174063/?gh_jid=8174063)
 
-- Top signal: Owns full D2C funnel end-to-end, rebuilt sales enablement systems (42% uplift), designed positioning that drove 25% sales growth—directly translatable to content-driven pipeline engine.
-- Biggest gap: No hands-on experience building or scaling content-led demand generation programs, nurture campaigns, or thought leadership content strategies that this role centers on.
-- Missing keywords: demand generation, content marketing strategy, nurture campaigns, thought leadership content, paid media orchestration
+- Top signal: 8+ years scaling D2C funnels, product launches, and GTM positioning in high-growth SaaS (BYJU's 150M+ users); quantified execution (38% CAC lift, 25% sales growth, 42% productivity gains) demonstrates project management rigor and cross-functional leadership.
+- Biggest gap: No explicit product marketing role in career; positioning as AGM/growth strategist may overshadow PMM credibility, and H1B sponsorship requirement is material friction for mid-market company without stated sponsorship policy.
+- Missing keywords: Product Marketing role title (PMM, dedicated product marketer), Canva or design tool experience, Social media platform or martech domain, Presentation creation/collateral design, Release management or quarterly launch cadence
 
-### 68 -- Sales Enablement Lead, GTM Onboarding @ Anthropic (San Francisco, CA)
-**Worth Applying** -- Strong sales enablement and onboarding redesign track record, but lacks explicit training curriculum design and adult learning framework experience that Anthropic emphasizes.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5390972008)
+### 52 -- Senior Business Development Associate, Ocean Consolidations @ Flexport (Los Angeles, California, United States)
+**Stretch** -- Strong GTM and growth foundation, but zero ocean freight/LCL domain knowledge and title is one tier junior for Senior BD Associate at large enterprise.
+[View posting](https://job-boards.greenhouse.io/flexport/jobs/8174558)
 
-- Top signal: Rebuilt sales onboarding systems from scratch at PlanetSpark, achieving 42% productivity uplift through structured enablement—directly analogous to owning GTM cohort onboarding end-to-end.
-- Biggest gap: No demonstrated experience designing and delivering formal training curricula, applying adult learning frameworks, or measuring comprehension—core to Anthropic's emphasis on curriculum quality and ramp measurement.
-- Missing keywords: Curriculum design, Adult learning principles, Comprehension assessment, Training delivery facilitation, Ramp metrics tracking
-
-### 51 -- Growth Manager @ Talentpluto ()
-**Stretch** -- Strong GTM fundamentals, but posting lacks specifics on function, seniority level, and company size—making visa sponsorship risk material.
-[View posting](https://apply.workable.com/j/EAF2BA1AE1)
-
-- Top signal: 8+ years proven GTM ownership in scaling EdTech with quantified acquisition, retention, and P&L impact; GEO research adds rare AI-native positioning angle.
-- Biggest gap: Posting provides zero context on domain, company scale, or visa sponsorship appetite; impossible to assess genuine fit or sponsor likelihood without details on talentpluto's stage, function, and GTM maturity.
-- Missing keywords: company size or funding stage, visa sponsorship willingness, specific product or customer segment, required technical stack, revenue/commercial accountability expectation
-
-### 42 -- GTM Strategy/Operations Associate @ Datadog (New York, New York, USA)
-**Stretch** -- Raunak is overqualified in seniority (AGM/P&L owner) but fundamentally mismatched on role level—posting seeks 1-3yr analyst/associate; he's 8yr Manager seeking peer roles, not support positions.
-[View posting](https://careers.datadoghq.com/detail/8171303/?gh_jid=8171303)
-
-- Top signal: Demonstrated ownership of KPI systems, multi-market P&L accountability, and GTM redesign with measurable uplift (25–42% growth) directly relevant to quota and strategy work.
-- Biggest gap: Role is explicitly junior analyst (1–3yr); candidate is mid-level manager (8yr AGM). Applying would signal either role-fit confusion or willingness to step backward—both red flags for Datadog's hiring bar.
-- Missing keywords: quota modeling, capacity planning, revenue operations, SQL, enterprise sales strategy
+- Top signal: Proven ability to own full sales cycle, build client relationships, and generate $5M+ revenue with measurable targets and cross-functional execution.
+- Biggest gap: Zero domain knowledge in ocean freight, LCL, or supply chain logistics; domain shift from EdTech D2C to logistics B2B is material and non-trivial.
+- Missing keywords: ocean freight, LCL experience, consolidation services, forwarding, supply chain
 
 ## Top 15 all-time
 
