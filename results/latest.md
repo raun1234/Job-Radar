@@ -1,27 +1,27 @@
 # Job Radar
 
-Run: 2026-09-03T16:54:48.793688+00:00
+Run: 2026-09-04T16:44:03.548540+00:00
 
-Companies: 304 checked, 302 connected, 2 failed
+Companies: 304 checked, 301 connected, 3 failed
 Estimated spend this run: $0.0145
 
 ## New this run (2)
 
-### 72 -- Product Marketing Manager II @ Sproutsocial (Remote US)
-**Worth Applying** -- Strong GTM and product positioning fundamentals, but Product Marketing Manager II is a lateral move from AGM level; visa sponsorship adds friction at mid-market SaaS.
-[View posting](https://sproutsocial.com/careers/open-positions/8174063/?gh_jid=8174063)
+### 71 -- Product Marketing Manager @ Gomotive (United States - Remote)
+**Worth Applying** -- Strong GTM and positioning skills in SaaS, but lacks direct B2B SaaS product marketing experience and AI platform depth; EdTech background requires bridging to fleet operations.
+[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8783809002)
 
-- Top signal: 8+ years scaling D2C funnels, product launches, and GTM positioning in high-growth SaaS (BYJU's 150M+ users); quantified execution (38% CAC lift, 25% sales growth, 42% productivity gains) demonstrates project management rigor and cross-functional leadership.
-- Biggest gap: No explicit product marketing role in career; positioning as AGM/growth strategist may overshadow PMM credibility, and H1B sponsorship requirement is material friction for mid-market company without stated sponsorship policy.
-- Missing keywords: Product Marketing role title (PMM, dedicated product marketer), Canva or design tool experience, Social media platform or martech domain, Presentation creation/collateral design, Release management or quarterly launch cadence
+- Top signal: Proven ability to redesign positioning and GTM messaging that drives measurable sales growth (25% uplift in 6 months at BYJU's); cross-functional leadership at scale (60+ team) with data-driven funnel optimization.
+- Biggest gap: No hands-on PLG or B2B SaaS product marketing experience; EdTech is consumer-centric, not enterprise ops/logistics; unfamiliar with physical operations, fleet, or hardware-software integration domains.
+- Missing keywords: product-led growth (PLG), enterprise SaaS, channel partnerships, hardware integration, fintech/payments experience
 
-### 52 -- Senior Business Development Associate, Ocean Consolidations @ Flexport (Los Angeles, California, United States)
-**Stretch** -- Strong GTM and growth foundation, but zero ocean freight/LCL domain knowledge and title is one tier junior for Senior BD Associate at large enterprise.
-[View posting](https://job-boards.greenhouse.io/flexport/jobs/8174558)
+### 68 -- Senior GTM Strategy & Operations Manager @ Circleci (Remote) (deprioritized company)
+**Worth Applying** -- Strong GTM ops and analytics foundation, but posting emphasizes revenue forecasting and customer success strategy where candidate's depth is lighter.
+[View posting](http://www.circleci.com/careers/jobs/8770550002/?gh_jid=8770550002)
 
-- Top signal: Proven ability to own full sales cycle, build client relationships, and generate $5M+ revenue with measurable targets and cross-functional execution.
-- Biggest gap: Zero domain knowledge in ocean freight, LCL, or supply chain logistics; domain shift from EdTech D2C to logistics B2B is material and non-trivial.
-- Missing keywords: ocean freight, LCL experience, consolidation services, forwarding, supply chain
+- Top signal: Eight years of GTM ownership, P&L accountability across 5 markets, plus demonstrated mastery of KPI dashboards and cross-functional funnel optimization at scale.
+- Biggest gap: Posting emphasizes customer success strategy and revenue forecasting depth; candidate's background is stronger in demand generation, sales enablement, and business development than CS-driven retention and cohort analysis.
+- Missing keywords: customer success strategy, HubSpot, revenue forecasting models, churn analysis, AI agents / workflow automation
 
 ## Top 15 all-time
 
