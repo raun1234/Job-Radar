@@ -12634,5 +12634,63 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-09-05T15:47:21.417323+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:getresponse:FD43F0B477",
+      "company": "getresponse",
+      "title": "Senior Business Development Executive",
+      "location": "",
+      "url": "https://apply.workable.com/j/FD43F0B477",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-09-07"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth background, but lacks direct sales closing and enterprise deal experience that senior BD roles typically require.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Senior Program Manager / AGM level maps to Senior BD Executive, but BD title suggests sales closing focus; candidate's BD is campaign/strategy-driven."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 58,
+          "note": "Strong on GTM, pipeline management, CRM, segmentation; weak on enterprise sales, deal negotiation, contract closure metrics."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 45,
+          "note": "GetResponse is SaaS martech/email platform; candidate's EdTech B2C background transfers partially but lacks B2B SaaS sales motion."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Generated $5M revenue but through campaigns, not direct deal closing; no multi-year enterprise account ownership or quota attainment shown."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; GetResponse scale unclear from posting, but martech/SaaS typically sponsors if role is critical."
+        }
+      ],
+      "missing_keywords": [
+        "enterprise sales",
+        "quota attainment",
+        "deal closure",
+        "contract negotiation",
+        "account management"
+      ],
+      "top_signal": "P&L accountability across 5 city markets and 38% CAC improvement show commercial rigor; GTM strategy and multi-market pipeline leadership transfer to BD.",
+      "biggest_gap": "No evidence of direct sales quota ownership, deal negotiation, or closing large contracts\u2014core BD executive expectations; EdTech B2C motion differs from B2B SaaS selling."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-07T18:05:06.244379+00:00"
   }
 ]
