@@ -1,19 +1,11 @@
 # Job Radar
 
-Run: 2026-09-07T18:05:09.177487+00:00
+Run: 2026-09-08T17:04:44.645326+00:00
 
 Companies: 304 checked, 302 connected, 2 failed
-Estimated spend this run: $0.0060
+Estimated spend this run: $0.0000
 
-## New this run (1)
-
-### 52 -- Senior Business Development Executive @ Getresponse ()
-**Stretch** -- Strong GTM and growth background, but lacks direct sales closing and enterprise deal experience that senior BD roles typically require.
-[View posting](https://apply.workable.com/j/FD43F0B477)
-
-- Top signal: P&L accountability across 5 city markets and 38% CAC improvement show commercial rigor; GTM strategy and multi-market pipeline leadership transfer to BD.
-- Biggest gap: No evidence of direct sales quota ownership, deal negotiation, or closing large contracts—core BD executive expectations; EdTech B2C motion differs from B2B SaaS selling.
-- Missing keywords: enterprise sales, quota attainment, deal closure, contract negotiation, account management
+## No new matching postings this run.
 
 ## Top 15 all-time
 
