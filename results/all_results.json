@@ -12692,5 +12692,605 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-09-07T18:05:06.244379+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:anthropic:5390956008",
+      "company": "anthropic",
+      "title": "GTM Strategy & Operations - AMER Enterprise Tech",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390956008",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a GTM Strategy &amp;amp; Operations Business Partner supporting the &lt;strong&gt;AMER Enterprise&lt;/strong&gt; &lt;strong&gt;Tech&lt;/strong&gt; organization, you will work closely with sales leadership to be a deep expert in a critical segment of our fastest-growing business. This role supports the AMER Enterprise Tech team, one of Anthropic&#39;s largest and most strategically significant commercial organizations, and will partner directly with executives to drive strategic analysis, operational efficiency, and growth initiatives while supporting critical global strategic initiatives.&lt;/p&gt; &lt;p&gt;This includes business performance analysis, facilitating operating cadences and powering business reviews, improving operational efficiency, driving strategic initiatives, and supporting the rapid evolution of our sales motions and organization.&lt;/p&gt; &lt;p&gt;We&#39;re building for a future where AI dramatically amplifies what strategy teams can accomplish. We&#39;re hiring people with the technical depth, business judgment, and executive potential to operate at that frontier \u2014 leveraging AI to eliminate routine work and redirect energy toward the strategic and creative challenges that move the business. This role will evolve rapidly, and we need someone with the ceiling and ambition to evolve with it.&lt;/p&gt; &lt;h2&gt;Key responsibilities&lt;/h2&gt; &lt;h3&gt;Strategic Analysis, Operations &amp;amp; Planning&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Partner with Sales leaders to analyze and refine segment-specific strategy including territory planning, resource allocation, performance to plan, and growth initiatives&lt;/li&gt; &lt;li&gt;Maintain excellence through business reviews and operating cadences to help achieve company revenue targets and strategic objectives&lt;/li&gt; &lt;li&gt;Be audible-ready about GTM efforts and a deep expert in your segment&#39;s book of business and trends with the ability to cut right to what matters for varying audiences from IC to executive&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Data-Driven Decision Support&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Analyze sales performance metrics and develop insights to optimize segment performance and improve efficiency using SQL, R, or Python to query, model, and visualize data at scale&lt;/li&gt; &lt;li&gt;Leverage Claude to its full capability&lt;/li&gt; &lt;li&gt;Partner to create, evolve and maintain reporting mechanisms, using data to go from &quot;what&quot; to &quot;why&quot;&lt;/li&gt; &lt;li&gt;Synthesize tangible, strategic recommendations based on go-to-market motions, deal outcomes, partner and customer feedback, and product opportunities&lt;/li&gt; &lt;li&gt;Build and maintain dashboards, models, and ad hoc analyses in spreadsheets and BI tools with mastery-level proficiency&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Go-to-Market Execution&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Develop and maintain use case frameworks to capture and standardize how customers derive value&lt;/li&gt; &lt;li&gt;Support multiple teams and executives in leveraging insights for new deals, expansions, and retention strategies&lt;/li&gt; &lt;li&gt;Partner with GTM teams to evolve and refine sales motions and best practices across segments and regions&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Executive Stakeholder Management&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Serve as a trusted strategic advisor to senior and executive stakeholders across the GTM organization, delivering insights and recommendations with clarity, conviction, and composure&lt;/li&gt; &lt;li&gt;Navigate high-stakes conversations with intense, demanding executives \u2014 maintaining poise under pressure while delivering candid, well-supported perspectives&lt;/li&gt; &lt;li&gt;Build deep credibility through consistent follow-through, proactive communication, and the ability to challenge assumptions respectfully when the data warrants it&lt;/li&gt; &lt;li&gt;Translate complex analyses into executive-ready narratives that drive decisions, managing up effectively across multiple senior leaders with competing priorities&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Cross-Functional Collaboration&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Work closely with Revenue Operations, Sales Enablement, Strategic Finance, and Product teams to drive initiatives and elevate excellence in course of business&lt;/li&gt; &lt;li&gt;Support coordination between AMER Enterprise sales segments and partnership teams&lt;/li&gt; &lt;li&gt;Help prepare materials for executive reviews and planning sessions&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Minimum qualifications&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Deep alignment to Anthropic\u2019s mission&lt;/li&gt; &lt;li&gt;Experience in sales strategy, revenue operations, management consulting&lt;/li&gt; &lt;li&gt;Proficiency in SQL or R \u2014 you can independently write queries, build models, and extract insights from large datasets without relying on others&lt;/li&gt; &lt;li&gt;Mastery of spreadsheet tools and data (Google Sheets / Excel) \u2014 pivot tables, complex formulas, data modeling, and scenario analysis are second nature to you&lt;/li&gt; &lt;li&gt;Strong analytical skills with the ability to translate data into actionable insights and compelling executive narratives&lt;/li&gt; &lt;li&gt;Deep experience with GTM systems like Salesforce and business intelligence tools (Looker, Tableau, etc.)&lt;/li&gt; &lt;li&gt;Proven executive stakeholder management skills \u2014 you have a track record of presenting to and influencing C-suite and VP-level leaders in high-intensity environments.&lt;/li&gt; &lt;li&gt;An ability to pull signal through noise and an internal drive to create clarity. You strive for simplicity as the most elegant solution to complex situations.&lt;/li&gt; &lt;li&gt;A demonstrated ability to build trust with and influence a variety of stakeholders, including colleagues and other members of the GTM Strategy and Revenue Operations team&lt;/li&gt; &lt;li&gt;A healthy balance of idealism with pragmatism and the highest internal bar for excellence. You have been accountable for the results of your recommendations.&lt;/li&gt; &lt;li&gt;Track record of driving forward high-growth sales organizations&lt;/li&gt; &lt;li&gt;Disciplined project management and exceptional communication and interpersonal abilities&lt;/li&gt; &lt;li&gt;A desire and readiness to do the best work of your career&lt;/li&gt; &lt;li&gt;Bachelor&#39;s degree required; MBA or advanced degree preferred&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;10+ years of experience in sales strategy, revenue operations, management consulting&lt;/li&gt; &lt;li&gt;Experience in both large Enterprises in technology, finance or professional services, in addition to fast-paced startup building&lt;/li&gt; &lt;li&gt;Experience with AI/ML companies and consumption business models&lt;/li&gt; &lt;li&gt;Prior experience building frameworks for sales use cases or value propositions&lt;/li&gt; &lt;li&gt;Background in scaling sales organizations through 2-3x+ growth periods&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt; &lt;p&gt;For sales roles, the range provided is the role\u2019s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$310,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$360,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor\u2019s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt; &lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links\u2014visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact \u2014 advancing our long-term goals of steerable, trustworthy AI \u2014 rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt; &lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "",
+      "posted_at": "2026-09-09T12:03:56-04:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM ops and growth track record, but needs to demonstrate enterprise sales operations depth and SQL/Python sophistication that the posting prioritizes.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 75,
+          "note": "Senior Program Manager and AGM roles align with manager-level expectations, though no explicit \"operations\" title or RevOps background."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 70,
+          "note": "Has GTM strategy, territory planning, funnel analysis, CRM, dashboards, and basic Python/R. Missing demonstrated mastery of SQL and enterprise-scale data modeling."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 72,
+          "note": "EdTech D2C and international expansion experience transfers to enterprise SaaS motions, but no direct enterprise sales ops or B2B Fortune 500 selling motion depth shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 72,
+          "note": "Quantified revenue growth, funnel optimization, and cross-functional leadership are strong. P&L ownership and 60+ team scale are credible, but segment-level expertise in large enterprise deals lacks specificity."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 68,
+          "note": "Requires H1B sponsorship. Anthropic is large and established (reduces sponsorship risk), but no explicit sponsorship commitment in posting, creating mild friction."
+        }
+      ],
+      "missing_keywords": [
+        "SQL mastery and enterprise-scale data modeling",
+        "Revenue Operations or Sales Operations background",
+        "Enterprise B2B sales motion and deal velocity experience",
+        "Business reviews and operating cadence design at scale",
+        "Territory and quota management in large field orgs"
+      ],
+      "top_signal": "Direct experience redesigning GTM sequences (multi-channel), rebuilding sales enablement systems (42% uplift), and owning cross-regional P&L with measurable revenue and retention impact demonstrates operational rigor and segment expertise.",
+      "biggest_gap": "No explicit enterprise sales operations, Revenue Operations, or SQL-fluent data engineering background; EdTech D2C motion differs from Anthropic's B2B enterprise deal cycles and requires translation."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:00:17.038004+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:datadog:8179647",
+      "company": "datadog",
+      "title": "GTM Strategy/Operations Associate - New York",
+      "location": "New York, New York, USA",
+      "url": "https://careers.datadoghq.com/detail/8179647/?gh_jid=8179647",
+      "description": "&lt;p&gt;The GTM Strategy &amp;amp; Operations Associate will join a global team driving Datadog\u2019s next phase of growth. We\u2019re interdisciplinary thinkers leveraging diverse business backgrounds in management consulting, investment banking, business development, and tech to accelerate Datadog\u2019s global growth. We work directly with Datadog\u2019s most senior leaders to set strategy, improve efficiency across the business, support data-driven decision-making, own complex operations, and more.&amp;nbsp;&lt;/p&gt; &lt;p&gt;In this role, you will serve as the strategic partner for our Enterprise segment in the Americas region, identifying opportunities for revenue growth &amp;amp; sales force effectiveness, spearheading strategic initiatives across our go-to-market teams, and driving critical annual planning activities. This role offers the chance to make an immediate and significant impact as we continue to expand our Americas footprint.&lt;/p&gt; &lt;p&gt;&lt;em&gt;At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You\u2019ll Do:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Support the Enterprise Strategy &amp;amp; Operations team in addressing strategic and operational challenges faced by the Americas Enterprise sales leadership&lt;/li&gt; &lt;li&gt;Partner with senior team members to analyze key business areas and surface insights that inform decision-making&lt;/li&gt; &lt;li&gt;Support the design and execution of regional programs, including headcount planning, territory design, pipeline reviews, and business performance tracking&lt;/li&gt; &lt;li&gt;Collaborate with cross-functional teams including Sales, Channels &amp;amp; Alliances, Marketing, and Customer Success to execute high-impact initiatives that drive growth and improve sales productivity&lt;/li&gt; &lt;li&gt;Support sales leadership in executing critical operating rhythms (e.g., QBRs, forecast reviews, leadership updates)&lt;/li&gt; &lt;li&gt;Drive day-to-day operational processes, including stakeholder support, KPI management, and process optimization&lt;/li&gt; &lt;li&gt;Own project workstreams, supporting problem-solving, coordinating stakeholders, and ensuring execution against timelines&lt;/li&gt; &lt;li&gt;Take a hands-on approach to both analysis and execution, pivoting between strategy and operational detail as needed&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Who You Are:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;At least 2 - 4 years in sales strategy &amp;amp; operations, management consulting, investment banking / equity research, or equivalent&lt;/li&gt; &lt;li&gt;Strong analytical problem-solving skills, with the ability to model complex operational questions and a high attention to detail&lt;/li&gt; &lt;li&gt;Strong sense of ownership, with a track record of driving and measuring outcomes across functions such as customer success, sales, marketing, and technical solutions&lt;/li&gt; &lt;li&gt;Proven ability to proactively develop actionable recommendations and process improvements from qualitative and quantitative data&lt;/li&gt; &lt;li&gt;Strong verbal and written communication skills&lt;/li&gt; &lt;li&gt;Experience presenting to senior stakeholders&lt;/li&gt; &lt;li&gt;Experience with BI Tools (Tableau, Metabase, etc) or a willingness to learn on the job&lt;/li&gt; &lt;li&gt;Experience working in SaaS or high-tech company&amp;nbsp;&lt;/li&gt; &lt;li&gt;Prior work with GTM functions / growth strategy initiatives Comment end&amp;nbsp;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;em&gt;Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That&#39;s okay. If you\u2019re passionate about technology and want to grow your skills, we encourage you to apply.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Benefits and Growth:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Continuous training and career growth&lt;/li&gt; &lt;li&gt;New hire stock equity (RSUs) and employee stock purchase plan&lt;/li&gt; &lt;li&gt;Generous and competitive&lt;a href=&quot;https://www.datadoghq.com/us-benefits/&quot;&gt; US benefits&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Friendly and inclusive workplace culture&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;em&gt;Benefits and Growth listed above may vary based on the country of your employment and the nature of your employment with Datadog.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Datadog offers a competitive salary and equity package, and may include variable compensation. Actual compensation is based on factors such as the candidate&#39;s skills, qualifications, and experience. In addition, Datadog offers a wide range of best in class, comprehensive and inclusive employee benefits for this role including healthcare, dental, parental planning, and mental health benefits, a 401(k) plan and match, paid time off, fitness reimbursements, and a discounted employee stock purchase plan.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;The reasonably estimated yearly salary for this role at Datadog is:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$100,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$133,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Datadog:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Datadog is the leading observability and security platform for the AI era, providing businesses with unified visibility across the technology stack to manage complexity at scale. It brings applications, infrastructure, data, models, and security into one place, using AI to detect and resolve issues before they impact customers. Trusted globally by Fortune 500 companies and high-growth AI leaders, Datadog enables businesses to move faster with clarity and confidence. Learn more about #DatadogLife on &lt;a href=&quot;https://www.instagram.com/datadoghq/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/company/datadog&quot; target=&quot;_blank&quot;&gt;LinkedIn,&lt;/a&gt; and &lt;a href=&quot;https://learn.datadoghq.com/&quot; target=&quot;_blank&quot;&gt;Datadog Learning Center. &lt;/a&gt;&lt;/p&gt; &lt;hr&gt; &lt;p data-renderer-start-pos=&quot;215&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Equal Opportunity at Datadog:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Datadog is proud to offer &lt;a href=&quot;https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf&quot; target=&quot;_blank&quot;&gt;equal employment opportunity&lt;/a&gt; to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and other characteristics protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Here are our &lt;a href=&quot;https://www.datadoghq.com/legal/candidate-legal-notices/&quot; target=&quot;_blank&quot;&gt;Candidate Legal Notices&lt;/a&gt; for your reference.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Datadog endeavors to make our Careers Page accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please complete &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeoJeduEZ2NdZF_65uZmWUrCM-zee7yADXX1s6Xr9zAGq8iKA/viewform&quot; target=&quot;_blank&quot;&gt;this form&lt;/a&gt;. This form is for accommodation requests only and cannot be used to inquire about the status of applications.&amp;nbsp;&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;662&quot;&gt;&lt;strong data-renderer-mark=&quot;true&quot;&gt;Privacy and AI Guidelines:&lt;/strong&gt;&lt;/p&gt; &lt;p data-renderer-start-pos=&quot;662&quot;&gt;Any information you submit to Datadog as part of your application will be processed in accordance with Datadog\u2019s&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.datadoghq.com/legal/applicant-candidate-privacy/&quot; data-sk=&quot;tooltip_parent&quot;&gt;Applicant and Candidate Privacy Notice&lt;/a&gt;. For information on our AI policy, please visit &lt;a href=&quot;https://www.datadoghq.com/legal/interviewing-at-datadog-ai-guidelines/&quot; target=&quot;_blank&quot;&gt;Interviewing at Datadog AI Guidelines&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Associate",
+      "posted_at": "2026-09-09T07:04:42-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and analytics foundation, but overqualified in seniority (AGM/Senior PM vs. Associate level) and lacks direct sales ops/consulting pedigree the role emphasizes.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 38,
+          "note": "AGM/Senior PM level candidate applying to Associate role; significant downward shift despite stated openness to growth."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Strong GTM, strategy, funnel, and KPI dashboarding; weaker on consulting/IB problem-solving frameworks and BI tools depth."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "SaaS and B2C background relevant; Enterprise sales ops and Americas regional focus are new territory; no DevOps/observability exposure."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "Proven growth ownership and cross-functional execution; lacks explicit sales ops, territory design, or headcount planning examples."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; Datadog is large tech employer but role is Associate-level, lower sponsorship priority tier."
+        }
+      ],
+      "missing_keywords": [
+        "sales strategy & operations",
+        "territory design",
+        "headcount planning",
+        "management consulting or investment banking",
+        "QBR facilitation",
+        "Tableau or Metabase"
+      ],
+      "top_signal": "8+ years progressive GTM and P&L ownership at scale (150M+ user company plus international expansion), with hands-on funnel optimization and sales enablement expertise directly applicable to Enterprise ops.",
+      "biggest_gap": "Title mismatch (candidate is Senior Manager; role is Associate) combined with lack of explicit sales ops, consulting problem-solving, or regional territory/headcount planning experience; visa sponsorship adds friction at entry-level tier."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:00:25.849087+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:brex:8786673002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager",
+      "location": "San Francisco, California, United States",
+      "url": "https://www.brex.com/careers/8786673002?gh_jid=8786673002",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We\u2019re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Marketing at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Marketing tells the story of Brex to the world. From acquisition to activation, we translate product value into business results. Our team spans Revenue, Product, and Brand Marketing, and works closely with nearly every function at Brex. We move fast, experiment often, and think deeply about customer behavior. If you want your creativity to drive growth and shape perception, this is the place.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Brex Marketing team is looking for an experienced Senior Marketing Operations Manager to architect and optimize our B2B sales-led and channel-driven GTM engine. This role will define and maintain the systems, processes, and operational rigor that align Marketing, SDR, Sales, and Partner teams.&lt;/p&gt; &lt;p&gt;We are looking for someone who is eager to design the future-state GTM tech stack\u2014modernizing how leads flow, how insights are generated, and how operational workloads become more efficient through automation, AI, and agentic workflows. This person will champion operational excellence by improving lead management, automating revenue processes, increasing funnel velocity, and enabling more efficient cross-functional alignment.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you\u2019ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our San Francisco office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and evolve the GTM systems architecture, ensuring Salesforce, Marketo, LeanData, ZoomInfo, Qualified, Outreach, and Clay.io work together as a best-in-class, integrated ecosystem.&lt;/li&gt; &lt;li&gt;Lead the design, governance, and optimization of data orchestration workflows using LeanData, including routing, prioritization, handoffs, and conversion logic across Marketing, SDR, and Sales teams.&lt;/li&gt; &lt;li&gt;Design and execute a future-state operational roadmap focused on scaling B2B demand generation, ABM, and partner-led growth through automation, improved data flows, and AI-powered insights.&lt;/li&gt; &lt;li&gt;Build automated lifecycle processes for lead scoring, enrichment, qualification, and cross-functional handoffs using LeanData, Zapier, Clay, Segment, and AI agents.&lt;/li&gt; &lt;li&gt;Enhance sales productivity by implementing agentic workflows (e.g., automated follow-ups, enrichment workflows, SDR assistance tools) in Outreach and Salesforce.&lt;/li&gt; &lt;li&gt;Manage data governance across Salesforce, Marketo, and Segment, ensuring reliable attribution, reporting, and pipeline visibility.&lt;/li&gt; &lt;li&gt;Create AI-informed dashboards and reporting on pipeline performance, lead velocity, conversion, campaign effectiveness, and partner impact.&lt;/li&gt; &lt;li&gt;Partner with RevOps, Sales Systems, and Engineering to operationalize cross-functional processes that reduce manual work and improve efficiency.&lt;/li&gt; &lt;li&gt;Support partner/VAR motions through automated attribution, routing rules, partner engagement workflows, and integrated co-marketing processes.&lt;/li&gt; &lt;li&gt;Continuously evaluate new tools, AI capabilities, and operational improvements that elevate our GTM infrastructure.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4+ years in Marketing Operations or Revenue Operations supporting B2B sales-led funnels.&lt;/li&gt; &lt;li&gt;Hands-on experience administering Marketo, Salesforce, and LeanData.&lt;/li&gt; &lt;li&gt;Deep expertise with lead routing, lead-to-account matching, and data orchestration workflows using LeanData or similar workflow automation tools.&lt;/li&gt; &lt;li&gt;Proven ability to design automated workflows, operational processes, and scalable cross-system integrations.&lt;/li&gt; &lt;li&gt;Experience using AI-driven tools or agentic workflows to automate SDR tasks, enrich lead data, or accelerate GTM execution.&lt;/li&gt; &lt;li&gt;Strong analytical, system design, and documentation skills; able to translate business needs into scalable technical workflows.&lt;/li&gt; &lt;li&gt;Experience collaborating with Sales, SDR, RevOps, and System/Engineering teams.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience in FinTech or enterprise B2B SaaS environments.&lt;/li&gt; &lt;li&gt;Familiarity with conversational marketing/ABM platforms like Qualified.&lt;/li&gt; &lt;li&gt;Experience with tools like LeanData and Outreach in support of lead routing and SDR/BDR workflows.&lt;/li&gt; &lt;li&gt;Experience with paid funnel operations is a plus (Google Ads, LinkedIn Ads, etc.).&lt;/li&gt; &lt;li&gt;Understanding of partner/VAR operational workflows and partner attribution logic.&lt;/li&gt; &lt;li&gt;Ability to design scalable integrations using tools like Segment, Zapier, or Workato-style platforms.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;The expected salary range for this role is $134,696 - $168,370. However, the starting base pay will depend on a number of factors including the candidate\u2019s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$134,696 - $168,370",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-09-08T15:32:02-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM strategy and D2C funnel ownership, but MarketingOps is a specialized function requiring deep hands-on MktOps platform expertise Raunak lacks.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Manager-level seniority confirmed, but role is Senior MarketingOps specialist, not GTM strategist."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Knows Salesforce and CRM; missing LeanData, Marketo, Outreach, Clay, Segment, Zapier, data governance."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 55,
+          "note": "B2B SaaS fintech (Brex) is adjacent to EdTech, but no named experience in B2B sales-led or channel GTM at scale."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 58,
+          "note": "Excellent ABM, funnel, and cross-functional leadership; zero evidence of systems architecture, data orchestration, or MarketOps platform configuration."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 45,
+          "note": "Requires H1B sponsorship at large public fintech; Brex likely able, but adds friction vs. local candidate pool."
+        }
+      ],
+      "missing_keywords": [
+        "LeanData",
+        "Marketo",
+        "Outreach",
+        "data governance",
+        "agentic workflows",
+        "Segment",
+        "Clay.io",
+        "Zapier",
+        "attribution modeling",
+        "lead routing logic"
+      ],
+      "top_signal": "Owns end-to-end D2C funnel for 60+ cross-functional team and rebuilt sales onboarding/enablement\u2014demonstrates systems thinking and operational scale.",
+      "biggest_gap": "No hands-on experience architecting or optimizing marketing technology stack (Marketo, LeanData, Outreach); this role is fundamentally a systems/platform/data engineering role, not a GTM strategy role."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:00:36.653638+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:brex:8787002002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager",
+      "location": "Seattle, Washington, United States",
+      "url": "https://www.brex.com/careers/8787002002?gh_jid=8787002002",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We\u2019re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Marketing at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Marketing tells the story of Brex to the world. From acquisition to activation, we translate product value into business results. Our team spans Revenue, Product, and Brand Marketing, and works closely with nearly every function at Brex. We move fast, experiment often, and think deeply about customer behavior. If you want your creativity to drive growth and shape perception, this is the place.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Brex Marketing team is looking for an experienced Senior Marketing Operations Manager to architect and optimize our B2B sales-led and channel-driven GTM engine. This role will define and maintain the systems, processes, and operational rigor that align Marketing, SDR, Sales, and Partner teams.&lt;/p&gt; &lt;p&gt;We are looking for someone who is eager to design the future-state GTM tech stack\u2014modernizing how leads flow, how insights are generated, and how operational workloads become more efficient through automation, AI, and agentic workflows. This person will champion operational excellence by improving lead management, automating revenue processes, increasing funnel velocity, and enabling more efficient cross-functional alignment.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you\u2019ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our Seattle office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and evolve the GTM systems architecture, ensuring Salesforce, Marketo, LeanData, ZoomInfo, Qualified, Outreach, and Clay.io work together as a best-in-class, integrated ecosystem.&lt;/li&gt; &lt;li&gt;Lead the design, governance, and optimization of data orchestration workflows using LeanData, including routing, prioritization, handoffs, and conversion logic across Marketing, SDR, and Sales teams.&lt;/li&gt; &lt;li&gt;Design and execute a future-state operational roadmap focused on scaling B2B demand generation, ABM, and partner-led growth through automation, improved data flows, and AI-powered insights.&lt;/li&gt; &lt;li&gt;Build automated lifecycle processes for lead scoring, enrichment, qualification, and cross-functional handoffs using LeanData, Zapier, Clay, Segment, and AI agents.&lt;/li&gt; &lt;li&gt;Enhance sales productivity by implementing agentic workflows (e.g., automated follow-ups, enrichment workflows, SDR assistance tools) in Outreach and Salesforce.&lt;/li&gt; &lt;li&gt;Manage data governance across Salesforce, Marketo, and Segment, ensuring reliable attribution, reporting, and pipeline visibility.&lt;/li&gt; &lt;li&gt;Create AI-informed dashboards and reporting on pipeline performance, lead velocity, conversion, campaign effectiveness, and partner impact.&lt;/li&gt; &lt;li&gt;Partner with RevOps, Sales Systems, and Engineering to operationalize cross-functional processes that reduce manual work and improve efficiency.&lt;/li&gt; &lt;li&gt;Support partner/VAR motions through automated attribution, routing rules, partner engagement workflows, and integrated co-marketing processes.&lt;/li&gt; &lt;li&gt;Continuously evaluate new tools, AI capabilities, and operational improvements that elevate our GTM infrastructure.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4+ years in Marketing Operations or Revenue Operations supporting B2B sales-led funnels.&lt;/li&gt; &lt;li&gt;Hands-on experience administering Marketo, Salesforce, and LeanData.&lt;/li&gt; &lt;li&gt;Deep expertise with lead routing, lead-to-account matching, and data orchestration workflows using LeanData or similar workflow automation tools.&lt;/li&gt; &lt;li&gt;Proven ability to design automated workflows, operational processes, and scalable cross-system integrations.&lt;/li&gt; &lt;li&gt;Experience using AI-driven tools or agentic workflows to automate SDR tasks, enrich lead data, or accelerate GTM execution.&lt;/li&gt; &lt;li&gt;Strong analytical, system design, and documentation skills; able to translate business needs into scalable technical workflows.&lt;/li&gt; &lt;li&gt;Experience collaborating with Sales, SDR, RevOps, and System/Engineering teams.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience in FinTech or enterprise B2B SaaS environments.&lt;/li&gt; &lt;li&gt;Familiarity with conversational marketing/ABM platforms like Qualified.&lt;/li&gt; &lt;li&gt;Experience with tools like LeanData and Outreach in support of lead routing and SDR/BDR workflows.&lt;/li&gt; &lt;li&gt;Experience with paid funnel operations is a plus (Google Ads, LinkedIn Ads, etc.).&lt;/li&gt; &lt;li&gt;Understanding of partner/VAR operational workflows and partner attribution logic.&lt;/li&gt; &lt;li&gt;Ability to design scalable integrations using tools like Segment, Zapier, or Workato-style platforms.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;The expected salary range for this role is $134,696 - $168,370. However, the starting base pay will depend on a number of factors including the candidate\u2019s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$134,696 - $168,370",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-09-08T16:02:20-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and CRM fundamentals, but no demonstrated MarOps, LeanData, Marketo, or AI-native automation platform experience.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Manager-level confirmed, but GTM/Growth background, not MarOps; role requires deep systems architecture expertise."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Has Salesforce, CRM, KPI dashboards, lead scoring, funnel analytics. Missing: LeanData, Marketo, Outreach, Zapier, Segment, agentic workflows."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 55,
+          "note": "B2B SaaS background strong; EdTech is less complex than fintech GTM stack. No FinTech or high-velocity B2B sales-led experience."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Proven GTM strategy and multi-market execution, but no MarOps operational roadmap ownership or platform integration at scale."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 40,
+          "note": "Requires H1B sponsorship; Brex is large and established but no sponsorship noted in posting. Significant risk."
+        }
+      ],
+      "missing_keywords": [
+        "LeanData",
+        "Marketo",
+        "Outreach",
+        "Marketing Operations",
+        "Agentic workflows",
+        "AI automation at scale",
+        "Revenue Operations",
+        "Data orchestration"
+      ],
+      "top_signal": "P&L ownership and CRM-driven lead scoring across 5 markets shows operational rigor and cross-functional coordination capability.",
+      "biggest_gap": "No demonstrated expertise in marketing automation platforms (Marketo, LeanData) or AI-native agentic workflows\u2014the core DNA of this role."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:00:43.954080+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:brex:8787020002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager",
+      "location": "New York, New York, United States",
+      "url": "https://www.brex.com/careers/8787020002?gh_jid=8787020002",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We\u2019re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Marketing at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Marketing tells the story of Brex to the world. From acquisition to activation, we translate product value into business results. Our team spans Revenue, Product, and Brand Marketing, and works closely with nearly every function at Brex. We move fast, experiment often, and think deeply about customer behavior. If you want your creativity to drive growth and shape perception, this is the place.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Brex Marketing team is looking for an experienced Senior Marketing Operations Manager to architect and optimize our B2B sales-led and channel-driven GTM engine. This role will define and maintain the systems, processes, and operational rigor that align Marketing, SDR, Sales, and Partner teams.&lt;/p&gt; &lt;p&gt;We are looking for someone who is eager to design the future-state GTM tech stack\u2014modernizing how leads flow, how insights are generated, and how operational workloads become more efficient through automation, AI, and agentic workflows. This person will champion operational excellence by improving lead management, automating revenue processes, increasing funnel velocity, and enabling more efficient cross-functional alignment.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you\u2019ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our New York office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and evolve the GTM systems architecture, ensuring Salesforce, Marketo, LeanData, ZoomInfo, Qualified, Outreach, and Clay.io work together as a best-in-class, integrated ecosystem.&lt;/li&gt; &lt;li&gt;Lead the design, governance, and optimization of data orchestration workflows using LeanData, including routing, prioritization, handoffs, and conversion logic across Marketing, SDR, and Sales teams.&lt;/li&gt; &lt;li&gt;Design and execute a future-state operational roadmap focused on scaling B2B demand generation, ABM, and partner-led growth through automation, improved data flows, and AI-powered insights.&lt;/li&gt; &lt;li&gt;Build automated lifecycle processes for lead scoring, enrichment, qualification, and cross-functional handoffs using LeanData, Zapier, Clay, Segment, and AI agents.&lt;/li&gt; &lt;li&gt;Enhance sales productivity by implementing agentic workflows (e.g., automated follow-ups, enrichment workflows, SDR assistance tools) in Outreach and Salesforce.&lt;/li&gt; &lt;li&gt;Manage data governance across Salesforce, Marketo, and Segment, ensuring reliable attribution, reporting, and pipeline visibility.&lt;/li&gt; &lt;li&gt;Create AI-informed dashboards and reporting on pipeline performance, lead velocity, conversion, campaign effectiveness, and partner impact.&lt;/li&gt; &lt;li&gt;Partner with RevOps, Sales Systems, and Engineering to operationalize cross-functional processes that reduce manual work and improve efficiency.&lt;/li&gt; &lt;li&gt;Support partner/VAR motions through automated attribution, routing rules, partner engagement workflows, and integrated co-marketing processes.&lt;/li&gt; &lt;li&gt;Continuously evaluate new tools, AI capabilities, and operational improvements that elevate our GTM infrastructure.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4+ years in Marketing Operations or Revenue Operations supporting B2B sales-led funnels.&lt;/li&gt; &lt;li&gt;Hands-on experience administering Marketo, Salesforce, and LeanData.&lt;/li&gt; &lt;li&gt;Deep expertise with lead routing, lead-to-account matching, and data orchestration workflows using LeanData or similar workflow automation tools.&lt;/li&gt; &lt;li&gt;Proven ability to design automated workflows, operational processes, and scalable cross-system integrations.&lt;/li&gt; &lt;li&gt;Experience using AI-driven tools or agentic workflows to automate SDR tasks, enrich lead data, or accelerate GTM execution.&lt;/li&gt; &lt;li&gt;Strong analytical, system design, and documentation skills; able to translate business needs into scalable technical workflows.&lt;/li&gt; &lt;li&gt;Experience collaborating with Sales, SDR, RevOps, and System/Engineering teams.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience in FinTech or enterprise B2B SaaS environments.&lt;/li&gt; &lt;li&gt;Familiarity with conversational marketing/ABM platforms like Qualified.&lt;/li&gt; &lt;li&gt;Experience with tools like LeanData and Outreach in support of lead routing and SDR/BDR workflows.&lt;/li&gt; &lt;li&gt;Experience with paid funnel operations is a plus (Google Ads, LinkedIn Ads, etc.).&lt;/li&gt; &lt;li&gt;Understanding of partner/VAR operational workflows and partner attribution logic.&lt;/li&gt; &lt;li&gt;Ability to design scalable integrations using tools like Segment, Zapier, or Workato-style platforms.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;The expected salary range for this role is $134,696 - $168,370. However, the starting base pay will depend on a number of factors including the candidate\u2019s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$134,696 - $168,370",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-09-08T16:04:41-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM strategy and growth background, but lacks direct marketing operations, data orchestration, and tech stack expertise core to this specialized role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 60,
+          "note": "Senior Manager level confirmed, but background is GTM Strategy/Growth/BD, not Marketing Operations or RevOps."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 45,
+          "note": "Has Salesforce, CRM, KPI dashboards, A/B testing; missing LeanData, Marketo, Outreach, data orchestration, API integrations, agentic workflows."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 50,
+          "note": "B2B/SaaS experience in EdTech, but no B2B fintech or payment platform exposure; GTM motion differs from sales-led channel-driven model."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 50,
+          "note": "Owns P&L, builds sales systems, optimizes funnels; but no evidence of systems architecture, lead routing, lifecycle automation, or multi-tool orchestration."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 55,
+          "note": "Requires H1B sponsorship; Brex is large established employer, but sponsorship not explicitly stated and relocation to NYC required."
+        }
+      ],
+      "missing_keywords": [
+        "Marketing Operations",
+        "LeanData",
+        "Marketo",
+        "Outreach",
+        "data orchestration",
+        "agentic workflows",
+        "lead routing",
+        "RevOps",
+        "attribution modeling",
+        "API integrations"
+      ],
+      "top_signal": "Demonstrated P&L ownership, cross-functional alignment across 60+ team members, and obsessive KPI dashboarding aligns with operational rigor mindset.",
+      "biggest_gap": "Role requires deep martech and data integration expertise (LeanData, Marketo, Outreach, Segment); candidate is GTM strategist and growth leader, not systems architect or ops technician."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:00:51.809802+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:brex:8787029002",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://www.brex.com/careers/8787029002?gh_jid=8787029002",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why join us&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex\u2019s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world&#39;s best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek.&lt;/p&gt; &lt;p&gt;Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We\u2019re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Marketing at Brex&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Marketing tells the story of Brex to the world. From acquisition to activation, we translate product value into business results. Our team spans Revenue, Product, and Brand Marketing, and works closely with nearly every function at Brex. We move fast, experiment often, and think deeply about customer behavior. If you want your creativity to drive growth and shape perception, this is the place.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Brex Marketing team is looking for an experienced Senior Marketing Operations Manager to architect and optimize our B2B sales-led and channel-driven GTM engine. This role will define and maintain the systems, processes, and operational rigor that align Marketing, SDR, Sales, and Partner teams.&lt;/p&gt; &lt;p&gt;We are looking for someone who is eager to design the future-state GTM tech stack\u2014modernizing how leads flow, how insights are generated, and how operational workloads become more efficient through automation, AI, and agentic workflows. This person will champion operational excellence by improving lead management, automating revenue processes, increasing funnel velocity, and enabling more efficient cross-functional alignment.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Where you\u2019ll work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This role will be based in our Salt Lake City office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own and evolve the GTM systems architecture, ensuring Salesforce, Marketo, LeanData, ZoomInfo, Qualified, Outreach, and Clay.io work together as a best-in-class, integrated ecosystem.&lt;/li&gt; &lt;li&gt;Lead the design, governance, and optimization of data orchestration workflows using LeanData, including routing, prioritization, handoffs, and conversion logic across Marketing, SDR, and Sales teams.&lt;/li&gt; &lt;li&gt;Design and execute a future-state operational roadmap focused on scaling B2B demand generation, ABM, and partner-led growth through automation, improved data flows, and AI-powered insights.&lt;/li&gt; &lt;li&gt;Build automated lifecycle processes for lead scoring, enrichment, qualification, and cross-functional handoffs using LeanData, Zapier, Clay, Segment, and AI agents.&lt;/li&gt; &lt;li&gt;Enhance sales productivity by implementing agentic workflows (e.g., automated follow-ups, enrichment workflows, SDR assistance tools) in Outreach and Salesforce.&lt;/li&gt; &lt;li&gt;Manage data governance across Salesforce, Marketo, and Segment, ensuring reliable attribution, reporting, and pipeline visibility.&lt;/li&gt; &lt;li&gt;Create AI-informed dashboards and reporting on pipeline performance, lead velocity, conversion, campaign effectiveness, and partner impact.&lt;/li&gt; &lt;li&gt;Partner with RevOps, Sales Systems, and Engineering to operationalize cross-functional processes that reduce manual work and improve efficiency.&lt;/li&gt; &lt;li&gt;Support partner/VAR motions through automated attribution, routing rules, partner engagement workflows, and integrated co-marketing processes.&lt;/li&gt; &lt;li&gt;Continuously evaluate new tools, AI capabilities, and operational improvements that elevate our GTM infrastructure.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4+ years in Marketing Operations or Revenue Operations supporting B2B sales-led funnels.&lt;/li&gt; &lt;li&gt;Hands-on experience administering Marketo, Salesforce, and LeanData.&lt;/li&gt; &lt;li&gt;Deep expertise with lead routing, lead-to-account matching, and data orchestration workflows using LeanData or similar workflow automation tools.&lt;/li&gt; &lt;li&gt;Proven ability to design automated workflows, operational processes, and scalable cross-system integrations.&lt;/li&gt; &lt;li&gt;Experience using AI-driven tools or agentic workflows to automate SDR tasks, enrich lead data, or accelerate GTM execution.&lt;/li&gt; &lt;li&gt;Strong analytical, system design, and documentation skills; able to translate business needs into scalable technical workflows.&lt;/li&gt; &lt;li&gt;Experience collaborating with Sales, SDR, RevOps, and System/Engineering teams.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience in FinTech or enterprise B2B SaaS environments.&lt;/li&gt; &lt;li&gt;Familiarity with conversational marketing/ABM platforms like Qualified.&lt;/li&gt; &lt;li&gt;Experience with tools like LeanData and Outreach in support of lead routing and SDR/BDR workflows.&lt;/li&gt; &lt;li&gt;Experience with paid funnel operations is a plus (Google Ads, LinkedIn Ads, etc.).&lt;/li&gt; &lt;li&gt;Understanding of partner/VAR operational workflows and partner attribution logic.&lt;/li&gt; &lt;li&gt;Ability to design scalable integrations using tools like Segment, Zapier, or Workato-style platforms.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;The expected salary range for this role is $119,200 - $149,000. However, the starting base pay will depend on a number of factors including the candidate\u2019s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;em&gt;Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;http://brex.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://brex.com&quot; data-sk=&quot;tooltip_parent&quot;&gt;brex.com&lt;/a&gt;&amp;nbsp;domain. Any outreach claiming to be from Brex via other sources should be ignored.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$119,200 - $149,000",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-09-08T16:04:44-04:00"
+    },
+    "result": {
+      "overall_score": 48,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and funnel expertise, but lacks direct MarOps/RevOps tool mastery (Salesforce, Marketo, LeanData, LeanData orchestration) that is core to this architect-level role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 62,
+          "note": "Manager-level confirmed, but MarOps is distinct from Growth/PMM; title progression doesn't show dedicated MarOps tenure."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 38,
+          "note": "Strong on GTM, ABM, CRM, KPI dashboards; missing hands-on Salesforce admin, Marketo, LeanData orchestration, Zapier, Segment, data governance."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 55,
+          "note": "B2B SaaS and sales-led GTM are transferable; EdTech is smaller-scale than Brex enterprise fintech; no B2B channel/partner experience shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 52,
+          "note": "Measurable funnel wins and cross-functional leadership; no evidence of designing GTM tech stack, automation architecture, or large-scale RevOps transformation."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; Brex is large established firm (typically sponsors), but role is specialized and sticky tenure risk is higher for visa candidates."
+        }
+      ],
+      "missing_keywords": [
+        "Marketing Operations",
+        "Revenue Operations",
+        "Salesforce administration",
+        "Marketo",
+        "LeanData routing and orchestration",
+        "data governance",
+        "API integrations"
+      ],
+      "top_signal": "Demonstrated P&L ownership, 38% acquisition lift through GTM redesign, and ABM execution across multiple teams shows systems-thinking and cross-functional alignment capability.",
+      "biggest_gap": "No direct MarOps or RevOps background; profile is GTM strategy and growth execution, not the platform architecture, tool integration, and data governance that define this Senior MarOps architect role."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:01:00.105390+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:apolloio:6178932004",
+      "company": "apolloio",
+      "title": "Partner Manager, AI Ecosystems",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/apolloio/jobs/6178932004",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a class=&quot;notion-link-token notion-focusable-token notion-enable-hover&quot; href=&quot;http://apollo.io/&quot; data-token-index=&quot;0&quot;&gt;&lt;span class=&quot;link-annotation-7a57a4e3-9668-4c92-9fb1-a9318bf3a91b--723603012&quot;&gt;Apollo.io&lt;/span&gt;&lt;/a&gt; is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world&#39;s largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion. &lt;a class=&quot;notion-link-token notion-focusable-token notion-enable-hover&quot; href=&quot;http://apollo.io/&quot; data-token-index=&quot;2&quot;&gt;&lt;span class=&quot;link-annotation-7a57a4e3-9668-4c92-9fb1-a9318bf3a91b--723603012&quot;&gt;Apollo.io&lt;/span&gt;&lt;/a&gt; provides sales and marketing teams with easy access to verified contact data for over 210 million B2B contacts and 35 million companies worldwide, along with tools to engage and convert these contacts in one unified platform. By helping revenue professionals find the most accurate contact information and automating the outreach process, &lt;a class=&quot;notion-link-token notion-focusable-token notion-enable-hover&quot; href=&quot;http://apollo.io/&quot; data-token-index=&quot;4&quot;&gt;&lt;span class=&quot;link-annotation-7a57a4e3-9668-4c92-9fb1-a9318bf3a91b--723603012&quot;&gt;Apollo.io&lt;/span&gt;&lt;/a&gt; turns prospects into customers.&amp;nbsp;Apollo raised a series D in 2023 and is backed by top-tier investors, including Sequoia Capital, Bain Capital Ventures, and more, and counts the former President and COO of Hubspot, JD Sherman, among its board members.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Apollo is one of the most-used data and go-to-market platforms inside the AI agent ecosystem \u2014 reachable today through Claude, ChatGPT, Perplexity, and a growing list of agent and headless surfaces. That ecosystem is being rewritten in real time: MCP, skills, and plugins have opened entirely new surfaces for integration, collaboration, and partnership that didn&#39;t exist eighteen months ago, and what a &quot;partnership&quot; even means in this space is still being defined as foundation model capabilities evolve. This role owns that frontier for Apollo: deepening our relationships with the foundation model companies, agent harnesses, and AI-native platforms we already work with, and identifying the surfaces we&#39;re not yet part of.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you&#39;ll do:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. Own and Deepen Apollo&#39;s Frontier AI Partnerships&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own Apollo&#39;s relationships with foundation model companies, agent harnesses, and AI-native platforms \u2014 both the ones Apollo already works with and the ones it doesn&#39;t yet&lt;/li&gt; &lt;li&gt;Go deeper with existing platform relationships: more surface area, better placement, tighter integration, and a real seat at the table as their roadmaps evolve&lt;/li&gt; &lt;li&gt;Continuously scan the landscape for new surfaces Apollo should be part of, and build the case for where to invest next&lt;/li&gt; &lt;li&gt;Lead on partner review, certification, and compliance processes (e.g., app store/plugin submissions) and drive resolution when a partner&#39;s feedback loop stalls or lacks specifics.&lt;/li&gt; &lt;li&gt;Drive monetization strategies within each partner surface \u2014 identifying where usage, credit consumption, or connector adoption can be grown, and building the plan to convert platform reach into revenue&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;2. Build the Next Generation of Apollo Surfaces&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Partner with platforms \u2014 and often multiple ISVs at once \u2014 to design and ship new plugins and skills that make Apollo genuinely useful to people running it headless, not just technically accessible via API&lt;/li&gt; &lt;li&gt;Work with Apollo&#39;s own R&amp;amp;D team to translate what a partner&#39;s surface can support into what Apollo should actually build for it&lt;/li&gt; &lt;li&gt;Treat every new surface (an MCP server, a skill, a plugin, an agent tool) as its own product decision: what it should do, who it&#39;s for, and how it gets discovered&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;3. Stay on the Frontier&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Track foundation model and agent-ecosystem developments as they happen \u2014 this category has no fixed playbook, and the right way to partner with it changes as model capabilities change&lt;/li&gt; &lt;li&gt;Translate what&#39;s changing in the market into a point of view Apollo can act on before it becomes obvious&lt;/li&gt; &lt;li&gt;Be the person internally who can explain, credibly, what&#39;s actually happening in this space and why it matters for Apollo&#39;s partnership strategy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Minimum Qualifications&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;5+ years in technology/API partnerships, developer relations, or a closely related technical partnerships role, ideally touching foundation model, agent, or AI-native platform ecosystems&lt;/li&gt; &lt;li&gt;Genuine technical fluency: comfortable in API docs, MCP concepts, and integration architecture discussions with both a partner&#39;s engineering team and Apollo&#39;s own R&amp;amp;D&lt;/li&gt; &lt;li&gt;Demonstrated ability to track and make sense of a fast-moving, still-forming category \u2014 you can explain what&#39;s changed in the last month and why it matters&lt;/li&gt; &lt;li&gt;Comfortable working multi-party: coordinating a partnership that involves a platform and one or more other ISVs at the same time&lt;/li&gt; &lt;li&gt;Experience working in a category with no established playbook \u2014 you build the process and the point of view as you go&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Existing relationships or experience with foundation model companies, agent harness platforms, or the broader AI-native/builder ecosystem&lt;/li&gt; &lt;li&gt;Experience designing or shipping an MCP server, skill, or plugin \u2014 yours or a partner&#39;s&lt;/li&gt; &lt;li&gt;Background in developer relations, technical partner management, or a product-adjacent partnerships role at a SaaS or platform company&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The listed Pay Range reflects the total cash compensation inclusive of annual base salary and annual bonus as applicable. For sales roles, the range provided is the role\u2019s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonus target and annual base salary for the role. This salary range may be inclusive of several career levels at Apollo and will be narrowed during the interview process based on a number of factors, including the candidate\u2019s experience, qualifications, and location. Applicants interested in this role who are not located in the US may request the annual salary range for their location during the interview process.&lt;/p&gt; &lt;p&gt;Additional benefits for this role may include: equity; company bonus or sales commissions/bonuses; 401(k) plan; at least 10 paid holidays per year, flex PTO, and parental leave; employee assistance program and wellbeing benefits; global travel coverage; life/AD&amp;amp;D/STD/LTD insurance; FSA/HSA and medical, dental, and vision benefits.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Tier 1 Pay Range (San Francisco, New York City, Seattle)&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$140,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$175,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;title&quot;&gt;Tier 2 Pay Range (All other US Locations)&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$120,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$150,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h3&gt;We are AI Native&lt;/h3&gt; &lt;p&gt;Apollo.io is an AI-native company built on a culture of continuous improvement. We\u2019re on the front lines of driving productivity for our customers\u2014and we expect the same mindset from our team. If you&#39;re energized by finding smarter, faster ways to get things done using AI and automation, you&#39;ll thrive here.&lt;/p&gt; &lt;h3&gt;Why You\u2019ll Love Working at Apollo&lt;/h3&gt; &lt;p&gt;At Apollo, we\u2019re driven by a shared mission: to help our customers unlock their full revenue potential. That\u2019s why we &lt;strong&gt;take extreme ownership&lt;/strong&gt; of our work, &lt;strong&gt;move with focus and urgency&lt;/strong&gt;, and &lt;strong&gt;learn voraciously&lt;/strong&gt; to stay ahead.&lt;/p&gt; &lt;p&gt;We invest deeply in your growth, ensuring you have the resources, support, and autonomy to&amp;nbsp;&lt;strong&gt;own your role and make a real impact&lt;/strong&gt;. Collaboration is at our core\u2014we\u2019re &lt;strong&gt;all for one&lt;/strong&gt;, meaning you\u2019ll have a team across departments ready to help you succeed. We encourage &lt;strong&gt;bold ideas and courageous action&lt;/strong&gt;, giving you the freedom to experiment, take smart risks, and drive big wins.&lt;/p&gt; &lt;p&gt;If you\u2019re looking for a place where your work matters, where you can push boundaries, and where your career can thrive\u2014Apollo is the place for you.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Learn more&amp;nbsp;&lt;a href=&quot;https://www.apollo.io/we-are-apollo&quot;&gt;here!&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-09-08T19:44:16-04:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and partnership foundation with direct AI/GEO research, but lacks enterprise SaaS scaling experience and formal partner/BD management track record at this level.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Manager-level confirmed via P&L and team leadership, but Partner Manager is a specialized BD/partnerships role; candidate's BD experience is sales-adjacent, not partnerships-focused."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 78,
+          "note": "Strong match on GTM strategy, go-to-market, product launch, cross-functional leadership, and AI platforms knowledge. Missing: formal partner management, ecosystem strategy, plugin/integration roadmaps."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 75,
+          "note": "GEO research and ChatGPT/Claude/Gemini/Perplexity knowledge directly align with role's AI ecosystem focus. EdTech background is adjacent to SaaS but not enterprise B2B SaaS."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 68,
+          "note": "Demonstrated funnel ownership, positioning redesign, and international expansion. Missing quantified proof of partnership strategy, platform integration monetization, or ecosystem management."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 70,
+          "note": "Requires H1B sponsorship; Apollo is $1.6B+ established company (positive signal), but SaaS market skepticism of visa sponsorship for specialized roles remains a risk."
+        }
+      ],
+      "missing_keywords": [
+        "partner relationship management",
+        "ecosystem strategy",
+        "plugin/integration architecture",
+        "B2B SaaS partnerships",
+        "platform monetization at scale"
+      ],
+      "top_signal": "Hands-on GEO research across 7 AI platforms (ChatGPT, Claude, Gemini, Perplexity) with direct client GTM recommendations\u2014rare Manager-level depth in Apollo's exact ecosystem.",
+      "biggest_gap": "No demonstrated experience owning formal partner relationships, managing integration roadmaps, or scaling platform monetization\u2014the core of this role's mandate."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:01:28.410739+00:00"
+  },
+  {
+    "job": {
+      "id": "lv:wintermute-trading:42b799cd-95cb-4f12-89b1-7e22a7cbf7cc",
+      "company": "wintermute-trading",
+      "title": "Business Development Manager (Sports/Prediction Markets)",
+      "location": "London/ New York/ Remote",
+      "url": "https://jobs.lever.co/wintermute-trading/42b799cd-95cb-4f12-89b1-7e22a7cbf7cc",
+      "description": "About Wintermute Wintermute is one of the largest crypto-native algorithmic trading companies in digital assets. We provide liquidity across most major cryptocurrency exchanges and trading platforms, offer a broad range of OTC trading solutions, and support high-profile blockchain projects and traditional financial institutions moving into digital assets. We are also expanding into prediction markets, applying our market-making, trading and liquidity expertise to this rapidly growing space and building infrastructure across new event-driven markets. Wintermute Ventures invests in early-stage DeFi and Web3 projects. Wintermute was founded in 2017 and has successfully navigated multiple industry cycles. Culturally, we combine the technology standards and quantitative rigour of traditional high-frequency trading firms with the innovative and entrepreneurial culture of technology startups. To Wintermute, digital assets - and emerging markets such as prediction markets - are not simply another asset class. We believe in the long-term potential of blockchain and new forms of market infrastructure, and we aim to take a leading role in building innovative, liquid and compliant markets. You can read more here. Working at Wintermute We are looking for someone with an established network of high-value sports clients and VIP clients who understands where to find them, how to build trusted relationships with them, and ultimately how to win their business. At Wintermute, you will have the opportunity to play a key role in growing our sports and prediction markets business, using your existing network while also developing new relationships across the market. You should be deeply connected to the sports ecosystem, understand how sophisticated and high-stakes people operate, and know how to turn relationships into long-term commercial partnerships. You will get significant independence and responsibility from day one, with the opportunity to directly influence how we build and grow this part of the business.",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-09-09T10:09:02.805000+00:00"
+    },
+    "result": {
+      "overall_score": 28,
+      "verdict": "Weak Fit",
+      "verdict_note": "EdTech GTM expertise does not transfer to crypto trading, prediction markets, or high-net-worth sports client relationship management.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Manager level aligns; BD title matches, but crypto/prediction markets is new domain entirely."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 20,
+          "note": "GTM, positioning, funnel optimization present but no crypto, trading, market-making, OTC, or VIP client management experience."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 15,
+          "note": "Zero exposure to crypto, prediction markets, high-frequency trading, or sophisticated financial institutions/traders."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 35,
+          "note": "B2C EdTech growth and sales operations do not demonstrate ability to build VIP/institutional client networks in sports or crypto."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "Requires H1B sponsorship; Wintermute is likely London-headquartered, reducing sponsorship appetite for UK/remote role."
+        }
+      ],
+      "missing_keywords": [
+        "crypto/digital assets",
+        "prediction markets",
+        "market-making",
+        "OTC trading",
+        "high-net-worth/VIP client networks",
+        "sports betting/sports ecosystem",
+        "institutional trading relationships",
+        "blockchain",
+        "liquidity provision"
+      ],
+      "top_signal": "Proven ability to scale D2C funnels, manage cross-functional teams, and drive pipeline revenue growth.",
+      "biggest_gap": "No demonstrated experience in crypto, prediction markets, high-stakes institutional/VIP client relationships, or sports betting\u2014the core of this role's value proposition."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:01:43.552026+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:swordhealth:4397141009",
+      "company": "swordhealth",
+      "title": "Product Marketing Lead, Enterprise",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4397141009",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Sword, we\u2019re building AI to heal billions and unlock humanity\u2019s full potential. In doing so, we\u2019re pioneering AI Care, a fundamentally new approach to healthcare built for medical reasoning, safety, and real-time treatment, not generic technology applied after the fact. As both a clinical-centric frontier AI lab and an applied AI platform, Sword is reimagining how care is delivered at scale, removing traditional barriers like appointments, waiting rooms, and stigma so more people can access the care they need\u2014and ultimately get back to lives lived in full.&lt;/p&gt; &lt;p&gt;Since 2020, Sword has expanded across physical therapy, women\u2019s health, cardiometabolic, and mental health, and is now moving beyond the session to a fully AI-native, 24/7 care program that brings physical activity, therapeutic exercise, psychotherapy, nutrition, and behavior change into one connected experience. More than 700,000 members across three continents have completed over 10 million AI sessions, helping 1,000+ enterprise clients avoid more than $1 billion in unnecessary healthcare costs. Backed by 42 clinical studies, 44+ patents, and more than $500 million raised from leading investors including Khosla Ventures, General Catalyst, and Founders Fund, Sword is defining a new standard for healthcare.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h4&gt;AI&amp;nbsp;Proficiency at Sword&lt;/h4&gt; &lt;p&gt;AI fluency is a core expectation at Sword. Every candidate is assessed against our three-level framework \u2014 be ready to share real examples of how AI is already part of how you work.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Explorer (Level 1) \u2014 Uses AI daily to boost personal productivity&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Builder (Level 2) \u2014 Creates workflows and tools that elevate the whole team&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Integrator (Level 3) \u2014 Embeds AI into products and processes at scale&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Every hire must demonstrate at least Level 1. The expected level will vary depending on the seniority of the role.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;We are looking for an ambitious, creative, and execution-minded&amp;nbsp;&lt;strong&gt;Product Marketing Lead&lt;/strong&gt; to help build, define, and scale the future of &lt;strong&gt;AI Care&lt;/strong&gt; within the &lt;strong&gt;Enterprise&lt;/strong&gt; market.&lt;/p&gt; &lt;p&gt;There has truly never been a better time to be a product marketer at Sword. We are actively launching category-defining products, expanding our platform capabilities, and redefining how care is delivered to millions of people. In this role, you will be the primary GTM strategist and storytelling engine for our Enterprise business, taking a breakthrough AI platform narrative and turning it into hyper-resonant, high-converting commercial realities for benefit leaders and HR executives.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h4&gt;&lt;strong&gt;Why this role is unique&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;You aren&#39;t just selling software or a wellness benefit; you are establishing a brand-new category in corporate healthcare and technology. You will be the connective tissue between our General Managers (our resident product experts), Commercial leaders, and Marketing execution teams.&lt;/p&gt; &lt;p&gt;This is a high-impact, hands-on IC role designed for a PMM who wants to step on the career gas pedal. You will partner directly with GMs to package our expanding platform, craft crisp ROI and clinical value propositions for complex enterprise buying committees, and launch end-to-end campaigns that drive massive market adoption. If you want to put your name on a category-defining brand while shipping high-leverage GTM work every single week, this is your sandbox.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h4&gt;&lt;strong&gt;What you\u2019ll be doing&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;1. Enterprise Narrative &amp;amp; Audience Packaging&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;GM Co-Pilot:&lt;/strong&gt; Partner hand-in-hand with General Managers to translate product capabilities into compelling packages built for employer segments.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Category &amp;amp; Offer Packaging:&lt;/strong&gt; Take our overarching AI Care story and turn it into clear product tiers, bundles, and enterprise-grade solution offerings tailored to employer buying dynamics.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Enterprise Buyer Mapping &amp;amp; Sales Plays: &lt;/strong&gt;Map the enterprise buying committee and translate those insights into actionable sales plays, champion-building kits, persona-specific pitch tracks, and deal-level objection handlers that help reps navigate multi-stakeholder enterprise deals.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;2. Audience Positioning, Messaging &amp;amp; Asset Creation&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Value Prop &amp;amp; ROI Development:&lt;/strong&gt; Build sharp, differentiation-focused messaging that clearly articulates the ROI, clinical efficacy, and employee engagement of Sword\u2019s AI Care platform.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Rapid Messaging &amp;amp; Asset Testing:&lt;/strong&gt; Continuously test, iterate, and refine positioning across enterprise digital channels, employer pitch meetings, and pilot campaigns based on real-time deal feedback.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;High-Impact Content Creation:&lt;/strong&gt; Own the production of Enterprise GTM assets end-to-end, from executive pitch decks, ROI models, case studies, and buyer playbooks.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;3. End-to-End Campaign Activation&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Full-Funnel Enterprise Campaigns:&lt;/strong&gt; Conceptualize, launch, and manage integrated product and audience campaigns end-to-end, driving everything from new feature drops to targeted push campaigns during key open enrollment and renewal cycles.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Enterprise Sales Enablement:&lt;/strong&gt; Equip the Enterprise Commercial team with value props, sales plays, and pitch materials needed to win deals faster and at higher contract values.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Cross-Functional Execution:&lt;/strong&gt; Work across Demand Gen, Brand, Events, and GMs to build orchestrated GTM pushes that build pipeline and cement our leadership in the employer market.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;&amp;nbsp;&lt;/h4&gt; &lt;h4&gt;&lt;strong&gt;What you need to have&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Category-Building Energy:&lt;/strong&gt; 8+ years of B2B Product Marketing experience, with a track record of launching new products, crafting compelling narratives, and driving enterprise GTM activation.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Enterprise Domain Alignment:&lt;/strong&gt; Proven experience marketing into complex B2B environments, ideally selling enterprise health benefits, digital health, HR tech, or complex SaaS to HR/Benefits executives.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Mastery of Positioning:&lt;/strong&gt; Exceptional ability to take complex, cutting-edge technology and translate it into clear, simple, human, and high-converting value propositions for enterprise buyers.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Campaign &amp;amp; Execution Chops:&lt;/strong&gt; A proven bias for action. You love taking enterprise campaigns from napkin sketch to market launch, measuring success by pipeline impact, deal velocity, and win rates.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Cross-Functional Influence:&lt;/strong&gt; Exceptional emotional intelligence and clarity to work alongside high-powered GMs, Product Managers, and Commercial leaders.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Scrappy &amp;amp; Strategic:&lt;/strong&gt; You can step back to look at macro enterprise category positioning, but you get equally excited about getting into the weeds to build a killer pitch deck or test a new messaging angle.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;AI-Augmented Marketer:&lt;/strong&gt; You don&#39;t just market AI, you use it. You actively leverage modern AI tools to accelerate audience research, draft and test messaging variants, analyze deal intelligence, and scale your content output without sacrificing quality.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;*The range below reflects base, variable, and equity for this role.&lt;/span&gt;&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;This is a starting point, not a ceiling \u2014 once someone joins and proves they&#39;re outlier talent, we adjust quickly to make sure their compensation matches their impact.&lt;/span&gt;&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Job titles may span more than one career level, so actual pay depends on skills, qualifications, experience, location, and market demand, among other factors. The range reflects base salary plus any variable, bonus, or sales incentives, and our estimate of the value of private company stock options where applicable. It&#39;s subject to change, and future stock value isn&#39;t guaranteed. Sword also offers additional benefits beyond total compensation.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Total Compensation Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$136,408&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$214,355 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;sup&gt;Country-specific benefits may vary and will be detailed separately.&lt;/sup&gt;&lt;/div&gt; &lt;div&gt;&lt;sup&gt;Sword Health complies with applicable Federal and State civil rights laws and does not discriminate on the basis of Age, Ancestry, Color, Citizenship, Gender, Gender expression, Gender identity, Gender information, Marital status, Medical condition, National origin, Physical or mental disability, Pregnancy, Race, Religion, Caste, Sexual orientation, and Veteran status.&lt;/sup&gt;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Lead",
+      "posted_at": "2026-09-09T07:09:56-04:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and PMM foundation with enterprise D2C scaling, but limited direct enterprise B2B healthcare sales experience and no demonstrated healthcare domain depth.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Manager-level GTM/PMM background aligns; 'Lead' signals IC role, not direct management expectation."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 74,
+          "note": "Product marketing, positioning, competitive intelligence, buyer mapping, sales enablement all present. Missing: healthcare category knowledge, clinical value prop translation."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 58,
+          "note": "EdTech is B2C/D2C; Sword is enterprise B2B healthcare. No clinical/HCM domain depth. Transferable GTM motion but context gap is real."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 74,
+          "note": "25% sales lift, 38% CAC improvement, international expansion, and P&L ownership are strong. No complex multi-stakeholder enterprise deal narrative shown."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 68,
+          "note": "Requires H1B sponsorship. Sword is VC-backed ($500M+) and mature (since 2020), improving odds vs. startup, but healthcare roles often prefer domestic talent."
+        }
+      ],
+      "missing_keywords": [
+        "healthcare",
+        "enterprise B2B selling",
+        "clinical value proposition",
+        "benefit/HR buying committee",
+        "ROI quantification for healthcare"
+      ],
+      "top_signal": "Rebuilt sales ops and enablement for global pipeline (US/UK/Middle East), directly applicable to multi-stakeholder enterprise play-building at Sword.",
+      "biggest_gap": "Zero healthcare industry background or clinical narrative translation; EdTech D2C GTM does not automatically transfer to enterprise healthcare benefit selling."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:02:17.500870+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:swordhealth:4397143009",
+      "company": "swordhealth",
+      "title": "Product Marketing Lead, Payor",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4397143009",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Sword, we\u2019re building AI to heal billions and unlock humanity\u2019s full potential. In doing so, we\u2019re pioneering AI Care, a fundamentally new approach to healthcare built for medical reasoning, safety, and real-time treatment, not generic technology applied after the fact. As both a clinical-centric frontier AI lab and an applied AI platform, Sword is reimagining how care is delivered at scale, removing traditional barriers like appointments, waiting rooms, and stigma so more people can access the care they need\u2014and ultimately get back to lives lived in full.&lt;/p&gt; &lt;p&gt;Since 2020, Sword has expanded across physical therapy, women\u2019s health, cardiometabolic, and mental health, and is now moving beyond the session to a fully AI-native, 24/7 care program that brings physical activity, therapeutic exercise, psychotherapy, nutrition, and behavior change into one connected experience. More than 700,000 members across three continents have completed over 10 million AI sessions, helping 1,000+ enterprise clients avoid more than $1 billion in unnecessary healthcare costs. Backed by 42 clinical studies, 44+ patents, and more than $500 million raised from leading investors including Khosla Ventures, General Catalyst, and Founders Fund, Sword is defining a new standard for healthcare.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h4&gt;AI&amp;nbsp;Proficiency at Sword&lt;/h4&gt; &lt;p&gt;AI fluency is a core expectation at Sword. Every candidate is assessed against our three-level framework \u2014 be ready to share real examples of how AI is already part of how you work.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Explorer (Level 1) \u2014 Uses AI daily to boost personal productivity&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Builder (Level 2) \u2014 Creates workflows and tools that elevate the whole team&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Integrator (Level 3) \u2014 Embeds AI into products and processes at scale&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Every hire must demonstrate at least Level 1. The expected level will vary depending on the seniority of the role.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h4&gt;&lt;strong&gt;Role&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;We are looking for an ambitious, sharp, and execution-minded &lt;strong&gt;Product Marketing Lead&lt;/strong&gt; to help build, define, and scale the future of &lt;strong&gt;AI Care&lt;/strong&gt; across the &lt;strong&gt;Payor&lt;/strong&gt; ecosystem, including Health Plans, Public Sector/Government entities, and Labor &amp;amp; Unions.&lt;/p&gt; &lt;p&gt;There has truly never been a better time to be a product marketer at Sword. We are actively launching category-defining products, expanding our platform capabilities, and completely redefining how care is delivered at population scale. In this role, you will be the primary GTM strategist and storytelling engine for our Payor business, taking a breakthrough AI platform narrative and turning it into hyper-resonant, high-converting commercial realities for health plan executives, medical directors, public sector procurement, and union trustees.&lt;/p&gt; &lt;h4&gt;&amp;nbsp;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Why this role is unique&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;You aren&#39;t just selling a vendor solution; you are establishing a brand-new category in healthcare for the largest, most complex risk-bearing organizations in the country. You will be the connective tissue between our General Managers (our resident product experts), Payor leaders, and Marketing execution teams.&lt;/p&gt; &lt;p&gt;This is a high-impact, hands-on IC role designed for a PMM who thrives on navigating intricate healthcare ecosystems. You will partner directly with GMs to package our expanding platform, craft crisp value propositions for multi-stakeholder committees, and launch end-to-end campaigns that drive massive adoption. If you want to put your name on a category-defining brand while shipping high-leverage GTM work every single week\u2014this is your sandbox.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h4&gt;&lt;strong&gt;What you\u2019ll be doing&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;1. Payor Narrative &amp;amp; Audience Packaging&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;GM Co-Pilot:&lt;/strong&gt; Partner hand-in-hand with General Managers to translate complex AI Care platform capabilities into compelling solution packages tailored to Commercial Health Plans, Public Sector, and Labor/Unions.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Packaging &amp;amp; Contracting Alignment:&lt;/strong&gt; Take our overarching AI Care story and turn it into clear product packaging, value-based models, and solution offerings designed for payor contracting, ASO/FI structures, and trust fund requirements.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Actionable Buyer Mapping &amp;amp; Sales Plays:&lt;/strong&gt; Map the complex payor buying matrix and translate those insights into actionable sales playbooks, RFP narrative blocks, pitch tracks, and objection toolkits that accelerate long-cycle payor deals.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;2. Audience Positioning, Messaging &amp;amp; Asset Creation&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Tailored Value Prop Development:&lt;/strong&gt; Build sharp, differentiation-focused messaging frameworks that clearly articulate population health impact, cost-of-care reduction, accessibility, and clinical outcomes for payor audiences.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Rapid Messaging &amp;amp; Asset Testing:&lt;/strong&gt; Continuously test, iterate, and refine positioning across payor channels, health plan pitch meetings, and RFP responses based on real-time market feedback.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;High-Impact Content Creation:&lt;/strong&gt; Own the production of Payor GTM assets end-to-end, from executive pitch decks and clinical impact summaries to RFP content blocks and partnership guides.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;3. End-to-End Campaign Activation&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Full-Funnel Payor Campaigns:&lt;/strong&gt; Conceptualize, launch, and manage integrated product and audience campaigns end-to-end, driving everything from product drops to targeted push campaigns timed around payor planning cycles and trust fund cycles.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Payor Sales Enablement:&lt;/strong&gt; Equip the Payor Commercial team with value props, sales plays, and pitch materials needed to win deals faster and at higher contract values.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Cross-Functional Execution:&lt;/strong&gt; Work across Demand Gen, Brand, Events, and GMs to build orchestrated GTM pushes that build pipeline and cement our leadership in the employer market.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;&amp;nbsp;&lt;/h4&gt; &lt;h4&gt;&lt;strong&gt;What you need to have&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Category-Building Energy:&lt;/strong&gt; 8+ years of B2B Product Marketing experience, with a track record of launching new products, crafting compelling narratives, and driving complex GTM activation.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Payor Ecosystem Domain Alignment:&lt;/strong&gt; Deep experience marketing into healthcare payors, specifically Health Plans, Public Sector/Government programs, or Labor/Trust Funds. You understand medical management, health plan procurement, and member engagement dynamics.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Mastery of Positioning:&lt;/strong&gt; Exceptional ability to take complex, cutting-edge technology and translate it into clear, credible, clinical, and financially persuasive value propositions for payor buyers.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Campaign &amp;amp; Execution Chops:&lt;/strong&gt; A proven bias for action. You love taking campaigns from napkin sketch to market launch, measuring success by pipeline impact, deal velocity, and contract wins.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Cross-Functional Influence:&lt;/strong&gt; Exceptional emotional intelligence and clarity to work alongside high-powered GMs, Product Managers, and Commercial executives.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Scrappy &amp;amp; Strategic:&lt;/strong&gt; You can step back to look at macro payor category positioning, but you get equally excited about getting into the weeds to build a killer pitch deck or refine an RFP narrative.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;&lt;strong&gt;AI-Augmented Marketer:&lt;/strong&gt; You don&#39;t just market AI, you use it. You actively leverage modern AI tools to accelerate audience research, draft and test messaging variants, analyze deal intelligence, and scale your content output without sacrificing quality.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;*The range below reflects base, variable, and equity for this role.&lt;/span&gt;&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;This is a starting point, not a ceiling \u2014 once someone joins and proves they&#39;re outlier talent, we adjust quickly to make sure their compensation matches their impact.&lt;/span&gt;&lt;/p&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot; style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Job titles may span more than one career level, so actual pay depends on skills, qualifications, experience, location, and market demand, among other factors. The range reflects base salary plus any variable, bonus, or sales incentives, and our estimate of the value of private company stock options where applicable. It&#39;s subject to change, and future stock value isn&#39;t guaranteed. Sword also offers additional benefits beyond total compensation.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Total Compensation Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$136,408&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$214,355 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt; &lt;div&gt;&lt;sup&gt;Country-specific benefits may vary and will be detailed separately.&lt;/sup&gt;&lt;/div&gt; &lt;div&gt;&lt;sup&gt;Sword Health complies with applicable Federal and State civil rights laws and does not discriminate on the basis of Age, Ancestry, Color, Citizenship, Gender, Gender expression, Gender identity, Gender information, Marital status, Medical condition, National origin, Physical or mental disability, Pregnancy, Race, Religion, Caste, Sexual orientation, and Veteran status.&lt;/sup&gt;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Lead",
+      "posted_at": "2026-09-09T07:10:01-04:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and D2C positioning expertise, but lacks direct healthcare/payor domain depth and B2B enterprise sales motion required for this complex healthcare ecosystem role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Manager-level GTM/PMM experience clear; role is 'Lead' IC, aligns with current level but no P&L or team leadership ownership mentioned for this specific role."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 75,
+          "note": "Strong on positioning, value prop design, messaging, audience segmentation, ABM, cross-functional leadership; weak on healthcare commercial models, payor contracting, ASO/FI structures."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 58,
+          "note": "EdTech B2C/D2C background; healthcare is entirely new domain. No payor experience, no health plan sales cycles, no population health or value-based care exposure."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 72,
+          "note": "Proven GTM redesigns, positioning-market fit diagnostics, multi-stakeholder coordination; but all examples are B2C or B2B SaaS, not B2B healthcare enterprise."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 55,
+          "note": "Requires H1B sponsorship; Sword is well-funded ($500M+) so sponsorship likely feasible, but posting does not explicitly confirm willingness to sponsor."
+        }
+      ],
+      "missing_keywords": [
+        "healthcare payor ecosystem",
+        "value-based contracting models",
+        "ASO/FI structures",
+        "population health management",
+        "health plan sales cycles"
+      ],
+      "top_signal": "Proven ability to translate complex platform capabilities into resonant positioning (EdTech example) and orchestrate cross-functional GTM execution at scale, directly mirrors the GM co-pilot + narrative packaging demand.",
+      "biggest_gap": "Zero healthcare domain exposure; no payor, health plan, or government procurement experience\u2014critical given Sword's complexity and the role's requirement to navigate multi-stakeholder healthcare regulatory/commercial realities."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-09T17:02:25.522923+00:00"
   }
 ]
