@@ -1,43 +1,43 @@
 # Job Radar
 
-Run: 2026-09-10T16:54:25.288585+00:00
+Run: 2026-09-11T16:54:48.382015+00:00
 
-Companies: 304 checked, 299 connected, 5 failed
+Companies: 304 checked, 300 connected, 4 failed
 Estimated spend this run: $0.0290
 
 ## New this run (4)
 
-### 72 -- Product Marketing Manager - Mobile @ Klaviyo (Boston, MA)
-**Worth Applying** -- Strong GTM and positioning background with EdTech scale, but lacks direct B2B SaaS PMM experience and mobile/martech domain depth.
-[View posting](https://www.klaviyo.com/careers/jobs/7979927003?gh_jid=7979927003)
+### 72 -- Product Marketing Manager, Workplace @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and positioning experience, but lacks direct B2B SaaS PMM depth; MBA completion still 18 months away limits immediate credibility.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5233774007)
 
-- Top signal: Direct experience redesigning GTM positioning for multi-segment markets (3 regions at BYJU'S, 5 city markets in Tuition Centre) and proven ability to architect messaging-market fit across buyer segments.
-- Biggest gap: No demonstrated B2B SaaS PMM experience or mobile/SMS domain expertise; EdTech D2C GTM motion differs meaningfully from B2B martech platform adoption dynamics.
-- Missing keywords: B2B SaaS product marketing, mobile messaging / SMS, e-commerce or martech, product launch frameworks, ROI modeling for B2B
+- Top signal: Proven ability to reshape competitive positioning (25% sales lift in 6mo at BYJU'S) and drive cross-functional GTM execution with quantified pipeline impact.
+- Biggest gap: No B2B SaaS product marketing or launch campaign track record; physical security domain is unfamiliar and will require steep onboarding against high-velocity role expectations.
+- Missing keywords: product launch management, demand generation collateral, channel marketing enablement, buyer persona development, sales win/loss analysis
 
-### 72 -- Lead Product Marketing Manager @ Mindbody (United States)
-**Worth Applying** -- Strong GTM and launch execution across EdTech, but lacks direct B2B SaaS PMM depth and proven content creation portfolio.
-[View posting](https://www.playlist.com/careers/opportunities/4609787006?gh_jid=4609787006)
+### 52 -- Solutions Marketing Manager, Cybersecurity @ Anthropic (San Francisco, CA; Washington, DC)
+**Stretch** -- Strong GTM and positioning skills, but zero cybersecurity domain depth and no security buyer/CISO-facing experience will require significant ramp.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5420245008)
 
-- Top signal: End-to-end GTM ownership at scale (60+ team, 200+ hires, D2C funnel, 45% conversion) and proven ability to reposition messaging for 25% sales growth.
-- Biggest gap: No demonstrated portfolio of customer-facing content, landing pages, campaigns, or thought-leadership pieces that JD explicitly asks for; all wins are operational and quantitative.
-- Missing keywords: B2B SaaS product marketing, content creation portfolio or asset development, launch metrics (win rate, awareness lift, conversion by segment), enterprise or mid-market customer segment experience, pricing strategy collaboration
+- Top signal: Positioned complex AI capabilities (GEO) to non-technical stakeholders; redesigned messaging-market fit across regions for 25% growth; proven 0-to-1 GTM execution at scale.
+- Biggest gap: No cybersecurity domain knowledge, CISO buyer experience, or familiarity with security operations workflows; EdTech positioning does not transfer directly to enterprise defense buyers.
+- Missing keywords: cybersecurity marketing, CISO/SOC leader buyer dynamics, SIEM/SOAR/EDR platform experience, threat intelligence or detection/response, security compliance/GRC frameworks
 
-### 68 -- Product Marketing Manager - Mobile @ Klaviyo (San Francisco, CA)
-**Worth Applying** -- Strong GTM and positioning expertise with proven D2C/SaaS acumen, but lacks direct B2B SaaS PMM experience and martech/ecommerce depth that posting emphasizes.
-[View posting](https://www.klaviyo.com/careers/jobs/7990473003?gh_jid=7990473003)
+### 52 -- Lead Ads Product Marketing Manager @ Pinterest (San Francisco, CA, US; Remote, US)
+**Stretch** -- Strong GTM and cross-functional leadership, but EdTech background and lack of adtech/CTV/programmatic expertise create a material domain gap for a specialist ads role.
+[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8130606)
 
-- Top signal: 8+ years building GTM strategy and positioning at scale (150M+ user EdTech company) with proven ability to redesign messaging for 25% sales lift and lead cross-functional adoption.
-- Biggest gap: No direct B2B SaaS product marketing experience or demonstrated work with martech/ecommerce platforms; EdTech D2C background is adjacent but not the core domain Klaviyo operates in.
-- Missing keywords: B2B SaaS PMM experience, marketing automation platform, SMS/mobile messaging product knowledge, ecommerce platform expertise, product launch framework, ROI modeling and calculators
+- Top signal: Hands-on GEO research and AI application to complex visibility problems shows comfort with technical translation and AI-era marketing challenges Pinterest values.
+- Biggest gap: No experience in adtech, CTV, programmatic, or performance marketing domains; EdTech GTM motions (student acquisition, retention) differ structurally from advertiser/agency B2B SaaS sales.
+- Missing keywords: adtech, CTV / Connected TV, programmatic advertising, performance marketing, ads platform experience
 
-### 38 -- Partnerships Manager, US Public Health @ Anthropic (San Francisco, CA | New York City, NY)
-**Weak Fit** -- Strong GTM and growth skills but lacks the 10+ years US public health ecosystem credibility, government relationships, and policy domain expertise this role fundamentally requires.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5418748008)
+### 48 -- Solutions Marketing Manager, Healthcare & Science @ Anthropic (San Francisco, CA)
+**Stretch** -- Strong GTM and growth fundamentals, but lacks healthcare domain depth and hands-on product marketing execution experience required for this specialized vertical.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5420232008)
 
-- Top signal: Cross-functional coordination at scale, strategic partnership sourcing, and demonstrated fluency translating organizational needs into executable go-to-market plans across multiple geographies.
-- Biggest gap: Candidate has zero demonstrated experience in US public health, government health agencies, or policy—the foundational domain expertise and network this role explicitly requires to hit the ground running.
-- Missing keywords: US public health ecosystem, CDC relationships, state health department experience, government procurement, health policy, federal health funding, public sector deployment
+- Top signal: Proven ability to redesign GTM positioning for multi-segment audiences (5 BYJU's units, 3 regions at AGM level) and launch D2C funnels at scale mirrors the cross-vertical healthcare positioning challenge.
+- Biggest gap: No demonstrable healthcare, science, pharma, biotech, or regulated industry experience—this is a domain-specialist role, not a transferable GTM generalist hire.
+- Missing keywords: healthcare domain experience, pharmaceutical/biotech/payer buyer understanding, product marketing manager (hands-on), content strategy & campaign execution, regulatory/compliance messaging
 
 ## Top 15 all-time
 
