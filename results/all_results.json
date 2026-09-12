@@ -13759,5 +13759,237 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-09-11T16:53:20.688340+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:talentpluto:3C1EBCB049",
+      "company": "talentpluto",
+      "title": "Growth Manager",
+      "location": "",
+      "url": "https://apply.workable.com/j/3C1EBCB049",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-09-11"
+    },
+    "result": {
+      "overall_score": 51,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM/growth foundation but early-stage startup sponsorship risk and vague posting make this a meaningful uphill climb.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager-level candidate fits title, but previous roles were Senior PM/AGM\u2014potential overqualification or step-back signal."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Core GTM, growth strategy, D2C, ABM, and CRM expertise present; posting vague on specific tools or focus areas."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 45,
+          "note": "talentpluto likely HR-tech; candidate's EdTech depth doesn't transfer directly to talent/recruiting vertical."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 58,
+          "note": "Quantified growth wins (38% CAC lift, 25% sales growth) are strong, but all at larger, mature platforms; early-stage startup context unclear."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 28,
+          "note": "Requires H1B sponsorship; talentpluto appears small/early-stage with no explicit sponsorship mention\u2014high friction."
+        }
+      ],
+      "missing_keywords": [
+        "talent acquisition",
+        "HR tech",
+        "recruiting funnel",
+        "ATS integration",
+        "employer brand"
+      ],
+      "top_signal": "8+ years scaling D2C funnels and GTM positioning at 150M+ user EdTech with quantified CAC and revenue lift.",
+      "biggest_gap": "H1B sponsorship burden for likely early-stage startup, plus no talent/HR-tech domain experience to bridge."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-12T15:58:48.151719+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:grafanalabs:6190395004",
+      "company": "grafanalabs",
+      "title": "Strategic Cloud Partner Manager | Remote | US",
+      "location": "United States (Remote)",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6190395004",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://twitter.com/grafana&quot; target=&quot;_blank&quot;&gt;X&lt;/a&gt;&lt;/span&gt;&lt;/u&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;The Opportunity&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Lead cloud partnership growth across AMER with AWS, Google Cloud, and Microsoft Azure.&lt;/li&gt; &lt;li&gt;Work closely with the Head of the AMER Partner organization to align cloud initiatives with regional strategy.&lt;/li&gt; &lt;li&gt;Build a scalable, repeatable cloud go-to-market motion across AMER in collaboration with CSP field teams, solution engineers, and SI partners.&lt;/li&gt; &lt;li&gt;Drive joint business acceleration by deepening engagement with the region\u2019s major cloud ecosystems.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What You\u2019ll Be Doing&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Developing and executing the AMER cloud partner strategy aligned to global cloud priorities.&lt;/li&gt; &lt;li&gt;Building strong field relationships with AWS, GCP, and Azure to support co-selling, account alignment, and joint pursuit activity.&lt;/li&gt; &lt;li&gt;Creating partner-sourced pipeline by educating cloud teams and activating CSP channels as a business-generation engine.&lt;/li&gt; &lt;li&gt;Delivering enablement programs, workshops, and technical training for CSP sales and technical teams across APJ.&lt;/li&gt; &lt;li&gt;Orchestrating joint go-to-market initiatives with cloud providers and SI partners, including events, campaigns, workshops, and customer-success projects.&lt;/li&gt; &lt;li&gt;Managing operational elements of cloud partnerships such as Marketplace transactions, cloud credits, co-marketing funds, and program compliance.&lt;/li&gt; &lt;li&gt;Integrating cloud-partnership activities with APJ sales, partner, marketing, and product teams.&lt;/li&gt; &lt;li&gt;Tracking and reporting partner activity, co-sell pipeline, and performance metrics.&lt;/li&gt; &lt;li&gt;Monitoring regional cloud-market trends to inform ongoing strategy.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What Makes You a Great Fit&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;6\u201310+ years\u2019 experience in AMER partner, alliances, or cloud sales roles within enterprise software, SaaS, or cloud technology companies.&lt;/li&gt; &lt;li&gt;Hands-on experience running joint go-to-market and co-sell motions with AWS, GCP, or Azure.&lt;/li&gt; &lt;li&gt;Proven ability to generate new opportunities through structured cloud-field engagement.&lt;/li&gt; &lt;li&gt;Strong capability in delivering training and enablement across diverse AMER audiences.&lt;/li&gt; &lt;li&gt;Excellent relationship-building skills with the ability to influence senior stakeholders internally and externally.&lt;/li&gt; &lt;li&gt;Confident managing pipeline, forecasting, and reporting.&lt;/li&gt; &lt;li&gt;Comfortable working across distributed teams and multiple time zones.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Bonus Points For&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Experience with cloud marketplaces, incentives, co-marketing funds, and programmatic partnership operations.&lt;/li&gt; &lt;li&gt;Understanding of AMER SI, consulting, and cloud-native partner ecosystems.&lt;/li&gt; &lt;li&gt;Background in high-growth SaaS or cloud-platform environments.&lt;/li&gt; &lt;/ul&gt; &lt;h3 class=&quot;zfr3Q CDt4Ke&quot;&gt;&lt;span class=&quot;C9DxTc&quot;&gt;Compensation &amp;amp; Rewards:&lt;/span&gt;&lt;/h3&gt; &lt;p class=&quot;zfr3Q CDt4Ke&quot;&gt;&lt;span class=&quot;C9DxTc&quot;&gt;In the United States, the OTE compensation range for this role is&amp;nbsp; $258,000 - $280,000.&amp;nbsp; &lt;/span&gt;&lt;span class=&quot;C9DxTc&quot;&gt;Actual compensation may vary based on level, experience, and skillset as assessed throughout the interview process. All of our roles include Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs&#39; success. We believe in shared outcomes\u2014RSUs help us stay aligned and invested as we scale globally.&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation ranges are country specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market\u2019s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote, Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together talent from around the world, united by a culture of collaboration and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt; \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt; \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt; \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible, and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt; \u2013 Join a team of smart, supportive folks who care deeply about what they do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal Opportunity Employer:&lt;/strong&gt; &lt;em&gt;Grafana Labs is an equal opportunities employer. We welcome applications from everyone regardless of race, colour, nationality, origin, caste, sex, gender reassignment identity or expression, sexual orientation, age, religion or belief, disability, veteran status, genetic information, pregnancy, maternity, marital, family or carer status, or any other characteristic which is protected by local law. We believe that equality and diversity build a strong organisation, and we work hard to ensure that is the foundation of our organisation as we grow.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana Labs may utilize AI tools in its recruitment process to assist in matching information provided in CVs to job postings. The recruitment team will continue to review inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information about how your personal data is used once you\u2019ve applied to a job, check out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "$258,000 - $280,000",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-09-11T14:08:40-04:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth credentials, but lacks direct cloud partnership, co-sell, and CSP channel experience that is core to this AMER cloud alliance role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Senior Manager level confirmed via P&L and 60+ cross-functional team leadership; title shift from growth/PMM to partnerships is adjacent, not direct."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Strong in GTM strategy, sales enablement, pipeline management, cross-functional leadership; missing AWS/GCP/Azure co-sell, marketplace ops, CSP field engagement."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 55,
+          "note": "EdTech B2C/D2C funnel background does not overlap with enterprise cloud partnership sales motion or CSP channel strategy."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 38,
+          "note": "Proven revenue growth, funnel optimization, and enablement; zero evidence of joint partner campaigns, co-selling, or cloud ecosystem navigation."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; Grafana Labs is well-funded and global, but posting does not explicitly state sponsorship willingness or relocation flexibility."
+        }
+      ],
+      "missing_keywords": [
+        "AWS co-sell experience",
+        "Google Cloud partnerships",
+        "Azure marketplace operations",
+        "Cloud channel partner management",
+        "SI partner ecosystems"
+      ],
+      "top_signal": "8+ years in structured GTM execution, P&L ownership across 5 markets, 60+ team leadership, and measurable funnel/revenue impact transfer readily to building cloud partnership motions.",
+      "biggest_gap": "No direct experience with cloud provider co-sell mechanics, marketplace incentives, or CSP field engagement\u2014the core operational and relational pillars of this role."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-12T15:58:57.115128+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:gusto:8189240",
+      "company": "gusto",
+      "title": "Partner Manager, Consumer Fintech Partnerships",
+      "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8189240",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;br&gt;All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our&lt;a href=&quot;https://gusto.com/about/careers/total-rewards&quot; target=&quot;_blank&quot;&gt; &lt;u&gt;Total Rewards philosophy&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;br&gt;AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Consumer Fintech Partner Manager at Gusto, you\u2019ll own, manage, and grow the strategic fintech partnerships that power Gusto\u2019s consumer financial products for both small businesses and the Members who are paid through Gusto. You\u2019ll serve as the primary relationship owner for key partners, working cross-functionally with product, engineering, finance, legal, operations, and corporate development to ensure partnerships are healthy, scalable, and aligned with Gusto\u2019s long-term strategy.&lt;/p&gt; &lt;p&gt;In this role, you\u2019ll identify opportunities to deepen and expand partnerships through new products, features, and use cases, while proactively surfacing gaps in Gusto\u2019s fintech ecosystem and helping shape solutions. You\u2019ll leverage partner performance data, customer and Member insights, and market trends to inform roadmap priorities and partnership strategy.&lt;/p&gt; &lt;p&gt;You\u2019ll collaborate closely across the company to translate partnership strategy into execution, balancing strong relationship management with clear business outcomes. Successful candidates align with Gusto\u2019s values, are highly self-motivated, and bring a strong desire to learn, grow, and solve complex problems in a regulated fintech environment.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Product Partnerships is a small team embedded within Gusto\u2019s Corporate Development organization. We manage the launch, performance, and growth of strategic product partnerships, while Corporate Development also leads M&amp;amp;A and develops new partnership opportunities. We work side-by-side with cross-functional stakeholders to extend Gusto\u2019s product offering and deliver high-quality experiences for small businesses and their employees.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Here\u2019s what you\u2019ll do day-to-day:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Own the strategy, performance, and executive relationships for Gusto\u2019s Consumer Fintech partners, serving as the strategic lead and primary point of contact&lt;/li&gt; &lt;li&gt;Set and execute a partnership strategy aligned with Gusto\u2019s objectives, identifying growth opportunities and leading regular partner reviews to drive long-term value&lt;/li&gt; &lt;li&gt;Act as the strategic quarterback across Product, Engineering, Finance, Legal &amp;amp; Compliance, Operations, and Corp Dev to translate partnership strategy into execution&lt;/li&gt; &lt;li&gt;Use AI and data tools proactively to analyze partner performance, synthesize insights, automate repeatable workflows, prepare for negotiations, and accelerate decision-making&lt;/li&gt; &lt;li&gt;Identify and address partnership gaps across product capabilities, coverage, economics, and scalability, including supporting contract renewals and renegotiations&lt;/li&gt; &lt;li&gt;Serve as the escalation point for strategic partner issues&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Here\u2019s what we&#39;re looking for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;6+ years of total professional experience and 3+ years of experience in fintech partnerships, platform partnerships, or strategic account management&lt;/li&gt; &lt;li&gt;Experience managing complex consumer financial-services or fintech partnerships, such as banking, payments/cards, insurance, investing, tax, or financial wellness&lt;/li&gt; &lt;li&gt;Proven ability to drive partnership growth through both direct ownership and cross-functional leadership/influence&lt;/li&gt; &lt;li&gt;Strong cross-functional operator with experience influencing Product, Engineering, Finance, Legal, and Operations&lt;/li&gt; &lt;li&gt;Sound judgment, executive presence, and strong communication skills&lt;/li&gt; &lt;li&gt;Experience building for the employee/consumer end users and the SMB buyers behind them, while balancing the needs of both&lt;/li&gt; &lt;li&gt;Bonus: experience with BaaS providers, card networks, or embedded finance platforms&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our cash compensation amount for this role is $109,785 to $135,402 in Denver &amp;amp; most major metro locations, and $132,765 to $163,744 for San Francisco &amp;amp; New York. Final offer amounts are determined by multiple factors including candidate location, experience and expertise and may vary from the amounts listed above.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately &lt;strong&gt;2-3 days &lt;/strong&gt;per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto&#39;s subsidiary, whose physical office is in Scottsdale.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.&amp;nbsp;&lt;/p&gt; &lt;p&gt;When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office days for hybrid employees.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it&#39;s the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. We want to see our candidates perform to the best of their ability. If you require a medical or religious accommodation at any time throughout your candidate journey, please fill out &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEfl7Bp-Twz7LLlhGlha46CrxZ9Kacgakmarf3K2TbnaEgKQ/viewform&quot;&gt;this form&lt;/a&gt; and a member of our team will get in touch with you.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Gusto takes security and protection of your personal information very seriously. Please review our &lt;a href=&quot;https://gusto.com/about/careers/fraudulent-activity-disclaimer&quot;&gt;Fraudulent Activity Disclaimer&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Personal information collected and processed as part of your Gusto application will be subject to&amp;nbsp;&lt;a href=&quot;https://gusto.com/about/careers/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Gusto&#39;s Applicant Privacy Notice&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$109,785 to $135,402",
+      "work_type": "Hybrid",
+      "seniority": "Manager",
+      "posted_at": "2026-09-11T16:57:09-04:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth track record, but lacks direct fintech partnerships, regulated financial services, or platform partnership management experience.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 55,
+          "note": "Manager level confirmed, but Partner Manager is a distinct function; candidate is growth/GTM operator, not partnership manager."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Cross-functional leadership, P&L, CRM, analytics strong; missing fintech, payments, banking, partnerships, platform ecosystem skills."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 28,
+          "note": "EdTech B2C SaaS background; no fintech, payments, banking, insurance, or regulated financial services exposure."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 50,
+          "note": "Revenue growth, GTM strategy, sales enablement proven; no demonstrated partnership negotiation, vendor management, or ecosystem scaling."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; Gusto is mid-size, established, but posting silent on sponsorship\u2014risky for visa candidates."
+        }
+      ],
+      "missing_keywords": [
+        "fintech partnerships",
+        "payments/banking/insurance",
+        "platform partnerships",
+        "partner ecosystem",
+        "regulated financial services"
+      ],
+      "top_signal": "P&L ownership across 5 markets and cross-functional orchestration of 60+ teams demonstrates commercial accountability and stakeholder alignment capability.",
+      "biggest_gap": "Zero experience in fintech, regulated financial services, or strategic partner/vendor management\u2014three pillars of the role; EdTech GTM does not transfer cleanly to fintech partnership strategy."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-12T15:59:09.581351+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:bland:ba9e3ca6-a132-4fe2-9886-42f80100e062",
+      "company": "bland",
+      "title": "Channel Manager",
+      "location": "San Francisco or Remote",
+      "url": "https://jobs.ashbyhq.com/bland/ba9e3ca6-a132-4fe2-9886-42f80100e062",
+      "description": "CHANNEL MANAGER: TECH SERVICE DISTRIBUTOR PARTNERSHIPS ABOUT BLAND AI Bland AI is the voice AI platform built for enterprises with high-volume, complex call center operations. Bland started by solving the core infrastructure problems that made voice AI difficult to use in business: latency, reliability, and the inability to handle real-world complexity. Bland built the voice AI stack in-house and has raised more than $100 million from investors including Emergence Capital, Scale Venture Partners, and Y Combinator. Today, Bland's platform can autonomously handle sophisticated inbound and outbound conversations, including multi-step workflows, authentication, business-rule-based routing, and live data lookups. Owning the stack across transcription, language models, and text-to-speech gives Bland the reliability, security, and customization depth that enterprise and regulated-industry customers require. WHY THIS ROLE MATTERS Bland is expanding its channel strategy through Tech Service Distributors and their advisor communities. Partners such as Telarus can introduce Bland to thousands of trusted technology advisors who guide customers through contact center, customer experience, communications, and AI decisions. Bland needs a Channel Manager who can turn those relationships into an active, productive route to market by earning distributor support, activating advisors, creating qualified pipeline, and helping partner-sourced opportunities move to close. ROLE OVERVIEW Objective: Own and grow Bland's TSD channel by building executive and field relationships within assigned distributors, recruiting and enabling high-potential advisors, generating partner-sourced pipeline, and orchestrating successful co-sell motions from first introduction through closed revenue and ongoing partner engagement. CORE RESPONSIBILITIES - Own the business plan and day-to-day relationship for assigned TSD partners, beginning with Telarus and expanding to additional strategic distributors over time. - Build strong relationships with TSD executives, supplier management, channel managers, solution engineers, marketing teams, and field leaders to increase Bland's visibility and mindshare. - Segment the advisor base, identify the highest-potential firms and individuals, and create account-level activation plans that convert awareness into meetings, registered opportunities, and revenue. - Recruit, onboard, certify, and continuously enable advisors to recognize strong Bland use cases, position the platform clearly, qualify opportunities, and introduce Bland to the right customers. - Run scalable enablement programs including webinars, office hours, sales plays, battlecards, case studies, demo sessions, newsletters, and in-person training. - Plan and execute joint go-to-market campaigns, regional events, advisor meetings, and distributor programs in partnership with Bland marketing and sales. - Create partner-sourced pipeline through proactive advisor outreach, event follow-up, account mapping, referral campaigns, and targeted co-selling motions. - Qualify and manage deal registrations, establish clear next steps, and coordinate Bland account executives, solution consultants, product specialists, and implementation resources throughout the sales cycle. - Help advisors navigate customer discovery, value positioning, demos, proposals, objections, procurement, and handoff while preserving strong partner trust and deal ownership. - Maintain accurate pipeline, activity, and forecast data in the CRM; report partner performance, conversion rates, risks, and next actions to channel and sales leadership. - Establish quarterly business reviews and joint success metrics covering enabled advisors, active sellers, introductions, registered opportunities, pipeline, wins, revenue, and time to first deal. - Represent Bland at TSD conferences, regional meetups, roadshows, and advisor events; follow up quickly and systematically to convert event engagement into pipeline. - Capture field feedback on competitive positioning, customer requirements, advisor needs, program friction, and product gaps, then translate it into actionable input for leadership, product, marketing, and operations. - Help build repeatable channel processes, rules of engagement, enablement assets, incentive programs, and operating rhythms that can scale across the broader TSD ecosystem. IDEAL CANDIDATE PROFILE AND ROLE REQUIREMENTS We are looking for a commercially driven Channel Manager who knows how to earn trust inside a distributor ecosystem and motivate independent advisors to bring forward qualified opportunities. This person combines relationship depth with disciplined pipeline management, communicates technical value in practical business terms, and thrives in a fast-moving environment where the channel playbook is still being built. MUST HAVE EXPERIENCE - 5 or more years in channel sales, partner management, indirect sales, alliances, or business development within enterprise technology. - Direct experience working with TSDs, technology advisors, agents, brokers, master agents, or a comparable indirect sales ecosystem. - A record of generating partner-sourced pipeline and closed revenue, not only managing relationships or partner programs. - Ability to build relationships across distributor leadership, field teams, and individual advisor firms, from executive sponsors to day-to-day sellers. - Strong enablement and presentation skills, with the ability to make AI and contact center technology understandable, relevant, and actionable for advisors. - Disciplined opportunity management, forecasting, follow-up, and CRM hygiene across a broad portfolio of partner relationships and deals. - Comfort leading co-sell activity with account executives and technical teams while maintaining clear roles, next steps, and partner communication. - High ownership and bias for action; able to build structure, programs, and operating cadence without waiting for a fully developed playbook. - Willingness to travel regularly for distributor meetings, advisor visits, conferences, roadshows, and customer opportunities. NICE TO HAVE EXPERIENCE - Established relationships within Telarus or other major TSD and technology-advisor communities. - Experience selling voice AI, conversational AI, CCaaS, UCaaS, CPaaS, contact center software, customer experience technology, or adjacent cloud solutions. - Experience developing partner campaigns, incentive programs, certifications, sales plays, and event strategies in partnership with channel marketing. - Familiarity with enterprise contact center economics, automation use cases, consumption-based software, and ROI-based selling. - Experience working at a high-growth or early-stage company and helping establish a new channel route to market. - Executive presence and confidence working with owners of advisor firms, distributor leadership, and enterprise customer stakeholders. MEASURES OF SUCCESS - Growth in activated advisors and advisors producing qualified opportunities. - Partner-sourced and partner-influenced pipeline, closed revenue, and conversion rates. - Speed from advisor onboarding to first qualified opportunity and first closed deal. - TSD engagement, enablement participation, event productivity, and follow-up execution. - Forecast accuracy, CRM discipline, and partner satisfaction with Bland's co-sell support. COMPENSATION AND BENEFITS - Competitive base salary with performance-based variable compensation tied to partner activation, pipeline, and revenue. - Meaningful equity in a high-growth, well-funded AI company. - Comprehensive benefits package. - Regular partner and customer travel expected.",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-09-11T20:06:15.342+00:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth foundation, but zero channel/distributor/partner management experience\u2014the core job function.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 55,
+          "note": "Manager level matches; program management and BD titles align, but no Channel Manager or partner ecosystem experience."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Strong on GTM, ABM, sales enablement, CRM, funnel; missing channel partner recruitment, distributor relationship management, advisor activation playbooks."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "EdTech D2C and direct sales pipeline background; no enterprise tech infrastructure, contact center, or B2B SaaS channel experience."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 45,
+          "note": "Proven P&L ownership, cross-functional leadership, pipeline generation; no quantified wins in indirect channel, TSD, or advisor-based go-to-market."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 30,
+          "note": "Requires H1B sponsorship; Bland is a well-funded Series B+ scale-up, but posting shows no explicit sponsorship willingness stated."
+        }
+      ],
+      "missing_keywords": [
+        "Channel sales",
+        "Distributor relationship management",
+        "Tech Service Distributor (TSD)",
+        "Advisor recruitment and enablement",
+        "Partner ecosystem"
+      ],
+      "top_signal": "P&L ownership, cross-functional sales operations leadership, and CRM-driven segmentation and pipeline discipline from BYJU's and PlanetSpark directly transfer to day-to-day partner account management and forecast rigor.",
+      "biggest_gap": "No demonstrated experience recruiting, certifying, or scaling indirect advisor networks or managing distributor relationships\u2014the core 60% of this role's responsibilities."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-12T15:59:58.220400+00:00"
   }
 ]

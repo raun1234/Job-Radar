@@ -1,43 +1,43 @@
 # Job Radar
 
-Run: 2026-09-11T16:54:48.382015+00:00
+Run: 2026-09-12T16:00:30.195231+00:00
 
 Companies: 304 checked, 300 connected, 4 failed
-Estimated spend this run: $0.0290
+Estimated spend this run: $0.0277
 
 ## New this run (4)
 
-### 72 -- Product Marketing Manager, Workplace @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and positioning experience, but lacks direct B2B SaaS PMM depth; MBA completion still 18 months away limits immediate credibility.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5233774007)
+### 51 -- Growth Manager @ Talentpluto ()
+**Stretch** -- Strong GTM/growth foundation but early-stage startup sponsorship risk and vague posting make this a meaningful uphill climb.
+[View posting](https://apply.workable.com/j/3C1EBCB049)
 
-- Top signal: Proven ability to reshape competitive positioning (25% sales lift in 6mo at BYJU'S) and drive cross-functional GTM execution with quantified pipeline impact.
-- Biggest gap: No B2B SaaS product marketing or launch campaign track record; physical security domain is unfamiliar and will require steep onboarding against high-velocity role expectations.
-- Missing keywords: product launch management, demand generation collateral, channel marketing enablement, buyer persona development, sales win/loss analysis
+- Top signal: 8+ years scaling D2C funnels and GTM positioning at 150M+ user EdTech with quantified CAC and revenue lift.
+- Biggest gap: H1B sponsorship burden for likely early-stage startup, plus no talent/HR-tech domain experience to bridge.
+- Missing keywords: talent acquisition, HR tech, recruiting funnel, ATS integration, employer brand
 
-### 52 -- Solutions Marketing Manager, Cybersecurity @ Anthropic (San Francisco, CA; Washington, DC)
-**Stretch** -- Strong GTM and positioning skills, but zero cybersecurity domain depth and no security buyer/CISO-facing experience will require significant ramp.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5420245008)
+### 42 -- Strategic Cloud Partner Manager | Remote | US @ Grafanalabs (United States (Remote))
+**Stretch** -- Strong GTM and growth credentials, but lacks direct cloud partnership, co-sell, and CSP channel experience that is core to this AMER cloud alliance role.
+[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6190395004)
 
-- Top signal: Positioned complex AI capabilities (GEO) to non-technical stakeholders; redesigned messaging-market fit across regions for 25% growth; proven 0-to-1 GTM execution at scale.
-- Biggest gap: No cybersecurity domain knowledge, CISO buyer experience, or familiarity with security operations workflows; EdTech positioning does not transfer directly to enterprise defense buyers.
-- Missing keywords: cybersecurity marketing, CISO/SOC leader buyer dynamics, SIEM/SOAR/EDR platform experience, threat intelligence or detection/response, security compliance/GRC frameworks
+- Top signal: 8+ years in structured GTM execution, P&L ownership across 5 markets, 60+ team leadership, and measurable funnel/revenue impact transfer readily to building cloud partnership motions.
+- Biggest gap: No direct experience with cloud provider co-sell mechanics, marketplace incentives, or CSP field engagement—the core operational and relational pillars of this role.
+- Missing keywords: AWS co-sell experience, Google Cloud partnerships, Azure marketplace operations, Cloud channel partner management, SI partner ecosystems
 
-### 52 -- Lead Ads Product Marketing Manager @ Pinterest (San Francisco, CA, US; Remote, US)
-**Stretch** -- Strong GTM and cross-functional leadership, but EdTech background and lack of adtech/CTV/programmatic expertise create a material domain gap for a specialist ads role.
-[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8130606)
+### 42 -- Partner Manager, Consumer Fintech Partnerships @ Gusto (Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid)
+**Stretch** -- Strong GTM and growth track record, but lacks direct fintech partnerships, regulated financial services, or platform partnership management experience.
+[View posting](https://job-boards.greenhouse.io/gusto/jobs/8189240)
 
-- Top signal: Hands-on GEO research and AI application to complex visibility problems shows comfort with technical translation and AI-era marketing challenges Pinterest values.
-- Biggest gap: No experience in adtech, CTV, programmatic, or performance marketing domains; EdTech GTM motions (student acquisition, retention) differ structurally from advertiser/agency B2B SaaS sales.
-- Missing keywords: adtech, CTV / Connected TV, programmatic advertising, performance marketing, ads platform experience
+- Top signal: P&L ownership across 5 markets and cross-functional orchestration of 60+ teams demonstrates commercial accountability and stakeholder alignment capability.
+- Biggest gap: Zero experience in fintech, regulated financial services, or strategic partner/vendor management—three pillars of the role; EdTech GTM does not transfer cleanly to fintech partnership strategy.
+- Missing keywords: fintech partnerships, payments/banking/insurance, platform partnerships, partner ecosystem, regulated financial services
 
-### 48 -- Solutions Marketing Manager, Healthcare & Science @ Anthropic (San Francisco, CA)
-**Stretch** -- Strong GTM and growth fundamentals, but lacks healthcare domain depth and hands-on product marketing execution experience required for this specialized vertical.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5420232008)
+### 42 -- Channel Manager @ Bland (San Francisco or Remote)
+**Stretch** -- Strong GTM and growth foundation, but zero channel/distributor/partner management experience—the core job function.
+[View posting](https://jobs.ashbyhq.com/bland/ba9e3ca6-a132-4fe2-9886-42f80100e062)
 
-- Top signal: Proven ability to redesign GTM positioning for multi-segment audiences (5 BYJU's units, 3 regions at AGM level) and launch D2C funnels at scale mirrors the cross-vertical healthcare positioning challenge.
-- Biggest gap: No demonstrable healthcare, science, pharma, biotech, or regulated industry experience—this is a domain-specialist role, not a transferable GTM generalist hire.
-- Missing keywords: healthcare domain experience, pharmaceutical/biotech/payer buyer understanding, product marketing manager (hands-on), content strategy & campaign execution, regulatory/compliance messaging
+- Top signal: P&L ownership, cross-functional sales operations leadership, and CRM-driven segmentation and pipeline discipline from BYJU's and PlanetSpark directly transfer to day-to-day partner account management and forecast rigor.
+- Biggest gap: No demonstrated experience recruiting, certifying, or scaling indirect advisor networks or managing distributor relationships—the core 60% of this role's responsibilities.
+- Missing keywords: Channel sales, Distributor relationship management, Tech Service Distributor (TSD), Advisor recruitment and enablement, Partner ecosystem
 
 ## Top 15 all-time
 
