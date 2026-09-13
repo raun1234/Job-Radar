@@ -1,43 +1,11 @@
 # Job Radar
 
-Run: 2026-09-12T16:00:30.195231+00:00
+Run: 2026-09-13T16:49:19.481102+00:00
 
-Companies: 304 checked, 300 connected, 4 failed
-Estimated spend this run: $0.0277
+Companies: 304 checked, 302 connected, 2 failed
+Estimated spend this run: $0.0000
 
-## New this run (4)
-
-### 51 -- Growth Manager @ Talentpluto ()
-**Stretch** -- Strong GTM/growth foundation but early-stage startup sponsorship risk and vague posting make this a meaningful uphill climb.
-[View posting](https://apply.workable.com/j/3C1EBCB049)
-
-- Top signal: 8+ years scaling D2C funnels and GTM positioning at 150M+ user EdTech with quantified CAC and revenue lift.
-- Biggest gap: H1B sponsorship burden for likely early-stage startup, plus no talent/HR-tech domain experience to bridge.
-- Missing keywords: talent acquisition, HR tech, recruiting funnel, ATS integration, employer brand
-
-### 42 -- Strategic Cloud Partner Manager | Remote | US @ Grafanalabs (United States (Remote))
-**Stretch** -- Strong GTM and growth credentials, but lacks direct cloud partnership, co-sell, and CSP channel experience that is core to this AMER cloud alliance role.
-[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6190395004)
-
-- Top signal: 8+ years in structured GTM execution, P&L ownership across 5 markets, 60+ team leadership, and measurable funnel/revenue impact transfer readily to building cloud partnership motions.
-- Biggest gap: No direct experience with cloud provider co-sell mechanics, marketplace incentives, or CSP field engagement—the core operational and relational pillars of this role.
-- Missing keywords: AWS co-sell experience, Google Cloud partnerships, Azure marketplace operations, Cloud channel partner management, SI partner ecosystems
-
-### 42 -- Partner Manager, Consumer Fintech Partnerships @ Gusto (Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid)
-**Stretch** -- Strong GTM and growth track record, but lacks direct fintech partnerships, regulated financial services, or platform partnership management experience.
-[View posting](https://job-boards.greenhouse.io/gusto/jobs/8189240)
-
-- Top signal: P&L ownership across 5 markets and cross-functional orchestration of 60+ teams demonstrates commercial accountability and stakeholder alignment capability.
-- Biggest gap: Zero experience in fintech, regulated financial services, or strategic partner/vendor management—three pillars of the role; EdTech GTM does not transfer cleanly to fintech partnership strategy.
-- Missing keywords: fintech partnerships, payments/banking/insurance, platform partnerships, partner ecosystem, regulated financial services
-
-### 42 -- Channel Manager @ Bland (San Francisco or Remote)
-**Stretch** -- Strong GTM and growth foundation, but zero channel/distributor/partner management experience—the core job function.
-[View posting](https://jobs.ashbyhq.com/bland/ba9e3ca6-a132-4fe2-9886-42f80100e062)
-
-- Top signal: P&L ownership, cross-functional sales operations leadership, and CRM-driven segmentation and pipeline discipline from BYJU's and PlanetSpark directly transfer to day-to-day partner account management and forecast rigor.
-- Biggest gap: No demonstrated experience recruiting, certifying, or scaling indirect advisor networks or managing distributor relationships—the core 60% of this role's responsibilities.
-- Missing keywords: Channel sales, Distributor relationship management, Tech Service Distributor (TSD), Advisor recruitment and enablement, Partner ecosystem
+## No new matching postings this run.
 
 ## Top 15 all-time
 
