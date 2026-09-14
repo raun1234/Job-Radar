@@ -1,11 +1,19 @@
 # Job Radar
 
-Run: 2026-09-13T16:49:19.481102+00:00
+Run: 2026-09-14T18:20:40.956414+00:00
 
-Companies: 304 checked, 302 connected, 2 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 301 connected, 3 failed
+Estimated spend this run: $0.0072
 
-## No new matching postings this run.
+## New this run (1)
+
+### 52 -- Revenue Operations Manager @ Saltsecurity (United States)
+**Stretch** -- Strong GTM and growth foundation, but RevOps is a structural mismatch—candidate owns outcomes, not systems; no Salesforce admin, deal desk, or operational depth.
+[View posting](https://salt.security/job-board?gh_jid=5236800007)
+
+- Top signal: 8+ years scaled GTM execution with CRM leadership and funnel analytics; proven ability to design systems that improve conversion 25–42%.
+- Biggest gap: RevOps is operational systems ownership (Salesforce, data governance, deal desk); candidate is a growth strategist and outcome owner, not systems operator.
+- Missing keywords: Salesforce admin certification, Marketo, Deal desk, Planhat, Quoting and pricing workflows
 
 ## Top 15 all-time
 

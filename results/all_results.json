@@ -13991,5 +13991,63 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-09-12T15:59:58.220400+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:saltsecurity:5236800007",
+      "company": "saltsecurity",
+      "title": "Revenue Operations Manager",
+      "location": "United States",
+      "url": "https://salt.security/job-board?gh_jid=5236800007",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Salt Security&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Salt Security is the leader in agentic and API security, protecting the world&#39;s most innovative enterprises from AI agent and API attacks. Agentic security is the practice of discovering and governing the relationships between LLMs, MCP servers, and the APIs that let AI agents take action. The Salt Security Agentic Security Platform secures the full agentic ecosystem, discovering all agents, MCP connections, and APIs, stopping attacks in real time, and eliminating vulnerabilities before they reach production. Salt Security was founded in 2016 and is backed by Sequoia Capital, S Capital, Tenaya Capital, Salesforce Ventures, Advent International, and other leading investors. For more information, visit salt.security.&amp;nbsp; &amp;nbsp;&lt;/p&gt; &lt;p&gt;At Salt, we\u2019re passionate about what we do. We work as a team and embrace new ideas, wherever they come from. We also enjoy all the benefits of a startup environment, including quickly seeing the results of your work, making an outsized impact on our company, and solving diverse challenges.&lt;/p&gt; &lt;p&gt;Want to make a big difference? We encourage you to apply!&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;About the Role&lt;/h2&gt; &lt;p&gt;We&#39;re looking for a &lt;strong&gt;Revenue Operations Manager&lt;/strong&gt; to join a lean, high-impact RevOps team and help us scale smarter.&lt;/p&gt; &lt;p&gt;Reporting to the Director of Revenue Operations, you&#39;ll support the full GTM organization \u2014 Sales, Marketing, and Customer Success \u2014 keeping data clean, processes running smoothly, and leadership equipped with the insights they need to make confident decisions. You&#39;ll carry real ownership across your areas of focus while having an experienced partner to collaborate with, escalate to, and build alongside.&lt;/p&gt; &lt;h2&gt;What You\u2019ll Do&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;GTM Systems and Data Quality. &lt;/strong&gt;Serve as a hands-on Salesforce administrator responsible for data integrity and workflow optimization. Maintain and improve the broader GTM tech stack (Marketo, Planhat, Gong, Nooks, ZoomInfo, and others) to keep the revenue organization working from a single source of truth.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Reporting, Attribution, and Insights. &lt;/strong&gt;Build and maintain dashboards and reporting on key metrics including ARR, pipeline velocity, conversion rates, win/loss, and net revenue retention. Ensure full funnel reportability and attribution across Sales, Marketing, and Customer Success so every team understands what&#39;s working and why. Contribute to board-level reporting and executive presentations.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales Pipeline and Forecasting.&lt;/strong&gt; Contribute to territory planning, account assignments, and forecasting processes that give leadership accurate, trustworthy visibility into the business. Help surface risks early and keep the data behind the numbers reliable.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Marketing and BDR Enablement. &lt;/strong&gt;Partner with Marketing and BDR leadership to build scalable, repeatable process templates for campaign execution, lead management, and outbound workflows. Support lead routing, lifecycle tracking, and the handoff process between Marketing and Sales.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Customer Success Operations.&lt;/strong&gt; Work with the CS and Product teams to surface and operationalize product usage data, making it accessible and actionable for customer-facing teams. Support CS reporting, health scoring, and renewal visibility in Planhat.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Deal Desk.&lt;/strong&gt; Serve as the primary Deal Desk resource, partnering with Sales, Finance, and Legal to structure deals, guide pricing, and manage the quoting process. Review non-standard terms and discount requests, ensure proper documentation, and drive consistency in the quote-to-close motion.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Process Improvement and Automation.&lt;/strong&gt; Identify friction points across the revenue funnel and work to eliminate them. Leverage AI-enabled tools and automation to reduce manual work and increase scalability as the business grows.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What You\u2019ll Bring&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;4+ years of experience in Revenue Operations, Sales Operations, or a closely related role in a B2B SaaS environment.&lt;/li&gt; &lt;li&gt;Salesforce proficiency at an admin level; certification is a plus.&lt;/li&gt; &lt;li&gt;Hands-on experience with GTM tools such as Marketo, Planhat, Gong, Nooks, ZoomInfo, 6Sense, and LeanData.&lt;/li&gt; &lt;li&gt;Familiarity with deal desk workflows including pricing, quoting, and contract review.&lt;/li&gt; &lt;li&gt;Strong analytical skills with the ability to interpret complex data and communicate findings clearly; proficiency in Excel and/or BI tools such as Power BI or Tableau.&lt;/li&gt; &lt;li&gt;Solid understanding of SaaS revenue metrics: ARR, NRR, pipeline velocity, sales cycle length, and funnel conversion.&lt;/li&gt; &lt;li&gt;Familiarity with AI tools such as Claude and a track record of applying them practically to help go-to-market teams work more efficiently.&lt;/li&gt; &lt;li&gt;Proven ability to manage cross-functional projects and drive process change across multiple stakeholder groups.&lt;/li&gt; &lt;li&gt;Clear, concise communicator comfortable presenting to executives and non-technical audiences alike.&lt;/li&gt; &lt;li&gt;Curiosity, initiative, and a bias toward building systems that outlast any single request.&lt;/li&gt; &lt;li&gt;Bachelor&#39;s degree in Business, Finance, or a related field.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;If you&#39;re excited to help shape how a market-leading cybersecurity company scales its revenue engine, we&#39;d love to hear from you.&lt;/p&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-09-14T10:27:58-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth foundation, but RevOps is a structural mismatch\u2014candidate owns outcomes, not systems; no Salesforce admin, deal desk, or operational depth.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 62,
+          "note": "Manager-level peer, but RevOps Manager vs. GTM/Growth Manager are different functions entirely."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 38,
+          "note": "Has CRM and KPI dashboards, but missing Salesforce admin, Marketo, deal desk, and operational systems expertise."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 65,
+          "note": "B2B SaaS EdTech overlaps, but API/agentic security domain is new; RevOps fundamentals not demonstrated."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Owned P&L and funnel, not infrastructure; no evidence of Salesforce governance, deal desk, or multi-tool stack management."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 45,
+          "note": "Requires H1B sponsorship; startup-stage company (Sequoia-backed, but no explicit sponsorship policy stated)."
+        }
+      ],
+      "missing_keywords": [
+        "Salesforce admin certification",
+        "Marketo",
+        "Deal desk",
+        "Planhat",
+        "Quoting and pricing workflows"
+      ],
+      "top_signal": "8+ years scaled GTM execution with CRM leadership and funnel analytics; proven ability to design systems that improve conversion 25\u201342%.",
+      "biggest_gap": "RevOps is operational systems ownership (Salesforce, data governance, deal desk); candidate is a growth strategist and outcome owner, not systems operator."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-14T18:20:33.276654+00:00"
   }
 ]
