@@ -1,19 +1,51 @@
 # Job Radar
 
-Run: 2026-09-14T18:20:40.956414+00:00
+Run: 2026-09-15T17:28:50.299630+00:00
 
 Companies: 304 checked, 301 connected, 3 failed
-Estimated spend this run: $0.0072
+Estimated spend this run: $0.0362
 
-## New this run (1)
+## New this run (5)
 
-### 52 -- Revenue Operations Manager @ Saltsecurity (United States)
-**Stretch** -- Strong GTM and growth foundation, but RevOps is a structural mismatch—candidate owns outcomes, not systems; no Salesforce admin, deal desk, or operational depth.
-[View posting](https://salt.security/job-board?gh_jid=5236800007)
+### 68 -- Product Marketing Manager, Platform @ Anthropic (San Francisco, CA | New York City, NY)
+**Worth Applying** -- Strong GTM and positioning skills, but lacks the 10+ years PMM depth and direct API/developer platform launch experience Anthropic prioritizes.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5424078008)
 
-- Top signal: 8+ years scaled GTM execution with CRM leadership and funnel analytics; proven ability to design systems that improve conversion 25–42%.
-- Biggest gap: RevOps is operational systems ownership (Salesforce, data governance, deal desk); candidate is a growth strategist and outcome owner, not systems operator.
-- Missing keywords: Salesforce admin certification, Marketo, Deal desk, Planhat, Quoting and pricing workflows
+- Top signal: Hands-on GEO research and AI platform visibility expertise uniquely positions candidate to understand Claude's competitive moat and communicate AI capabilities to technical audiences.
+- Biggest gap: No direct experience launching or marketing API products, developer tools, or technical platforms—core requirement for a 'launch every week' velocity role.
+- Missing keywords: Developer platform launch experience, API product GTM, 10+ years product marketing, Enterprise technical buyer motion, Competitive AI/ML market differentiation at scale
+
+### 68 -- Sales Enablement Manager @ Fireworks (United States, Remote)
+**Worth Applying** -- Strong GTM and enablement foundation, but lacks direct sales enablement experience and hands-on AI agent/app building—both explicitly required.
+[View posting](https://jobs.ashbyhq.com/fireworks/28b3ecfd-6ebf-4f5b-9f85-b0a9eff68290)
+
+- Top signal: GEO research and AI fluency combined with proven GTM strategy and cross-functional sales ops optimization at scale (BYJU's, PlanetSpark) position him to learn agentic enablement quickly.
+- Biggest gap: No direct sales enablement program ownership or hands-on AI agent/app building; role explicitly demands both as day-one deliverables.
+- Missing keywords: sales enablement manager, RevOps, AI agents (hands-on building), knowledge taxonomy / governance, content as data product
+
+### 67 -- Revenue Marketing Manager - TOLA @ Abnormalsecurity (Remote - USA) (deprioritized company)
+**Worth Applying** -- Strong GTM and growth foundation with field marketing crossover, but lacks specific cybersecurity/SaaS depth, regional field execution breadth, and explicit partner co-marketing track record.
+[View posting](https://abnormal.ai/careers/jobs/7989115003?gh_jid=7989115003)
+
+- Top signal: 8+ years of GTM execution with quantified pipeline/revenue impact, P&L ownership across multiple markets, and hands-on cross-functional sales collaboration at scale.
+- Biggest gap: No explicit field marketing, regional campaign leadership, partner channel management, or cybersecurity/enterprise SaaS domain experience; EdTech D2C funnel differs meaningfully from B2B enterprise sales motion.
+- Missing keywords: Marketo, Sigma dashboards, Partner co-marketing, Channel ecosystem, Cybersecurity SaaS
+
+### 62 -- Product Marketing Manager, Special Projects @ Anthropic (San Francisco, CA | New York City, NY)
+**Worth Applying** -- Strong GTM and launch execution chops, but lacks the 10+ years B2B/enterprise PMM depth and AI/ML product marketing track record Anthropic prioritizes.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5424080008)
+
+- Top signal: Exceptional cross-functional launch orchestration, positioning redesign impact (25% sales lift), and live client work on AI visibility gaps—rare combination at this level.
+- Biggest gap: 8 years EdTech GTM ≠ 10+ years B2B/enterprise PMM; no direct AI/ML or developer platform product marketing track record despite GEO research.
+- Missing keywords: B2B/enterprise software product marketing, AI/ML product marketing experience, Developer platform marketing, Trust, safety, or regulatory messaging, Category creation or new market launch
+
+### 52 -- Growth Marketing Manager @ Xai ( Palo Alto, CA; New York, NY)
+**Stretch** -- Strong GTM and cross-functional leadership background, but lacks hands-on email automation, Eloqua, and marketing operations depth this role prioritizes.
+[View posting](https://job-boards.greenhouse.io/xai/jobs/5238756007)
+
+- Top signal: Salesforce CRM mastery, cross-functional campaign ownership, and demonstrable ability to design and scale multi-channel workflows under pressure.
+- Biggest gap: Role demands hands-on email platform administration and marketing ops rigor; candidate's background is growth strategy and P&L leadership, not campaign execution infrastructure.
+- Missing keywords: Eloqua, email automation platform, marketing operations, QA processes, NextJS
 
 ## Top 15 all-time
 
