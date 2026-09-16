@@ -1,51 +1,59 @@
 # Job Radar
 
-Run: 2026-09-15T17:28:50.299630+00:00
+Run: 2026-09-16T17:28:53.231636+00:00
 
-Companies: 304 checked, 301 connected, 3 failed
-Estimated spend this run: $0.0362
+Companies: 304 checked, 300 connected, 4 failed
+Estimated spend this run: $0.0435
 
-## New this run (5)
+## New this run (6)
 
-### 68 -- Product Marketing Manager, Platform @ Anthropic (San Francisco, CA | New York City, NY)
-**Worth Applying** -- Strong GTM and positioning skills, but lacks the 10+ years PMM depth and direct API/developer platform launch experience Anthropic prioritizes.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5424078008)
+### 78 -- [Contract] Product Marketing Manager – Competitive Intelligence & AI Beta Program  @ Clever (San Francisco, CA, OR Anywhere in the Continental U.S.)
+**Strong Fit** -- Deep competitive intelligence and beta program experience, EdTech domain expertise, and proven research synthesis skills directly match the role; contract/part-time structure and visa sponsorship requirements are the only material friction points.
+[View posting](https://www.clever.com/about/careers?gh_jid=8186111)
 
-- Top signal: Hands-on GEO research and AI platform visibility expertise uniquely positions candidate to understand Claude's competitive moat and communicate AI capabilities to technical audiences.
-- Biggest gap: No direct experience launching or marketing API products, developer tools, or technical platforms—core requirement for a 'launch every week' velocity role.
-- Missing keywords: Developer platform launch experience, API product GTM, 10+ years product marketing, Enterprise technical buyer motion, Competitive AI/ML market differentiation at scale
+- Top signal: 8+ years of competitive positioning research and cross-functional GTM execution in EdTech, plus hands-on GEO/AI platform research, directly mirrors the intelligence and synthesis rigor this contract demands.
+- Biggest gap: Visa sponsorship requirement on a contract role creates compliance and engagement uncertainty; no explicit win-loss interview or formal design-partner program leadership mentioned.
+- Missing keywords: win-loss interview process, agentic identity/AI agents, design partner recruitment, customer feedback synthesis, monitoring cadence
 
-### 68 -- Sales Enablement Manager @ Fireworks (United States, Remote)
-**Worth Applying** -- Strong GTM and enablement foundation, but lacks direct sales enablement experience and hands-on AI agent/app building—both explicitly required.
-[View posting](https://jobs.ashbyhq.com/fireworks/28b3ecfd-6ebf-4f5b-9f85-b0a9eff68290)
+### 76 -- Product Marketing Manager @ Goguardian (United States)
+**Strong Fit** -- 8+ years GTM and lifecycle marketing in EdTech SaaS directly overlap; proven K-12 domain expertise and cross-functional execution offset lack of formal PMM title.
+[View posting](https://job-boards.greenhouse.io/goguardian/jobs/4713833006)
 
-- Top signal: GEO research and AI fluency combined with proven GTM strategy and cross-functional sales ops optimization at scale (BYJU's, PlanetSpark) position him to learn agentic enablement quickly.
-- Biggest gap: No direct sales enablement program ownership or hands-on AI agent/app building; role explicitly demands both as day-one deliverables.
-- Missing keywords: sales enablement manager, RevOps, AI agents (hands-on building), knowledge taxonomy / governance, content as data product
+- Top signal: 8+ years of direct K-12 EdTech GTM and lifecycle retention at scale (38% CAC lift, 40% retention improvement), plus 6+ years as Program Manager with cross-functional P&L accountability.
+- Biggest gap: No formal Product Marketing Manager title or hands-on product launch portfolio; candidate's background is operationally heavy (Program Manager/AGM) rather than marketing-specialized, and lifecycle email/automation platform depth unclear.
+- Missing keywords: product launch portfolio/examples, marketing automation platform experience, email nurture campaign design, customer renewal/retention campaign ownership, feature launch briefs
 
-### 67 -- Revenue Marketing Manager - TOLA @ Abnormalsecurity (Remote - USA) (deprioritized company)
-**Worth Applying** -- Strong GTM and growth foundation with field marketing crossover, but lacks specific cybersecurity/SaaS depth, regional field execution breadth, and explicit partner co-marketing track record.
-[View posting](https://abnormal.ai/careers/jobs/7989115003?gh_jid=7989115003)
+### 71 -- Senior Demand Generation Manager @ Recordedfuture (Boston, MA) (deprioritized company)
+**Worth Applying** -- Strong D2C funnel and cross-functional leadership match, but lacks explicit enterprise B2B SaaS demand gen and intent-data platform experience.
+[View posting](https://job-boards.greenhouse.io/recordedfuture/jobs/8812466002)
 
-- Top signal: 8+ years of GTM execution with quantified pipeline/revenue impact, P&L ownership across multiple markets, and hands-on cross-functional sales collaboration at scale.
-- Biggest gap: No explicit field marketing, regional campaign leadership, partner channel management, or cybersecurity/enterprise SaaS domain experience; EdTech D2C funnel differs meaningfully from B2B enterprise sales motion.
-- Missing keywords: Marketo, Sigma dashboards, Partner co-marketing, Channel ecosystem, Cybersecurity SaaS
+- Top signal: Owned full D2C funnel across 4+ tiers with quantified lift (38% CAC, 27% conversion); built KPI dashboards and multi-center sales operations; GEO research shows AI-era marketing thinking.
+- Biggest gap: No demonstrated experience with intent-data platforms (e.g., 6sense, Demandbase) or enterprise B2B SaaS demand gen; EdTech D2C motion is different buyer journey from global enterprise security intelligence.
+- Missing keywords: intent data platform expertise, enterprise B2B SaaS demand gen, ABM at scale for global enterprise, direct mail campaign execution, cybersecurity or security intelligence domain
 
-### 62 -- Product Marketing Manager, Special Projects @ Anthropic (San Francisco, CA | New York City, NY)
-**Worth Applying** -- Strong GTM and launch execution chops, but lacks the 10+ years B2B/enterprise PMM depth and AI/ML product marketing track record Anthropic prioritizes.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5424080008)
+### 68 -- Sr. Growth Marketing Manager @ Fourkites (Chicago, IL)
+**Worth Applying** -- Strong demand gen and growth marketing fundamentals with proven funnel optimization, but lacks hands-on Google/LinkedIn Ads and supply chain domain experience that FourKites prioritizes.
+[View posting](https://job-boards.greenhouse.io/fourkites/jobs/8195968)
 
-- Top signal: Exceptional cross-functional launch orchestration, positioning redesign impact (25% sales lift), and live client work on AI visibility gaps—rare combination at this level.
-- Biggest gap: 8 years EdTech GTM ≠ 10+ years B2B/enterprise PMM; no direct AI/ML or developer platform product marketing track record despite GEO research.
-- Missing keywords: B2B/enterprise software product marketing, AI/ML product marketing experience, Developer platform marketing, Trust, safety, or regulatory messaging, Category creation or new market launch
+- Top signal: Proven ability to diagnose leaky funnels, redesign multi-channel sequences, and lift conversion 27–42% through segmentation and targeting discipline.
+- Biggest gap: No hands-on Google Ads or LinkedIn Ads campaign management; EdTech background does not cover supply chain SaaS domain FourKites explicitly values; visa sponsorship adds friction.
+- Missing keywords: Google Ads direct management, LinkedIn Ads direct management, Content syndication end-to-end, Supply chain / logistics domain, Cost per opportunity / paid media ROI tracking
 
-### 52 -- Growth Marketing Manager @ Xai ( Palo Alto, CA; New York, NY)
-**Stretch** -- Strong GTM and cross-functional leadership background, but lacks hands-on email automation, Eloqua, and marketing operations depth this role prioritizes.
-[View posting](https://job-boards.greenhouse.io/xai/jobs/5238756007)
+### 62 -- Global Technology Alliance Manager, Databricks @ Fivetran (Remote, Texas, United States, AMER)
+**Worth Applying** -- Strong GTM and cross-functional leadership fit, but lacks named partner/alliance management experience and SaaS data infrastructure domain depth.
+[View posting](https://www.fivetran.com/careers/job?gh_jid=7996531003)
 
-- Top signal: Salesforce CRM mastery, cross-functional campaign ownership, and demonstrable ability to design and scale multi-channel workflows under pressure.
-- Biggest gap: Role demands hands-on email platform administration and marketing ops rigor; candidate's background is growth strategy and P&L leadership, not campaign execution infrastructure.
-- Missing keywords: Eloqua, email automation platform, marketing operations, QA processes, NextJS
+- Top signal: P&L ownership across 5 markets and proven ability to redesign GTM positioning and scale sales operations demonstrate commercial leadership and cross-functional orchestration.
+- Biggest gap: No alliance, partnership, or channel management background; EdTech domain does not prepare for data infrastructure buyer journey or Databricks ecosystem dynamics.
+- Missing keywords: Strategic partnerships / alliance management, Co-marketing programs / joint GTM execution, Partner enablement / channel sales, SaaS / data infrastructure domain, Data warehouse / analytics ecosystem
+
+### 52 -- Senior Sales Enablement Manager @ Turquoise-Health (Remote)
+**Stretch** -- Strong GTM and growth foundation, but Sales Enablement is a functional pivot; lacks direct rep coaching, ramp-building, and performance diagnostics track record.
+[View posting](https://jobs.ashbyhq.com/turquoise-health/a34dbce0-376e-403f-a7d1-1f7a6b782920)
+
+- Top signal: Built and iterated sales onboarding systems at scale (200+ monthly hires, 45% conversion), paired with strong cross-functional collaboration and performance dashboard expertise.
+- Biggest gap: No direct evidence of hands-on rep coaching, diagnosing individual performance gaps, or reducing time-to-productivity for complex deal cycles; functional shift from GTM strategy to Sales Enablement is material.
+- Missing keywords: sales enablement, sales training, rep coaching, ramp time diagnostics, complex enterprise deals, healthcare technology, buyer persona development
 
 ## Top 15 all-time
 
@@ -68,6 +76,10 @@ Estimated spend this run: $0.0362
 ### 78 -- Sr. Product Marketing Manager @ Pendo (Remote / San Francisco, CA /  New York, NY / Raleigh, NC )
 **Strong Fit** -- Exceptional GTM builder with proven Enterprise and D2C funnel ownership, but lacks direct SaaS PMM depth and hands-on Enterprise software positioning track record.
 [View posting](https://job-boards.greenhouse.io/pendo/jobs/8558208002)
+
+### 78 -- [Contract] Product Marketing Manager – Competitive Intelligence & AI Beta Program  @ Clever (San Francisco, CA, OR Anywhere in the Continental U.S.)
+**Strong Fit** -- Deep competitive intelligence and beta program experience, EdTech domain expertise, and proven research synthesis skills directly match the role; contract/part-time structure and visa sponsorship requirements are the only material friction points.
+[View posting](https://www.clever.com/about/careers?gh_jid=8186111)
 
 ### 76 -- Product Marketing & GTM Lead Manager - LifeLock @ Gen-Digital (USA - Tempe, AZ)
 **Strong Fit** -- Directly matches core GTM/launch ownership and cross-functional leadership, but lacks explicit subscription/retention expertise and paid-channel channel orchestration depth that LifeLock's DTC/non-DTC complexity demands.
@@ -97,14 +109,10 @@ Estimated spend this run: $0.0362
 **Strong Fit** -- Proven D2C funnel ownership and partnership-driven growth at scale directly align with role; EdTech context transfers seamlessly; visa sponsorship is the only material gap for a large, established employer.
 [View posting](https://job-boards.greenhouse.io/coursera/jobs/6165119004)
 
+### 76 -- Product Marketing Manager @ Goguardian (United States)
+**Strong Fit** -- 8+ years GTM and lifecycle marketing in EdTech SaaS directly overlap; proven K-12 domain expertise and cross-functional execution offset lack of formal PMM title.
+[View posting](https://job-boards.greenhouse.io/goguardian/jobs/4713833006)
+
 ### 73 -- Senior Category Growth Manager @ Coursera (United States)
 **Worth Applying** -- Strong GTM and growth fundamentals with proven cross-functional leadership, but lacks direct consumer subscription portfolio experience and demonstrated category management depth.
 [View posting](https://job-boards.greenhouse.io/coursera/jobs/6127488004)
-
-### 72 -- Industry Product Marketing Manager @ Openai (San Francisco)
-**Good Fit** -- Strong GTM and product marketing fundamentals with AI-era GEO differentiation, but lacks regulated vertical experience (Life Sciences, Banking, Healthcare) and enterprise sales motion depth required for this specific role.
-[View posting](https://jobs.ashbyhq.com/openai/0e078d07-fb0b-4893-b90a-f50e413f3e13)
-
-### 72 -- GTM Strategy & Operations, Overlay @ Openai (San Francisco)
-**Good Fit** -- Strong GTM and operations fundamentals with P&L ownership, but lacks direct Revenue Operations and forecasting experience at scale; visa sponsorship requirement is a secondary consideration for a mature company like OpenAI.
-[View posting](https://jobs.ashbyhq.com/openai/5c5cfcff-91c8-4181-b30d-2ab9b0091539)
