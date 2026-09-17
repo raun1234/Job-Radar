@@ -14689,5 +14689,237 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-09-16T17:28:49.460527+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:culligan-uk-limited:4F8B7636F0",
+      "company": "culligan-uk-limited",
+      "title": "Business Development Manager",
+      "location": "",
+      "url": "https://apply.workable.com/j/4F8B7636F0",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-09-17"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth experience, but BD role at B2B water treatment company requires direct enterprise sales execution and technical product knowledge candidate lacks.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Manager-level confirmed; BD title aligns, but EdTech D2C/growth BD differs from B2B enterprise sales model."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 52,
+          "note": "GTM strategy and sales enablement present; missing direct B2B enterprise sales, account management, technical product selling."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 28,
+          "note": "EdTech background; no water treatment, industrial, B2B commercial, or facilities management experience evident."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Revenue generation proven in D2C/funnel models; international expansion real but K-12 platform context, not commercial accounts."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; Culligan UK is mid-market company\u2014sponsorship risk moderate to high without explicit policy."
+        }
+      ],
+      "missing_keywords": [
+        "Enterprise account management",
+        "B2B commercial sales",
+        "Water treatment / facilities",
+        "Territory management",
+        "Technical product expertise"
+      ],
+      "top_signal": "Proven ability to redesign GTM positioning for revenue lift (25% sales growth at BYJU's, 38% CAC lift at PlanetSpark) and manage multi-market P&L.",
+      "biggest_gap": "No B2B enterprise account management, technical product sales, or industrial/commercial facilities background; EdTech D2C funnel motion does not transfer to Culligan's B2B water treatment model."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-17T17:26:58.613305+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:customerio:8209466",
+      "company": "customerio",
+      "title": "Partner Manager, AI Native Ecosystems",
+      "location": "Americas Remote",
+      "url": "https://job-boards.greenhouse.io/customerio/jobs/8209466",
+      "description": "&lt;h3&gt;About &lt;a href=&quot;http://customer.io/&quot;&gt;Customer.io&lt;/a&gt;&lt;/h3&gt; &lt;p&gt;Over 9,000 companies \u2014 from scrappy startups to global brands \u2014 use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data.&lt;/p&gt; &lt;h3&gt;About the role&lt;/h3&gt; &lt;p&gt;Hi, my name is Marc, VP of Global Partnerships at &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt;. A new wave of AI SaaS builders - Lovable, Vercel, Cursor, Bolt, and others - is becoming the default starting point for how software gets built, and each one is standing up its own marketplace or integration directory to connect what people build inside them to real backend services.&lt;/p&gt; &lt;p&gt;I&#39;m hiring a Partner Manager, AI Native Ecosystems to make &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; the obvious, pre-integrated messaging and engagement layer for everything built on these platforms. This role sits at the intersection of business development and technical integration work: part of the job is identifying and recruiting the right platforms and negotiating partnership terms; the other part is working hands-on with our Product team to scope and ship the actual integration required to get listed and featured.&lt;/p&gt; &lt;p&gt;AI builder platforms are becoming a new front door for software creation - and a new distribution channel for infrastructure providers. Getting &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; natively integrated and well-positioned across this ecosystem now, while the partner programs and technical standards are still forming, is a land-grab opportunity. This role owns that land-grab end to end.&lt;/p&gt; &lt;h3&gt;What we value&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Bias to Action:&lt;/strong&gt; comfortable building the process, not just executing an existing one - these marketplaces and their rules are new and changing monthly.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cross-Functional Fluency:&lt;/strong&gt; equally credible in a deal negotiation and a technical scoping conversation with engineers.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ownership:&lt;/strong&gt; drives a relationship from first contact through signed agreement through shipped integration, without waiting to be handed the next step.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Resourcefulness:&lt;/strong&gt; comfortable operating without a dominant brand - you&#39;re earning the meeting, not getting it by default.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What you\u2019ll do&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Immediate priority:&lt;/strong&gt; optimize our existing Claude and ChatGPT integrations, including MCP discoverability and GEO (making sure &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; shows up when AI tools recommend a messaging/engagement platform).&lt;/li&gt; &lt;li&gt;Identify and prioritize which AI builder platforms (Vercel, Cursor, Lovable, Bolt, Google, AWS, and others) are worth partnering with, working with Engineering, Design, and Product to assess technical feasibility and distribution potential, including CLI and MCP connector priorities.&lt;/li&gt; &lt;li&gt;Own the full partner relationship lifecycle - outbound, negotiation, and ongoing management - from first contact through signed agreement through shipped integration.&lt;/li&gt; &lt;li&gt;Negotiate commercial terms (revenue share, co-marketing, marketplace listing requirements) directly with partner and BD counterparts.&lt;/li&gt; &lt;li&gt;Translate each marketplace&#39;s technical requirements into a spec and work hands-on with our engineering team to scope and ship the integration - you don&#39;t need to write the integration yourself, but you need to be fluent enough to unblock it.&lt;/li&gt; &lt;li&gt;Get &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; listed, verified, and ideally featured in each platform&#39;s marketplace or directory, and manage the relationship as review guidelines and requirements evolve.&lt;/li&gt; &lt;li&gt;Track installs, activations, and pipeline sourced from each marketplace; report on which partnerships are driving real usage versus which need renegotiation or deprioritization.&lt;/li&gt; &lt;li&gt;Build the playbook as you go - there&#39;s no existing process for this at &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; yet, and part of the job is creating repeatable criteria (target criteria, technical requirements checklist, deal template) so new platforms can be evaluated and onboarded quickly.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What we&#39;re looking for&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;5-7 years in business development, partnerships, or platform/ecosystem roles, ideally with a developer tools, API-first, or marketplace-driven product. If you&#39;re a bit outside that range but have shipped something into a marketplace or app store, we still want to hear from you.&lt;/li&gt; &lt;li&gt;A track record of getting a product listed and adopted inside another platform&#39;s ecosystem - app stores, marketplaces, or integration directories (e.g., Shopify App Store, Salesforce AppExchange, Zapier, Segment Connections, or comparable).&lt;/li&gt; &lt;li&gt;Real technical fluency: you can read API and webhook documentation, understand OAuth and auth scopes, are comfortable discussing CLI tooling, and hold your own in a scoping conversation with engineers.&lt;/li&gt; &lt;li&gt;Strong deal-making instincts - comfortable structuring revenue share, co-marketing, and referral agreements, and negotiating directly with partner and BD counterparts.&lt;/li&gt; &lt;li&gt;Bias to action in an undefined category - these marketplaces and their rules are new and changing monthly, and this role is as much about building the process as executing it.&lt;/li&gt; &lt;li&gt;An understanding of self-serve, product-led growth motions - the platforms you&#39;ll be partnering with cater primarily to small business end-customers rather than enterprise buyers, so you should be comfortable positioning &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; for that audience.&lt;/li&gt; &lt;li&gt;Based in North America.&lt;/li&gt; &lt;li&gt;Excellent cross-functional operator - you&#39;ll work closely with product, engineering, marketing, and legal to get each partnership over the line.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Compensation &amp;amp; Benefits&lt;/h3&gt; &lt;p&gt;We believe in transparency. This role offers a total on-target earnings (OTE) of $166,250-$200,000 USD (or equivalent in local currency), on an 80/20 base/variable split, subject to market rate adjustment.&lt;/p&gt; &lt;p&gt;We know our people are what make us great, and we\u2019re committed to taking great care of them. Our inclusive benefits package supports your well-being and growth, including &lt;strong&gt;100% coverage of medical, dental, vision, mental health, and supplemental insurance premiums for you and your family&lt;/strong&gt;. We also offer &lt;strong&gt;16 weeks paid parental leave, unlimited PTO&lt;/strong&gt;, stipends for remote work and wellness, a professional development budget, and more.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://customer.io/careers#:~:text=our%20collective%20success.-,BENEFITS,-Our%C2%A0&quot;&gt;See full benefits here \u2192&lt;/a&gt;&lt;/p&gt; &lt;h3&gt;Our Process&lt;/h3&gt; &lt;p&gt;No gotchas, no trick questions - just a clear, human process designed to help both of us make an informed decision.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;30-minute video call with a Recruiter&lt;/li&gt; &lt;li&gt;30-minute video call with the Hiring Manager&lt;/li&gt; &lt;li&gt;Two 30-minute 1:1 conversations with cross-functional team members&lt;/li&gt; &lt;li&gt;Project-based case review&lt;/li&gt; &lt;li&gt;Final conversation with a senior stakeholder&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;All final candidates will be asked to complete a background check and employment verifications as part of our pre-employment process.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; recognizes the stifling impact of systemic injustice on diverse communities. We commit to using our influence to increase inclusion and equity within the tech industry. We strive to build an inclusive team culture, implement bias-free hiring practices, and develop community partnerships to expand our global impact.&lt;/p&gt; &lt;p&gt;Zoom is the only video conference platform that we use, virtual interviews will be conducted using the video capability (i.e., not via the chat), and offers will be extended in writing on official &lt;a href=&quot;http://Customer.io&quot;&gt;Customer.io&lt;/a&gt; letterhead. Please be vigilant in all of your job search activity, and if you have any questions please contact &lt;a href=&quot;mailto:jobs@customer.io&quot;&gt;jobs@customer.io&lt;/a&gt;.&lt;/p&gt; &lt;h3&gt;Join us!&lt;/h3&gt; &lt;p&gt;Check out our&amp;nbsp;&lt;a href=&quot;https://customer.io/careers/&quot;&gt;careers page&lt;/a&gt;&amp;nbsp;for more information about why you should&amp;nbsp;&lt;a href=&quot;https://customer.io/about/&quot;&gt;come work with us!&lt;/a&gt; We believe in empathy, transparency, responsibility, and, yes, a little awkwardness. If you\u2019re excited by what you read \u2014 apply now.&lt;/p&gt; &lt;p&gt;&lt;/p&gt;",
+      "salary": "$166,250-$200,000",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-09-16T17:31:13-04:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong BD and cross-functional chops, but lacks direct platform/ecosystem partnership track record and missing explicit SaaS infrastructure sales depth.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager level confirmed; BD experience clear, but Partner Manager/Partnerships specific role is new territory."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 75,
+          "note": "BD, negotiation, cross-functional, CRM, GTM all present. Missing: platform partnerships, ecosystem, MCP, CLI, API integration experience."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "SaaS B2C background strong; AI/martech angle via GEO research is adjacent but not marketplace operations or infrastructure platforms."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 68,
+          "note": "Revenue generation and cross-functional leadership proven; no named wins on platform integrations, marketplace listings, or ecosystem scaling."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 55,
+          "note": "H1B sponsorship required; Customer.io is established (9k+ customers) so sponsorship likely possible, but not explicitly stated in JD."
+        }
+      ],
+      "missing_keywords": [
+        "platform partnerships",
+        "marketplace operations",
+        "API integrations",
+        "MCP connectors",
+        "ecosystem scaling"
+      ],
+      "top_signal": "GEO research and AI platform fluency directly address immediate Claude/ChatGPT optimization priority; rare at Manager level.",
+      "biggest_gap": "No demonstrated experience managing multi-platform integration partnerships or marketplace listings; all BD wins are D2C/funnel-driven, not ecosystem/distribution-driven."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-17T17:27:21.847095+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:stockx:8816798002",
+      "company": "stockx",
+      "title": "Growth Manager: Social, Programmatic & Creative",
+      "location": "Detroit, MI",
+      "url": "https://job-boards.greenhouse.io/stockx/jobs/8816798002",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Help empower our global customers to connect to culture through their passions.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;Why you\u2019ll love this role:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;StockX is looking for a hands-on growth marketer to lead our Paid Social, Programmatic and Creative strategy. This role will own how we use channels including Meta, TikTok, programmatic, display and emerging platforms to drive incremental customer and business growth.&lt;/p&gt; &lt;p&gt;This is a player-coach role for someone who combines deep media buying expertise with a strong growth and experimentation mindset. You will develop channel strategy, personally operate campaigns, design tests, analyze performance and determine how we scale what works.&lt;/p&gt; &lt;p&gt;Creative strategy will be a critical part of the role. You will partner closely with Brand and Creative teams to translate performance insights into creative hypotheses, briefs and testing roadmaps \u2014 building a continuous learning loop between creative development and media performance.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What you\u2019ll do:&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Own strategy, execution and performance across Paid Social and Programmatic, including Meta, TikTok, display, streaming/CTV and emerging platforms.&lt;/li&gt; &lt;li&gt;Develop channel investment strategies focused on incremental customer acquisition and business growth, balancing scale, efficiency and experimentation.&lt;/li&gt; &lt;li&gt;Remain hands-on within advertising platforms, personally building, launching, optimizing and troubleshooting campaigns alongside the Growth Specialist.&lt;/li&gt; &lt;li&gt;Build a structured creative testing program across messaging, formats, creators, products, audiences and placements.&lt;/li&gt; &lt;li&gt;Translate media and creative performance into actionable insights and briefs for Creative, Brand and cross-functional partners.&lt;/li&gt; &lt;li&gt;Develop clear hypotheses and experimentation roadmaps to understand incrementality, channel contribution and opportunities to scale investment.&lt;/li&gt; &lt;li&gt;Evaluate new platforms, targeting capabilities, campaign types and media opportunities and develop structured tests for promising growth opportunities.&lt;/li&gt; &lt;li&gt;Partner with BI on measurement strategy, incrementality testing and interpretation of experimental results.&lt;/li&gt; &lt;li&gt;Partner with Product Marketing, Lifecycle, App Growth and other teams to support launches and new customer experiences.&lt;/li&gt; &lt;li&gt;Own platform and agency relationships and ensure StockX is taking advantage of relevant new products, capabilities and betas.&lt;/li&gt; &lt;li&gt;Coach and develop a Growth Specialist while maintaining a highly collaborative, hands-on operating model.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;About you:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;You understand that excellent growth marketing goes beyond optimizing campaigns to platform-reported ROAS. You can identify a growth opportunity, develop a hypothesis, determine the right channel and creative approach, build the campaign, measure its incremental impact and use those learnings to determine where StockX should invest next.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;4+ years of hands-on performance/growth marketing experience, ideally within ecommerce, marketplaces or consumer technology.&lt;/li&gt; &lt;li&gt;Deep expertise in Meta with meaningful experience across TikTok and programmatic media.&lt;/li&gt; &lt;li&gt;Proven experience managing and scaling significant paid media budgets.&lt;/li&gt; &lt;li&gt;Strong understanding of incrementality, experimentation, attribution and the limitations of platform-reported performance.&lt;/li&gt; &lt;li&gt;Demonstrated ability to connect media strategy to broader customer acquisition and business outcomes.&lt;/li&gt; &lt;li&gt;Strong creative strategy instincts and experience using performance data to develop creative hypotheses and testing plans.&lt;/li&gt; &lt;li&gt;Experience working directly with creative teams, creators or agencies to turn insights into actionable briefs.&lt;/li&gt; &lt;li&gt;Strong analytical skills and comfort independently interrogating performance data.&lt;/li&gt; &lt;li&gt;Experience evaluating and launching new channels or media products.&lt;/li&gt; &lt;li&gt;Comfortable moving between strategy and execution \u2014 from developing an investment thesis to personally building the campaign required to test it.&lt;/li&gt; &lt;li&gt;Experience coaching or managing junior marketers.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Pursuant to the various pay transparency laws/acts, the base salary range is $110,000.00 to $130,000.00 plus opportunities for benefits (e.g., medical, dental), equity and discretionary bonuses. Compensation is dependent on geography and may vary.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div class=&quot;job-preview__description &quot; data-test-description=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt; &lt;div class=&quot;job-preview__description &quot; data-test-description=&quot;&quot;&gt;&lt;strong&gt;About StockX&lt;/strong&gt;&lt;/div&gt; &lt;div class=&quot;job-preview__description &quot; data-test-description=&quot;&quot;&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;StockX is proud to be a Detroit-based technology leader focused on the large and growing online market for sneakers, apparel, accessories, electronics, collectibles, trading cards, and more. StockX&#39;s powerful platform connects buyers and sellers of high-demand consumer goods from around the world using dynamic pricing mechanics. This approach affords access and market visibility powered by real-time data that empowers buyers and sellers to determine and transact based on market value. The StockX platform features hundreds of brands across verticals including Jordan Brand, adidas, Nike, Supreme, BAPE, Off-White, Louis Vuitton, Gucci; collectibles from brands including LEGO, KAWS, Bearbrick, and Pop Mart; and electronics from industry-leading manufacturers Sony, Microsoft, Meta, and Apple. Launched in 2016, StockX employs 1,000 people across offices and verification centers around the world. Learn more at www.stockx.com.&lt;/div&gt; &lt;div class=&quot;job-preview__description &quot; data-test-description=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt; &lt;div class=&quot;job-preview__description &quot; data-test-description=&quot;&quot;&gt;&amp;nbsp;&lt;/div&gt; &lt;div class=&quot;job-preview__description &quot; data-test-description=&quot;&quot;&gt;&lt;em&gt;We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position. StockX reserves the right to amend this job description at any time. &lt;em data-stringify-type=&quot;italic&quot;&gt;StockX may utilize AI to rank job applicant submissions against the position requirements to assist in determining candidate alignment.&lt;/em&gt;&lt;/em&gt;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-09-17T11:33:28-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong growth fundamentals and cross-functional leadership, but lacks hands-on paid social/programmatic media buying depth that defines this role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Manager-level with P&L and team coaching; role is Manager-equivalent but emphasizes hands-on media ops over strategy ownership."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Strong on GTM strategy, funnels, experimentation; missing Meta, TikTok, programmatic, CTV, creative strategy execution."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 55,
+          "note": "EdTech D2C funnel experience transfers to ecommerce CAC logic, but no marketplace or consumer tech platforms mentioned."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 52,
+          "note": "Documented growth wins (38% CAC uplift, 25% sales lift) but no evidence of media budget scaling or channel optimization."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; StockX is established but posting silent on sponsorship; mid-tier risk for visa candidate."
+        }
+      ],
+      "missing_keywords": [
+        "Meta / Facebook Ads",
+        "TikTok paid acquisition",
+        "Programmatic media buying",
+        "Creative testing frameworks",
+        "Incrementality testing"
+      ],
+      "top_signal": "8+ years proven GTM and funnel ownership with quantified growth; hands-on experimentation mindset and cross-functional leadership translate to player-coach model.",
+      "biggest_gap": "Zero demonstrated expertise in paid social platforms (Meta, TikTok), programmatic, or creative strategy\u2014the core operational pillars of this role; profile is strategy-led, not execution-led on media."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-17T17:27:29.802393+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:observeai:5423306008",
+      "company": "observeai",
+      "title": "Product Marketing Manager",
+      "location": "Redwood City, CA (Hybrid)",
+      "url": "https://www.observe.ai/position?gh_jid=5423306008",
+      "description": "&lt;h3&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Observe.AI is the enterprise-grade Customer Experience AI platform that unifies conversations, intelligence, and action to turn contact centers into performance engines. Built to optimize the full lifecycle of human and AI agents, Observe.AI enables enterprises to automate customer interactions, augment agent performance, and deliver governed AI at scale.&lt;/p&gt; &lt;p&gt;On a single platform, Observe.AI combines Voice and Chat AI Agents, real-time AI Copilots, and Conversation Intelligence with 100% interaction coverage for quality, compliance, and performance management. Trusted by leading brands, Observe.AI delivers fast time-to-value, measurable ROI, and consistent, high-quality customer experiences across every channel.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Why Join Us&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We\u2019re looking for a highly execution-oriented Product Marketing Manager to support and scale the day-to-day operations of our Product Marketing function. This role is ideal for someone who thrives in a fast-paced environment, enjoys rolling up their sleeves, and takes pride in delivering polished, high-quality marketing assets and programs.&lt;/p&gt; &lt;p&gt;You will partner closely with Product Marketing, Customer Success, Design, and Sales to bring our messaging to life through compelling customer stories, consistent brand assets, and well-crafted sales enablement materials. This role is critical in ensuring our go-to-market efforts are executed with excellence and consistency.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What You\u2019ll Be Doing&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Asset Creation &amp;amp; Management:&lt;/strong&gt; Develop and maintain core marketing and sales assets such as one-pagers, case studies, pitch decks, and battlecards&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Presentation &amp;amp; Template Management:&lt;/strong&gt; Standardize and continuously improve presentation templates to ensure brand consistency and a polished, professional look across all materials&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cross-Functional Collaboration:&lt;/strong&gt; Work closely with Design to brief, iterate, and deliver high-quality visual assets aligned with brand guidelines&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Sales Enablement Support:&lt;/strong&gt; Ensure Sales has access to up-to-date, accurate, and compelling materials to support the sales cycle&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Content &amp;amp; Messaging Execution:&lt;/strong&gt; Translate product messaging into clear, concise, and impactful content across multiple formats&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Operational Excellence:&lt;/strong&gt; Maintain organization and consistency across asset repositories, ensuring materials are easy to find and use&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What You Bring to the Role&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;2\u20136 years of experience in Product Marketing, Content Marketing, or a related B2B SaaS role&lt;/li&gt; &lt;li&gt;AI-first mindset, bringing new tools, processes, and thinking to all elements of the work&lt;/li&gt; &lt;li&gt;Strong execution skills with a proven ability to manage multiple projects and deliver high-quality work on tight timelines&lt;/li&gt; &lt;li&gt;Experience creating sales assets and sales enablement materials&lt;/li&gt; &lt;li&gt;Excellent writing, editing, and storytelling skills&lt;/li&gt; &lt;li&gt;Strong attention to detail with a focus on producing polished, on-brand deliverables&lt;/li&gt; &lt;li&gt;Experience collaborating cross-functionally with Customer Success, Sales, and Design teams&lt;/li&gt; &lt;li&gt;Comfortable working in a fast-paced, high-growth environment with evolving priorities&lt;/li&gt; &lt;li&gt;Proficiency with presentation tools (e.g., Google Slides, PowerPoint) and content collaboration tools&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Perks &amp;amp; Benefits&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Competitive compensation, including equity&lt;/li&gt; &lt;li&gt;Excellent medical, dental, and vision insurance options&lt;/li&gt; &lt;li&gt;Flexible time off&lt;/li&gt; &lt;li&gt;10 Company holidays + Winter Break and parental leave&lt;/li&gt; &lt;li&gt;401K plan&lt;/li&gt; &lt;li&gt;Quarterly Lifestyle Spending Account&lt;/li&gt; &lt;li&gt;Monthly Mobile + Internet Stipend&lt;/li&gt; &lt;li&gt;Pre-tax Commuter Benefits&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Autonomy and Agency:&lt;/strong&gt; Play a meaningful role in scaling a category-defining GenAI platform transforming the future of customer experience.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Salary Range&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The base salary compensation range targeted for this full-time position is &lt;strong&gt;$130,000- $15o,000 per year&lt;/strong&gt;. Compensation may vary outside of this range depending on a number of factors, including a candidate\u2019s qualifications, skills, competencies and experience. Base pay is one part of the Total Package that is provided to compensate and recognize employees for their work, and this role may be eligible for additional discretionary bonuses/incentives and equity (in the form of options). This salary range is an estimate, and the actual salary may vary based on the Company\u2019s compensation practices.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our Commitment to Inclusion and Belonging&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Observe.AI is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Observe.AI does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Observe.AI also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;We welcome all people. We celebrate diversity of all kinds and are committed to creating an inclusive culture built on a foundation of respect for all individuals. We seek to hire, develop, and retain talented people from all backgrounds. Individuals from non-traditional backgrounds, historically marginalized or underrepresented groups are strongly encouraged to apply.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;If you are ambitious, make an impact wherever you go, and you&#39;re ready to shape the future of Observe.AI, we encourage you to apply. For more information, visit &lt;a href=&quot;https://www.observe.ai&quot;&gt;www.observe.ai&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;#LI- Remote&lt;/em&gt;&lt;/p&gt;",
+      "salary": "$130,000- $15",
+      "work_type": "Hybrid",
+      "seniority": "Manager",
+      "posted_at": "2026-09-16T14:02:35-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and positioning expertise, but role requires hands-on asset creation and operational execution at individual-contributor level, not manager-scale strategic work.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 35,
+          "note": "Candidate is Senior Manager / AGM level; posting seeks IC Product Marketing Manager (2-6 yrs). Significant seniority overmatch."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Strong on messaging, positioning, sales enablement, cross-functional work. Weak on asset creation, presentation templates, operational consistency focus."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 72,
+          "note": "EdTech background transfers to B2B SaaS. AI platform experience via GEO research. Contact center / customer experience domain is new."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "P&L ownership, pipeline growth, positioning redesign are strong. No evidence of hands-on asset production, design collaboration, or content operations at scale."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 40,
+          "note": "Requires H1B sponsorship. Observe.AI is mid-stage VC-backed SaaS (not mega-cap); sponsorship track record unclear. Moderate risk."
+        }
+      ],
+      "missing_keywords": [
+        "one-pagers and battlecards",
+        "case study creation",
+        "presentation template standardization",
+        "asset repository management",
+        "content operations"
+      ],
+      "top_signal": "GEO research framework and AI-era visibility expertise directly relevant to GenAI platform positioning; proven ability to redesign GTM messaging and positioning across multiple markets.",
+      "biggest_gap": "Role is execution-heavy asset and operations management; candidate's track record is strategy, P&L, and leadership at scale\u2014likely overqualified but undermatched on day-to-day deliverables the posting emphasizes."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-17T17:27:41.214722+00:00"
   }
 ]

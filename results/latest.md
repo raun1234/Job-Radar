@@ -1,59 +1,43 @@
 # Job Radar
 
-Run: 2026-09-16T17:28:53.231636+00:00
+Run: 2026-09-17T17:28:09.527600+00:00
 
-Companies: 304 checked, 300 connected, 4 failed
-Estimated spend this run: $0.0435
+Companies: 304 checked, 298 connected, 6 failed
+Estimated spend this run: $0.0277
 
-## New this run (6)
+## New this run (4)
 
-### 78 -- [Contract] Product Marketing Manager – Competitive Intelligence & AI Beta Program  @ Clever (San Francisco, CA, OR Anywhere in the Continental U.S.)
-**Strong Fit** -- Deep competitive intelligence and beta program experience, EdTech domain expertise, and proven research synthesis skills directly match the role; contract/part-time structure and visa sponsorship requirements are the only material friction points.
-[View posting](https://www.clever.com/about/careers?gh_jid=8186111)
+### 68 -- Partner Manager, AI Native Ecosystems @ Customerio (Americas Remote)
+**Worth Applying** -- Strong BD and cross-functional chops, but lacks direct platform/ecosystem partnership track record and missing explicit SaaS infrastructure sales depth.
+[View posting](https://job-boards.greenhouse.io/customerio/jobs/8209466)
 
-- Top signal: 8+ years of competitive positioning research and cross-functional GTM execution in EdTech, plus hands-on GEO/AI platform research, directly mirrors the intelligence and synthesis rigor this contract demands.
-- Biggest gap: Visa sponsorship requirement on a contract role creates compliance and engagement uncertainty; no explicit win-loss interview or formal design-partner program leadership mentioned.
-- Missing keywords: win-loss interview process, agentic identity/AI agents, design partner recruitment, customer feedback synthesis, monitoring cadence
+- Top signal: GEO research and AI platform fluency directly address immediate Claude/ChatGPT optimization priority; rare at Manager level.
+- Biggest gap: No demonstrated experience managing multi-platform integration partnerships or marketplace listings; all BD wins are D2C/funnel-driven, not ecosystem/distribution-driven.
+- Missing keywords: platform partnerships, marketplace operations, API integrations, MCP connectors, ecosystem scaling
 
-### 76 -- Product Marketing Manager @ Goguardian (United States)
-**Strong Fit** -- 8+ years GTM and lifecycle marketing in EdTech SaaS directly overlap; proven K-12 domain expertise and cross-functional execution offset lack of formal PMM title.
-[View posting](https://job-boards.greenhouse.io/goguardian/jobs/4713833006)
+### 52 -- Growth Manager: Social, Programmatic & Creative @ Stockx (Detroit, MI)
+**Stretch** -- Strong growth fundamentals and cross-functional leadership, but lacks hands-on paid social/programmatic media buying depth that defines this role.
+[View posting](https://job-boards.greenhouse.io/stockx/jobs/8816798002)
 
-- Top signal: 8+ years of direct K-12 EdTech GTM and lifecycle retention at scale (38% CAC lift, 40% retention improvement), plus 6+ years as Program Manager with cross-functional P&L accountability.
-- Biggest gap: No formal Product Marketing Manager title or hands-on product launch portfolio; candidate's background is operationally heavy (Program Manager/AGM) rather than marketing-specialized, and lifecycle email/automation platform depth unclear.
-- Missing keywords: product launch portfolio/examples, marketing automation platform experience, email nurture campaign design, customer renewal/retention campaign ownership, feature launch briefs
+- Top signal: 8+ years proven GTM and funnel ownership with quantified growth; hands-on experimentation mindset and cross-functional leadership translate to player-coach model.
+- Biggest gap: Zero demonstrated expertise in paid social platforms (Meta, TikTok), programmatic, or creative strategy—the core operational pillars of this role; profile is strategy-led, not execution-led on media.
+- Missing keywords: Meta / Facebook Ads, TikTok paid acquisition, Programmatic media buying, Creative testing frameworks, Incrementality testing
 
-### 71 -- Senior Demand Generation Manager @ Recordedfuture (Boston, MA) (deprioritized company)
-**Worth Applying** -- Strong D2C funnel and cross-functional leadership match, but lacks explicit enterprise B2B SaaS demand gen and intent-data platform experience.
-[View posting](https://job-boards.greenhouse.io/recordedfuture/jobs/8812466002)
+### 52 -- Product Marketing Manager @ Observeai (Redwood City, CA (Hybrid))
+**Stretch** -- Strong GTM and positioning expertise, but role requires hands-on asset creation and operational execution at individual-contributor level, not manager-scale strategic work.
+[View posting](https://www.observe.ai/position?gh_jid=5423306008)
 
-- Top signal: Owned full D2C funnel across 4+ tiers with quantified lift (38% CAC, 27% conversion); built KPI dashboards and multi-center sales operations; GEO research shows AI-era marketing thinking.
-- Biggest gap: No demonstrated experience with intent-data platforms (e.g., 6sense, Demandbase) or enterprise B2B SaaS demand gen; EdTech D2C motion is different buyer journey from global enterprise security intelligence.
-- Missing keywords: intent data platform expertise, enterprise B2B SaaS demand gen, ABM at scale for global enterprise, direct mail campaign execution, cybersecurity or security intelligence domain
+- Top signal: GEO research framework and AI-era visibility expertise directly relevant to GenAI platform positioning; proven ability to redesign GTM messaging and positioning across multiple markets.
+- Biggest gap: Role is execution-heavy asset and operations management; candidate's track record is strategy, P&L, and leadership at scale—likely overqualified but undermatched on day-to-day deliverables the posting emphasizes.
+- Missing keywords: one-pagers and battlecards, case study creation, presentation template standardization, asset repository management, content operations
 
-### 68 -- Sr. Growth Marketing Manager @ Fourkites (Chicago, IL)
-**Worth Applying** -- Strong demand gen and growth marketing fundamentals with proven funnel optimization, but lacks hands-on Google/LinkedIn Ads and supply chain domain experience that FourKites prioritizes.
-[View posting](https://job-boards.greenhouse.io/fourkites/jobs/8195968)
+### 42 -- Business Development Manager @ Culligan-Uk-Limited ()
+**Stretch** -- Strong GTM and growth experience, but BD role at B2B water treatment company requires direct enterprise sales execution and technical product knowledge candidate lacks.
+[View posting](https://apply.workable.com/j/4F8B7636F0)
 
-- Top signal: Proven ability to diagnose leaky funnels, redesign multi-channel sequences, and lift conversion 27–42% through segmentation and targeting discipline.
-- Biggest gap: No hands-on Google Ads or LinkedIn Ads campaign management; EdTech background does not cover supply chain SaaS domain FourKites explicitly values; visa sponsorship adds friction.
-- Missing keywords: Google Ads direct management, LinkedIn Ads direct management, Content syndication end-to-end, Supply chain / logistics domain, Cost per opportunity / paid media ROI tracking
-
-### 62 -- Global Technology Alliance Manager, Databricks @ Fivetran (Remote, Texas, United States, AMER)
-**Worth Applying** -- Strong GTM and cross-functional leadership fit, but lacks named partner/alliance management experience and SaaS data infrastructure domain depth.
-[View posting](https://www.fivetran.com/careers/job?gh_jid=7996531003)
-
-- Top signal: P&L ownership across 5 markets and proven ability to redesign GTM positioning and scale sales operations demonstrate commercial leadership and cross-functional orchestration.
-- Biggest gap: No alliance, partnership, or channel management background; EdTech domain does not prepare for data infrastructure buyer journey or Databricks ecosystem dynamics.
-- Missing keywords: Strategic partnerships / alliance management, Co-marketing programs / joint GTM execution, Partner enablement / channel sales, SaaS / data infrastructure domain, Data warehouse / analytics ecosystem
-
-### 52 -- Senior Sales Enablement Manager @ Turquoise-Health (Remote)
-**Stretch** -- Strong GTM and growth foundation, but Sales Enablement is a functional pivot; lacks direct rep coaching, ramp-building, and performance diagnostics track record.
-[View posting](https://jobs.ashbyhq.com/turquoise-health/a34dbce0-376e-403f-a7d1-1f7a6b782920)
-
-- Top signal: Built and iterated sales onboarding systems at scale (200+ monthly hires, 45% conversion), paired with strong cross-functional collaboration and performance dashboard expertise.
-- Biggest gap: No direct evidence of hands-on rep coaching, diagnosing individual performance gaps, or reducing time-to-productivity for complex deal cycles; functional shift from GTM strategy to Sales Enablement is material.
-- Missing keywords: sales enablement, sales training, rep coaching, ramp time diagnostics, complex enterprise deals, healthcare technology, buyer persona development
+- Top signal: Proven ability to redesign GTM positioning for revenue lift (25% sales growth at BYJU's, 38% CAC lift at PlanetSpark) and manage multi-market P&L.
+- Biggest gap: No B2B enterprise account management, technical product sales, or industrial/commercial facilities background; EdTech D2C funnel motion does not transfer to Culligan's B2B water treatment model.
+- Missing keywords: Enterprise account management, B2B commercial sales, Water treatment / facilities, Territory management, Technical product expertise
 
 ## Top 15 all-time
 
