@@ -1,43 +1,51 @@
 # Job Radar
 
-Run: 2026-09-17T17:28:09.527600+00:00
+Run: 2026-09-18T16:56:54.338559+00:00
 
-Companies: 304 checked, 298 connected, 6 failed
-Estimated spend this run: $0.0277
+Companies: 304 checked, 299 connected, 5 failed
+Estimated spend this run: $0.0362
 
-## New this run (4)
+## New this run (5)
 
-### 68 -- Partner Manager, AI Native Ecosystems @ Customerio (Americas Remote)
-**Worth Applying** -- Strong BD and cross-functional chops, but lacks direct platform/ecosystem partnership track record and missing explicit SaaS infrastructure sales depth.
-[View posting](https://job-boards.greenhouse.io/customerio/jobs/8209466)
+### 76 -- Senior Product Marketing Manager @ Faire (New York City, NY)
+**Strong Fit** -- Solid positioning and GTM ownership across EdTech, but lacks direct B2B marketplace PMM proof and named customer research methods.
+[View posting](https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002)
 
-- Top signal: GEO research and AI platform fluency directly address immediate Claude/ChatGPT optimization priority; rare at Manager level.
-- Biggest gap: No demonstrated experience managing multi-platform integration partnerships or marketplace listings; all BD wins are D2C/funnel-driven, not ecosystem/distribution-driven.
-- Missing keywords: platform partnerships, marketplace operations, API integrations, MCP connectors, ecosystem scaling
+- Top signal: 8+ years building positioning from zero at scale (BYJU's 60+ team, PlanetSpark multi-market), plus hands-on GEO research as proof of AI adoption—rare for Manager level.
+- Biggest gap: No explicit B2B marketplace or two-sided platform PMM track record; all proof is EdTech D2C/international expansion, requiring bridge on retailer/brand buyer psychology.
+- Missing keywords: customer research methodology / interview synthesis, thematic campaign architecture, B2B marketplace or two-sided platform, product launch velocity / shipping fast, retail or wholesale domain
 
-### 52 -- Growth Manager: Social, Programmatic & Creative @ Stockx (Detroit, MI)
-**Stretch** -- Strong growth fundamentals and cross-functional leadership, but lacks hands-on paid social/programmatic media buying depth that defines this role.
-[View posting](https://job-boards.greenhouse.io/stockx/jobs/8816798002)
+### 72 -- Sr. Product Marketing Manager, AI @ Sigmacomputing (San Francisco, CA)
+**Worth Applying** -- Strong GTM and AI positioning experience, but lacks direct B2B enterprise SaaS PMM track record and cloud data platform domain depth.
+[View posting](https://job-boards.greenhouse.io/sigmacomputing/jobs/7784470003)
 
-- Top signal: 8+ years proven GTM and funnel ownership with quantified growth; hands-on experimentation mindset and cross-functional leadership translate to player-coach model.
-- Biggest gap: Zero demonstrated expertise in paid social platforms (Meta, TikTok), programmatic, or creative strategy—the core operational pillars of this role; profile is strategy-led, not execution-led on media.
-- Missing keywords: Meta / Facebook Ads, TikTok paid acquisition, Programmatic media buying, Creative testing frameworks, Incrementality testing
+- Top signal: Hands-on Generative Engine Optimization research across 7 AI platforms demonstrates genuine AI literacy and differentiated competitive intelligence at manager level.
+- Biggest gap: No demonstrated B2B enterprise SaaS or cloud data platform PMM experience; EdTech domain is consumer-centric, not enterprise-motion driven.
+- Missing keywords: B2B enterprise software experience, Cloud data platform ecosystem knowledge, Win/loss analysis program management, Technical buyer persona expertise, Thought leadership content authorship
 
-### 52 -- Product Marketing Manager @ Observeai (Redwood City, CA (Hybrid))
-**Stretch** -- Strong GTM and positioning expertise, but role requires hands-on asset creation and operational execution at individual-contributor level, not manager-scale strategic work.
-[View posting](https://www.observe.ai/position?gh_jid=5423306008)
+### 72 -- Senior Product Marketing Manager @ Faire (San Francisco, CA)
+**Worth Applying** -- Strong GTM and positioning track record, but pure PMM execution depth and B2B2C marketplace complexity are gaps versus EdTech/D2C background.
+[View posting](https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002)
 
-- Top signal: GEO research framework and AI-era visibility expertise directly relevant to GenAI platform positioning; proven ability to redesign GTM messaging and positioning across multiple markets.
-- Biggest gap: Role is execution-heavy asset and operations management; candidate's track record is strategy, P&L, and leadership at scale—likely overqualified but undermatched on day-to-day deliverables the posting emphasizes.
-- Missing keywords: one-pagers and battlecards, case study creation, presentation template standardization, asset repository management, content operations
+- Top signal: Demonstrated ability to diagnose and redesign positioning under complexity (BYJU's regional messaging gaps, PlanetSpark funnel redesign) with measurable uplift, directly mirrors Faire's need to simplify complex marketplace narrative.
+- Biggest gap: No explicit experience with two-sided marketplace GTM, supplier/retailer segmentation, or sustaining adoption across dual customer segments; EdTech and D2C positioning may not fully translate to wholesale SMB motion.
+- Missing keywords: B2B2C marketplace dynamics, multi-sided platform GTM, supplier enablement, thematic campaign orchestration, retention and expansion metrics
 
-### 42 -- Business Development Manager @ Culligan-Uk-Limited ()
-**Stretch** -- Strong GTM and growth experience, but BD role at B2B water treatment company requires direct enterprise sales execution and technical product knowledge candidate lacks.
-[View posting](https://apply.workable.com/j/4F8B7636F0)
+### 52 -- Senior Business Development Manager, Control Tower @ Flexport (Chicago, Illinois, United States)
+**Stretch** -- Strong GTM and sales enablement pedigree, but zero supply chain logistics experience and no quota-carrying sales background in a fundamentally different domain.
+[View posting](https://job-boards.greenhouse.io/flexport/jobs/8211419)
 
-- Top signal: Proven ability to redesign GTM positioning for revenue lift (25% sales growth at BYJU's, 38% CAC lift at PlanetSpark) and manage multi-market P&L.
-- Biggest gap: No B2B enterprise account management, technical product sales, or industrial/commercial facilities background; EdTech D2C funnel motion does not transfer to Culligan's B2B water treatment model.
-- Missing keywords: Enterprise account management, B2B commercial sales, Water treatment / facilities, Territory management, Technical product expertise
+- Top signal: 8+ years driving GTM strategy, P&L ownership, and consultative deal-building across 4+ business units with quantified revenue impact and ROI fluency.
+- Biggest gap: Zero supply chain, logistics, or supply chain software domain knowledge; Control Tower is a complex ops product requiring deep industry fluency Raunak does not possess.
+- Missing keywords: supply chain operations expertise, order management systems, quota-carrying sales experience, logistics or supply chain software background, buyer's consolidation workflows
+
+### 51 -- Revenue Operations Manager @ Komodohealth (United States)
+**Stretch** -- Strong GTM and sales enablement foundation, but lacks explicit RevOps role ownership and enterprise SaaS tooling depth required for this operations-focused position.
+[View posting](https://job-boards.greenhouse.io/komodohealth/jobs/8817707002)
+
+- Top signal: 8+ years driving GTM strategy with proven CRM/Salesforce KPI dashboards and cross-functional execution at scale (60+ team lead at BYJU'S); P&L ownership demonstrates commercial rigor.
+- Biggest gap: No explicit RevOps or sales ops role; experience is GTM/growth/PMM-adjacent but lacks the hands-on territory design, capacity modeling, and enterprise SaaS forecasting cadence this role centers on.
+- Missing keywords: Revenue Operations (RevOps) title/ownership, Gong, Clari (enterprise RevOps tools), Territory design and capacity modeling, Annual quota-setting process, Enterprise SaaS sales motion
 
 ## Top 15 all-time
 
@@ -97,6 +105,6 @@ Estimated spend this run: $0.0277
 **Strong Fit** -- 8+ years GTM and lifecycle marketing in EdTech SaaS directly overlap; proven K-12 domain expertise and cross-functional execution offset lack of formal PMM title.
 [View posting](https://job-boards.greenhouse.io/goguardian/jobs/4713833006)
 
-### 73 -- Senior Category Growth Manager @ Coursera (United States)
-**Worth Applying** -- Strong GTM and growth fundamentals with proven cross-functional leadership, but lacks direct consumer subscription portfolio experience and demonstrated category management depth.
-[View posting](https://job-boards.greenhouse.io/coursera/jobs/6127488004)
+### 76 -- Senior Product Marketing Manager @ Faire (New York City, NY)
+**Strong Fit** -- Solid positioning and GTM ownership across EdTech, but lacks direct B2B marketplace PMM proof and named customer research methods.
+[View posting](https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002)
