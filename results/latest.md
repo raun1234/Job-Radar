@@ -1,11 +1,27 @@
 # Job Radar
 
-Run: 2026-09-20T16:41:09.578476+00:00
+Run: 2026-09-21T18:28:16.757725+00:00
 
-Companies: 304 checked, 301 connected, 3 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 299 connected, 5 failed
+Estimated spend this run: $0.0145
 
-## No new matching postings this run.
+## New this run (2)
+
+### 62 -- Sr. Ads Product Marketing Manager @ Pinterest (San Francisco, CA, US; Remote, US)
+**Worth Applying** -- Strong GTM and positioning skills, but lacks direct ad-tech/CTV/measurement domain depth; EdTech background requires bridge to performance advertising.
+[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8095322)
+
+- Top signal: Proven ability to translate complex product capability into customer value (positioning redesigns, competitive benchmarking, buyer journey mapping) and lead cross-functional launches at scale.
+- Biggest gap: No hands-on experience in advertising technology, CTV, or measurement/attribution domains; EdTech D2C focus is orthogonal to performance advertising buyer mindset.
+- Missing keywords: CTV / Connected TV, Programmatic advertising, Measurement / attribution, Performance marketing, Ad tech / advertising technology
+
+### 52 -- Revenue Operations Manager  @ Sigmacomputing (New York City, NY)
+**Stretch** -- Strong GTM and analytics foundation, but lacks direct Revenue Ops experience and demonstrated LLM automation deployment at scale.
+[View posting](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001135003)
+
+- Top signal: Built KPI systems and dashboards for 60+ teams; surfaced churn cliff and deployed interventions; comfortable with cross-functional complexity at scale.
+- Biggest gap: No demonstrated RevOps function leadership or hands-on LLM/AI automation deployment; EdTech D2C background vs. B2B enterprise sales ops required.
+- Missing keywords: Revenue Operations (RevOps), Territory management, Coverage models, LLM-powered automation deployment, Chief of Staff or direct VP advisory experience
 
 ## Top 15 all-time
 
