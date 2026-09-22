@@ -1,27 +1,35 @@
 # Job Radar
 
-Run: 2026-09-21T18:28:16.757725+00:00
+Run: 2026-09-22T17:31:57.170528+00:00
 
-Companies: 304 checked, 299 connected, 5 failed
-Estimated spend this run: $0.0145
+Companies: 304 checked, 298 connected, 6 failed
+Estimated spend this run: $0.0217
 
-## New this run (2)
+## New this run (3)
 
-### 62 -- Sr. Ads Product Marketing Manager @ Pinterest (San Francisco, CA, US; Remote, US)
-**Worth Applying** -- Strong GTM and positioning skills, but lacks direct ad-tech/CTV/measurement domain depth; EdTech background requires bridge to performance advertising.
-[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8095322)
+### 76 -- Senior Growth Manager @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Strong Fit** -- Raunak owns ABM, D2C funnel optimization, and cross-functional GTM execution at scale, but lacks explicit demand generation and enterprise SaaS campaign infrastructure experience.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5244449007)
 
-- Top signal: Proven ability to translate complex product capability into customer value (positioning redesigns, competitive benchmarking, buyer journey mapping) and lead cross-functional launches at scale.
-- Biggest gap: No hands-on experience in advertising technology, CTV, or measurement/attribution domains; EdTech D2C focus is orthogonal to performance advertising buyer mindset.
-- Missing keywords: CTV / Connected TV, Programmatic advertising, Measurement / attribution, Performance marketing, Ad tech / advertising technology
+- Top signal: Raunak redesigned multi-channel GTM sequences and ABM campaigns at scale (60+ team, 5 business units, international pipeline), with quantified conversion and revenue impact that directly mirrors Verkada's pipeline-generation mandate.
+- Biggest gap: No explicit demand generation program ownership or marketing automation platform expertise; EdTech D2C experience does not substitute for enterprise infrastructure security sales motion.
+- Missing keywords: Demand generation (explicit program ownership), Marketing automation platforms (HubSpot, Marketo, Outreach, 6sense), Enterprise SaaS GTM, Content strategy / thought leadership, Intent data / predictive analytics
 
-### 52 -- Revenue Operations Manager  @ Sigmacomputing (New York City, NY)
-**Stretch** -- Strong GTM and analytics foundation, but lacks direct Revenue Ops experience and demonstrated LLM automation deployment at scale.
-[View posting](https://job-boards.greenhouse.io/sigmacomputing/jobs/8001135003)
+### 52 -- Regional Partner Manager, MSSP @ Wizinc (Remote - USA) (deprioritized company)
+**Stretch** -- Strong GTM and growth credentials, but lacks direct MSSP/channel partner sales experience and cybersecurity domain depth.
+[View posting](https://www.wiz.io/careers/job/4709072006/:title?gh_jid=4709072006)
 
-- Top signal: Built KPI systems and dashboards for 60+ teams; surfaced churn cliff and deployed interventions; comfortable with cross-functional complexity at scale.
-- Biggest gap: No demonstrated RevOps function leadership or hands-on LLM/AI automation deployment; EdTech D2C background vs. B2B enterprise sales ops required.
-- Missing keywords: Revenue Operations (RevOps), Territory management, Coverage models, LLM-powered automation deployment, Chief of Staff or direct VP advisory experience
+- Top signal: Proven ability to redesign GTM positioning, own multi-region sales operations, and lift conversion via CRM-driven segmentation; rare GEO research differentiator shows AI-era thinking.
+- Biggest gap: Zero direct experience in channel/partner sales, MSSP service design, or cybersecurity domain—this is not a transferable GTM motion but a fundamentally different go-to-market model requiring deep relationship and ecosystem expertise.
+- Missing keywords: MSSP partner sales, Channel development, Managed services packaging, Cloud security domain, Co-selling execution, Service provider ecosystems
+
+### 52 -- Senior Marketing Operations Manager @ Netlify (Remote) (deprioritized company)
+**Stretch** -- Strong GTM and growth foundation, but lacks the specialized Marketing Operations platform expertise (HubSpot/Marketo/email deliverability depth) this role demands.
+[View posting](https://job-boards.greenhouse.io/netlify/jobs/8823312002)
+
+- Top signal: 8+ years GTM strategy and D2C funnel ownership with quantified conversion lifts (38% CAC improvement, 40% retention gain) and Salesforce + analytics foundation.
+- Biggest gap: No demonstrated expertise in marketing automation platform mastery, high-volume email operations, or the MarTech stack administration this role centers on.
+- Missing keywords: HubSpot or Marketo deep expertise, Email deliverability and inbox reputation, Marketing automation lifecycle architecture, UTM governance and attribution modeling, Data governance and MarTech stack administration
 
 ## Top 15 all-time
 
