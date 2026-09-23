@@ -1,35 +1,35 @@
 # Job Radar
 
-Run: 2026-09-22T17:31:57.170528+00:00
+Run: 2026-09-23T17:42:45.433220+00:00
 
-Companies: 304 checked, 298 connected, 6 failed
+Companies: 304 checked, 297 connected, 7 failed
 Estimated spend this run: $0.0217
 
 ## New this run (3)
 
-### 76 -- Senior Growth Manager @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Strong Fit** -- Raunak owns ABM, D2C funnel optimization, and cross-functional GTM execution at scale, but lacks explicit demand generation and enterprise SaaS campaign infrastructure experience.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5244449007)
+### 73 -- Senior Technical Product Marketing Manager @ Fivetran (Denver, Colorado, United States, AMER)
+**Worth Applying** -- Strong GTM and growth background with strategic thinking, but lacks hands-on technical PMM experience and data infrastructure domain depth required for Fivetran's technical narrative role.
+[View posting](https://www.fivetran.com/careers/job?gh_jid=7818292003)
 
-- Top signal: Raunak redesigned multi-channel GTM sequences and ABM campaigns at scale (60+ team, 5 business units, international pipeline), with quantified conversion and revenue impact that directly mirrors Verkada's pipeline-generation mandate.
-- Biggest gap: No explicit demand generation program ownership or marketing automation platform expertise; EdTech D2C experience does not substitute for enterprise infrastructure security sales motion.
-- Missing keywords: Demand generation (explicit program ownership), Marketing automation platforms (HubSpot, Marketo, Outreach, 6sense), Enterprise SaaS GTM, Content strategy / thought leadership, Intent data / predictive analytics
+- Top signal: Generative Engine Optimization research and client-facing technical positioning work demonstrate emerging ability to communicate complex technical concepts to non-technical stakeholders at scale.
+- Biggest gap: Zero hands-on experience in data infrastructure, warehousing, analytics platforms, or B2B technical buyer personas—core to Fivetran's market and messaging strategy.
+- Missing keywords: technical product marketing, data infrastructure, modern data stack, architecture diagrams, technical white papers, data warehouse ecosystem
 
-### 52 -- Regional Partner Manager, MSSP @ Wizinc (Remote - USA) (deprioritized company)
-**Stretch** -- Strong GTM and growth credentials, but lacks direct MSSP/channel partner sales experience and cybersecurity domain depth.
-[View posting](https://www.wiz.io/careers/job/4709072006/:title?gh_jid=4709072006)
+### 72 -- Senior Technical Product Marketing Manager @ Fivetran (Oakland, California, United States, AMER)
+**Worth Applying** -- Strong GTM and growth foundation, but lacks hands-on technical product marketing depth and data infrastructure domain expertise that Fivetran values.
+[View posting](https://www.fivetran.com/careers/job?gh_jid=8002744003)
 
-- Top signal: Proven ability to redesign GTM positioning, own multi-region sales operations, and lift conversion via CRM-driven segmentation; rare GEO research differentiator shows AI-era thinking.
-- Biggest gap: Zero direct experience in channel/partner sales, MSSP service design, or cybersecurity domain—this is not a transferable GTM motion but a fundamentally different go-to-market model requiring deep relationship and ecosystem expertise.
-- Missing keywords: MSSP partner sales, Channel development, Managed services packaging, Cloud security domain, Co-selling execution, Service provider ecosystems
+- Top signal: Generative Engine Optimization research demonstrates ability to stay ahead of emerging technology trends and translate complex concepts for technical audiences—rare at manager level.
+- Biggest gap: No demonstrated experience writing technical collateral (white papers, architecture guides, technical blogs) or operating in modern data stack / analytics engineering domain; background is growth/BD in EdTech, not technical PMM.
+- Missing keywords: technical content creation, architecture diagrams, white papers, thought leadership, data infrastructure domain, analytics engineering
 
-### 52 -- Senior Marketing Operations Manager @ Netlify (Remote) (deprioritized company)
-**Stretch** -- Strong GTM and growth foundation, but lacks the specialized Marketing Operations platform expertise (HubSpot/Marketo/email deliverability depth) this role demands.
-[View posting](https://job-boards.greenhouse.io/netlify/jobs/8823312002)
+### 28 -- Senior Strategic Sourcing Manager, Cloud & Strategic Partnerships @ Rubrik (Palo Alto, CA)
+**Weak Fit** -- Candidate is a GTM/growth specialist with zero procurement, vendor management, or strategic sourcing experience.
+[View posting](https://www.rubrik.com/company/careers/departments/job.8114559?gh_jid=8114559)
 
-- Top signal: 8+ years GTM strategy and D2C funnel ownership with quantified conversion lifts (38% CAC improvement, 40% retention gain) and Salesforce + analytics foundation.
-- Biggest gap: No demonstrated expertise in marketing automation platform mastery, high-volume email operations, or the MarTech stack administration this role centers on.
-- Missing keywords: HubSpot or Marketo deep expertise, Email deliverability and inbox reputation, Marketing automation lifecycle architecture, UTM governance and attribution modeling, Data governance and MarTech stack administration
+- Top signal: P&L and cross-functional leadership demonstrate accountability and operational rigor, but in the wrong domain.
+- Biggest gap: Candidate has zero procurement, sourcing, vendor management, or strategic partnerships experience; this is a procurement specialist role, not a GTM role.
+- Missing keywords: Strategic Sourcing, Vendor Negotiations, Procurement, RFQ/RFP, Cloud partnerships (AWS, GCP, Azure)
 
 ## Top 15 all-time
 
