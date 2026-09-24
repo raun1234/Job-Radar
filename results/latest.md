@@ -1,35 +1,11 @@
 # Job Radar
 
-Run: 2026-09-23T17:42:45.433220+00:00
+Run: 2026-09-24T17:44:32.560806+00:00
 
-Companies: 304 checked, 297 connected, 7 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 299 connected, 5 failed
+Estimated spend this run: $0.0000
 
-## New this run (3)
-
-### 73 -- Senior Technical Product Marketing Manager @ Fivetran (Denver, Colorado, United States, AMER)
-**Worth Applying** -- Strong GTM and growth background with strategic thinking, but lacks hands-on technical PMM experience and data infrastructure domain depth required for Fivetran's technical narrative role.
-[View posting](https://www.fivetran.com/careers/job?gh_jid=7818292003)
-
-- Top signal: Generative Engine Optimization research and client-facing technical positioning work demonstrate emerging ability to communicate complex technical concepts to non-technical stakeholders at scale.
-- Biggest gap: Zero hands-on experience in data infrastructure, warehousing, analytics platforms, or B2B technical buyer personas—core to Fivetran's market and messaging strategy.
-- Missing keywords: technical product marketing, data infrastructure, modern data stack, architecture diagrams, technical white papers, data warehouse ecosystem
-
-### 72 -- Senior Technical Product Marketing Manager @ Fivetran (Oakland, California, United States, AMER)
-**Worth Applying** -- Strong GTM and growth foundation, but lacks hands-on technical product marketing depth and data infrastructure domain expertise that Fivetran values.
-[View posting](https://www.fivetran.com/careers/job?gh_jid=8002744003)
-
-- Top signal: Generative Engine Optimization research demonstrates ability to stay ahead of emerging technology trends and translate complex concepts for technical audiences—rare at manager level.
-- Biggest gap: No demonstrated experience writing technical collateral (white papers, architecture guides, technical blogs) or operating in modern data stack / analytics engineering domain; background is growth/BD in EdTech, not technical PMM.
-- Missing keywords: technical content creation, architecture diagrams, white papers, thought leadership, data infrastructure domain, analytics engineering
-
-### 28 -- Senior Strategic Sourcing Manager, Cloud & Strategic Partnerships @ Rubrik (Palo Alto, CA)
-**Weak Fit** -- Candidate is a GTM/growth specialist with zero procurement, vendor management, or strategic sourcing experience.
-[View posting](https://www.rubrik.com/company/careers/departments/job.8114559?gh_jid=8114559)
-
-- Top signal: P&L and cross-functional leadership demonstrate accountability and operational rigor, but in the wrong domain.
-- Biggest gap: Candidate has zero procurement, sourcing, vendor management, or strategic partnerships experience; this is a procurement specialist role, not a GTM role.
-- Missing keywords: Strategic Sourcing, Vendor Negotiations, Procurement, RFQ/RFP, Cloud partnerships (AWS, GCP, Azure)
+## No new matching postings this run.
 
 ## Top 15 all-time
 
