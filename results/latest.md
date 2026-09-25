@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-09-24T17:44:32.560806+00:00
+Run: 2026-09-25T17:47:02.323684+00:00
 
-Companies: 304 checked, 299 connected, 5 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 298 connected, 6 failed
+Estimated spend this run: $0.0214
 
-## No new matching postings this run.
+## New this run (3)
+
+### 68 -- Product Marketing Manager, Revenue suite @ Stripe (United States)
+**Worth Applying** -- Strong GTM and growth track record with cross-functional leadership, but lacks direct product marketing depth and B2B SaaS payment/fintech domain experience that Stripe values.
+[View posting](https://stripe.com/jobs/search?gh_jid=8233263)
+
+- Top signal: P&L ownership across 5 markets, 60-person cross-functional team leadership, and proven ability to redesign positioning and GTM for measurable revenue impact (38% CAC improvement, 25% sales lift).
+- Biggest gap: No direct product marketing experience or B2B SaaS/fintech domain depth; candidate's background is EdTech GTM strategy and business development, not product positioning for technical/financial buyer personas at enterprise scale.
+- Missing keywords: Product marketing (direct discipline), B2B SaaS, Fintech / payments domain, Feature-to-benefit translation, Demand generation campaign ROI
+
+### 52 -- Partner Manager, Microsoft Co-sell @ Anthropic (San Francisco, CA | New York City, NY)
+**Stretch** -- Strong GTM and cross-functional execution, but lacks hands-on partner co-sell, Azure Marketplace operations, and enterprise deal-closure experience that role demands.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5391253008)
+
+- Top signal: Proven ability to own end-to-end revenue funnel, rebuild sales operations for 42% productivity gain, and maintain operational rigor across matrixed teams at scale.
+- Biggest gap: No hands-on experience navigating cloud marketplace transactions, unblocking vendor-side deal blockers, or running a dedicated partner co-sell motion with quantified results.
+- Missing keywords: Azure Marketplace, partner co-sell, ISV ecosystem, private offers, deal operations
+
+### 42 -- Strategic Alliances Manager @ Abnormalsecurity (Remote - USA) (deprioritized company)
+**Stretch** -- Strong GTM and growth execution, but lacks direct cybersecurity alliance/co-sell experience and CrowdStrike/Cyera relationship history that posting emphasizes as must-have.
+[View posting](https://abnormal.ai/careers/jobs/7780528003?gh_jid=7780528003)
+
+- Top signal: 8+ years GTM ownership with quantified pipeline growth (38% CAC lift, 19% ARR increase), cross-functional leadership at scale, and demonstrated ability to diagnose and redesign multi-channel motions.
+- Biggest gap: Zero direct cybersecurity or partner/alliance management experience; candidate has never managed co-sell relationships with platform vendors or navigated security ecosystem buying dynamics.
+- Missing keywords: cybersecurity industry experience, CrowdStrike or Cyera co-sell, strategic alliance management, endpoint and identity security, partner lifecycle management
 
 ## Top 15 all-time
 

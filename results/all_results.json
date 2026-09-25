@@ -15968,5 +15968,179 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-09-23T17:41:56.370990+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:stripe:8233263",
+      "company": "stripe",
+      "title": "Product Marketing Manager, Revenue suite",
+      "location": "United States",
+      "url": "https://stripe.com/jobs/search?gh_jid=8233263",
+      "description": "&lt;p&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;About Stripe&lt;/p&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Our Product Marketing team\u2019s mission is to generate customer insights that inform Stripe\u2019s product strategy, and lead go-to-market for our suite of products. Product Marketing is a highly cross-functional role at Stripe, partnering closely with Product and Engineering, Sales, Partnerships, Demand Generation and Campaigns to name a few. Different from many other Product Marketing teams, our team works across the entire product lifecycle, from helping shape the product, to driving launch and commercialization, to growing product adoption post-launch.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;We are looking for a Product Marketing Manager for Stripe\u2019s Revenue suite (which includes Billing, Invoicing, Tax, and Revenue Recognition). In this role, you\u2019ll craft the narrative for how our Revenue products deliver value to product and finance leaders, drive demand by partnering with the campaigns team, develop cross-product packages and bundles, and enable our sales team.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you\u2019ll do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Be a storyteller. You have deep empathy for users and are able to adapt how you communicate to best reach and engage your audience and differentiate Stripe. You have excellent verbal and written communication skills&lt;/li&gt; &lt;li&gt;Lead with data. You like working with data and insights and pair that with your passion for users to generate balanced and thoughtful points of view for how to take our products to market&lt;/li&gt; &lt;li&gt;Keep things organized. You are able to manage highly interdependent, complex projects and keep various work streams on track&lt;/li&gt; &lt;li&gt;Have a passion for technology. You are keen to learn about how things work and are able to explain technical concepts in ways that everyday people can understand&lt;/li&gt; &lt;li&gt;Be Ambitious. You are eager to make an impact at Stripe. You thrive in a fast-moving, dynamic, hyper-growth environment and are able to operate fluidly between the 30,000-foot strategy level and the micro-detail to get things right&lt;/li&gt; &lt;li&gt;Act as a team player. Product Marketers collaborate across the Marketing team and with basically every team at Stripe. You are able to work with a range of disciplines to execute on your work&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply.&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;7+ years prior product marketing experience&lt;/li&gt; &lt;li&gt;Bachelor\u2019s degree or equivalent experience&amp;nbsp;&lt;/li&gt; &lt;li&gt;Excellent verbal and written communication skills, with experience translating technical features into benefits for a technical audience&lt;/li&gt; &lt;li&gt;Be able to leverage data to proactively identify opportunities and drive impactful results&lt;/li&gt; &lt;/ul&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-09-25T11:31:22-04:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and growth track record with cross-functional leadership, but lacks direct product marketing depth and B2B SaaS payment/fintech domain experience that Stripe values.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager-level seniority confirmed; progressed through 4 levels at BYJU'S and led 60+ person team. But titled 'Program Manager' not 'Product Marketing Manager'\u2014adjacent, not direct."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 65,
+          "note": "Strong on GTM, positioning, competitive intelligence, sales enablement, cross-functional leadership, and data-driven storytelling. Weak on 'product marketing' as primary discipline and technical feature translation."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 58,
+          "note": "EdTech D2C and B2C SaaS experience. No B2B SaaS, payment infrastructure, fintech, or billing/revenue product domain experience\u2014core to Revenue suite PMM role."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 72,
+          "note": "Quantified wins in funnel optimization, positioning redesign, sales enablement, and pipeline growth. Lacks named product launch, campaign ROI, or demand generation campaign metrics Stripe likely expects."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; Stripe is large, well-established, and likely sponsors, but no explicit statement. OPT timeline helps short-term, but sponsorship adds friction."
+        }
+      ],
+      "missing_keywords": [
+        "Product marketing (direct discipline)",
+        "B2B SaaS",
+        "Fintech / payments domain",
+        "Feature-to-benefit translation",
+        "Demand generation campaign ROI"
+      ],
+      "top_signal": "P&L ownership across 5 markets, 60-person cross-functional team leadership, and proven ability to redesign positioning and GTM for measurable revenue impact (38% CAC improvement, 25% sales lift).",
+      "biggest_gap": "No direct product marketing experience or B2B SaaS/fintech domain depth; candidate's background is EdTech GTM strategy and business development, not product positioning for technical/financial buyer personas at enterprise scale."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-25T17:45:01.546667+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:anthropic:5391253008",
+      "company": "anthropic",
+      "title": "Partner Manager, Microsoft Co-sell",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391253008",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic\u2019s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Claude is available to enterprises through Microsoft Foundry, and the Microsoft partnership has become one of our most important paths to market. Many of the largest enterprises in financial services, healthcare and life sciences, and the public sector buy Microsoft first, and we want Claude to be the obvious choice when they do.&lt;/p&gt; &lt;p&gt;As Partner Manager for Microsoft Co-Sell, you will turn that partnership into pipeline and closed revenue. You will build and run joint sales plays with Microsoft&#39;s field organization, connect Anthropic account executives with their Microsoft counterparts on shared target accounts, and make sure deals that start in a co-sell conversation actually close through Azure Marketplace. You will own your work end to end, from the details of a single stuck deal to the executive readout on how the partnership is performing.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Key responsibilities&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own the co-sell engine day to day: design joint sales plays with Microsoft around the strongest enterprise use cases, run account mapping with Microsoft sellers, and turn introductions into working groups and joint opportunities that show up as pipeline&lt;/li&gt; &lt;li&gt;Keep deals moving through Azure Marketplace, including private offers, billing setup, and partner attribution; track every opportunity through that process, know where it is stuck and who needs to act, and work with both sides until it closes&lt;/li&gt; &lt;li&gt;Run the regular pipeline and escalation rhythm with Microsoft&lt;/li&gt; &lt;li&gt;Give Anthropic and Microsoft leaders a clear view of what is working and what is blocked&lt;/li&gt; &lt;li&gt;Bring field insight back to our product and go-to-market teams&lt;/li&gt; &lt;li&gt;Own at least one major joint initiative with Microsoft, such as a flagship event, a product workstream, or deal operations&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Minimum qualifications&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience owning a revenue or pipeline number through a partner or co-sell motion, with results you can point to&lt;/li&gt; &lt;li&gt;Working knowledge of how enterprise deals transact through a cloud marketplace, including hands-on experience unblocking stuck deals&lt;/li&gt; &lt;li&gt;Strong attention to detail and operational rigor, with the ability to turn that detail into a clear, concise story for executives&lt;/li&gt; &lt;li&gt;A record of taking full ownership of your work: closing loops and keeping stakeholders informed proactively&lt;/li&gt; &lt;li&gt;Ability to keep a stalled deal or program moving through repeated blockers until it is resolved&lt;/li&gt; &lt;li&gt;Ability to build trust across a large, matrixed partner organization, with field sellers and their leaders alike&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience selling or partnering around AI, ML, or developer platform products&lt;/li&gt; &lt;li&gt;Direct experience with Microsoft&#39;s partner ecosystem, such as Partner Center, Azure Marketplace, and the co-sell program&lt;/li&gt; &lt;li&gt;Experience selling into financial services, healthcare and life sciences, or the public sector&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;The annual compensation range for this role is listed below.&amp;nbsp;&lt;/p&gt; &lt;p&gt;For sales roles, the range provided is the role\u2019s On Target Earnings (&quot;OTE&quot;) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Annual Salary:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$215,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$300,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Logistics&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Minimum education: &lt;/strong&gt;Bachelor\u2019s degree or an equivalent combination of education, training, and/or experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Required field of study:&amp;nbsp;&lt;/strong&gt;A field relevant to the role as demonstrated through coursework, training, or professional experience&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum years of experience: &lt;/strong&gt;Years of experience required will correlate with the internal job level requirements for the position&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Location-based hybrid policy:&lt;/strong&gt; Currently, we expect all staff to be in one of our offices at least 25% of the time. However, some roles may require more time in our offices.&lt;/p&gt; &lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Visa sponsorship:&lt;/strong&gt;&amp;nbsp;We do sponsor visas! However, we aren&#39;t able to successfully sponsor visas for every role and every candidate. But if we make you an offer, we will make every reasonable effort to get you a visa, and we retain an immigration lawyer to help with this.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We encourage you to apply even if you do not believe you meet every single qualification.&lt;/strong&gt; Not all strong candidates will meet every single qualification as listed.&amp;nbsp; Research shows that people who identify as being from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you&#39;re interested in this work. We think AI systems like the ones we&#39;re building have enormous social and ethical implications. We think this makes representation even more important, and we strive to include a range of diverse perspectives on our team.&lt;br&gt;&lt;br&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Your safety matters to us.&lt;/strong&gt; To protect yourself from potential scams, remember that Anthropic recruiters only contact you from&amp;nbsp;@anthropic.com&amp;nbsp;email addresses. In some cases, we may partner with vetted recruiting agencies who will identify themselves as working on behalf of Anthropic. Be cautious of emails from other domains. Legitimate Anthropic recruiters will never ask for money, fees, or banking information before your first day. If you&#39;re ever unsure about a communication, don&#39;t click any links\u2014visit&amp;nbsp;&lt;u data-stringify-type=&quot;underline&quot;&gt;&lt;a class=&quot;c-link c-link--underline&quot; href=&quot;http://anthropic.com/careers&quot; target=&quot;_blank&quot; data-stringify-link=&quot;http://anthropic.com/careers&quot; data-sk=&quot;tooltip_parent&quot; data-remove-tab-index=&quot;true&quot;&gt;anthropic.com/careers&lt;/a&gt;&lt;/u&gt;&amp;nbsp;directly for confirmed position openings.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;How we&#39;re different&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We believe that the highest-impact AI research will be big science. At Anthropic we work as a single cohesive team on just a few large-scale research efforts. And we value impact \u2014 advancing our long-term goals of steerable, trustworthy AI \u2014 rather than work on smaller and more specific puzzles. We view AI research as an empirical science, which has as much in common with physics and biology as with traditional efforts in computer science. We&#39;re an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the highest-impact work at any given time. As such, we greatly value communication skills.&lt;/p&gt; &lt;p&gt;The easiest way to understand our research directions is to read our recent research. This research continues many of the directions our team worked on prior to Anthropic, including: GPT-3, Circuit-Based Interpretability, Multimodal Neurons, Scaling Laws, AI &amp;amp; Compute, Concrete Problems in AI Safety, and Learning from Human Preferences.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Come work with us!&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Anthropic is a public benefit corporation headquartered in San Francisco. We offer competitive compensation and benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a lovely office space in which to collaborate with colleagues. &lt;strong data-stringify-type=&quot;bold&quot;&gt;Guidance on Candidates&#39; AI Usage:&lt;/strong&gt;&amp;nbsp;Learn about&amp;nbsp;&lt;a class=&quot;c-link&quot; href=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://www.anthropic.com/candidate-ai-guidance&quot; data-sk=&quot;tooltip_parent&quot;&gt;our policy&lt;/a&gt; for using AI in our application process.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-09-24T20:35:20-04:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and cross-functional execution, but lacks hands-on partner co-sell, Azure Marketplace operations, and enterprise deal-closure experience that role demands.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 70,
+          "note": "Manager-level experience with P&L and cross-functional ownership; role is peer-level but requires partner/channel function expertise."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Strong GTM, sales enablement, CRM; missing marketplace operations, partner co-sell mechanics, deal unblocking in vendor ecosystem."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "EdTech B2C/D2C background; no stated experience with enterprise cloud platforms, ISV partnerships, or marketplace transactions."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 58,
+          "note": "Delivered revenue through GTM and sales ops; no evidence of owning partner pipeline, co-sell mechanics, or Azure Marketplace."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 40,
+          "note": "Requires H1B sponsorship; Anthropic is AI-native startup (not established megacorp), lowering sponsorship likelihood unless explicitly open."
+        }
+      ],
+      "missing_keywords": [
+        "Azure Marketplace",
+        "partner co-sell",
+        "ISV ecosystem",
+        "private offers",
+        "deal operations"
+      ],
+      "top_signal": "Proven ability to own end-to-end revenue funnel, rebuild sales operations for 42% productivity gain, and maintain operational rigor across matrixed teams at scale.",
+      "biggest_gap": "No hands-on experience navigating cloud marketplace transactions, unblocking vendor-side deal blockers, or running a dedicated partner co-sell motion with quantified results."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-09-25T17:45:09.461307+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:abnormalsecurity:7780528003",
+      "company": "abnormalsecurity",
+      "title": "Strategic Alliances Manager",
+      "location": "Remote - USA",
+      "url": "https://abnormal.ai/careers/jobs/7780528003?gh_jid=7780528003",
+      "description": "&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Abnormal AI is redefining email and cloud security through behavioral AI, and our strategic partnerships are a core part of how we bring that mission to market. As a Strategic Alliances Manager, you will own a portfolio of Abnormal\u2019s highest-priority partnerships end to end\u2014beginning with CrowdStrike and Cyera, and expanding to include other top-tier alliances as they graduate to the managed phase.&lt;/p&gt; &lt;p&gt;The CrowdStrike relationship sits at the center of our alliances strategy: a multi-year, investor-backed partnership spanning co-sell, endpoint and identity integrations, SIEM, malware analysis, and the CrowdXDR Alliance. The Cyera partnership represents a key growth relationship in the data security space with strong joint GTM momentum. You will serve as the connective tissue between Abnormal and each of your partners across field sales, product, and executive stakeholders globally.&lt;/p&gt; &lt;p&gt;The ideal candidate brings deep experience managing strategic alliances within the cybersecurity industry, a strong co-sell track record, and genuine passion for building partnerships that create measurable outcomes for joint customers.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What You Will Do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own Abnormal\u2019s global relationships with CrowdStrike, Cyera, and other managed-phase strategic partners across co-sell, field enablement, programs, executive alignment, and joint GTM execution.&lt;/li&gt; &lt;li&gt;Facilitate and manage co-selling opportunities, account mapping, and joint sales engagements between partner field teams and Abnormal.&lt;/li&gt; &lt;li&gt;Drive pipeline development with partner field sellers and alliance counterparts, tracking opportunities and bookings to provide accurate forecasts and funnel management reports.&lt;/li&gt; &lt;li&gt;Develop and deliver joint GTM initiatives, sales enablement content, and training to accelerate adoption across each partner\u2019s ecosystem.&lt;/li&gt; &lt;li&gt;Build and maintain executive-level relationships across your partner portfolio to drive strategic alignment, investment, and joint planning.&lt;/li&gt; &lt;li&gt;Develop annual and quarterly business plans per partner, including pipeline targets, performance goals, and execution strategies.&lt;/li&gt; &lt;li&gt;Represent Abnormal at partner events including CrowdStrike\u2019s Fal.Con, Cyera events, partner summits, and industry conferences, identifying ecosystem alignment opportunities with regional and national channel partners.&lt;/li&gt; &lt;li&gt;Serve as the escalation point for pre-sales and post-sales issues requiring partner coordination.&lt;/li&gt; &lt;li&gt;Manage partner lifecycle transitions: when a strategic alliance reaches the managed phase, onboard it into your portfolio and establish structured joint planning from day one.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;AI-Forward Mindset&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;At Abnormal AI, we believe in using AI to make everyone more productive and effective. In this role, you will be expected to:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Leverage AI tools to streamline reporting, pipeline analysis, account research, and enablement content creation.&lt;/li&gt; &lt;li&gt;Demonstrate comfort experimenting with emerging AI tools and actively seek ways to incorporate them into your workflow.&lt;/li&gt; &lt;li&gt;Bring an AI-forward perspective to partner conversations, articulating how Abnormal\u2019s AI-native platform differentiates across your partner ecosystems.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Must Haves&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;5+ years of alliance or partner management experience, including direct experience managing strategic co-sell relationships with CrowdStrike, Cyera, or comparable top-tier cybersecurity or data security platform vendors.&lt;/li&gt; &lt;li&gt;Cybersecurity industry experience with a solid understanding of security ecosystems, endpoint and identity security, and how enterprise security teams buy and operate.&lt;/li&gt; &lt;li&gt;Demonstrated ability to build and scale co-sell pipeline across multiple partners simultaneously, with a track record of driving measurable revenue growth through alliance partnerships.&lt;/li&gt; &lt;li&gt;Strong written, verbal, and executive communication skills; comfortable presenting to C-level stakeholders at both Abnormal and partner organizations.&lt;/li&gt; &lt;li&gt;Ability to operate independently and execute in a fast-paced, high-growth environment while managing multiple partners and stakeholders across organizations.&lt;/li&gt; &lt;li&gt;Strategic thinker who can also roll up their sleeves and execute at a tactical level, from account mapping sessions to QBR preparation.&lt;/li&gt; &lt;li&gt;Organized and process-oriented: able to maintain structured joint business plans, forecasts, and cadences across a portfolio of managed partnerships.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Nice to Have&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Existing relationships within CrowdStrike\u2019s alliance, field sales, or BD organization.&lt;/li&gt; &lt;li&gt;Existing relationships within Cyera\u2019s alliance or field organization.&lt;/li&gt; &lt;li&gt;Experience with the CrowdXDR Alliance, Falcon Fund partner ecosystem, or CrowdStrike Marketplace programs.&lt;/li&gt; &lt;li&gt;Familiarity with data security, DLP, or DSPM platforms and the Cyera ecosystem.&lt;/li&gt; &lt;li&gt;Technical familiarity with email security, identity threat detection, or SIEM platforms.&lt;/li&gt; &lt;li&gt;Prior experience at or as a partner to a high-growth cybersecurity company.&lt;/li&gt; &lt;li&gt;Bachelor\u2019s degree in Business, Marketing, or a related field.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;#LI-TY1&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;Actual compensation will be determined based on several non-discriminatory factors including skills, experience, qualifications, and geographic location.&lt;br&gt;In addition to base salary, this role may be eligible for bonus or incentive compensation, equity, and a comprehensive benefits package.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base salary range:&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$193,840&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$228,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;A note on AI in our process:&amp;nbsp;&lt;br&gt;&lt;/strong&gt;Abnormal AI uses AI-assisted tools to help our recruiting team prepare for candidate interviews. These tools analyze resume content and role requirements to suggest interview questions and areas for the interviewer to explore.They do not make hiring decisions or screen candidates automatically. Every decision about a candidacy is made by a person. Further, if your application is successful and Abnormal AI makes a conditional offer of employment, we will carry out pre-employment checks which must be successfully completed to progress to a final offer. All processes and pre-employment checks are in line with prevailing legislation and Abnormal AI&#39;s policies relevant to our security and privacy standards.&lt;/p&gt; &lt;p&gt;Abnormal AI is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by law. For our EEO policy statement please &lt;a href=&quot;https://assets.contentstack.io/v3/assets/blt3a076cfd9753fa1f/blt9cbda641db7c0045/6a1e3d3a66aea075cd33e462/AAP_and_EEO_Statement.pdf&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;em&gt;click here&lt;/em&gt;&lt;/span&gt;&lt;/a&gt;. If you would like more information on your EEO rights under the law, please&amp;nbsp;&lt;em&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;https://assets.contentstack.io/v3/assets/blt3a076cfd9753fa1f/blt4eb3a265cc7b1ca9/6a1e3d3bfe33e73c16ff026b/EEOC_Know_Your_Rights_Oct_30_2025.pdf&quot; target=&quot;_blank&quot;&gt;click here&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-09-24T14:39:36-04:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth execution, but lacks direct cybersecurity alliance/co-sell experience and CrowdStrike/Cyera relationship history that posting emphasizes as must-have.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Manager level confirmed; program/growth focus is adjacent to alliance management but not identical."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 52,
+          "note": "Strong GTM, pipeline, cross-functional leadership; missing co-sell, account mapping, partner lifecycle, and vendor ecosystem depth."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 28,
+          "note": "EdTech background; no cybersecurity, endpoint security, identity security, or security ecosystem exposure mentioned."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 54,
+          "note": "Proven pipeline growth and P&L ownership; no evidence of managing strategic vendor partnerships or co-sell revenue."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; Abnormal is established but posting silent on sponsorship willingness."
+        }
+      ],
+      "missing_keywords": [
+        "cybersecurity industry experience",
+        "CrowdStrike or Cyera co-sell",
+        "strategic alliance management",
+        "endpoint and identity security",
+        "partner lifecycle management"
+      ],
+      "top_signal": "8+ years GTM ownership with quantified pipeline growth (38% CAC lift, 19% ARR increase), cross-functional leadership at scale, and demonstrated ability to diagnose and redesign multi-channel motions.",
+      "biggest_gap": "Zero direct cybersecurity or partner/alliance management experience; candidate has never managed co-sell relationships with platform vendors or navigated security ecosystem buying dynamics."
+    },
+    "deprioritized": true,
+    "new_grad_program": false,
+    "found_at": "2026-09-25T17:45:42.059013+00:00"
   }
 ]
