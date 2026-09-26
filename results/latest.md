@@ -1,35 +1,67 @@
 # Job Radar
 
-Run: 2026-09-25T17:47:02.323684+00:00
+Run: 2026-09-26T16:52:58.583720+00:00
 
-Companies: 304 checked, 298 connected, 6 failed
-Estimated spend this run: $0.0214
+Companies: 304 checked, 301 connected, 3 failed
+Estimated spend this run: $0.0502
 
-## New this run (3)
+## New this run (7)
 
-### 68 -- Product Marketing Manager, Revenue suite @ Stripe (United States)
-**Worth Applying** -- Strong GTM and growth track record with cross-functional leadership, but lacks direct product marketing depth and B2B SaaS payment/fintech domain experience that Stripe values.
-[View posting](https://stripe.com/jobs/search?gh_jid=8233263)
+### 72 -- Demand Generation Manager @ Osano (Remote)
+**Worth Applying** -- Strong demand generation and funnel optimization experience, but lacks hands-on paid media platform management and SaaS-specific campaign scaling track record.
+[View posting](https://job-boards.greenhouse.io/osano/jobs/5435834008)
 
-- Top signal: P&L ownership across 5 markets, 60-person cross-functional team leadership, and proven ability to redesign positioning and GTM for measurable revenue impact (38% CAC improvement, 25% sales lift).
-- Biggest gap: No direct product marketing experience or B2B SaaS/fintech domain depth; candidate's background is EdTech GTM strategy and business development, not product positioning for technical/financial buyer personas at enterprise scale.
-- Missing keywords: Product marketing (direct discipline), B2B SaaS, Fintech / payments domain, Feature-to-benefit translation, Demand generation campaign ROI
+- Top signal: Rebuilt multi-channel GTM sequence (paid, outbound, referral) and diagnosed funnel inefficiency for EdTech at scale; GEO research signals AI/SaaS fluency.
+- Biggest gap: No demonstrated hands-on experience running paid search or LinkedIn campaigns directly in platforms with scale and ROI optimization — a core day-one responsibility.
+- Missing keywords: hands-on paid search management, LinkedIn campaign platform experience, SaaS revenue scaling, lead scoring and nurturing workflows, multi-touch attribution modeling
 
-### 52 -- Partner Manager, Microsoft Co-sell @ Anthropic (San Francisco, CA | New York City, NY)
-**Stretch** -- Strong GTM and cross-functional execution, but lacks hands-on partner co-sell, Azure Marketplace operations, and enterprise deal-closure experience that role demands.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5391253008)
+### 71 -- Senior Product Marketing Manager @ Sproutsocial (Remote US)
+**Worth Applying** -- Strong GTM foundation and AI visibility research, but pure PMM depth in enterprise B2B SaaS and AI product launches is limited; EdTech and growth-operations background don't fully map to Sprout's strategic positioning narrative demands.
+[View posting](https://sproutsocial.com/careers/open-positions/8233333/?gh_jid=8233333)
 
-- Top signal: Proven ability to own end-to-end revenue funnel, rebuild sales operations for 42% productivity gain, and maintain operational rigor across matrixed teams at scale.
-- Biggest gap: No hands-on experience navigating cloud marketplace transactions, unblocking vendor-side deal blockers, or running a dedicated partner co-sell motion with quantified results.
-- Missing keywords: Azure Marketplace, partner co-sell, ISV ecosystem, private offers, deal operations
+- Top signal: Hands-on GEO research across 7 AI platforms uniquely positions candidate to authentically engage Trellis positioning; combined with 8+ years GTM ownership and P&L accountability across international markets.
+- Biggest gap: No demonstrated track record building enterprise-scale positioning narratives, influencing analyst coverage, or leading portfolio-level AI product launches; EdTech and growth-operations focus does not prove ability to operate at Sprout's strategic, C-suite narrative level.
+- Missing keywords: enterprise B2B SaaS portfolio launches, LLM/NLP conceptual depth, industry analyst relations, C-suite executive messaging, multi-year AI category strategy
 
-### 42 -- Strategic Alliances Manager @ Abnormalsecurity (Remote - USA) (deprioritized company)
-**Stretch** -- Strong GTM and growth execution, but lacks direct cybersecurity alliance/co-sell experience and CrowdStrike/Cyera relationship history that posting emphasizes as must-have.
-[View posting](https://abnormal.ai/careers/jobs/7780528003?gh_jid=7780528003)
+### 68 -- Senior Product Marketing Manager @ Datadog (New York, New York, USA)
+**Worth Applying** -- Strong GTM and positioning chops, but lacks explicit Enterprise B2B SaaS PMM experience and deep infrastructure/DevOps domain knowledge that Datadog heavily emphasizes.
+[View posting](https://careers.datadoghq.com/detail/8113654/?gh_jid=8113654)
 
-- Top signal: 8+ years GTM ownership with quantified pipeline growth (38% CAC lift, 19% ARR increase), cross-functional leadership at scale, and demonstrated ability to diagnose and redesign multi-channel motions.
-- Biggest gap: Zero direct cybersecurity or partner/alliance management experience; candidate has never managed co-sell relationships with platform vendors or navigated security ecosystem buying dynamics.
-- Missing keywords: cybersecurity industry experience, CrowdStrike or Cyera co-sell, strategic alliance management, endpoint and identity security, partner lifecycle management
+- Top signal: Owned GTM strategy and P&L across 5 markets with direct positioning redesign impact; proven ability to segment audiences and drive adoption at scale in high-growth environment.
+- Biggest gap: No enterprise infrastructure/monitoring domain expertise or demonstrated PMM background in technical SaaS; EdTech D2C motion differs significantly from Datadog's developer/DevOps GTM motion.
+- Missing keywords: Infrastructure Monitoring (APM/Log Management/DEM/Security), Enterprise B2B SaaS (only B2C EdTech shown), DevOps ecosystem familiarity, Cloud-native/FaaS technical fluency, Product launch narrative storytelling
+
+### 68 -- Product Marketing Manager, Procurement - Remote @ Agiloft (United States)
+**Worth Applying** -- Strong GTM and product marketing foundation with proven D2C funnel expertise, but limited enterprise B2B SaaS procurement domain experience and no CLM/contract management background.
+[View posting](https://jobs.lever.co/agiloft/a9508289-bc8f-41be-8dd9-530714ed7e93)
+
+- Top signal: Built and scaled GTM from ground up at PlanetSpark and BYJU'S with 38% CAC lift and 25% sales growth; proven ability to synthesize competitive research into positioning and packaging—exactly the high-ownership, intelligence-led motion Agiloft seeks.
+- Biggest gap: No demonstrated experience in enterprise B2B SaaS, legal-tech, contract management, or procurement domain; will require significant onboarding to procurement buyer psychology and CLM market landscape.
+- Missing keywords: contract lifecycle management (CLM), enterprise B2B SaaS, supplier risk management, analyst relations, procurement workflows
+
+### 62 -- Lifecycle Marketing Manager @ Sproutsocial (Remote US)
+**Worth Applying** -- Strong lifecycle and adoption experience with proven cross-functional execution, but lacks explicit in-app/digital adoption strategy ownership and social media marketing depth.
+[View posting](https://sproutsocial.com/careers/open-positions/8233922/?gh_jid=8233922)
+
+- Top signal: 8+ years cross-functional GTM execution with hands-on funnel optimization, onboarding design, and retention interventions directly applicable to lifecycle program strategy.
+- Biggest gap: No demonstrated experience with in-app or digital adoption strategy platforms, and unfamiliarity with social media marketing domain limits credibility with Sprout's customer base.
+- Missing keywords: in-app communications strategy, digital adoption platforms (Pendo, Gainsight, Customer.io), social media marketing landscape, product adoption campaign ownership, lifecycle email automation
+
+### 52 -- Associate Product Marketing Manager @ Starburst (Boston, MA) (deprioritized company)
+**Stretch** -- Strong GTM and growth credentials, but title mismatch (Manager level vs. Associate), B2B data/analytics domain shift, and lack of direct PMM experience create meaningful gaps.
+[View posting](https://job-boards.greenhouse.io/starburst/jobs/5423183008)
+
+- Top signal: Proven ability to diagnose GTM gaps, redesign messaging for 25% sales uplift, and build cross-functional alignment at scale across international markets.
+- Biggest gap: No direct product marketing or product management background; all experience is growth/BD/GTM, not PMM-specific product launches, analyst engagement, or technical infrastructure positioning.
+- Missing keywords: Product launch ownership, Analyst relations, Data/AI infrastructure, Proof-of-concept (POC) support, Technical buyer messaging
+
+### 42 -- Business Development Manager - Strategic Cuisine (Asian) @ Toast (Remote, US)
+**Stretch** -- Strong GTM and team-building track record, but lacks Mandarin fluency and direct closing sales quota experience—both non-negotiable requirements.
+[View posting](https://careers.toasttab.com/jobs?gh_jid=8226417)
+
+- Top signal: Exceptional team-building, funnel optimization, and 8+ years GTM strategy at scale with quantified revenue impact.
+- Biggest gap: No demonstrated personal closing sales quota; Mandarin fluency not mentioned anywhere in profile—a hard requirement for this role.
+- Missing keywords: Mandarin fluency (mandatory), Direct closing sales quota attainment (non-negotiable), BDR/SDR team management experience, Restaurant or F&B industry background, Multilingual team leadership proof
 
 ## Top 15 all-time
 
