@@ -1,6 +1,6 @@
 # Job Radar
 
-Run: 2026-09-27T17:27:17.223322+00:00
+Run: 2026-09-28T19:59:35.291337+00:00
 
 Companies: 304 checked, 300 connected, 4 failed
 Estimated spend this run: $0.0000
