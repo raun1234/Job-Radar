@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-09-28T19:59:35.291337+00:00
+Run: 2026-09-29T18:28:01.254356+00:00
 
-Companies: 304 checked, 300 connected, 4 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 299 connected, 5 failed
+Estimated spend this run: $0.0192
 
-## No new matching postings this run.
+## New this run (3)
+
+### 52 -- Senior Business Development Manager @ Zscaler (Santa Clara, California, USA) (deprioritized company)
+**Stretch** -- Strong GTM and growth credentials but no demonstrated technology alliance ecosystem experience or cybersecurity domain depth required for this partnership-focused role.
+[View posting](https://job-boards.greenhouse.io/zscaler/jobs/5244285007)
+
+- Top signal: 8+ years scaling GTM and cross-functional execution at 150M+ user EdTech platform with proven P&L ownership and revenue impact.
+- Biggest gap: Zero demonstrated experience building or scaling technology partner ecosystems, and no cybersecurity or enterprise data protection domain knowledge required for Data Protection/Email Security alliances at Zscaler.
+- Missing keywords: technology partnerships, partner ecosystem, co-sell revenue, cybersecurity domain, strategic alliances
+
+### 28 -- Business Development Manager, New Construction @ Lendingone ()
+**Weak Fit** -- EdTech GTM background does not transfer to new construction lending; no mortgage, real estate, or B2B construction pipeline experience evident.
+[View posting](https://apply.workable.com/j/721B50369D)
+
+- Top signal: Proven ability to build revenue from zero through structured segmentation and CRM-led targeting; leadership and cross-functional execution at scale.
+- Biggest gap: Fundamental industry mismatch—EdTech D2C is poles apart from construction lending origination, relationship management, and regulatory/compliance motion that lenders require.
+- Missing keywords: mortgage lending, construction finance, contractor relationships, loan origination, real estate pipeline
+
+### 28 -- Business Development Manager, New Construction @ Lendingone ()
+**Weak Fit** -- EdTech growth background does not transfer to construction lending sales; no mortgage, real estate, or financial services domain experience.
+[View posting](https://apply.workable.com/j/2BD6E4E16E)
+
+- Top signal: Demonstrated revenue ownership and cross-functional execution at scale, but in entirely wrong vertical.
+- Biggest gap: Zero financial services, lending, or real estate domain expertise; construction lending requires specialized product, compliance, and relationship knowledge candidate lacks.
+- Missing keywords: construction lending, mortgage origination, real estate, loan products, developer relationships
 
 ## Top 15 all-time
 
