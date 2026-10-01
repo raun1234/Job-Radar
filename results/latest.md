@@ -1,27 +1,51 @@
 # Job Radar
 
-Run: 2026-09-30T18:17:15.339634+00:00
+Run: 2026-10-01T18:41:58.404702+00:00
 
-Companies: 304 checked, 299 connected, 5 failed
-Estimated spend this run: $0.0145
+Companies: 304 checked, 300 connected, 4 failed
+Estimated spend this run: $0.0362
 
-## New this run (2)
+## New this run (5)
 
-### 72 -- Lead Product Marketing Manager @ Carta (San Francisco, CA; New York, NY; Seattle, WA)
-**Worth Applying** -- Strong GTM and messaging expertise, but enterprise SaaS depth and AI-infrastructure proficiency are gaps; EdTech background requires deliberate positioning.
-[View posting](https://job-boards.greenhouse.io/carta/jobs/8001549003)
+### 62 -- Senior Ecosystem Growth Manager @ Ripple (Miami, FL, United States)
+**Worth Applying** -- Strong GTM and growth chops, but lacks crypto/blockchain domain depth and ecosystem partnership experience at scale.
+[View posting](https://ripple.com/careers/all-jobs/job/7646347?gh_jid=7646347)
 
-- Top signal: Generative Engine Optimization research and AI-forward thinking position candidate uniquely for Carta's AI-infrastructure mandate; direct experience building positioning frameworks and translating research into messaging across segments.
-- Biggest gap: No hands-on enterprise SaaS or PE/VC buyer marketing; D2C/EdTech funnel optimization does not signal readiness for multi-stakeholder buying committees and longer sales cycles Carta requires.
-- Missing keywords: enterprise SaaS, PE/VC buyer expertise, Claude or AI-infrastructure proficiency, win/loss analysis at scale, complex deal cycles
+- Top signal: Proven ability to redesign positioning, own multi-market GTM, and lead 60+ cross-functional teams; demonstrated hustle and execution discipline.
+- Biggest gap: Zero demonstrated experience in crypto, blockchain, or fintech ecosystems; no track record sourcing or closing partnerships with VCs, accelerators, or founders.
+- Missing keywords: crypto / blockchain / XRPL ecosystem, venture capital / VC relationship management, accelerator partnerships, emerging markets strategy (Latin America), deal sourcing and structuring
 
-### 52 -- Customer Marketing Manager, Special Projects @ Anthropic (San Francisco, CA | New York City, NY)
-**Stretch** -- Strong GTM and growth foundation, but lacks direct customer marketing, interviewing, and storytelling depth that defines this special projects role.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5439355008)
+### 62 -- Senior Ecosystem Growth Manager @ Ripple (New York, NY, United States)
+**Worth Applying** -- Strong GTM and partnership acumen but lacks crypto/blockchain domain depth and emerging markets expansion experience.
+[View posting](https://ripple.com/careers/all-jobs/job/7646349?gh_jid=7646349)
 
-- Top signal: P&L ownership, 8+ years GTM depth, and GEO research signal strategic thinking and ability to learn complex technical domains quickly.
-- Biggest gap: No demonstrated experience in customer interviewing, case study development, or narrative storytelling—core to this role's DNA.
-- Missing keywords: customer marketing, interviewing and storytelling, editorial/journalism background, proof-point library, AI or developer tools experience
+- Top signal: Proven ability to architect multi-stakeholder partnerships, source high-intent pipelines, close deals end-to-end, and turn market signals into strategy—directly transferable to ecosystem growth.
+- Biggest gap: Zero blockchain/crypto domain knowledge and no emerging markets (especially LatAm) expansion track record—two explicit posting requirements.
+- Missing keywords: blockchain, crypto, developer ecosystem, venture capital relationships, Latin America / emerging markets, XRP Ledger, stablecoins, regulatory expertise
+
+### 52 -- Product Marketing Lead, Public Sector @ Scaleai (Washington, DC)
+**Stretch** -- Strong GTM and product marketing fundamentals, but zero B2G or federal civilian experience and no public sector storytelling track record.
+[View posting](https://job-boards.greenhouse.io/scaleai/jobs/4739058005)
+
+- Top signal: 8+ years progressive GTM ownership with quantified positioning and messaging wins; demonstrated ability to simplify complex technical value into buyer-centric narratives.
+- Biggest gap: Zero B2G or federal civilian experience; EdTech D2C motion does not translate to mission-critical government storytelling or agency stakeholder dynamics.
+- Missing keywords: B2G / Business-to-Government, Federal civilian agencies, Mission owner narratives, Government compliance/security storytelling, Partner marketing government teams
+
+### 51 -- Senior Agentic Demand Generation Manager @ Absorblms (Remote CAN)
+**Stretch** -- Strong GTM and experimentation skills offset by visa sponsorship blocker and lack of B2B outbound/intent data platform hands-on experience.
+[View posting](https://jobs.ashbyhq.com/absorblms/88ab1946-a247-43b5-93bf-5769915f78b4)
+
+- Top signal: Built multi-channel GTM sequences and ran fast-loop experimentation at scale; GEO research shows AI-era marketing fluency.
+- Biggest gap: JD explicitly excludes visa sponsorship candidates; Raunak requires H1B. Additionally, no hands-on experience with intent data, enrichment, or B2B outbound SaaS platforms—the operational core of this role.
+- Missing keywords: contact and intent data platforms, email deliverability and compliance, B2B outbound automation platforms, light SQL or API integration, founding marketer or early-stage growth hire
+
+### 48 -- Senior Agentic Demand Generation Manager @ Absorblms (Remote US)
+**Stretch** -- Strong GTM and growth foundation, but posting explicitly requires no sponsorship and candidate needs H1B; channel-building experience is adjacent but not direct.
+[View posting](https://jobs.ashbyhq.com/absorblms/ef386602-9e7e-494c-b41e-771c06b7b834)
+
+- Top signal: P&L ownership and cross-functional GTM execution at scale; proven ability to diagnose funnel gaps and redesign messaging-market fit across regions.
+- Biggest gap: Posting explicitly forbids sponsorship; candidate requires H1B. Additionally, no evidence of building a net-new demand channel from zero as founding marketer—most experience optimizing existing EdTech motions.
+- Missing keywords: intent data platforms, email deliverability, outbound automation (Apollo, Outreach, Lemlist), founding marketer or early-stage channel build, light SQL / API fluency
 
 ## Top 15 all-time
 
