@@ -1,51 +1,35 @@
 # Job Radar
 
-Run: 2026-10-01T18:41:58.404702+00:00
+Run: 2026-10-02T18:12:17.304041+00:00
 
-Companies: 304 checked, 300 connected, 4 failed
-Estimated spend this run: $0.0362
+Companies: 304 checked, 299 connected, 5 failed
+Estimated spend this run: $0.0217
 
-## New this run (5)
+## New this run (3)
 
-### 62 -- Senior Ecosystem Growth Manager @ Ripple (Miami, FL, United States)
-**Worth Applying** -- Strong GTM and growth chops, but lacks crypto/blockchain domain depth and ecosystem partnership experience at scale.
-[View posting](https://ripple.com/careers/all-jobs/job/7646347?gh_jid=7646347)
+### 52 -- Strategic Business Development Lead  @ Anthropic (San Francisco, CA | New York City, NY | Seattle, WA)
+**Stretch** -- Strong GTM and growth chops but lacks demonstrated large tech partnership deal-making and multi-stream negotiation at enterprise scale.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5441832008)
 
-- Top signal: Proven ability to redesign positioning, own multi-market GTM, and lead 60+ cross-functional teams; demonstrated hustle and execution discipline.
-- Biggest gap: Zero demonstrated experience in crypto, blockchain, or fintech ecosystems; no track record sourcing or closing partnerships with VCs, accelerators, or founders.
-- Missing keywords: crypto / blockchain / XRPL ecosystem, venture capital / VC relationship management, accelerator partnerships, emerging markets strategy (Latin America), deal sourcing and structuring
+- Top signal: GEO research and AI platform knowledge differentiate candidate in AI era; P&L ownership and 38% CAC lift show growth judgment.
+- Biggest gap: No demonstrated track record of owning multi-business tech partnerships or leading multi-stream negotiations with Fortune 500 executives; EdTech scale is 150M users but not tech platform integration depth Anthropic requires.
+- Missing keywords: Large partner relationship ownership (whole relationship, not single deal), Product partnership structuring (embedding, co-development), Multi-stream concurrent negotiations with interlocking terms, Enterprise/Fortune 500 counterpart management, Complex commercial structures and exclusivity/competitive provisions
 
-### 62 -- Senior Ecosystem Growth Manager @ Ripple (New York, NY, United States)
-**Worth Applying** -- Strong GTM and partnership acumen but lacks crypto/blockchain domain depth and emerging markets expansion experience.
-[View posting](https://ripple.com/careers/all-jobs/job/7646349?gh_jid=7646349)
+### 52 -- Revenue Operations Manager @ Scaleai (San Francisco, CA)
+**Stretch** -- Strong GTM and analytics background, but Revenue Ops IC role demands Salesforce/BI depth and operational rigor that profile shows only in passing.
+[View posting](https://job-boards.greenhouse.io/scaleai/jobs/4740043005)
 
-- Top signal: Proven ability to architect multi-stakeholder partnerships, source high-intent pipelines, close deals end-to-end, and turn market signals into strategy—directly transferable to ecosystem growth.
-- Biggest gap: Zero blockchain/crypto domain knowledge and no emerging markets (especially LatAm) expansion track record—two explicit posting requirements.
-- Missing keywords: blockchain, crypto, developer ecosystem, venture capital relationships, Latin America / emerging markets, XRP Ledger, stablecoins, regulatory expertise
+- Top signal: Built KPI performance systems and compressed decision cycles at scale; designed multi-channel GTM sequences with quantified lift (38% CAC improvement, 40% retention gain).
+- Biggest gap: Profile is growth/GTM strategist, not revenue operations specialist—no evidence of owning forecast accuracy, pipeline staging standards, or cross-vertical reporting operations at the level this role demands.
+- Missing keywords: Revenue Operations (title/domain expertise), Forecast modeling / Clari, BI tool fluency (Looker, Hex, Tableau deep expertise), CRM data governance and integrity frameworks, Commission plan design and modeling
 
-### 52 -- Product Marketing Lead, Public Sector @ Scaleai (Washington, DC)
-**Stretch** -- Strong GTM and product marketing fundamentals, but zero B2G or federal civilian experience and no public sector storytelling track record.
-[View posting](https://job-boards.greenhouse.io/scaleai/jobs/4739058005)
+### 31 -- Channel Partner Manager, Public Sector @ Anthropic (Washington, DC)
+**Weak Fit** -- Strong GTM and growth expertise, but zero public sector channel experience and no reseller/distributor relationship management history.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5441387008)
 
-- Top signal: 8+ years progressive GTM ownership with quantified positioning and messaging wins; demonstrated ability to simplify complex technical value into buyer-centric narratives.
-- Biggest gap: Zero B2G or federal civilian experience; EdTech D2C motion does not translate to mission-critical government storytelling or agency stakeholder dynamics.
-- Missing keywords: B2G / Business-to-Government, Federal civilian agencies, Mission owner narratives, Government compliance/security storytelling, Partner marketing government teams
-
-### 51 -- Senior Agentic Demand Generation Manager @ Absorblms (Remote CAN)
-**Stretch** -- Strong GTM and experimentation skills offset by visa sponsorship blocker and lack of B2B outbound/intent data platform hands-on experience.
-[View posting](https://jobs.ashbyhq.com/absorblms/88ab1946-a247-43b5-93bf-5769915f78b4)
-
-- Top signal: Built multi-channel GTM sequences and ran fast-loop experimentation at scale; GEO research shows AI-era marketing fluency.
-- Biggest gap: JD explicitly excludes visa sponsorship candidates; Raunak requires H1B. Additionally, no hands-on experience with intent data, enrichment, or B2B outbound SaaS platforms—the operational core of this role.
-- Missing keywords: contact and intent data platforms, email deliverability and compliance, B2B outbound automation platforms, light SQL or API integration, founding marketer or early-stage growth hire
-
-### 48 -- Senior Agentic Demand Generation Manager @ Absorblms (Remote US)
-**Stretch** -- Strong GTM and growth foundation, but posting explicitly requires no sponsorship and candidate needs H1B; channel-building experience is adjacent but not direct.
-[View posting](https://jobs.ashbyhq.com/absorblms/ef386602-9e7e-494c-b41e-771c06b7b834)
-
-- Top signal: P&L ownership and cross-functional GTM execution at scale; proven ability to diagnose funnel gaps and redesign messaging-market fit across regions.
-- Biggest gap: Posting explicitly forbids sponsorship; candidate requires H1B. Additionally, no evidence of building a net-new demand channel from zero as founding marketer—most experience optimizing existing EdTech motions.
-- Missing keywords: intent data platforms, email deliverability, outbound automation (Apollo, Outreach, Lemlist), founding marketer or early-stage channel build, light SQL / API fluency
+- Top signal: Proven ability to diagnose funnel leaks, rebuild sales ops, and drive repeatable GTM processes at scale (BYJU's, PlanetSpark).
+- Biggest gap: No experience in public sector procurement, reseller networks, or channel partner operations—the core of this role; candidate's entire background is direct-to-consumer and direct B2B.
+- Missing keywords: public sector/government sales experience, reseller/distributor channel management, deal registration and conflict clearance, FedRAMP or federal contracting vehicles, partner rebates and margin administration
 
 ## Top 15 all-time
 
