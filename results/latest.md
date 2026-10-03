@@ -1,35 +1,27 @@
 # Job Radar
 
-Run: 2026-10-02T18:12:17.304041+00:00
+Run: 2026-10-03T16:58:12.802896+00:00
 
-Companies: 304 checked, 299 connected, 5 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 297 connected, 7 failed
+Estimated spend this run: $0.0145
 
-## New this run (3)
+## New this run (2)
 
-### 52 -- Strategic Business Development Lead  @ Anthropic (San Francisco, CA | New York City, NY | Seattle, WA)
-**Stretch** -- Strong GTM and growth chops but lacks demonstrated large tech partnership deal-making and multi-stream negotiation at enterprise scale.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5441832008)
+### 72 -- Senior Product Marketing Manager, Agentic Identity Security (Apono) @ 1Password (United States)
+**Worth Applying** -- Strong GTM and positioning experience, but cybersecurity domain gap and lack of named B2B SaaS depth offset by proven PMM execution.
+[View posting](https://jobs.ashbyhq.com/1password/6e7795dd-d927-484b-8979-9a7aab24e65a)
 
-- Top signal: GEO research and AI platform knowledge differentiate candidate in AI era; P&L ownership and 38% CAC lift show growth judgment.
-- Biggest gap: No demonstrated track record of owning multi-business tech partnerships or leading multi-stream negotiations with Fortune 500 executives; EdTech scale is 150M users but not tech platform integration depth Anthropic requires.
-- Missing keywords: Large partner relationship ownership (whole relationship, not single deal), Product partnership structuring (embedding, co-development), Multi-stream concurrent negotiations with interlocking terms, Enterprise/Fortune 500 counterpart management, Complex commercial structures and exclusivity/competitive provisions
+- Top signal: Proven ability to diagnose messaging-market fit gaps, redesign GTM positioning, and drive measurable sales uplift (25–38%) across multi-region pipelines mirrors the strategic repositioning and narrative-building required for Apono's next chapter.
+- Biggest gap: No demonstrated experience in cybersecurity, enterprise B2B SaaS, or complex technical buyer environments; EdTech D2C funnel expertise does not signal readiness for identity/access governance selling motion or security category depth.
+- Missing keywords: cybersecurity domain expertise, enterprise B2B SaaS experience, technical buyer personas, emerging category or category creation, complex sales cycles
 
-### 52 -- Revenue Operations Manager @ Scaleai (San Francisco, CA)
-**Stretch** -- Strong GTM and analytics background, but Revenue Ops IC role demands Salesforce/BI depth and operational rigor that profile shows only in passing.
-[View posting](https://job-boards.greenhouse.io/scaleai/jobs/4740043005)
+### 68 --  Demand Generation Manager  @ Zscaler (Remote - USA) (deprioritized company)
+**Worth Applying** -- Strong D2C funnel and multi-channel campaign skills, but lack of explicit B2B tech demand gen and paid acquisition depth creates a notable gap versus posted requirements.
+[View posting](https://job-boards.greenhouse.io/zscaler/jobs/5252242007)
 
-- Top signal: Built KPI performance systems and compressed decision cycles at scale; designed multi-channel GTM sequences with quantified lift (38% CAC improvement, 40% retention gain).
-- Biggest gap: Profile is growth/GTM strategist, not revenue operations specialist—no evidence of owning forecast accuracy, pipeline staging standards, or cross-vertical reporting operations at the level this role demands.
-- Missing keywords: Revenue Operations (title/domain expertise), Forecast modeling / Clari, BI tool fluency (Looker, Hex, Tableau deep expertise), CRM data governance and integrity frameworks, Commission plan design and modeling
-
-### 31 -- Channel Partner Manager, Public Sector @ Anthropic (Washington, DC)
-**Weak Fit** -- Strong GTM and growth expertise, but zero public sector channel experience and no reseller/distributor relationship management history.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5441387008)
-
-- Top signal: Proven ability to diagnose funnel leaks, rebuild sales ops, and drive repeatable GTM processes at scale (BYJU's, PlanetSpark).
-- Biggest gap: No experience in public sector procurement, reseller networks, or channel partner operations—the core of this role; candidate's entire background is direct-to-consumer and direct B2B.
-- Missing keywords: public sector/government sales experience, reseller/distributor channel management, deal registration and conflict clearance, FedRAMP or federal contracting vehicles, partner rebates and margin administration
+- Top signal: Owns full D2C funnel P&L with 38% CAC lift and 27% conversion rate gains; proven ability to design multi-touch nurture sequences and rebuild funnel architecture.
+- Biggest gap: All demand gen experience is EdTech D2C; zero demonstrated depth in B2B tech paid media, ABM-at-scale, or enterprise deal acceleration—core to Zscaler's motion.
+- Missing keywords: paid acquisition, email marketing campaigns, content syndication, virtual events, B2B enterprise sales cycle
 
 ## Top 15 all-time
 
