@@ -1,27 +1,11 @@
 # Job Radar
 
-Run: 2026-10-03T16:58:12.802896+00:00
+Run: 2026-10-04T17:16:53.212335+00:00
 
-Companies: 304 checked, 297 connected, 7 failed
-Estimated spend this run: $0.0145
+Companies: 304 checked, 298 connected, 6 failed
+Estimated spend this run: $0.0000
 
-## New this run (2)
-
-### 72 -- Senior Product Marketing Manager, Agentic Identity Security (Apono) @ 1Password (United States)
-**Worth Applying** -- Strong GTM and positioning experience, but cybersecurity domain gap and lack of named B2B SaaS depth offset by proven PMM execution.
-[View posting](https://jobs.ashbyhq.com/1password/6e7795dd-d927-484b-8979-9a7aab24e65a)
-
-- Top signal: Proven ability to diagnose messaging-market fit gaps, redesign GTM positioning, and drive measurable sales uplift (25–38%) across multi-region pipelines mirrors the strategic repositioning and narrative-building required for Apono's next chapter.
-- Biggest gap: No demonstrated experience in cybersecurity, enterprise B2B SaaS, or complex technical buyer environments; EdTech D2C funnel expertise does not signal readiness for identity/access governance selling motion or security category depth.
-- Missing keywords: cybersecurity domain expertise, enterprise B2B SaaS experience, technical buyer personas, emerging category or category creation, complex sales cycles
-
-### 68 --  Demand Generation Manager  @ Zscaler (Remote - USA) (deprioritized company)
-**Worth Applying** -- Strong D2C funnel and multi-channel campaign skills, but lack of explicit B2B tech demand gen and paid acquisition depth creates a notable gap versus posted requirements.
-[View posting](https://job-boards.greenhouse.io/zscaler/jobs/5252242007)
-
-- Top signal: Owns full D2C funnel P&L with 38% CAC lift and 27% conversion rate gains; proven ability to design multi-touch nurture sequences and rebuild funnel architecture.
-- Biggest gap: All demand gen experience is EdTech D2C; zero demonstrated depth in B2B tech paid media, ABM-at-scale, or enterprise deal acceleration—core to Zscaler's motion.
-- Missing keywords: paid acquisition, email marketing campaigns, content syndication, virtual events, B2B enterprise sales cycle
+## No new matching postings this run.
 
 ## Top 15 all-time
 

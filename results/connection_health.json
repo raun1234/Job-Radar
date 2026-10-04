@@ -1,14 +1,14 @@
 {
-  "run_at": "2026-10-03T16:58:12.800146+00:00",
+  "run_at": "2026-10-04T17:16:53.209559+00:00",
   "summary": {
     "total": 304,
-    "connected": 297,
-    "failed": 7,
+    "connected": 298,
+    "failed": 6,
     "rate": "98%",
-    "estimated_spend": 0.0145,
-    "run_at": "2026-10-03T16:58:12.800146+00:00",
+    "estimated_spend": 0.0,
+    "run_at": "2026-10-04T17:16:53.209559+00:00",
     "skip_counts": {
-      "title": 139,
+      "title": 4,
       "location": 0,
       "age": 0,
       "years": 0,
@@ -17,10 +17,16 @@
   },
   "connected": [
     {
+      "name": "Jobgether",
+      "token": "jobgether",
+      "ats": "lever",
+      "jobs_found": 3696
+    },
+    {
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 886
+      "jobs_found": 887
     },
     {
       "name": "Stripe",
@@ -32,13 +38,13 @@
       "name": "Anthropic",
       "token": "anthropic",
       "ats": "greenhouse",
-      "jobs_found": 640
+      "jobs_found": 638
     },
     {
       "name": "Datadog",
       "token": "datadog",
       "ats": "greenhouse",
-      "jobs_found": 445
+      "jobs_found": 444
     },
     {
       "name": "Cloudflare",
@@ -50,13 +56,13 @@
       "name": "Elastic",
       "token": "elastic",
       "ats": "greenhouse",
-      "jobs_found": 394
+      "jobs_found": 392
     },
     {
       "name": "MongoDB",
       "token": "mongodb",
       "ats": "greenhouse",
-      "jobs_found": 390
+      "jobs_found": 389
     },
     {
       "name": "Okta",
@@ -104,7 +110,7 @@
       "name": "Samsara",
       "token": "samsara",
       "ats": "greenhouse",
-      "jobs_found": 245
+      "jobs_found": 247
     },
     {
       "name": "Coinbase",
@@ -200,7 +206,7 @@
       "name": "Lightspeed Commerce",
       "token": "lightspeedhq",
       "ats": "ashby",
-      "jobs_found": 141
+      "jobs_found": 139
     },
     {
       "name": "Wiz",
@@ -260,7 +266,7 @@
       "name": "Grafana Labs",
       "token": "grafanalabs",
       "ats": "greenhouse",
-      "jobs_found": 122
+      "jobs_found": 121
     },
     {
       "name": "Gen Digital",
@@ -284,7 +290,7 @@
       "name": "Payoneer",
       "token": "payoneer",
       "ats": "greenhouse",
-      "jobs_found": 107
+      "jobs_found": 106
     },
     {
       "name": "Dun and Bradstreet",
@@ -296,19 +302,19 @@
       "name": "Five9",
       "token": "five9",
       "ats": "greenhouse",
-      "jobs_found": 103
+      "jobs_found": 100
+    },
+    {
+      "name": "Diligent",
+      "token": "diligentcorporation",
+      "ats": "greenhouse",
+      "jobs_found": 99
     },
     {
       "name": "OpenTable",
       "token": "opentable",
       "ats": "greenhouse",
       "jobs_found": 99
-    },
-    {
-      "name": "Diligent",
-      "token": "diligentcorporation",
-      "ats": "greenhouse",
-      "jobs_found": 98
     },
     {
       "name": "Asana",
@@ -437,15 +443,15 @@
       "jobs_found": 75
     },
     {
-      "name": "Human Interest",
-      "token": "humaninterest",
-      "ats": "greenhouse",
-      "jobs_found": 72
-    },
-    {
       "name": "Lendable",
       "token": "lendable",
       "ats": "ashby",
+      "jobs_found": 71
+    },
+    {
+      "name": "Human Interest",
+      "token": "humaninterest",
+      "ats": "greenhouse",
       "jobs_found": 71
     },
     {
@@ -587,6 +593,12 @@
       "jobs_found": 49
     },
     {
+      "name": "Arcesium",
+      "token": "arcesiumllc",
+      "ats": "greenhouse",
+      "jobs_found": 49
+    },
+    {
       "name": "adjoe",
       "token": "adjoe",
       "ats": "ashby",
@@ -595,12 +607,6 @@
     {
       "name": "Apollo",
       "token": "apolloio",
-      "ats": "greenhouse",
-      "jobs_found": 48
-    },
-    {
-      "name": "Arcesium",
-      "token": "arcesiumllc",
       "ats": "greenhouse",
       "jobs_found": 48
     },
@@ -857,16 +863,16 @@
       "jobs_found": 28
     },
     {
-      "name": "Torq",
-      "token": "torq",
-      "ats": "greenhouse",
-      "jobs_found": 27
-    },
-    {
       "name": "Mento",
       "token": "mento",
       "ats": "ashby",
       "jobs_found": 27
+    },
+    {
+      "name": "Torq",
+      "token": "torq",
+      "ats": "greenhouse",
+      "jobs_found": 26
     },
     {
       "name": "Vapi",
@@ -929,6 +935,12 @@
       "jobs_found": 24
     },
     {
+      "name": "Alloy",
+      "token": "alloy",
+      "ats": "greenhouse",
+      "jobs_found": 24
+    },
+    {
       "name": "Mindbody",
       "token": "mindbody",
       "ats": "greenhouse",
@@ -953,8 +965,8 @@
       "jobs_found": 23
     },
     {
-      "name": "Alloy",
-      "token": "alloy",
+      "name": "Axonius",
+      "token": "axonius",
       "ats": "greenhouse",
       "jobs_found": 23
     },
@@ -975,12 +987,6 @@
       "token": "sproutsocial",
       "ats": "greenhouse",
       "jobs_found": 23
-    },
-    {
-      "name": "Axonius",
-      "token": "axonius",
-      "ats": "greenhouse",
-      "jobs_found": 22
     },
     {
       "name": "DailyPay",
@@ -1061,12 +1067,6 @@
       "jobs_found": 19
     },
     {
-      "name": "Anrok",
-      "token": "anrok",
-      "ats": "ashby",
-      "jobs_found": 18
-    },
-    {
       "name": "Midjourney",
       "token": "midjourney",
       "ats": "ashby",
@@ -1105,6 +1105,12 @@
     {
       "name": "Middesk",
       "token": "middesk",
+      "ats": "ashby",
+      "jobs_found": 17
+    },
+    {
+      "name": "Anrok",
+      "token": "anrok",
       "ats": "ashby",
       "jobs_found": 17
     },
@@ -1800,11 +1806,6 @@
     }
   ],
   "failed": [
-    {
-      "name": "Jobgether",
-      "token": "jobgether",
-      "reason": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=10)"
-    },
     {
       "name": "ClickHouse",
       "token": "clickhouse",
