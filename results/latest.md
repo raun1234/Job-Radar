@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-10-04T17:16:53.212335+00:00
+Run: 2026-10-05T21:02:49.197412+00:00
 
-Companies: 304 checked, 298 connected, 6 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 296 connected, 8 failed
+Estimated spend this run: $0.0217
 
-## No new matching postings this run.
+## New this run (3)
+
+### 72 -- Product Marketing Manager, Strategic Partnerships @ Greenhouse (Anywhere in the United States)
+**Worth Applying** -- Strong GTM and cross-functional skills, but lacks explicit partner/channel marketing depth and is overqualified on P&L ownership for a manager-level role.
+[View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8233584?gh_jid=8233584)
+
+- Top signal: End-to-end D2C funnel ownership, positioning redesign (25% sales lift), and cross-functional leadership across 60+ teams demonstrate structured GTM execution at scale.
+- Biggest gap: No direct partner marketing, channel strategy, or co-sell campaign experience; role explicitly seeks partner/ecosystem narrative familiarity that profile does not demonstrate.
+- Missing keywords: Partner ecosystem / channel marketing, Co-sell motion or joint GTM, Partner enablement at scale, Integration marketing, Co-marketing campaign lead
+
+### 68 -- Business Development Manager, Retail @ Toast (Remote)
+**Worth Applying** -- Strong BD and team leadership foundation, but no direct retail/hospitality experience and managing BDRs differs from previous GTM/growth leadership scope.
+[View posting](https://careers.toasttab.com/jobs?gh_jid=8250182)
+
+- Top signal: Proven ability to diagnose funnel leaks, redesign GTM sequences, and drive revenue lift through cross-functional alignment and metrics discipline.
+- Biggest gap: No hands-on experience managing, hiring, or coaching outbound business development representatives; all prior roles were strategic GTM or growth leadership, not direct sales team management.
+- Missing keywords: BDR team management, outbound sales coaching, hospitality or retail industry, new vertical launch, direct quota/activity accountability
+
+### 52 -- Lifecycle Marketing Manager @ Headway (Remote)
+**Stretch** -- Strong GTM and funnel optimization skills, but lacks direct lifecycle marketing platform experience (Iterable, Intercom) and proven behavior-change campaign track record.
+[View posting](https://jobs.ashbyhq.com/headway/e40b86bb-4706-4e61-b186-6aab977bb3bc)
+
+- Top signal: 8+ years building D2C funnels, segmentation, and retention at scale (38% acquisition lift, 40% retention improvement); strong test-and-learn mindset and cross-functional execution.
+- Biggest gap: No hands-on experience with Iterable or Intercom; lifecycle marketing narrative absent—profile emphasizes acquisition and early onboarding over long-term behavior-driven engagement programs.
+- Missing keywords: Iterable, Intercom, behavioral triggers, lifecycle journey mapping, provider engagement
 
 ## Top 15 all-time
 
