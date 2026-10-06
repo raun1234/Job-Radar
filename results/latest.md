@@ -1,35 +1,35 @@
 # Job Radar
 
-Run: 2026-10-05T21:02:49.197412+00:00
+Run: 2026-10-06T18:46:17.724462+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
 Estimated spend this run: $0.0217
 
 ## New this run (3)
 
-### 72 -- Product Marketing Manager, Strategic Partnerships @ Greenhouse (Anywhere in the United States)
-**Worth Applying** -- Strong GTM and cross-functional skills, but lacks explicit partner/channel marketing depth and is overqualified on P&L ownership for a manager-level role.
-[View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8233584?gh_jid=8233584)
+### 67 -- GTM Strategy & Planning Manager @ Fivetran (Denver, Colorado, United States, AMER)
+**Worth Applying** -- Strong GTM and growth background, but role requires heavy quota-setting/territory planning ops expertise Raunak lacks direct proof of.
+[View posting](https://www.fivetran.com/careers/job?gh_jid=8014715003)
 
-- Top signal: End-to-end D2C funnel ownership, positioning redesign (25% sales lift), and cross-functional leadership across 60+ teams demonstrate structured GTM execution at scale.
-- Biggest gap: No direct partner marketing, channel strategy, or co-sell campaign experience; role explicitly seeks partner/ecosystem narrative familiarity that profile does not demonstrate.
-- Missing keywords: Partner ecosystem / channel marketing, Co-sell motion or joint GTM, Partner enablement at scale, Integration marketing, Co-marketing campaign lead
+- Top signal: P&L ownership across 5 city markets + 60-person cross-functional team leadership demonstrates the scale and complexity for a GTM ops role.
+- Biggest gap: No explicit quota-setting, territory design, or sales ops framework experience; role is operationally deep in ways Raunak's growth-and-demand-generation track does not directly overlap.
+- Missing keywords: quota-setting / quota management, territory design / territory planning, headcount planning / capacity planning, field operations / sales operations, top-down bottoms-up reconciliation
 
-### 68 -- Business Development Manager, Retail @ Toast (Remote)
-**Worth Applying** -- Strong BD and team leadership foundation, but no direct retail/hospitality experience and managing BDRs differs from previous GTM/growth leadership scope.
-[View posting](https://careers.toasttab.com/jobs?gh_jid=8250182)
+### 62 -- GTM Strategy & Planning Manager @ Fivetran (Oakland, California, United States, AMER)
+**Worth Applying** -- Strong GTM and funnel ownership experience, but lacks direct sales operations, territory design, and quota-setting expertise that define this role.
+[View posting](https://www.fivetran.com/careers/job?gh_jid=8014716003)
 
-- Top signal: Proven ability to diagnose funnel leaks, redesign GTM sequences, and drive revenue lift through cross-functional alignment and metrics discipline.
-- Biggest gap: No hands-on experience managing, hiring, or coaching outbound business development representatives; all prior roles were strategic GTM or growth leadership, not direct sales team management.
-- Missing keywords: BDR team management, outbound sales coaching, hospitality or retail industry, new vertical launch, direct quota/activity accountability
+- Top signal: P&L ownership across 5 city markets and demonstrated ability to build KPI systems and cross-functional operating discipline at scale.
+- Biggest gap: No direct sales operations, territory management, or quota-setting background; this role is ops-focused, not GTM strategy/growth-focused.
+- Missing keywords: quota-setting, territory design, headcount planning, sales operations, capacity planning, field operations, ramp assumptions, pipeline analytics
 
-### 52 -- Lifecycle Marketing Manager @ Headway (Remote)
-**Stretch** -- Strong GTM and funnel optimization skills, but lacks direct lifecycle marketing platform experience (Iterable, Intercom) and proven behavior-change campaign track record.
-[View posting](https://jobs.ashbyhq.com/headway/e40b86bb-4706-4e61-b186-6aab977bb3bc)
+### 52 -- Senior Technology Partner Manager @ Datadog (New York, New York, USA)
+**Stretch** -- Strong GTM and growth foundation, but no direct technology partnerships, alliances, or co-sell experience; EdTech B2C2C motion does not translate clearly to B2B SaaS partner ecosystem.
+[View posting](https://careers.datadoghq.com/detail/8257217/?gh_jid=8257217)
 
-- Top signal: 8+ years building D2C funnels, segmentation, and retention at scale (38% acquisition lift, 40% retention improvement); strong test-and-learn mindset and cross-functional execution.
-- Biggest gap: No hands-on experience with Iterable or Intercom; lifecycle marketing narrative absent—profile emphasizes acquisition and early onboarding over long-term behavior-driven engagement programs.
-- Missing keywords: Iterable, Intercom, behavioral triggers, lifecycle journey mapping, provider engagement
+- Top signal: 8+ years cross-functional GTM execution, P&L ownership, and sales enablement at scale; proven ability to orchestrate multi-team initiatives and drive revenue through positioning.
+- Biggest gap: Zero direct partnership or alliance management experience; no evidence of co-build, co-market, or co-sell program design at the vendor or ecosystem level.
+- Missing keywords: Technology partnerships, Alliance management, Co-sell motions, Integration roadmaps, AI/ML ecosystem, Marketplace strategy
 
 ## Top 15 all-time
 
