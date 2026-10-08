@@ -1,67 +1,35 @@
 # Job Radar
 
-Run: 2026-10-07T19:13:05.897221+00:00
+Run: 2026-10-08T19:08:40.365618+00:00
 
-Companies: 304 checked, 295 connected, 9 failed
-Estimated spend this run: $0.0507
+Companies: 304 checked, 297 connected, 7 failed
+Estimated spend this run: $0.0217
 
-## New this run (7)
+## New this run (3)
 
-### 68 -- Growth Marketing Lead @ Anthropic (San Francisco, CA | New York City, NY | Seattle, WA)
-**Worth Applying** -- Strong growth and GTM foundation with proven D2C/funnel expertise, but lacks direct performance marketing channel leadership and developer/AI product marketing depth that Anthropic prioritizes.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5444769008)
+### 68 -- Senior Growth Marketing Manager, Organic and Conversion @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong D2C funnel and conversion ownership, but consumer/prosumer growth depth and organic/SEO execution are notably lighter than posting emphasizes.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5261383007)
 
-- Top signal: Deep D2C funnel ownership and 38% customer acquisition lift at PlanetSpark + P&L accountability across 5 city markets demonstrates commercial impact and cross-functional leadership rigor Anthropic values.
-- Biggest gap: No demonstrated leadership of multi-channel performance marketing budget, paid campaign scaling, or incrementality measurement—the core operational muscle Anthropic seeks in this role.
-- Missing keywords: performance marketing channel strategy, incrementality testing and attribution, developer marketing experience, SEO and organic demand generation, paid channel management (SEM, social, display)
+- Top signal: Deep D2C funnel ownership with quantified conversion wins (38% CAC lift, 27% conversion gains, 40% retention improvement) and documented GTM repositioning across multiple markets.
+- Biggest gap: EdTech B2C background lacks the consumer/prosumer growth velocity and organic/SEO execution depth Verkada explicitly prioritizes; no named lifecycle email or marketing automation leadership.
+- Missing keywords: organic search / SEO strategy, experimentation / A/B testing velocity at scale, consumer or prosumer growth, lifecycle email management / marketing automation, AEO / AI search engine optimization
 
-### 68 -- Partner Manager, Automattic for Agencies @ Automatticcareers (Remote)
-**Worth Applying** -- Strong GTM, cross-functional, and revenue-driving experience, but no WordPress/Automattic ecosystem depth or explicit channel/partner management track record.
-[View posting](https://job-boards.greenhouse.io/automatticcareers/jobs/6610835)
+### 62 -- Senior Growth Marketing Manager, Upper Funnel @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and funnel optimization foundation, but lacks direct hands-on paid media buying, incrementality testing, and upper-funnel channel (CTV, audio, OOH) depth.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5260590007)
 
-- Top signal: P&L ownership across 5 city markets, 38% CAC improvement, and proven ability to build multi-stakeholder GTM motion and sales enablement systems at scale.
-- Biggest gap: No demonstrated experience managing a portfolio of agency or channel partners; background is direct D2C and internal BD, not ecosystem partner enablement.
-- Missing keywords: WordPress ecosystem, channel sales, partner account management, agency relationships, SaaS channel programs
+- Top signal: Direct experience diagnosing funnel leaks, redesigning GTM sequences, and measuring impact on customer acquisition at scale (38% CAC lift at PlanetSpark); proven ability to lead cross-functional teams and own growth P&L.
+- Biggest gap: No demonstrated hands-on experience buying and optimizing paid media campaigns, designing incrementality tests, or working with upper-funnel channels (CTV, audio, billboards); all PlanetSpark/BYJU'S work centers on D2C funnels and sales enablement, not demand generation media mix.
+- Missing keywords: paid media buying, geo-lift testing / incrementality testing, CTV / out-of-home / audio channels, SQL, creative performance analysis
 
-### 62 -- Growth Marketing Manager, Organic & Conversion @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong growth fundamentals and funnel optimization chops, but lacks consumer/prosumer growth depth and direct SEO/AEO experience Verkada prioritizes.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5255690007)
+### 52 -- Senior Lifecycle Marketing Manager @ Gusto (Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid)
+**Stretch** -- Strong GTM and growth background, but lifecycle/email marketing and enterprise marketing automation platform experience are not demonstrated.
+[View posting](https://job-boards.greenhouse.io/gusto/jobs/8247940)
 
-- Top signal: GEO research + 8yr GTM progression shows deep funnel thinking; D2C funnel ownership and 38% acquisition lift prove ability to move the needle on conversion.
-- Biggest gap: EdTech B2C2B experience does not map to consumer/prosumer SaaS growth model; no demonstrated SEO or lifecycle email ownership—core pillars of this role.
-- Missing keywords: SEO/AEO/organic search strategy, consumer or prosumer growth, lifecycle email marketing, web analytics (GA, mixpanel), experimentation platform (Optimizely, VWO)
-
-### 62 -- Growth Marketing Manager, Upper Funnel @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and ABM foundation, but lacks hands-on paid media buying and incrementality testing experience that are core to this upper-funnel role.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5255724007)
-
-- Top signal: P&L ownership across 5 markets at BYJU's and proven ability to redesign GTM positioning for 25% sales lift demonstrates strategic rigor and commercial accountability at scale.
-- Biggest gap: No demonstrated experience designing or reading incrementality tests (geo-lift, holdout, matched-market)—a core requirement explicitly called out three times in the JD.
-- Missing keywords: paid media buying, geo-lift test, incrementality testing, CTV, out-of-home advertising, media vendor management, SQL
-
-### 52 -- Lifecycle Marketing Manager @ Headway (Remote)
-**Stretch** -- Strong lifecycle and funnel expertise, but lacks direct hands-on experience with email automation platforms (Iterable, Intercom) and marketplace/subscription product-led growth motion.
-[View posting](https://jobs.ashbyhq.com/headway/92b05c3b-400e-4ce2-9f1d-3c5900934d3c)
-
-- Top signal: Deep funnel ownership, proven churn diagnosis and retention design (40% 30-day retention lift), and structured testing discipline translate well to lifecycle experimentation.
-- Biggest gap: No demonstrated hands-on experience building and launching lifecycle journeys in email automation tools; EdTech B2C background diverges from marketplace B2B2C provider engagement motion.
-- Missing keywords: Iterable, Intercom, email marketing automation, marketplace platform, product-led growth, provider engagement, behavior-triggered journeys
-
-### 28 -- Accountant Partnerships Manager @ Brex (San Francisco, California, United States)
-**Weak Fit** -- Candidate is a GTM/growth strategist with zero partnerships or channel sales experience; this role requires 3+ years closing sales or partnerships with quota accountability.
-[View posting](https://www.brex.com/careers/8871800002?gh_jid=8871800002)
-
-- Top signal: Manager-level revenue ownership and cross-functional leadership at scale; can learn fintech domain quickly.
-- Biggest gap: Zero channel sales, partnerships, or quota-carrying experience; this is fundamentally a business development/sales closing role, not a GTM strategy role.
-- Missing keywords: partnerships role, closing sales / quota attainment, channel management, accounting / OCFO ecosystem, partner enablement / MBR / QBR
-
-### 28 -- Accountant Partnerships Manager @ Brex (New York, New York, United States)
-**Weak Fit** -- GTM strategist with zero closing sales or partnership management experience applying for quota-carrying partnerships role requiring 3+ years of direct sales execution.
-[View posting](https://www.brex.com/careers/8871793002?gh_jid=8871793002)
-
-- Top signal: Strong cross-functional leadership and GTM positioning expertise could support partner enablement and co-marketing.
-- Biggest gap: Candidate has never closed a sale, hit a quota, or managed a partner P&L—core DNA of this partnerships closing role.
-- Missing keywords: closing sales, quota attainment, partnership management, channel management, accounting firm experience
+- Top signal: Deep funnel optimization, multi-channel segmentation, CRM mastery, and hands-on cross-functional execution at scale; GEO research shows AI fluency.
+- Biggest gap: No demonstrated experience building/owning email campaigns or webinar programs at enterprise scale; no portfolio with Marketo/Iterable or similar platform.
+- Missing keywords: Marketo, Iterable, enterprise marketing automation platform, email campaign production, webinar program management, agentic workflows for marketing, accountant/partner channel, indirect channel strategy
 
 ## Top 15 all-time
 
