@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-10-08T19:08:40.365618+00:00
+Run: 2026-10-09T18:39:40.409658+00:00
 
 Companies: 304 checked, 297 connected, 7 failed
-Estimated spend this run: $0.0217
+Estimated spend this run: $0.0290
 
-## New this run (3)
+## New this run (4)
 
-### 68 -- Senior Growth Marketing Manager, Organic and Conversion @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong D2C funnel and conversion ownership, but consumer/prosumer growth depth and organic/SEO execution are notably lighter than posting emphasizes.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5261383007)
+### 72 -- Commercial Lead @ Stripe (South San Francisco, CA)
+**Worth Applying** -- Strong GTM and commercial operations foundation, but lacks explicit program management at Stripe's scale and enterprise deal complexity depth.
+[View posting](https://stripe.com/jobs/search?gh_jid=8224617)
 
-- Top signal: Deep D2C funnel ownership with quantified conversion wins (38% CAC lift, 27% conversion gains, 40% retention improvement) and documented GTM repositioning across multiple markets.
-- Biggest gap: EdTech B2C background lacks the consumer/prosumer growth velocity and organic/SEO execution depth Verkada explicitly prioritizes; no named lifecycle email or marketing automation leadership.
-- Missing keywords: organic search / SEO strategy, experimentation / A/B testing velocity at scale, consumer or prosumer growth, lifecycle email management / marketing automation, AEO / AI search engine optimization
+- Top signal: P&L ownership across 5 city markets plus 42% sales productivity uplift demonstrates commercial rigor and cross-functional execution at senior level.
+- Biggest gap: No evidence of designing or scaling first-of-their-kind commercial programs or navigating complex enterprise deal construct mechanics at Stripe's B2B scale.
+- Missing keywords: custom pricing strategies, deal pricing mechanics, launch readiness programs, enterprise commercial constructs, change management at scale
 
-### 62 -- Senior Growth Marketing Manager, Upper Funnel @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and funnel optimization foundation, but lacks direct hands-on paid media buying, incrementality testing, and upper-funnel channel (CTV, audio, OOH) depth.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5260590007)
+### 72 -- Product Marketing Manager, Solutions @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and positioning experience, but lacks direct B2B SaaS IoT depth and product marketing title; EdTech background requires clear translation.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5255097007)
 
-- Top signal: Direct experience diagnosing funnel leaks, redesigning GTM sequences, and measuring impact on customer acquisition at scale (38% CAC lift at PlanetSpark); proven ability to lead cross-functional teams and own growth P&L.
-- Biggest gap: No demonstrated hands-on experience buying and optimizing paid media campaigns, designing incrementality tests, or working with upper-funnel channels (CTV, audio, billboards); all PlanetSpark/BYJU'S work centers on D2C funnels and sales enablement, not demand generation media mix.
-- Missing keywords: paid media buying, geo-lift testing / incrementality testing, CTV / out-of-home / audio channels, SQL, creative performance analysis
+- Top signal: Rare combination of GTM strategy rigor (competitive positioning, messaging redesign, funnel optimization) and hands-on research acumen (GEO audit framework, persona development, buyer journey mapping) with multi-team cross-functional leadership proven at scale.
+- Biggest gap: No direct B2B SaaS, IoT, or enterprise security background; strong D2C EdTech motions may not translate visibly to Verkada's 5-7 industry vertical portfolio approach without clear bridging in application.
+- Missing keywords: B2B SaaS (direct experience named), IoT platform expertise, Enterprise security vertical, Product portfolio management, Industry subject matter expertise
 
-### 52 -- Senior Lifecycle Marketing Manager @ Gusto (Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid)
-**Stretch** -- Strong GTM and growth background, but lifecycle/email marketing and enterprise marketing automation platform experience are not demonstrated.
-[View posting](https://job-boards.greenhouse.io/gusto/jobs/8247940)
+### 72 -- Senior Product Marketing Manager, Solutions @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong PMM fundamentals and GTM strategy ownership, but lacks direct B2B SaaS/IoT depth and portfolio positioning breadth that Verkada values.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5255170007)
 
-- Top signal: Deep funnel optimization, multi-channel segmentation, CRM mastery, and hands-on cross-functional execution at scale; GEO research shows AI fluency.
-- Biggest gap: No demonstrated experience building/owning email campaigns or webinar programs at enterprise scale; no portfolio with Marketo/Iterable or similar platform.
-- Missing keywords: Marketo, Iterable, enterprise marketing automation platform, email campaign production, webinar program management, agentic workflows for marketing, accountant/partner channel, indirect channel strategy
+- Top signal: Proven ability to redesign GTM positioning and drive measurable pipeline lift (38% CAC improvement); GEO research is bonus for AI-native positioning.
+- Biggest gap: All professional experience is EdTech B2C/D2C; no hands-on B2B SaaS, IoT, hardware, or multi-vertical enterprise GTM portfolio work to demonstrate readiness for Verkada's 5–7 industry segment motion.
+- Missing keywords: B2B SaaS product marketing, IoT or hardware positioning, Enterprise sales enablement, Portfolio product strategy, Vertical/industry segmentation GTM
+
+### 68 -- Growth Marketing Manager @ Mongodb (United States) (deprioritized company)
+**Worth Applying** -- Strong growth marketing and lifecycle fundamentals with proven D2C funnel ownership, but lacks direct developer-marketing experience and AI/LLM ecosystem depth—offset partially by GEO research and EdTech scale.
+[View posting](https://www.mongodb.com/careers/job/?gh_jid=8265960)
+
+- Top signal: Generative Engine Optimization research across 7 AI platforms (ChatGPT, Claude, Gemini, Perplexity) demonstrates hands-on technical audience thinking and AI-era positioning—rare at manager level.
+- Biggest gap: No explicit developer/technical audience marketing track record and limited evidence of product-led growth or feature adoption campaigns; lifecycle work is B2C EdTech, not B2D SaaS.
+- Missing keywords: product-led growth (PLG), developer marketing / DevRel, AI/LLM ecosystem fluency, email campaign at scale, emerging channels experimentation
 
 ## Top 15 all-time
 
