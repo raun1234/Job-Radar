@@ -1,43 +1,19 @@
 # Job Radar
 
-Run: 2026-10-09T18:39:40.409658+00:00
+Run: 2026-10-10T17:38:30.971659+00:00
 
-Companies: 304 checked, 297 connected, 7 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 296 connected, 8 failed
+Estimated spend this run: $0.0072
 
-## New this run (4)
+## New this run (1)
 
-### 72 -- Commercial Lead @ Stripe (South San Francisco, CA)
-**Worth Applying** -- Strong GTM and commercial operations foundation, but lacks explicit program management at Stripe's scale and enterprise deal complexity depth.
-[View posting](https://stripe.com/jobs/search?gh_jid=8224617)
+### 52 -- Senior Marketing Operations Manager @ Horizon3Ai (US, Remote)
+**Stretch** -- Strong GTM and growth foundation, but lacks the hands-on MarOps, Pardot/Marketo, and revenue systems depth this role demands.
+[View posting](https://jobs.ashbyhq.com/horizon3ai/f5cd9753-ce66-4abb-96c4-4eb2093b853a)
 
-- Top signal: P&L ownership across 5 city markets plus 42% sales productivity uplift demonstrates commercial rigor and cross-functional execution at senior level.
-- Biggest gap: No evidence of designing or scaling first-of-their-kind commercial programs or navigating complex enterprise deal construct mechanics at Stripe's B2B scale.
-- Missing keywords: custom pricing strategies, deal pricing mechanics, launch readiness programs, enterprise commercial constructs, change management at scale
-
-### 72 -- Product Marketing Manager, Solutions @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and positioning experience, but lacks direct B2B SaaS IoT depth and product marketing title; EdTech background requires clear translation.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5255097007)
-
-- Top signal: Rare combination of GTM strategy rigor (competitive positioning, messaging redesign, funnel optimization) and hands-on research acumen (GEO audit framework, persona development, buyer journey mapping) with multi-team cross-functional leadership proven at scale.
-- Biggest gap: No direct B2B SaaS, IoT, or enterprise security background; strong D2C EdTech motions may not translate visibly to Verkada's 5-7 industry vertical portfolio approach without clear bridging in application.
-- Missing keywords: B2B SaaS (direct experience named), IoT platform expertise, Enterprise security vertical, Product portfolio management, Industry subject matter expertise
-
-### 72 -- Senior Product Marketing Manager, Solutions @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong PMM fundamentals and GTM strategy ownership, but lacks direct B2B SaaS/IoT depth and portfolio positioning breadth that Verkada values.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5255170007)
-
-- Top signal: Proven ability to redesign GTM positioning and drive measurable pipeline lift (38% CAC improvement); GEO research is bonus for AI-native positioning.
-- Biggest gap: All professional experience is EdTech B2C/D2C; no hands-on B2B SaaS, IoT, hardware, or multi-vertical enterprise GTM portfolio work to demonstrate readiness for Verkada's 5–7 industry segment motion.
-- Missing keywords: B2B SaaS product marketing, IoT or hardware positioning, Enterprise sales enablement, Portfolio product strategy, Vertical/industry segmentation GTM
-
-### 68 -- Growth Marketing Manager @ Mongodb (United States) (deprioritized company)
-**Worth Applying** -- Strong growth marketing and lifecycle fundamentals with proven D2C funnel ownership, but lacks direct developer-marketing experience and AI/LLM ecosystem depth—offset partially by GEO research and EdTech scale.
-[View posting](https://www.mongodb.com/careers/job/?gh_jid=8265960)
-
-- Top signal: Generative Engine Optimization research across 7 AI platforms (ChatGPT, Claude, Gemini, Perplexity) demonstrates hands-on technical audience thinking and AI-era positioning—rare at manager level.
-- Biggest gap: No explicit developer/technical audience marketing track record and limited evidence of product-led growth or feature adoption campaigns; lifecycle work is B2C EdTech, not B2D SaaS.
-- Missing keywords: product-led growth (PLG), developer marketing / DevRel, AI/LLM ecosystem fluency, email campaign at scale, emerging channels experimentation
+- Top signal: Proven ability to diagnose leaky funnels, redesign GTM sequences, and implement CRM-based systems (lead scoring, segmentation) that lift conversion metrics significantly.
+- Biggest gap: No demonstrated experience administering marketing automation platforms (Pardot, Marketo) or owning end-to-end systems projects like platform migrations, lifecycle redesigns, or attribution rollouts; sponsorship requirement likely a friction point for startup-stage company.
+- Missing keywords: Pardot or Marketo administration, marketing automation platform expert, attribution modeling and lead scoring, marketing tech stack architecture, revenue operations systems design
 
 ## Top 15 all-time
 
