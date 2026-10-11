@@ -1,19 +1,11 @@
 # Job Radar
 
-Run: 2026-10-10T17:38:30.971659+00:00
+Run: 2026-10-11T17:54:20.670511+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0072
+Estimated spend this run: $0.0000
 
-## New this run (1)
-
-### 52 -- Senior Marketing Operations Manager @ Horizon3Ai (US, Remote)
-**Stretch** -- Strong GTM and growth foundation, but lacks the hands-on MarOps, Pardot/Marketo, and revenue systems depth this role demands.
-[View posting](https://jobs.ashbyhq.com/horizon3ai/f5cd9753-ce66-4abb-96c4-4eb2093b853a)
-
-- Top signal: Proven ability to diagnose leaky funnels, redesign GTM sequences, and implement CRM-based systems (lead scoring, segmentation) that lift conversion metrics significantly.
-- Biggest gap: No demonstrated experience administering marketing automation platforms (Pardot, Marketo) or owning end-to-end systems projects like platform migrations, lifecycle redesigns, or attribution rollouts; sponsorship requirement likely a friction point for startup-stage company.
-- Missing keywords: Pardot or Marketo administration, marketing automation platform expert, attribution modeling and lead scoring, marketing tech stack architecture, revenue operations systems design
+## No new matching postings this run.
 
 ## Top 15 all-time
 
