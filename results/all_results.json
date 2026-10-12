@@ -18650,5 +18650,179 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-10-10T17:37:49.211191+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:talentpluto:B99F86AA2D",
+      "company": "talentpluto",
+      "title": "Growth Lead - WithCoverage",
+      "location": "",
+      "url": "https://apply.workable.com/j/B99F86AA2D",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Lead",
+      "posted_at": "2026-10-12"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM track record but posting lacks detail on role scope, company stage, and sponsorship appetite\u2014high uncertainty for visa-dependent candidate.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Growth Lead suggests manager-level ownership; candidate has AGM + Senior PM pedigree but posting vague on scope."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Core GTM, funnel, CRM, analytics keywords present. No AI/GEO angle visible in posting; growth marketing tools unclear."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "WithCoverage appears insurance/fintech; candidate deep in EdTech. No bridge signals or adjacent SaaS experience shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 55,
+          "note": "P&L, international pipeline, retention, CAC optimization all relevant. But 100% EdTech context\u2014domain transfer risk real."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "Visa sponsorship required. talentpluto appears early-stage; no indication of sponsorship appetite or budget. High risk."
+        }
+      ],
+      "missing_keywords": [
+        "insurance or fintech domain specifics",
+        "WithCoverage product/service details",
+        "remote-first or distributed team",
+        "seed/series funding stage",
+        "H1B sponsorship explicit approval"
+      ],
+      "top_signal": "Proven P&L ownership, multi-region pipeline management, and measurable GTM redesigns (38% CAC lift, 25% positioning-driven sales growth) at scale.",
+      "biggest_gap": "Insurance/fintech domain is adjacent to EdTech; combined with visa sponsorship uncertainty at likely early-stage startup, candidate-posting fit is speculative without role detail."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-10-12T21:32:09.652199+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:talentpluto:099B4EF9E9",
+      "company": "talentpluto",
+      "title": "Growth Manager - Orbital",
+      "location": "",
+      "url": "https://apply.workable.com/j/099B4EF9E9",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-10-12"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM background but posting lacks detail on visa sponsorship, company stage, and role specifics, creating material uncertainty.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Manager-level candidate aligns with Growth Manager title; unclear if early-stage role expects IC or leadership scope."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 72,
+          "note": "D2C funnel, positioning, CRM, ABM, and KPI dashboards all present; GEO is irrelevant unless talentpluto is AI/martech."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "talentpluto context unknown\u2014no industry, business model, or maturity visible in posting; EdTech BD/GTM may not transfer."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 58,
+          "note": "Proven D2C funnel ownership and 25\u201340% uplift metrics are strong; P&L scope at BYJU's is relevant only if talentpluto scales similarly."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "Candidate requires H1B sponsorship; posting silent on visa support and company size\u2014high risk for startups."
+        }
+      ],
+      "missing_keywords": [
+        "talentpluto business model or market",
+        "visa sponsorship statement",
+        "company stage or funding",
+        "team size or scope of role",
+        "revenue or growth targets"
+      ],
+      "top_signal": "8+ years D2C GTM ownership with 25\u201340% uplift metrics and P&L accountability across multiple markets demonstrates commercial maturity.",
+      "biggest_gap": "Posting provides no detail on company, domain, or sponsorship appetite\u2014impossible to assess fit or visa feasibility without clarification."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-10-12T21:32:16.058673+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:talentpluto:EC035ECC50",
+      "company": "talentpluto",
+      "title": "GTM Lead - WithCoverage",
+      "location": "",
+      "url": "https://apply.workable.com/j/EC035ECC50",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Lead",
+      "posted_at": "2026-10-12"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM credentials undermined by sponsorship requirement at early-stage startup with unclear role scope.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Senior Program Manager + AGM experience aligns with GTM Lead level; scope unclear from minimal JD."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 78,
+          "note": "Direct GTM strategy, positioning, D2C funnel, sales enablement experience; no role-specific tools mentioned."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 38,
+          "note": "EdTech-only background; WithCoverage domain unknown; no insurance, fintech, or adjacent B2C SaaS depth shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "Quantified GTM wins (38% CAC lift, 25% positioning-driven growth) transferable; scale mismatch unclear."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 15,
+          "note": "Requires H1B sponsorship; talentpluto appears early-stage with no explicit sponsorship commitment stated."
+        }
+      ],
+      "missing_keywords": [
+        "WithCoverage business model",
+        "Insurance or coverage domain",
+        "Early-stage startup scaling",
+        "Fundraising or investor GTM",
+        "Role-specific product/feature context"
+      ],
+      "top_signal": "8+ years GTM strategy with quantified funnel optimization (38% CAC lift, 25% positioning growth) and P&L ownership across multiple markets.",
+      "biggest_gap": "Requires visa sponsorship at early-stage startup; no insurance/coverage/fintech domain experience; JD lacks sufficient detail to assess fit."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-10-12T21:32:22.202287+00:00"
   }
 ]

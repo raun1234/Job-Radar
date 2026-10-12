@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-10-11T17:54:20.670511+00:00
+Run: 2026-10-12T21:33:00.852021+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0000
+Estimated spend this run: $0.0180
 
-## No new matching postings this run.
+## New this run (3)
+
+### 42 -- Growth Lead - WithCoverage @ Talentpluto ()
+**Stretch** -- Strong GTM track record but posting lacks detail on role scope, company stage, and sponsorship appetite—high uncertainty for visa-dependent candidate.
+[View posting](https://apply.workable.com/j/B99F86AA2D)
+
+- Top signal: Proven P&L ownership, multi-region pipeline management, and measurable GTM redesigns (38% CAC lift, 25% positioning-driven sales growth) at scale.
+- Biggest gap: Insurance/fintech domain is adjacent to EdTech; combined with visa sponsorship uncertainty at likely early-stage startup, candidate-posting fit is speculative without role detail.
+- Missing keywords: insurance or fintech domain specifics, WithCoverage product/service details, remote-first or distributed team, seed/series funding stage, H1B sponsorship explicit approval
+
+### 42 -- Growth Manager - Orbital @ Talentpluto ()
+**Stretch** -- Strong GTM background but posting lacks detail on visa sponsorship, company stage, and role specifics, creating material uncertainty.
+[View posting](https://apply.workable.com/j/099B4EF9E9)
+
+- Top signal: 8+ years D2C GTM ownership with 25–40% uplift metrics and P&L accountability across multiple markets demonstrates commercial maturity.
+- Biggest gap: Posting provides no detail on company, domain, or sponsorship appetite—impossible to assess fit or visa feasibility without clarification.
+- Missing keywords: talentpluto business model or market, visa sponsorship statement, company stage or funding, team size or scope of role, revenue or growth targets
+
+### 42 -- GTM Lead - WithCoverage @ Talentpluto ()
+**Stretch** -- Strong GTM credentials undermined by sponsorship requirement at early-stage startup with unclear role scope.
+[View posting](https://apply.workable.com/j/EC035ECC50)
+
+- Top signal: 8+ years GTM strategy with quantified funnel optimization (38% CAC lift, 25% positioning growth) and P&L ownership across multiple markets.
+- Biggest gap: Requires visa sponsorship at early-stage startup; no insurance/coverage/fintech domain experience; JD lacks sufficient detail to assess fit.
+- Missing keywords: WithCoverage business model, Insurance or coverage domain, Early-stage startup scaling, Fundraising or investor GTM, Role-specific product/feature context
 
 ## Top 15 all-time
 
