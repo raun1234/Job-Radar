@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-10-12T21:33:00.852021+00:00
+Run: 2026-10-13T19:45:10.099046+00:00
 
-Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0180
+Companies: 304 checked, 293 connected, 11 failed
+Estimated spend this run: $0.0252
 
-## New this run (3)
+## New this run (4)
 
-### 42 -- Growth Lead - WithCoverage @ Talentpluto ()
-**Stretch** -- Strong GTM track record but posting lacks detail on role scope, company stage, and sponsorship appetite—high uncertainty for visa-dependent candidate.
-[View posting](https://apply.workable.com/j/B99F86AA2D)
+### 72 -- Senior Growth Manager, New Products @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and growth foundation with P&L ownership, but lacks direct B2B SaaS enterprise sales motion and SQL/technical depth that role emphasizes.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5262815007)
 
-- Top signal: Proven P&L ownership, multi-region pipeline management, and measurable GTM redesigns (38% CAC lift, 25% positioning-driven sales growth) at scale.
-- Biggest gap: Insurance/fintech domain is adjacent to EdTech; combined with visa sponsorship uncertainty at likely early-stage startup, candidate-posting fit is speculative without role detail.
-- Missing keywords: insurance or fintech domain specifics, WithCoverage product/service details, remote-first or distributed team, seed/series funding stage, H1B sponsorship explicit approval
+- Top signal: P&L ownership across 5 city markets and 60+ cross-functional team leadership directly mirrors the founder-like accountability Verkada seeks; demonstrated ability to redesign GTM positioning and scale pipeline.
+- Biggest gap: No explicit B2B enterprise SaaS experience or SQL proficiency; all quantified examples are EdTech D2C, not hardware/physical AI security motion that Verkada specializes in.
+- Missing keywords: SQL, B2B enterprise sales, physical security or hardware, experimental campaign frameworks, lower-funnel optimization metrics
 
-### 42 -- Growth Manager - Orbital @ Talentpluto ()
-**Stretch** -- Strong GTM background but posting lacks detail on visa sponsorship, company stage, and role specifics, creating material uncertainty.
-[View posting](https://apply.workable.com/j/099B4EF9E9)
+### 52 -- Founding Growth Lead @ Talentpluto ()
+**Stretch** -- Strong GTM and growth credentials but early-stage startup context with likely no H1B sponsorship creates material risk.
+[View posting](https://apply.workable.com/j/D9B4A627A8)
 
-- Top signal: 8+ years D2C GTM ownership with 25–40% uplift metrics and P&L accountability across multiple markets demonstrates commercial maturity.
-- Biggest gap: Posting provides no detail on company, domain, or sponsorship appetite—impossible to assess fit or visa feasibility without clarification.
-- Missing keywords: talentpluto business model or market, visa sponsorship statement, company stage or funding, team size or scope of role, revenue or growth targets
+- Top signal: 8+ years GTM/growth at scale with quantified funnel optimization, P&L ownership, and hands-on AI research (GEO).
+- Biggest gap: No talent recruiting, HR tech, or early-stage startup experience; visa sponsorship requirement likely disqualifying for pre-Series A founder context.
+- Missing keywords: talent recruiting / HR tech domain, early-stage startup / seed fundraising, marketplace dynamics, B2B SaaS GTM, founding team collaboration
 
-### 42 -- GTM Lead - WithCoverage @ Talentpluto ()
-**Stretch** -- Strong GTM credentials undermined by sponsorship requirement at early-stage startup with unclear role scope.
-[View posting](https://apply.workable.com/j/EC035ECC50)
+### 52 -- Product Marketing Manager @ Talentpluto ()
+**Stretch** -- Strong GTM and growth background but lacks direct PMM experience and company details missing prevent meaningful alignment assessment.
+[View posting](https://apply.workable.com/j/00A83414F5)
 
-- Top signal: 8+ years GTM strategy with quantified funnel optimization (38% CAC lift, 25% positioning growth) and P&L ownership across multiple markets.
-- Biggest gap: Requires visa sponsorship at early-stage startup; no insurance/coverage/fintech domain experience; JD lacks sufficient detail to assess fit.
-- Missing keywords: WithCoverage business model, Insurance or coverage domain, Early-stage startup scaling, Fundraising or investor GTM, Role-specific product/feature context
+- Top signal: Rare hands-on GEO research at manager level plus P&L ownership signal commercial maturity and research acumen.
+- Biggest gap: No direct PMM role history; visa sponsorship likely unaffordable for early-stage talentpluto unless explicitly committed.
+- Missing keywords: product marketing manager, campaign management, buyer enablement, messaging framework, product launch leadership
+
+### 42 -- Channel Partnerships Lead @ Talentpluto ()
+**Stretch** -- Strong GTM and growth background, but channel partnerships and vendor ecosystem focus is outside core experience.
+[View posting](https://apply.workable.com/j/E41A7FDBB7)
+
+- Top signal: P&L ownership, international pipeline scaling, and cross-functional leadership at 150M-user scale demonstrate commercial maturity and operator discipline.
+- Biggest gap: No direct experience building, recruiting, or scaling channel or vendor partnerships; career trajectory is funnel/growth ops, not ecosystem/partnership strategy.
+- Missing keywords: channel partnerships, vendor management, partner enablement, channel operations, ecosystem strategy
 
 ## Top 15 all-time
 
