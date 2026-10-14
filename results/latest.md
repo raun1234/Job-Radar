@@ -1,43 +1,43 @@
 # Job Radar
 
-Run: 2026-10-13T19:45:10.099046+00:00
+Run: 2026-10-14T17:47:05.485254+00:00
 
-Companies: 304 checked, 293 connected, 11 failed
-Estimated spend this run: $0.0252
+Companies: 304 checked, 295 connected, 9 failed
+Estimated spend this run: $0.0290
 
 ## New this run (4)
 
-### 72 -- Senior Growth Manager, New Products @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and growth foundation with P&L ownership, but lacks direct B2B SaaS enterprise sales motion and SQL/technical depth that role emphasizes.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5262815007)
+### 78 -- Integrated GTM & Product Marketing Lead @ Gen-Digital (USA - New York, NY)
+**Strong Fit** -- Proven GTM strategy and product marketing leadership at scale with freemium B2C SaaS; visa sponsorship is primary risk for established enterprise.
+[View posting](https://jobs.ashbyhq.com/gen-digital/f32a288d-8e0d-410e-9973-83d3a84dcdcd)
 
-- Top signal: P&L ownership across 5 city markets and 60+ cross-functional team leadership directly mirrors the founder-like accountability Verkada seeks; demonstrated ability to redesign GTM positioning and scale pipeline.
-- Biggest gap: No explicit B2B enterprise SaaS experience or SQL proficiency; all quantified examples are EdTech D2C, not hardware/physical AI security motion that Verkada specializes in.
-- Missing keywords: SQL, B2B enterprise sales, physical security or hardware, experimental campaign frameworks, lower-funnel optimization metrics
+- Top signal: Owned D2C funnel P&L across 5 markets and lifted CAC 38% in 2Q; directly mirrors freemium acquisition, conversion, and regional scaling demands.
+- Biggest gap: No consumer cybersecurity, identity, or lifestyle SaaS experience; EdTech playbook may not transfer to security awareness, trust messaging, or churn dynamics in Gen's portfolio.
+- Missing keywords: cybersecurity / identity protection domain knowledge, lifecycle marketing / email automation, affiliate / partner channel management, regional localization strategy, brand marketing / creative direction
 
-### 52 -- Founding Growth Lead @ Talentpluto ()
-**Stretch** -- Strong GTM and growth credentials but early-stage startup context with likely no H1B sponsorship creates material risk.
-[View posting](https://apply.workable.com/j/D9B4A627A8)
+### 72 -- GTM Strategy & Operations Manager- Special Projects @ Gomotive (United States - Remote)
+**Worth Applying** -- Strong GTM and operational background with clear sales strategy experience, but lacking direct sales operations or consulting depth that this "special projects" role emphasizes.
+[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8811671002)
 
-- Top signal: 8+ years GTM/growth at scale with quantified funnel optimization, P&L ownership, and hands-on AI research (GEO).
-- Biggest gap: No talent recruiting, HR tech, or early-stage startup experience; visa sponsorship requirement likely disqualifying for pre-Series A founder context.
-- Missing keywords: talent recruiting / HR tech domain, early-stage startup / seed fundraising, marketplace dynamics, B2B SaaS GTM, founding team collaboration
+- Top signal: P&L ownership across 5 markets, 8+ years GTM/growth strategy, proven ability to translate data into actionable recommendations and lead complex cross-functional initiatives.
+- Biggest gap: No direct sales operations, consulting, or business operations background; role explicitly targets that functional experience, which candidate's GTM + BD trajectory does not clearly demonstrate.
+- Missing keywords: sales operations, business operations, consulting, workflow automation tools, Apps Script
 
-### 52 -- Product Marketing Manager @ Talentpluto ()
-**Stretch** -- Strong GTM and growth background but lacks direct PMM experience and company details missing prevent meaningful alignment assessment.
-[View posting](https://apply.workable.com/j/00A83414F5)
+### 52 -- Commercial Strategy & Enablement Associate @ Swordhealth (Remote - Portugal)
+**Stretch** -- Strong GTM and funnel analytics background, but role demands AI/automation systems architecture and RevOps infrastructure depth that candidate has not demonstrated at scale.
+[View posting](https://job-boards.greenhouse.io/swordhealth/jobs/4448943009)
 
-- Top signal: Rare hands-on GEO research at manager level plus P&L ownership signal commercial maturity and research acumen.
-- Biggest gap: No direct PMM role history; visa sponsorship likely unaffordable for early-stage talentpluto unless explicitly committed.
-- Missing keywords: product marketing manager, campaign management, buyer enablement, messaging framework, product launch leadership
+- Top signal: Built KPI dashboards and onboarding systems at BYJU's scale (200+ monthly hires, 60-member teams); demonstrated ability to compress decision cycles and measure rep productivity.
+- Biggest gap: No experience designing AI automation systems, building CRM workflows, or owning RevOps infrastructure—core to this role's 'systems and automations' pillar.
+- Missing keywords: conversation intelligence (Gong, Chorus), AI agents and workflow automation, RevOps infrastructure and data architecture, healthcare sales enablement, Omni BI platform experience
 
-### 42 -- Channel Partnerships Lead @ Talentpluto ()
-**Stretch** -- Strong GTM and growth background, but channel partnerships and vendor ecosystem focus is outside core experience.
-[View posting](https://apply.workable.com/j/E41A7FDBB7)
+### 42 -- Senior Marketing Operations Manager  @ Nasuni (Remote - United States)
+**Stretch** -- Strong GTM and cross-functional leadership, but core PMO build, Smartsheet mastery, and operational infrastructure design are not evidenced in profile.
+[View posting](https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5438682008)
 
-- Top signal: P&L ownership, international pipeline scaling, and cross-functional leadership at 150M-user scale demonstrate commercial maturity and operator discipline.
-- Biggest gap: No direct experience building, recruiting, or scaling channel or vendor partnerships; career trajectory is funnel/growth ops, not ecosystem/partnership strategy.
-- Missing keywords: channel partnerships, vendor management, partner enablement, channel operations, ecosystem strategy
+- Top signal: Eight years of cross-functional execution, KPI dashboard ownership, and process redesign (sales onboarding, lead scoring) show operational thinking; 60+ team coordination and 25% delivery improvement signal coordination capability.
+- Biggest gap: Profile is GTM/growth-strategy-led, not operations-infrastructure-led; no evidence of building a PMO, designing planning rhythms, or owning work-management platforms like Smartsheet—the core of this role.
+- Missing keywords: Marketing PMO / Project Management Office, Smartsheet (or work-management platform architecture), Operating model design / governance build, Quarterly planning cadence / sprint management, Request intake and prioritization process design
 
 ## Top 15 all-time
 
@@ -69,6 +69,10 @@ Estimated spend this run: $0.0252
 **Strong Fit** -- Direct D2C funnel ownership and international expansion experience align well; EdTech-to-fintech bridge is clean, but lacks explicit B2B2C workplace benefits marketing proof.
 [View posting](https://boards.greenhouse.io/chime/jobs/8790029002?gh_jid=8790029002)
 
+### 78 -- Integrated GTM & Product Marketing Lead @ Gen-Digital (USA - New York, NY)
+**Strong Fit** -- Proven GTM strategy and product marketing leadership at scale with freemium B2C SaaS; visa sponsorship is primary risk for established enterprise.
+[View posting](https://jobs.ashbyhq.com/gen-digital/f32a288d-8e0d-410e-9973-83d3a84dcdcd)
+
 ### 76 -- Product Marketing & GTM Lead Manager - LifeLock @ Gen-Digital (USA - Tempe, AZ)
 **Strong Fit** -- Directly matches core GTM/launch ownership and cross-functional leadership, but lacks explicit subscription/retention expertise and paid-channel channel orchestration depth that LifeLock's DTC/non-DTC complexity demands.
 [View posting](https://jobs.ashbyhq.com/gen-digital/40b7c825-278b-428c-b303-4d799dfb6496)
@@ -96,7 +100,3 @@ Estimated spend this run: $0.0252
 ### 76 -- Senior Consumer Strategy and Business Development Manager @ Coursera (United States)
 **Strong Fit** -- Proven D2C funnel ownership and partnership-driven growth at scale directly align with role; EdTech context transfers seamlessly; visa sponsorship is the only material gap for a large, established employer.
 [View posting](https://job-boards.greenhouse.io/coursera/jobs/6165119004)
-
-### 76 -- Product Marketing Manager @ Goguardian (United States)
-**Strong Fit** -- 8+ years GTM and lifecycle marketing in EdTech SaaS directly overlap; proven K-12 domain expertise and cross-functional execution offset lack of formal PMM title.
-[View posting](https://job-boards.greenhouse.io/goguardian/jobs/4713833006)
