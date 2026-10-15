@@ -1,43 +1,19 @@
 # Job Radar
 
-Run: 2026-10-14T17:47:05.485254+00:00
+Run: 2026-10-15T17:35:48.084795+00:00
 
-Companies: 304 checked, 295 connected, 9 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 294 connected, 10 failed
+Estimated spend this run: $0.0072
 
-## New this run (4)
+## New this run (1)
 
-### 78 -- Integrated GTM & Product Marketing Lead @ Gen-Digital (USA - New York, NY)
-**Strong Fit** -- Proven GTM strategy and product marketing leadership at scale with freemium B2C SaaS; visa sponsorship is primary risk for established enterprise.
-[View posting](https://jobs.ashbyhq.com/gen-digital/f32a288d-8e0d-410e-9973-83d3a84dcdcd)
+### 62 -- Strategic and Enterprise Business Development Manager @ Ebanx (San Francisco, CA)
+**Worth Applying** -- Strong BD and GTM foundation with proven pipeline generation, but lacks direct payments industry experience and enterprise sales depth that EBANX explicitly requires.
+[View posting](https://job-boards.greenhouse.io/ebanx/jobs/8027546003)
 
-- Top signal: Owned D2C funnel P&L across 5 markets and lifted CAC 38% in 2Q; directly mirrors freemium acquisition, conversion, and regional scaling demands.
-- Biggest gap: No consumer cybersecurity, identity, or lifestyle SaaS experience; EdTech playbook may not transfer to security awareness, trust messaging, or churn dynamics in Gen's portfolio.
-- Missing keywords: cybersecurity / identity protection domain knowledge, lifecycle marketing / email automation, affiliate / partner channel management, regional localization strategy, brand marketing / creative direction
-
-### 72 -- GTM Strategy & Operations Manager- Special Projects @ Gomotive (United States - Remote)
-**Worth Applying** -- Strong GTM and operational background with clear sales strategy experience, but lacking direct sales operations or consulting depth that this "special projects" role emphasizes.
-[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8811671002)
-
-- Top signal: P&L ownership across 5 markets, 8+ years GTM/growth strategy, proven ability to translate data into actionable recommendations and lead complex cross-functional initiatives.
-- Biggest gap: No direct sales operations, consulting, or business operations background; role explicitly targets that functional experience, which candidate's GTM + BD trajectory does not clearly demonstrate.
-- Missing keywords: sales operations, business operations, consulting, workflow automation tools, Apps Script
-
-### 52 -- Commercial Strategy & Enablement Associate @ Swordhealth (Remote - Portugal)
-**Stretch** -- Strong GTM and funnel analytics background, but role demands AI/automation systems architecture and RevOps infrastructure depth that candidate has not demonstrated at scale.
-[View posting](https://job-boards.greenhouse.io/swordhealth/jobs/4448943009)
-
-- Top signal: Built KPI dashboards and onboarding systems at BYJU's scale (200+ monthly hires, 60-member teams); demonstrated ability to compress decision cycles and measure rep productivity.
-- Biggest gap: No experience designing AI automation systems, building CRM workflows, or owning RevOps infrastructure—core to this role's 'systems and automations' pillar.
-- Missing keywords: conversation intelligence (Gong, Chorus), AI agents and workflow automation, RevOps infrastructure and data architecture, healthcare sales enablement, Omni BI platform experience
-
-### 42 -- Senior Marketing Operations Manager  @ Nasuni (Remote - United States)
-**Stretch** -- Strong GTM and cross-functional leadership, but core PMO build, Smartsheet mastery, and operational infrastructure design are not evidenced in profile.
-[View posting](https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5438682008)
-
-- Top signal: Eight years of cross-functional execution, KPI dashboard ownership, and process redesign (sales onboarding, lead scoring) show operational thinking; 60+ team coordination and 25% delivery improvement signal coordination capability.
-- Biggest gap: Profile is GTM/growth-strategy-led, not operations-infrastructure-led; no evidence of building a PMO, designing planning rhythms, or owning work-management platforms like Smartsheet—the core of this role.
-- Missing keywords: Marketing PMO / Project Management Office, Smartsheet (or work-management platform architecture), Operating model design / governance build, Quarterly planning cadence / sprint management, Request intake and prioritization process design
+- Top signal: P&L ownership across 5 markets and 38% CAC lift demonstrate commercial accountability and ability to drive repeatable growth motions.
+- Biggest gap: No payments, fintech, or merchant ecosystem background; JD explicitly requires payments industry experience as non-negotiable.
+- Missing keywords: Payments Industry experience, Enterprise merchant sales, HubSpot, Apollo / Cognism / Clay, LinkedIn Sales Navigator with AI
 
 ## Top 15 all-time
 
