@@ -19636,5 +19636,179 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-10-16T17:10:39.443647+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:absorblms:a18d852c-704a-4e80-b1bd-65faa63e88e3",
+      "company": "absorblms",
+      "title": "Customer Marketing Manager",
+      "location": "Remote US",
+      "url": "https://jobs.ashbyhq.com/absorblms/a18d852c-704a-4e80-b1bd-65faa63e88e3",
+      "description": "\u201cI love working at Absorb because curiosity, collaboration, and respect are built into what we do every day. Over the last four years in IT service and leadership, I\u2019ve been consistently supported and encouraged to learn and grow, and I take pride in providing the same opportunities for my team. It\u2019s incredibly rewarding to be part of a company that truly invests in its people and their success.\u201d -Jaclyn Boeckx, Team Lead Service Desk Help turn great customer experiences into lasting customer relationships. As Customer Marketing Manager at Absorb, you\u2019ll bring our product launches to life for our customers, creating campaigns and experiences that drive adoption, engagement, and value. You\u2019ll lead customer advocacy and our Innovation Council programs, own key channels like webinars and our customer newsletter, and partner closely across Lifecycle Marketing, Product Marketing, and GTM to ensure our customers are informed, inspired, and excited about what\u2019s next. What you\u2019ll do: - Plan and execute customer campaigns for product launches, from beta recruitment through GA and post-launch adoption, working from GTM's launch plan and PMM's messaging. - Turn product messaging into customer-facing copy for email, in-app (Pendo), webinars and the customer newsletter. - Maintain the customer communications calendar across launches, so releases are bundled and sequenced and customers aren't overloaded with change. - Produce the monthly customer newsletter and track engagement to improve it. - Run adoption campaigns for priority products, starting with Aura, with Lifecycle Marketing targeting the right accounts. - Own and manage the Innovation Council: recruit and onboard participants, keep them engaged, and match them to upcoming alphas and betas. - Grow the customer advocacy pipeline: reviews on G2 and similar sites, references, testimonials, case studies and customer speakers, with a focus on recent launches. - Track and report on campaign and advocacy results: adoption among targeted accounts, webinar attendance, advocacy output and Innovation Council participation. - Work with Product Marketing, GTM, Product Management, Customer Success, Marketing Operations, and the Content and Creative teams to deliver customer programs. What you\u2019ll bring: - 3\u20135 years in customer marketing, customer advocacy or a similar role, ideally in B2B SaaS. - Experience running campaigns for product launches or feature adoption. - Strong writer who can turn product messaging into clear customer communications. - Hands-on with marketing automation and CRM tools (e.g. Salesforce); Pendo and review platforms such as G2 are a plus. - Organized enough to run several programs at once, and comfortable with numbers to report on them. - Experience in learning technology or HR tech is a plus. Technologies we use: - Microsoft office, Teams, Claude, Confluence, Salesforce, Absorb LMS Are you ready to become an Absorber? What we offer: - Fully remote-first work with flexible work arrangements \ud83c\udfe1 - Comprehensive Health and Wellness Benefits including retirement savings programs, eligibility for two different bonus plans, generous time off, comprehensive medical and dental benefits based on your country of location \ud83e\uddd8 - New Hire Equipment Allowance and monthly Flex Allowance to support your success \ud83d\udce6 - Endless opportunity for career growth and internal mobility \ud83c\udf31 - Employee driven DE&I programs \ud83e\udef6 Who are we? Absorb Software is the leading global AI-driven learning platform provider, helping organizations unlock the full potential of their workforce. With its innovative Strategic Learning Systems (SLS) approach, Absorb empowers businesses to align learning with strategic goals, driving measurable impact and workforce agility. The Absorb LMS platform delivers personalized, scalable, and engaging learning experiences for employees, customers, and partners worldwide. Trusted by over 3,300 organizations and 34 million users, Absorb is redefining the future of workplace learning through cutting-edge AI, seamless integrations, and an unwavering commitment to innovation. We empower learners to enrich their lives, workplaces and communities. Our values are simple: - We achieve exceptional results by genuinely caring about each other and the work we do - We\u2019re united, and we grow through our commitment to elevating continual learning! AI @ Absorb We believe in the power of AI and technology to make learning accessible to everyone. By exploring new tools and constantly experimenting, we\u2019re redefining what\u2019s possible. We take an AI\u2011first approach to unlock human potential, drive impact, and scale better outcomes. As the world evolves, Absorb is committed to growing with you. Investing in your skills every step of the way. We use AI tools to support our recruitment process, such as organizing applications and highlighting potential matches based on role requirements. While these tools help streamline our review, all screening and final hiring decisions are made by our recruitment team. We encourage candidates to apply authentically and not rely solely on AI-generated responses in their applications. Absorb is proud to be an equal opportunity employer, we celebrate diversity and are committed to creating a safe and inclusive environment for all our people. All employment decisions are based on business needs, job requirements and individual qualifications. Should you require any accommodation during the recruitment process, please indicate this on your application and we will work with you to meet your accessibility needs. For any questions, please contact us at accessiblecareers@absorblms.com Successful candidates for this position will be subject to pre-employment background screening, including a criminal record check and must be able to show proof of legal eligibility to work in the country they have applied to without sponsorship.",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-10-16T19:57:29.557+00:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and D2C funnel expertise, but customer marketing and advocacy program management are less central to track record than PMM or growth roles.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager level aligns; customer marketing is adjacent to growth/PMM but less emphasized in profile."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 71,
+          "note": "Covers GTM, campaign execution, CRM/Salesforce, A/B testing, messaging; weak on advocacy, G2/reviews, Pendo."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 68,
+          "note": "EdTech SaaS background transfers well; LMS and HR tech mentioned as plus, not core strength."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "P&L and funnel ownership strong; customer advocacy pipeline and Innovation Council management not demonstrated."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 60,
+          "note": "Requires H1B sponsorship; Absorb is established (3,300+ orgs, 34M users) but sponsorship not mentioned in posting."
+        }
+      ],
+      "missing_keywords": [
+        "customer advocacy",
+        "Innovation Council",
+        "G2 reviews",
+        "Pendo",
+        "webinar production"
+      ],
+      "top_signal": "8+ years driving GTM, messaging redesign, and D2C funnel optimization at scale in SaaS; P&L ownership and cross-functional leadership directly applicable.",
+      "biggest_gap": "No demonstrated experience running customer advocacy programs, managing review platforms, or producing customer-facing adoption campaigns post-launch."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-10-17T16:07:57.715688+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:absorblms:ede590b0-aacc-45ce-8150-8e89a8fa4309",
+      "company": "absorblms",
+      "title": "Customer Marketing Manager",
+      "location": "Remote CAN",
+      "url": "https://jobs.ashbyhq.com/absorblms/ede590b0-aacc-45ce-8150-8e89a8fa4309",
+      "description": "\u201cI love working at Absorb because curiosity, collaboration, and respect are built into what we do every day. Over the last four years in IT service and leadership, I\u2019ve been consistently supported and encouraged to learn and grow, and I take pride in providing the same opportunities for my team. It\u2019s incredibly rewarding to be part of a company that truly invests in its people and their success.\u201d -Jaclyn Boeckx, Team Lead Service Desk Help turn great customer experiences into lasting customer relationships. As Customer Marketing Manager at Absorb, you\u2019ll bring our product launches to life for our customers, creating campaigns and experiences that drive adoption, engagement, and value. You\u2019ll lead customer advocacy and our Innovation Council programs, own key channels like webinars and our customer newsletter, and partner closely across Lifecycle Marketing, Product Marketing, and GTM to ensure our customers are informed, inspired, and excited about what\u2019s next. What you\u2019ll do: - Plan and execute customer campaigns for product launches, from beta recruitment through GA and post-launch adoption, working from GTM's launch plan and PMM's messaging. - Turn product messaging into customer-facing copy for email, in-app (Pendo), webinars and the customer newsletter. - Maintain the customer communications calendar across launches, so releases are bundled and sequenced and customers aren't overloaded with change. - Produce the monthly customer newsletter and track engagement to improve it. - Run adoption campaigns for priority products, starting with Aura, with Lifecycle Marketing targeting the right accounts. - Own and manage the Innovation Council: recruit and onboard participants, keep them engaged, and match them to upcoming alphas and betas. - Grow the customer advocacy pipeline: reviews on G2 and similar sites, references, testimonials, case studies and customer speakers, with a focus on recent launches. - Track and report on campaign and advocacy results: adoption among targeted accounts, webinar attendance, advocacy output and Innovation Council participation. - Work with Product Marketing, GTM, Product Management, Customer Success, Marketing Operations, and the Content and Creative teams to deliver customer programs. What you\u2019ll bring: - 3\u20135 years in customer marketing, customer advocacy or a similar role, ideally in B2B SaaS. - Experience running campaigns for product launches or feature adoption. - Strong writer who can turn product messaging into clear customer communications. - Hands-on with marketing automation and CRM tools (e.g. Salesforce); Pendo and review platforms such as G2 are a plus. - Organized enough to run several programs at once, and comfortable with numbers to report on them. - Experience in learning technology or HR tech is a plus. Technologies we use: - Microsoft office, Teams, Claude, Confluence, Salesforce, Absorb LMS Are you ready to become an Absorber? What we offer: - Fully remote-first work with flexible work arrangements \ud83c\udfe1 - Comprehensive Health and Wellness Benefits including retirement savings programs, eligibility for two different bonus plans, generous time off, comprehensive medical and dental benefits based on your country of location \ud83e\uddd8 - New Hire Equipment Allowance and monthly Flex Allowance to support your success \ud83d\udce6 - Endless opportunity for career growth and internal mobility \ud83c\udf31 - Employee driven DE&I programs \ud83e\udef6 Who are we? Absorb Software is the leading global AI-driven learning platform provider, helping organizations unlock the full potential of their workforce. With its innovative Strategic Learning Systems (SLS) approach, Absorb empowers businesses to align learning with strategic goals, driving measurable impact and workforce agility. The Absorb LMS platform delivers personalized, scalable, and engaging learning experiences for employees, customers, and partners worldwide. Trusted by over 3,300 organizations and 34 million users, Absorb is redefining the future of workplace learning through cutting-edge AI, seamless integrations, and an unwavering commitment to innovation. We empower learners to enrich their lives, workplaces and communities. Our values are simple: - We achieve exceptional results by genuinely caring about each other and the work we do - We\u2019re united, and we grow through our commitment to elevating continual learning! AI @ Absorb We believe in the power of AI and technology to make learning accessible to everyone. By exploring new tools and constantly experimenting, we\u2019re redefining what\u2019s possible. We take an AI\u2011first approach to unlock human potential, drive impact, and scale better outcomes. As the world evolves, Absorb is committed to growing with you. Investing in your skills every step of the way. We use AI tools to support our recruitment process, such as organizing applications and highlighting potential matches based on role requirements. While these tools help streamline our review, all screening and final hiring decisions are made by our recruitment team. We encourage candidates to apply authentically and not rely solely on AI-generated responses in their applications. Absorb is proud to be an equal opportunity employer, we celebrate diversity and are committed to creating a safe and inclusive environment for all our people. All employment decisions are based on business needs, job requirements and individual qualifications. Should you require any accommodation during the recruitment process, please indicate this on your application and we will work with you to meet your accessibility needs. For any questions, please contact us at accessiblecareers@absorblms.com Successful candidates for this position will be subject to pre-employment background screening, including a criminal record check and must be able to show proof of legal eligibility to work in the country they have applied to without sponsorship.",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-10-16T19:57:03.398+00:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and campaign execution foundation, but lacks direct customer marketing and advocacy program ownership at required seniority.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager level confirmed, but no prior \"Customer Marketing Manager\" title; growth/GTM bias over customer lifecycle focus."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 71,
+          "note": "Campaign planning, product launches, CRM/Salesforce strong; missing hands-on Pendo, G2 advocacy, newsletter ownership, webinar production."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 65,
+          "note": "EdTech LMS background translates to HR tech/learning tech, but no direct LMS vendor GTM or customer success cross-functional work shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "Owns D2C funnel, sales enablement, and adoption campaigns; no quantified customer advocacy, Innovation Council, or beta program management."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; posting is Canadian remote with no explicit sponsorship statement\u2014material risk for startup-scale company."
+        }
+      ],
+      "missing_keywords": [
+        "Customer advocacy programs",
+        "Innovation Council management",
+        "Pendo in-app marketing",
+        "G2 reviews and testimonial pipeline",
+        "Beta recruitment and onboarding"
+      ],
+      "top_signal": "Proven ability to redesign multi-channel GTM sequences, own adoption campaigns end-to-end, and drive measurable engagement uplift (38% CAC, 40% retention improvement) in B2C SaaS at scale.",
+      "biggest_gap": "No demonstrated experience building or managing customer advocacy programs, innovation councils, or external review/reference pipelines\u2014core to this role."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-10-17T16:08:04.655021+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:newsela:8278660",
+      "company": "newsela",
+      "title": "Senior Product Marketing Manager, Core (Remote, US)",
+      "location": "Remote - US",
+      "url": "https://job-boards.greenhouse.io/newsela/jobs/8278660",
+      "description": "&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;The role:&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;As Senior Product Marketing Manager for Newsela Threads &amp;amp; Themes, you will drive the go-to-market (GTM) strategy, positioning, messaging, and cross-functional execution for Newsela\u2019s fast-growing ELA Core Curriculum portfolio. Core ELA is a key growth area for Newsela as we expand beyond supplemental digital resources into a full core curriculum.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;This is not a standard product launch role. You will lead complex, high-impact GTM initiatives spanning national and state-level core curriculum launches while helping shape scalable GTM processes, strengthen cross-functional alignment, and drive business growth.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;As the voice of the customer and market expert for Core ELA, you will translate buyer insights, competitive intelligence, and market trends into actionable GTM and Account-Based Marketing (ABM) strategies, differentiated positioning, and impactful sales enablement. You will balance strategic ownership with hands-on execution, developing compelling messaging and customer-facing materials that support adoption and revenue growth.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Why you\u2019ll love this role\u2026&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Lead Strategic GTM Execution:&lt;/strong&gt; Architect, lead, and execute end-to-end GTM strategies for national and state-level core curriculum launches, driving market awareness, demand generation, customer adoption, and revenue growth.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Own Positioning, Messaging &amp;amp; Persona Development:&lt;/strong&gt; Define and evolve the core positioning, value propositions, and messaging architecture for Newsela Threads &amp;amp; Themes. Map out key buyer personas across the K\u201312 purchasing hierarchy and align messaging directly to their specific pain points and buying triggers.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Drive Market, Competitor &amp;amp; Customer Intelligence:&lt;/strong&gt; Serve as the definitive voice of the customer and market expert for Core ELA. Deeply analyze buyer behavior, district decision-making cycles, and competitive offerings, translating these insights into actionable strategies that directly inform product roadmaps, sales motions, and marketing programs.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Drive Account-Based Marketing (ABM) &amp;amp; Field Alignment:&lt;/strong&gt; Partner closely with Sales, Revenue Marketing, and RevOps to build and execute high-touch ABM strategies targeting high-value district adoption opportunities, state-level adoptions, and key curriculum decision-makers.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Enable Revenue Teams &amp;amp; Sales Motions:&lt;/strong&gt; Translate market and persona insights into high-impact sales enablement\u2014equipping Sales and Customer Success teams with pitch decks, product training, competitive battlecards, print sample kits, and objection-handling guides to win core curriculum deals.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Shape Operational Workflows:&lt;/strong&gt; Partner cross-functionally with Product, Sales, RevOps, Content, and Marketing to establish and optimize GTM processes, communication cadences, and operating models that improve alignment and execution.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Build Thought Leadership &amp;amp; Content Marketing:&lt;/strong&gt; Champion the instructional vision of Newsela Threads &amp;amp; Themes. Develop thought leadership assets, white papers, content marketing campaigns, and educator resources that position Newsela as a premier provider in the K\u201312 Core ELA space.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Collateral &amp;amp; Multi-Channel Content Execution:&lt;/strong&gt; Translate strategic positioning and messaging into compelling customer-facing content across sales collateral, digital channels, campaigns, and enablement resources, ensuring consistency and alignment with GTM objectives.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Measure &amp;amp; Optimize GTM Performance:&lt;/strong&gt; Define success metrics, evaluate GTM effectiveness, and leverage performance insights to optimize strategies, improve customer adoption, and drive business results.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Why you\u2019re a great fit:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;7+ years of experience in product marketing, go-to-market strategy, or related marketing roles, with demonstrated success leading complex product launches and cross-functional initiatives.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Deep Buyer &amp;amp; Market Expertise: &lt;/strong&gt;Thorough understanding of K\u201312 education buying cycles, district procurement processes, and key personas (district leaders, curriculum directors, and educators). Proven track record of leveraging buyer insights and competitive intelligence to influence GTM strategy and sales motions.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;GTM Strategy &amp;amp; Business Impact: &lt;/strong&gt;Proven track record of developing and executing GTM strategies that drive measurable business outcomes, including market adoption, customer engagement, and revenue growth.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Mastery of Positioning &amp;amp; Messaging: &lt;/strong&gt;Exceptional ability to distill complex core curriculum capabilities, instructional frameworks, and research into clear, differentiated positioning and customer-centric messaging.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Strategic Thinker + Execution Focus: &lt;/strong&gt;Proven ability to independently develop and execute complex GTM strategies, influence cross-functional priorities, and translate strategic positioning into compelling customer-facing materials across multiple channels.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Cross-Functional Partner &amp;amp; Leader: &lt;/strong&gt;Demonstrated ability to lead and influence cross-functional stakeholders, drive strategic alignment, and establish effective working relationships across Sales, Product, RevOps, and Marketing.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Messaging &amp;amp; Content Application: &lt;/strong&gt;Exceptional written communication and storytelling skills, with demonstrated ability to translate complex product capabilities and strategic positioning into clear, compelling messaging across customer-facing channels.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;This role requires travel approximately twice per quarter to support key business initiatives, customer engagements, and cross-functional collaboration.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;em&gt;All offers of employment are contingent upon the successful completion of a background check as part of our pre-employment process.&lt;/em&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Why you\u2019ll love working at Newsela:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;ul&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Health &amp;amp; Wellness:&lt;/strong&gt; Comprehensive medical benefits with employer contribution to premiums and to HSA accounts. Additional benefits such as gym reimbursement, pet insurance, free access to the Calm app, Rocket Lawyer and more to help you stay healthy: mind, body, and soul.&amp;nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Work From Home: &lt;/strong&gt;We are a fully remote company. We provide a monthly tech stipend to support your WFH needs!&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Supporting ALL Families:&lt;/strong&gt; Inclusive benefits to support you and your family, including parental leave, fertility support, adoption, and more!&amp;nbsp;&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Financial Wellbeing:&lt;/strong&gt; Invest in your future with our 401(k) plan, which includes a employer match to help you build long-term financial security.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Time Off: &lt;/strong&gt;Flexible PTO, paid sick time off, company holidays plus winter break (Dec 24th - Jan 1st).&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Professional Development:&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;Newsela offers an annual learning and development allowance to employees to attend external training sessions, classes, workshops, conferences, and educational materials to foster professional growth within their current role and career aspirations at Newsela.&lt;/span&gt;&lt;/li&gt; &lt;li style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Make A Difference:&lt;/strong&gt; No matter your role or department, the work you do each day helps share the future of education and improves the lives of students and teachers.&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;About Newsela:&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;Newsela is a leading education technology company dedicated to meaningful classroom learning for every student. We deliver integrated, AI-powered solutions designed to unlock student engagement, empower teachers, and drive meaningful learning outcomes. Our suite of products supports knowledge and skill development, writing practice, daily instruction, assessment, and data-informed decision-making across K\u201312 classrooms. Grounded in learning science research, Newsela\u2019s solutions integrate content, assessment, and analytics to help educators track progress, understand student outcomes, and deliver high-impact instruction that supports every learner.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;#LI-Remote&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Final compensation will be determined based on the candidate\u2019s individual skills, qualifications, and experience. Total compensation for this role also includes incentive stock options and benefits.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;Base Compensation Range&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$117,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$130,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Senior",
+      "posted_at": "2026-10-16T17:11:38-04:00"
+    },
+    "result": {
+      "overall_score": 78,
+      "verdict": "Strong Fit",
+      "verdict_note": "Deep GTM, positioning, and ABM expertise in K-12 EdTech directly mirrors role; P&L and international scale proven; visa sponsorship at established employer mitigates risk.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 88,
+          "note": "Senior PM/AGM level with P&L ownership and cross-functional leadership; title aligns; no seniority gap."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 82,
+          "note": "Owns GTM strategy, positioning, ABM, sales enablement, competitive intelligence, persona development, CRM/Salesforce; all core JD keywords present."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 78,
+          "note": "EdTech background is asset; K-12 buyer journey (district, state adoption cycles) directly transferable from BYJU's and PlanetSpark experience."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 76,
+          "note": "38% CAC lift, 25% sales growth, 19% recurring revenue growth, 5-market P&L ownership; scale and execution proven; no curriculum-specific product launch precedent."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 72,
+          "note": "Requires H1B sponsorship; Newsela is established, funded EdTech company (likely can sponsor); small penalty vs. startup."
+        }
+      ],
+      "missing_keywords": [
+        "core curriculum positioning",
+        "state-level adoption strategy",
+        "K-12 district buying cycles",
+        "print sample kits / physical collateral",
+        "objection handling frameworks"
+      ],
+      "top_signal": "Direct EdTech GTM and ABM execution at scale (BYJU's 150M+ users, 5-market P&L, 60+ team leadership) with proven messaging-market fit redesigns and district/multi-regional sales pipeline management.",
+      "biggest_gap": "No explicit experience launching or marketing core curriculum products; positioning work is primarily in supplemental/D2C, not full adoption motion at state/district level."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-10-17T16:08:25.312185+00:00"
   }
 ]

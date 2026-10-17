@@ -1,51 +1,35 @@
 # Job Radar
 
-Run: 2026-10-16T17:10:45.481144+00:00
+Run: 2026-10-17T16:08:39.955167+00:00
 
-Companies: 304 checked, 295 connected, 9 failed
-Estimated spend this run: $0.0359
+Companies: 304 checked, 296 connected, 8 failed
+Estimated spend this run: $0.0217
 
-## New this run (5)
+## New this run (3)
 
-### 68 -- Senior Product Marketing Manager, Product Narrative & Launches @ Cloaked (New York, NY)
-**Worth Applying** -- Strong GTM and launch narrative skills, but lacks proven technical depth and security/privacy domain experience that posting heavily emphasizes.
-[View posting](https://jobs.ashbyhq.com/cloaked/9161eac4-3ab3-4ce2-92cb-7f882ff12c3b)
+### 78 -- Senior Product Marketing Manager, Core (Remote, US) @ Newsela (Remote - US)
+**Strong Fit** -- Deep GTM, positioning, and ABM expertise in K-12 EdTech directly mirrors role; P&L and international scale proven; visa sponsorship at established employer mitigates risk.
+[View posting](https://job-boards.greenhouse.io/newsela/jobs/8278660)
 
-- Top signal: P&L ownership and proven ability to translate complex positioning across segments (regional markets → consumer/enterprise analogue); fast execution cadence and cross-functional team leadership.
-- Biggest gap: No demonstrated technical fluency beyond CRM/analytics tools; cannot credibly explain call screening, data removal, tokenization, or CISO security posture without learning curve. No portfolio of working demos, prototypes, or technical founder content.
-- Missing keywords: technical content (demos, prototypes, architecture explainers), security/privacy/identity domain depth, founder or exec content program cadence, short-form video production, screen capture tooling, audience growth metrics (X, LinkedIn, YouTube, Reddit)
+- Top signal: Direct EdTech GTM and ABM execution at scale (BYJU's 150M+ users, 5-market P&L, 60+ team leadership) with proven messaging-market fit redesigns and district/multi-regional sales pipeline management.
+- Biggest gap: No explicit experience launching or marketing core curriculum products; positioning work is primarily in supplemental/D2C, not full adoption motion at state/district level.
+- Missing keywords: core curriculum positioning, state-level adoption strategy, K-12 district buying cycles, print sample kits / physical collateral, objection handling frameworks
 
-### 68 -- Senior Product Marketing Manager, Lifecycle & Consumer Education @ Cloaked (New York, NY)
-**Worth Applying** -- Strong lifecycle and retention fundamentals with proven D2C funnel ownership, but lacks direct CRM platform expertise, SQL fluency, and documented lifecycle-specific programs with control-group testing.
-[View posting](https://jobs.ashbyhq.com/cloaked/3337d6d2-9b42-48e8-a5fe-34a11426c81c)
+### 68 -- Customer Marketing Manager @ Absorblms (Remote US)
+**Worth Applying** -- Strong GTM and D2C funnel expertise, but customer marketing and advocacy program management are less central to track record than PMM or growth roles.
+[View posting](https://jobs.ashbyhq.com/absorblms/a18d852c-704a-4e80-b1bd-65faa63e88e3)
 
-- Top signal: Diagnosed and fixed a 30% funnel leak via GTM redesign and deployed a day-14 churn intervention that improved 30-day retention 40% — demonstrates the diagnostic and activation thinking the role needs.
-- Biggest gap: No documented lifecycle stack rebuild, SQL fluency, or product analytics rigor; retention wins are outcome-heavy but lack methodological depth (control groups, cohort design, statistical confidence) the role demands.
-- Missing keywords: SQL and product analytics, Customer.io or lifecycle automation platform management, Experiment design with control groups, Email and SMS deliverability optimization, Enterprise customer education and seat activation
+- Top signal: 8+ years driving GTM, messaging redesign, and D2C funnel optimization at scale in SaaS; P&L ownership and cross-functional leadership directly applicable.
+- Biggest gap: No demonstrated experience running customer advocacy programs, managing review platforms, or producing customer-facing adoption campaigns post-launch.
+- Missing keywords: customer advocacy, Innovation Council, G2 reviews, Pendo, webinar production
 
-### 52 -- Senior Product Marketing Manager, Infrastructure @ Coinbase (Remote - USA)
-**Stretch** -- Strong GTM and growth foundation, but lacks required payments/fintech/stablecoin domain depth and 7+ years in that specific vertical.
-[View posting](https://www.coinbase.com/careers/positions/8269052?gh_jid=8269052)
+### 68 -- Customer Marketing Manager @ Absorblms (Remote CAN)
+**Worth Applying** -- Strong GTM and campaign execution foundation, but lacks direct customer marketing and advocacy program ownership at required seniority.
+[View posting](https://jobs.ashbyhq.com/absorblms/ede590b0-aacc-45ce-8150-8e89a8fa4309)
 
-- Top signal: Proven GTM repositioning that drove 25% sales lift, P&L ownership across 5 markets, and funnel optimization expertise transfer to demand generation for new segments.
-- Biggest gap: Zero demonstrated experience in payments, stablecoins, fintech, or banking partnerships—core domain depth JD requires; EdTech SaaS does not credibly bridge to crypto infrastructure.
-- Missing keywords: payments industry experience, stablecoins, fintech GTM, co-marketing partner management, PSP/money mover positioning
-
-### 52 -- Regional Business Development Manager @ The-Global-Talent-Co (North America | United States)
-**Stretch** -- Strong GTM and pipeline management skills but lacks direct sales, real estate, or financial services experience that posting emphasizes.
-[View posting](https://jobs.ashbyhq.com/the-global-talent-co/58aed2ef-a755-475d-a99f-091fc4f5998f)
-
-- Top signal: Proven ability to own regional pipelines, redesign GTM motion for 25% growth, and manage complex multi-stakeholder sales processes across geographies.
-- Biggest gap: No direct sales experience, financial services background, or real estate domain knowledge; visa sponsorship risk for small, fast-growing firm hiring 5 junior-focused BD roles.
-- Missing keywords: real estate sales experience, financial services or tax strategy, consultative B2B sales, investor relations or wealth management, network in local real estate community
-
-### 52 -- Lifecycle Marketing Manager @ Chime (San Francisco, CA, USA)
-**Stretch** -- 8+ years in GTM/growth vastly exceeds the 2-4 year lifecycle marketing ask, but candidate lacks hands-on multi-channel campaign execution and marketing automation platform depth required for this specific role.
-[View posting](https://boards.greenhouse.io/chime/jobs/8892857002?gh_jid=8892857002)
-
-- Top signal: Proven ability to redesign GTM positioning and funnel mechanics for 30-40% uplift; sophisticated segmentation and CRM discipline at scale.
-- Biggest gap: Candidate has built GTM strategy and owned P&L but has not executed hands-on multi-channel lifecycle campaigns or managed a marketing automation platform (Braze/Iterable/Klaviyo); role expects IC-level campaign ownership and platform fluency, not strategy-layer oversight.
-- Missing keywords: Braze or Iterable or Klaviyo, email campaign execution, push notification strategy, SMS marketing, retention marketing
+- Top signal: Proven ability to redesign multi-channel GTM sequences, own adoption campaigns end-to-end, and drive measurable engagement uplift (38% CAC, 40% retention improvement) in B2C SaaS at scale.
+- Biggest gap: No demonstrated experience building or managing customer advocacy programs, innovation councils, or external review/reference pipelines—core to this role.
+- Missing keywords: Customer advocacy programs, Innovation Council management, Pendo in-app marketing, G2 reviews and testimonial pipeline, Beta recruitment and onboarding
 
 ## Top 15 all-time
 
@@ -81,6 +65,10 @@ Estimated spend this run: $0.0359
 **Strong Fit** -- Proven GTM strategy and product marketing leadership at scale with freemium B2C SaaS; visa sponsorship is primary risk for established enterprise.
 [View posting](https://jobs.ashbyhq.com/gen-digital/f32a288d-8e0d-410e-9973-83d3a84dcdcd)
 
+### 78 -- Senior Product Marketing Manager, Core (Remote, US) @ Newsela (Remote - US)
+**Strong Fit** -- Deep GTM, positioning, and ABM expertise in K-12 EdTech directly mirrors role; P&L and international scale proven; visa sponsorship at established employer mitigates risk.
+[View posting](https://job-boards.greenhouse.io/newsela/jobs/8278660)
+
 ### 76 -- Product Marketing & GTM Lead Manager - LifeLock @ Gen-Digital (USA - Tempe, AZ)
 **Strong Fit** -- Directly matches core GTM/launch ownership and cross-functional leadership, but lacks explicit subscription/retention expertise and paid-channel channel orchestration depth that LifeLock's DTC/non-DTC complexity demands.
 [View posting](https://jobs.ashbyhq.com/gen-digital/40b7c825-278b-428c-b303-4d799dfb6496)
@@ -104,7 +92,3 @@ Estimated spend this run: $0.0359
 ### 76 -- Senior Business Development Manager @ Greenhouse (Anywhere in the United States)
 **Strong Fit** -- 8+ years of BD and GTM execution in SaaS with proven portfolio management and cross-functional leadership, though partnership-specific lifecycle management is understated versus deal-closing emphasis.
 [View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8115010?gh_jid=8115010)
-
-### 76 -- Senior Consumer Strategy and Business Development Manager @ Coursera (United States)
-**Strong Fit** -- Proven D2C funnel ownership and partnership-driven growth at scale directly align with role; EdTech context transfers seamlessly; visa sponsorship is the only material gap for a large, established employer.
-[View posting](https://job-boards.greenhouse.io/coursera/jobs/6165119004)
