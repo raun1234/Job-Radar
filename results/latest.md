@@ -1,35 +1,11 @@
 # Job Radar
 
-Run: 2026-10-17T16:08:39.955167+00:00
+Run: 2026-10-18T16:20:54.092969+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0217
+Estimated spend this run: $0.0000
 
-## New this run (3)
-
-### 78 -- Senior Product Marketing Manager, Core (Remote, US) @ Newsela (Remote - US)
-**Strong Fit** -- Deep GTM, positioning, and ABM expertise in K-12 EdTech directly mirrors role; P&L and international scale proven; visa sponsorship at established employer mitigates risk.
-[View posting](https://job-boards.greenhouse.io/newsela/jobs/8278660)
-
-- Top signal: Direct EdTech GTM and ABM execution at scale (BYJU's 150M+ users, 5-market P&L, 60+ team leadership) with proven messaging-market fit redesigns and district/multi-regional sales pipeline management.
-- Biggest gap: No explicit experience launching or marketing core curriculum products; positioning work is primarily in supplemental/D2C, not full adoption motion at state/district level.
-- Missing keywords: core curriculum positioning, state-level adoption strategy, K-12 district buying cycles, print sample kits / physical collateral, objection handling frameworks
-
-### 68 -- Customer Marketing Manager @ Absorblms (Remote US)
-**Worth Applying** -- Strong GTM and D2C funnel expertise, but customer marketing and advocacy program management are less central to track record than PMM or growth roles.
-[View posting](https://jobs.ashbyhq.com/absorblms/a18d852c-704a-4e80-b1bd-65faa63e88e3)
-
-- Top signal: 8+ years driving GTM, messaging redesign, and D2C funnel optimization at scale in SaaS; P&L ownership and cross-functional leadership directly applicable.
-- Biggest gap: No demonstrated experience running customer advocacy programs, managing review platforms, or producing customer-facing adoption campaigns post-launch.
-- Missing keywords: customer advocacy, Innovation Council, G2 reviews, Pendo, webinar production
-
-### 68 -- Customer Marketing Manager @ Absorblms (Remote CAN)
-**Worth Applying** -- Strong GTM and campaign execution foundation, but lacks direct customer marketing and advocacy program ownership at required seniority.
-[View posting](https://jobs.ashbyhq.com/absorblms/ede590b0-aacc-45ce-8150-8e89a8fa4309)
-
-- Top signal: Proven ability to redesign multi-channel GTM sequences, own adoption campaigns end-to-end, and drive measurable engagement uplift (38% CAC, 40% retention improvement) in B2C SaaS at scale.
-- Biggest gap: No demonstrated experience building or managing customer advocacy programs, innovation councils, or external review/reference pipelines—core to this role.
-- Missing keywords: Customer advocacy programs, Innovation Council management, Pendo in-app marketing, G2 reviews and testimonial pipeline, Beta recruitment and onboarding
+## No new matching postings this run.
 
 ## Top 15 all-time
 
