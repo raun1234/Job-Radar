@@ -1,11 +1,27 @@
 # Job Radar
 
-Run: 2026-10-18T16:20:54.092969+00:00
+Run: 2026-10-19T18:58:54.937082+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0000
+Estimated spend this run: $0.0145
 
-## No new matching postings this run.
+## New this run (2)
+
+### 72 -- GTM Strategy & Operations Senior Associate @ Datadog (New York, New York, USA)
+**Worth Applying** -- Strong GTM and D2C funnel ownership, but lacks direct product management, build-vs-buy, and internal tools/platforms experience that Datadog emphasizes.
+[View posting](https://careers.datadoghq.com/detail/8247250/?gh_jid=8247250)
+
+- Top signal: 8+ years GTM strategy with P&L ownership across 5 city markets, 38% CAC improvement, and cross-functional team leadership at 150M+ user scale.
+- Biggest gap: No demonstrated product management, PRD writing, or internal tooling/platform ownership—core to Datadog's day-to-day product owner responsibilities.
+- Missing keywords: Product management / PRDs / user stories, Build-versus-buy evaluation / RFPs, AI product strategy and capability roadmapping, Internal tools / platforms product ownership, Data products and analytics tooling
+
+### 42 -- Business Development Manager - Greece @ Swordhealth (Remote - Greece)
+**Stretch** -- Strong GTM and growth background, but lacks required Greek healthcare domain expertise, language fluency, and Mediterranean market knowledge.
+[View posting](https://job-boards.greenhouse.io/swordhealth/jobs/4455704009)
+
+- Top signal: 8+ years of progressive GTM strategy and market expansion in B2C SaaS at scale with quantified revenue impact and cross-functional leadership.
+- Biggest gap: No Greek language, no Mediterranean or healthcare domain expertise, and visa sponsorship in Greece-based role creates legal and operational friction.
+- Missing keywords: Greek language fluency, Mediterranean healthcare market knowledge, Public sector tender/procurement experience, Healthcare provider relationships, Reimbursement models expertise
 
 ## Top 15 all-time
 
