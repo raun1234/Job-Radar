@@ -1,27 +1,59 @@
 # Job Radar
 
-Run: 2026-10-19T18:58:54.937082+00:00
+Run: 2026-10-20T17:46:41.325916+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0145
+Estimated spend this run: $0.0435
 
-## New this run (2)
+## New this run (6)
 
-### 72 -- GTM Strategy & Operations Senior Associate @ Datadog (New York, New York, USA)
-**Worth Applying** -- Strong GTM and D2C funnel ownership, but lacks direct product management, build-vs-buy, and internal tools/platforms experience that Datadog emphasizes.
-[View posting](https://careers.datadoghq.com/detail/8247250/?gh_jid=8247250)
+### 73 -- Senior Product Marketing Manager, Go-to-Market Excellence @ Klaviyo (San Francisco, CA)
+**Worth Applying** -- Strong GTM and sales enablement foundation from EdTech, but lacks direct B2B SaaS enterprise sales cycle depth and proven field enablement program ownership.
+[View posting](https://www.klaviyo.com/careers/jobs/8038889003?gh_jid=8038889003)
 
-- Top signal: 8+ years GTM strategy with P&L ownership across 5 city markets, 38% CAC improvement, and cross-functional team leadership at 150M+ user scale.
-- Biggest gap: No demonstrated product management, PRD writing, or internal tooling/platform ownership—core to Datadog's day-to-day product owner responsibilities.
-- Missing keywords: Product management / PRDs / user stories, Build-versus-buy evaluation / RFPs, AI product strategy and capability roadmapping, Internal tools / platforms product ownership, Data products and analytics tooling
+- Top signal: Owned P&L across 5 city markets and redesigned GTM positioning driving 25% sales growth; direct sales pipeline management and CRM-led segmentation at scale.
+- Biggest gap: All experience is B2C/D2C EdTech; no demonstrated depth in complex enterprise multi-stakeholder sales cycles, deal stages, or field-facing enablement program ownership Klaviyo requires.
+- Missing keywords: Enterprise SaaS sales cycles, Sales play scalability measurement, Field enablement program owner, Win/loss analysis and roadmap influence, Multi-stakeholder buyer personas
 
-### 42 -- Business Development Manager - Greece @ Swordhealth (Remote - Greece)
-**Stretch** -- Strong GTM and growth background, but lacks required Greek healthcare domain expertise, language fluency, and Mediterranean market knowledge.
-[View posting](https://job-boards.greenhouse.io/swordhealth/jobs/4455704009)
+### 72 -- Senior Product Marketing Manager, Go-to-Market Excellence @ Klaviyo (Boston, MA)
+**Worth Applying** -- Strong GTM and sales enablement background with proven field impact, but lacks direct B2B SaaS sales cycle depth and visa sponsorship creates hiring friction at established enterprise.
+[View posting](https://www.klaviyo.com/careers/jobs/8037605003?gh_jid=8037605003)
 
-- Top signal: 8+ years of progressive GTM strategy and market expansion in B2C SaaS at scale with quantified revenue impact and cross-functional leadership.
-- Biggest gap: No Greek language, no Mediterranean or healthcare domain expertise, and visa sponsorship in Greece-based role creates legal and operational friction.
-- Missing keywords: Greek language fluency, Mediterranean healthcare market knowledge, Public sector tender/procurement experience, Healthcare provider relationships, Reimbursement models expertise
+- Top signal: Built and scaled sales onboarding for 200+ monthly hires with 45% conversion to revenue-generating rep—directly relevant to Klaviyo's seller and CSM enablement charter.
+- Biggest gap: No demonstrated experience in complex B2B SaaS multi-stakeholder sales cycles or customer success cross-sell/expansion motions that are core to this role's CSM partnership mandate.
+- Missing keywords: B2B enterprise sales cycles, CSM product adoption / expansion motions, agency / partner channel enablement, multi-product platform launches, win/loss analysis at scale
+
+### 72 -- Senior Product Marketing Manager, Personalization @ Klaviyo (Boston, MA)
+**Worth Applying** -- Strong GTM and positioning track record, but product marketing depth and B2B SaaS specificity are gaps; EdTech domain shift requires proven ability to translate to martech/ecommerce context.
+[View posting](https://www.klaviyo.com/careers/jobs/8037604003?gh_jid=8037604003)
+
+- Top signal: Proven ability to translate complex offerings into clear positioning (25% sales uplift via messaging redesign) and lead cross-functional adoption at scale; GEO research demonstrates current AI capability.
+- Biggest gap: Lacks direct B2B SaaS product marketing track record and martech/ecommerce domain depth; EdTech GTM motion differs from platform adoption and cross-sell expansion motions Klaviyo prioritizes.
+- Missing keywords: B2B SaaS product launches (named examples), AI/ML product marketing expertise, Martech or ecommerce platform experience, Packaging and pricing strategy ownership, Data science or analytics product positioning
+
+### 72 -- Product Marketing Manager - GTM & Enablement @ Splitmetrics (Remote - Europe Time Zones)
+**Worth Applying** -- Core PMM skills and GTM ownership proven, but lacks named martech/mobile marketing depth and direct SaaS feature launch experience.
+[View posting](https://jobs.ashbyhq.com/splitmetrics/1b28f332-da05-4f35-89fc-1c74fff2f66f)
+
+- Top signal: Hands-on GTM positioning redesigns and sales enablement at scale, plus AI-native mindset and cross-functional leadership directly relevant to role's new product adoption mission.
+- Biggest gap: No demonstrated experience in B2B SaaS, martech, or mobile/app marketing; EdTech D2C context requires repositioning for SaaS buyer psychology.
+- Missing keywords: B2B SaaS feature launches, Mobile marketing platform, Automated workflow optimization, ASO / app marketing, Competitive battle cards at scale
+
+### 71 -- Senior Product Marketing Manager, Personalization @ Klaviyo (San Francisco, CA)
+**Worth Applying** -- Strong GTM and positioning chops in B2C SaaS, but lacks direct B2B SaaS PMM experience and martech/data product depth that role prioritizes.
+[View posting](https://www.klaviyo.com/careers/jobs/8038891003?gh_jid=8038891003)
+
+- Top signal: Generative Engine Optimization research and hands-on GTM positioning redesign at scale (25% sales uplift in 6mo) show ability to simplify complex, AI-era technology into clear messaging—directly aligned with Personalization PMM need.
+- Biggest gap: No demonstrated B2B SaaS or martech PMM experience; EdTech D2C funnel work does not signal familiarity with sales-led motions, enterprise packaging, or data product go-to-market that Klaviyo Personalization requires.
+- Missing keywords: B2B SaaS product marketing, data-driven product positioning, analytics or AI/ML product marketing, martech or marketing technology, packaging and pricing strategy
+
+### 62 -- Sr. Growth Marketing Manager @ Fourkites (Chicago, IL or Remote, USA)
+**Worth Applying** -- Strong GTM and demand gen fundamentals, but EdTech B2C depth and limited direct paid media/SaaS execution create a genuine gap versus B2B enterprise SaaS expectation.
+[View posting](https://job-boards.greenhouse.io/fourkites/jobs/8301589)
+
+- Top signal: Proven end-to-end funnel ownership and 38% CAC lift through multi-channel GTM redesign at PlanetSpark directly mirrors demand gen scaling mandate; CRM-led segmentation and conversion optimization mindset are core.
+- Biggest gap: No demonstrated hands-on paid media (Google/LinkedIn Ads) budget management or SaaS enterprise B2B revenue impact; EdTech D2C playbook is adjacent but not equivalent to B2B SaaS pipeline mechanics that FourKites prioritizes.
+- Missing keywords: Google Ads / SEM hands-on optimization, LinkedIn Ads campaign management, Email nurture drip sequence design, Content syndication vendor partnerships, Webinar pipeline attribution
 
 ## Top 15 all-time
 
