@@ -1,43 +1,67 @@
 # Job Radar
 
-Run: 2026-10-23T17:42:06.565579+00:00
+Run: 2026-10-24T16:27:17.890296+00:00
 
-Companies: 304 checked, 294 connected, 10 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 295 connected, 9 failed
+Estimated spend this run: $0.0507
 
-## New this run (4)
+## New this run (7)
 
-### 68 -- Growth Marketing Manager @ Owner (Remote)
-**Worth Applying** -- Strong D2C funnel and cross-functional GTM experience, but lacks direct paid social media buying depth and AI-native SaaS context.
-[View posting](https://jobs.ashbyhq.com/owner/d3353cb0-8fed-41db-919f-477a1747695d)
+### 71 -- Senior Product Marketing Manager  | Sweden | Remote @ Grafanalabs (Sweden (Remote))
+**Worth Applying** -- Strong GTM and positioning skills with EdTech PMM exposure, but lacks deep observability/infrastructure domain knowledge and open-source community track record.
+[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6233354004)
 
-- Top signal: Direct experience scaling D2C funnel, owning P&L across geographies, driving measurable CAC and conversion lifts with cross-functional rigor.
-- Biggest gap: No demonstrated hands-on paid social media buying, Meta/TikTok campaign management, or creative strategy leadership—the core execution skill for this role.
-- Missing keywords: paid social media buying, Meta/Facebook Ads Manager, TikTok user acquisition campaigns, creative testing and iteration, budget allocation and media mix
+- Top signal: Proven ability to redesign GTM positioning and messaging (25% sales uplift at BYJU'S); cross-functional teaching mindset aligns with Grafana's PMM-in-product-org model.
+- Biggest gap: No demonstrated passion for or experience selling to DevOps/infrastructure/cloud-native technical audiences; EdTech D2C motion fundamentally different from observability B2B buyer journey.
+- Missing keywords: open source, infrastructure/observability domain, cloud native, technical audience depth, DevOps/SRE buyer motion
 
-### 52 -- Partner Manager @ Nexhealth (United States)
-**Stretch** -- Strong GTM and business development pedigree, but no direct channel partner or reseller ecosystem experience; healthcare domain gap is secondary to the functional mismatch.
-[View posting](https://www.nexhealth.com/careers/open-positions?gh_jid=6232576004)
+### 68 -- Senior Product Marketing Manager  | US | Remote @ Grafanalabs (United States (Remote))
+**Worth Applying** -- Strong GTM and positioning experience, but EdTech-heavy background and lack of infrastructure/open-source domain depth create a meaningful gap for observability platform role.
+[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6233350004)
 
-- Top signal: Proven ability to build repeatable GTM playbooks, own multi-region P&L, and lead cross-functional teams at scale through sales enablement and process design.
-- Biggest gap: Zero demonstrated experience recruiting, signing, or scaling partner/reseller/channel ecosystems; all revenue ownership is direct D2C or inside sales, not ecosystem-driven.
-- Missing keywords: channel management, reseller partnerships, partner recruitment, MSP/agency ecosystem, partner-sourced pipeline
+- Top signal: Proven ability to redesign GTM positioning and messaging at scale; demonstrated competitive intelligence and cross-functional teaching across large orgs.
+- Biggest gap: Zero domain depth in observability, infrastructure, open-source, or technical SaaS—EdTech B2C motion does not transfer to enterprise DevOps buyer journey.
+- Missing keywords: open-source experience, infrastructure/DevOps SaaS, technical buyer motion, cloud-native platforms, observability domain knowledge
 
-### 42 -- Senior Partner Manager @ Fivetran (Remote, California, United States, AMER)
-**Stretch** -- Strong GTM and growth track record, but lacks direct partner sales experience and data infrastructure domain expertise that are central to this Databricks partnership role.
-[View posting](https://www.fivetran.com/careers/job?gh_jid=8034209003)
+### 68 -- Senior Product Marketing Manager @ Robinhood (New York, NY)
+**Worth Applying** -- Strong GTM and D2C funnel ownership, but lacks demonstrated B2B demand generation and outbound channel expertise Robinhood explicitly requires.
+[View posting](https://boards.greenhouse.io/robinhood/jobs/8286878?t=gh_src=&gh_jid=8286878)
 
-- Top signal: 8+ years structured go-to-market execution with quantified revenue impact (38% CAC lift, 19% ARR growth, $5M BD revenue); cross-functional team leadership at scale.
-- Biggest gap: No direct partner sales, channel, or co-selling experience; EdTech domain is adjacent to data tools at best, with no platform partnership playbook demonstrated.
-- Missing keywords: Partner sales manager, Channel sales, Co-selling, Data infrastructure, Databricks/Spark ecosystem
+- Top signal: 6-year GTM track record with proven funnel redesigns, D2C ownership, and CRM-integrated analytics directly applicable to prospect acquisition funnel build.
+- Biggest gap: No demonstrated hands-on outbound marketing execution (LinkedIn campaigns, email sequences) or B2B demand generation—a core personal responsibility in this role.
+- Missing keywords: B2B demand generation, outbound campaigns (LinkedIn, email, outreach), high-net-worth/mass-affluent targeting, marketing attribution & CAC:LTV modeling, martech stack implementation
 
-### 28 -- Connectivity Partner Manager @ Airbnb (United States)
-**Weak Fit** -- Candidate lacks hospitality/travel tech domain expertise, technical partner management experience, and required SQL/Looker proficiency; EdTech GTM background does not transfer to PMS/CRS connectivity operations.
-[View posting](https://careers.airbnb.com/positions/8316843?gh_jid=8316843)
+### 54 -- Senior Product Business Development Manager @ Reddit (Remote - United States)
+**Stretch** -- Strong GTM and growth experience but lacks the 10+ years of dedicated BD and complex platform partnerships depth Reddit seeks.
+[View posting](https://job-boards.greenhouse.io/reddit/jobs/8282305)
 
-- Top signal: 8 years progressive GTM and cross-functional leadership with P&L ownership and quantified growth delivery (38% CAC lift, 40% retention gain).
-- Biggest gap: Zero hospitality tech or connectivity partner management experience; lacks SQL/Looker and technical integration troubleshooting expertise core to the role.
-- Missing keywords: PMS (Property Management Systems), CRS (Central Reservation Systems), SQL proficiency, Looker, Technical partner management, Hospitality/travel software domain, API integrations, Channel Managers
+- Top signal: 8+ years GTM/BD progression at scale (150M-user EdTech, cross-functional leadership, P&L accountability, international expansion pipeline management).
+- Biggest gap: YoE shortfall (8 vs 10+ required) plus no demonstrated platform partnerships, data deal structuring, or contract negotiation at Reddit's complexity level; visa sponsorship is secondary friction.
+- Missing keywords: 10+ years business development, complex product partnerships, contract negotiation and redlining, platform ecosystem experience, commercial intelligence data partnerships
+
+### 42 -- Marketing Operations Manager (Part-time Contract)  @ Collectivehealth (San Francisco, CA | Lehi, UT | Plano, TX | Remote)
+**Stretch** -- Senior-level GTM strategist overqualified for part-time contract ops role; HubSpot depth and ops focus are gaps despite strong CRM/funnel fundamentals.
+[View posting](https://jobs.collectivehealth.com/apply/?gh_jid=8168479)
+
+- Top signal: Deep CRM integration and lead scoring expertise from Salesforce/KPI dashboard work; proven ability to connect marketing systems and funnel data.
+- Biggest gap: Candidate is overqualified for IC ops contract work and lacks HubSpot hands-on depth; sponsorship for part-time 6-month role adds cost/legal complexity not typical for startups.
+- Missing keywords: HubSpot workflows and landing pages, Email campaign lifecycle management, Marketing attribution modeling, CAN-SPAM and GDPR compliance, Part-time contract commitment fit
+
+### 28 -- Accountant Partnerships Manager @ Brex (New York, New York, United States)
+**Weak Fit** -- Candidate is GTM/growth strategist with zero accounting channel, partnership sales, or quota-carrying closing experience that this role fundamentally requires.
+[View posting](https://www.brex.com/careers/8912603002?gh_jid=8912603002)
+
+- Top signal: Strong GTM framework thinking and cross-functional execution; could learn partnerships role quickly in a mentored setting.
+- Biggest gap: Role is a sales/partnerships closing position requiring 3+ years hitting quota and managing partner pipelines; candidate has zero closing sales or channel partnership experience—this is a fundamental functional mismatch, not a learnable gap.
+- Missing keywords: closing sales / quota attainment, partnership channel management, accounting firms / OCFO ecosystem, customer referral generation, account-based partnership strategy
+
+### 28 -- Accountant Partnerships Manager @ Brex (San Francisco, California, United States)
+**Weak Fit** -- Candidate is a GTM/Growth strategist, not a sales/partnerships closing professional; lacks direct accounting channel or B2B partnerships experience.
+[View posting](https://www.brex.com/careers/8912605002?gh_jid=8912605002)
+
+- Top signal: 8+ years driving revenue-generating GTM motions and P&L accountability across geographies shows commercial rigor and cross-functional execution at scale.
+- Biggest gap: Role is fundamentally a partnership sales closer requiring quota discipline and channel relationship depth; candidate's expertise is GTM strategy and funnel optimization, not building and closing partner channels.
+- Missing keywords: closing sales, quota/target attainment, channel partnerships, partner enablement, accounting firms/OCFO ecosystem
 
 ## Top 15 all-time
 
