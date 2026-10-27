@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-10-26T19:01:38.312645+00:00
+Run: 2026-10-27T18:33:27.599078+00:00
 
-Companies: 304 checked, 294 connected, 10 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 295 connected, 9 failed
+Estimated spend this run: $0.0217
 
-## No new matching postings this run.
+## New this run (3)
+
+### 52 -- Product Partner Manager, Scaled @ Figma (San Francisco, CA • New York, NY • United States)
+**Stretch** -- Strong operational and cross-functional skills, but lacks direct ecosystem/partnership program management and developer platform experience Figma prioritizes.
+[View posting](https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004)
+
+- Top signal: Proven ability to design scalable operational systems (CRM dashboards, sales onboarding, multi-center ops) and orchestrate across 60+ cross-functional teams—directly applicable to scaled partner program architecture.
+- Biggest gap: No demonstrated experience managing developer ecosystems, API programs, or technology partner networks; GTM and growth focus misaligned with program ops and partner enablement mandate.
+- Missing keywords: partner ecosystem management, developer/technology partner enablement, API or integration program experience, app marketplace or integration platform, partner success metrics and engagement measurement
+
+### 52 -- Lifecycle Marketing Manager, Expansion @ Gomotive (United States - Remote)
+**Stretch** -- Strong GTM and growth foundation, but lifecycle/email marketing depth and B2B SaaS specificity are material gaps for this CRM-centric expansion role.
+[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8917108002)
+
+- Top signal: Owns end-to-end D2C funnel with 60+ cross-functional team, built KPI dashboards, and drove 25–42% conversion/productivity lifts; strong strategic framing and execution discipline.
+- Biggest gap: No demonstrated lifecycle email marketing, Marketo, or B2B SaaS expansion experience; EdTech D2C funnel motion is structurally different from B2B enterprise cross-sell and PQL conversion workflows.
+- Missing keywords: email marketing, Marketo, Pendo, pixel tracking, attribution modeling, PLG (product-led growth), lifecycle email orchestration, PQL/MQL conversion, enterprise sales motion, renewal/retention strategy
+
+### 52 -- Sales Enablement Manager @ Cresta (United States (Remote))
+**Stretch** -- Strong GTM and sales ops background, but lacks explicit Sales Enablement leadership experience at target seniority.
+[View posting](https://job-boards.greenhouse.io/cresta/jobs/5464615008)
+
+- Top signal: P&L ownership, cross-functional team leadership (60+ members), and measurable sales operations improvements (42% productivity uplift, 27% conversion lift) demonstrate ability to structure chaos and drive rep performance.
+- Biggest gap: No dedicated Sales Enablement or training leadership role; expertise is GTM strategy and growth, not enablement function design, training delivery, or sales skills coaching at manager level.
+- Missing keywords: Sales Enablement, Sales Training, Onboarding Program Leadership, Complex B2B Enterprise Sales, Sales Kickoff (SKO) Ownership
 
 ## Top 15 all-time
 
