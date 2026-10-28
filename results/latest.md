@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-10-27T18:33:27.599078+00:00
+Run: 2026-10-28T18:39:28.064649+00:00
 
-Companies: 304 checked, 295 connected, 9 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 296 connected, 8 failed
+Estimated spend this run: $0.0290
 
-## New this run (3)
+## New this run (4)
 
-### 52 -- Product Partner Manager, Scaled @ Figma (San Francisco, CA • New York, NY • United States)
-**Stretch** -- Strong operational and cross-functional skills, but lacks direct ecosystem/partnership program management and developer platform experience Figma prioritizes.
-[View posting](https://boards.greenhouse.io/figma/jobs/6235005004?gh_jid=6235005004)
+### 78 -- Product Marketing Manager, Subscriptions @ Stripe (New York, San Francisco, Seattle, Remote)
+**Strong Fit** -- Proven GTM ownership and positioning expertise in complex B2B products, but lacks direct payments/fintech and named B2B SaaS scale experience that Stripe heavily weights.
+[View posting](https://stripe.com/jobs/search?gh_jid=8331124)
 
-- Top signal: Proven ability to design scalable operational systems (CRM dashboards, sales onboarding, multi-center ops) and orchestrate across 60+ cross-functional teams—directly applicable to scaled partner program architecture.
-- Biggest gap: No demonstrated experience managing developer ecosystems, API programs, or technology partner networks; GTM and growth focus misaligned with program ops and partner enablement mandate.
-- Missing keywords: partner ecosystem management, developer/technology partner enablement, API or integration program experience, app marketplace or integration platform, partner success metrics and engagement measurement
+- Top signal: 8+ years progressive GTM ownership including P&L accountability, positioned messaging redesigns for measurable growth, and proven cross-functional execution at scale.
+- Biggest gap: No direct payments, fintech, or B2B SaaS infrastructure experience; EdTech is consumer-motion-adjacent, not Stripe's B2B payment ecosystem.
+- Missing keywords: payments or fintech domain experience, B2B SaaS at enterprise scale, subscription or billing product marketing, direct customer research in financial products, launch metrics for infrastructure platforms
 
-### 52 -- Lifecycle Marketing Manager, Expansion @ Gomotive (United States - Remote)
-**Stretch** -- Strong GTM and growth foundation, but lifecycle/email marketing depth and B2B SaaS specificity are material gaps for this CRM-centric expansion role.
-[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8917108002)
+### 72 -- Solutions Marketing Manager, Emerging Industries @ Anthropic (San Francisco, CA | New York City, NY)
+**Worth Applying** -- Strong GTM and positioning chops with proven multi-segment scaling, but lacks direct enterprise software solutions marketing and named AI product experience that this Claude-focused role expects.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5463888008)
 
-- Top signal: Owns end-to-end D2C funnel with 60+ cross-functional team, built KPI dashboards, and drove 25–42% conversion/productivity lifts; strong strategic framing and execution discipline.
-- Biggest gap: No demonstrated lifecycle email marketing, Marketo, or B2B SaaS expansion experience; EdTech D2C funnel motion is structurally different from B2B enterprise cross-sell and PQL conversion workflows.
-- Missing keywords: email marketing, Marketo, Pendo, pixel tracking, attribution modeling, PLG (product-led growth), lifecycle email orchestration, PQL/MQL conversion, enterprise sales motion, renewal/retention strategy
+- Top signal: GEO research and client-facing AI platform work is rare at manager level; direct multi-segment positioning redesign track record (BYJU's, PlanetSpark) proves ability to go deep on distinct buyer narratives.
+- Biggest gap: No demonstrated solutions marketing or B2B enterprise software experience; profile is D2C and B2C SaaS focused, yet role requires translating complex AI capabilities for technical and business buyers in regulated, legacy industries.
+- Missing keywords: solutions marketing, enterprise software, deal acceleration, buyer enablement, AI capabilities translation
 
-### 52 -- Sales Enablement Manager @ Cresta (United States (Remote))
-**Stretch** -- Strong GTM and sales ops background, but lacks explicit Sales Enablement leadership experience at target seniority.
-[View posting](https://job-boards.greenhouse.io/cresta/jobs/5464615008)
+### 67 -- Product Marketing Lead, Enterprise @ Scaleai (San Francisco, CA; New York, NY)
+**Worth Applying** -- Strong GTM and ABM execution, but lacks regulated industry depth and direct AI/data platform PMM experience that Scale prioritizes.
+[View posting](https://job-boards.greenhouse.io/scaleai/jobs/4748328005)
 
-- Top signal: P&L ownership, cross-functional team leadership (60+ members), and measurable sales operations improvements (42% productivity uplift, 27% conversion lift) demonstrate ability to structure chaos and drive rep performance.
-- Biggest gap: No dedicated Sales Enablement or training leadership role; expertise is GTM strategy and growth, not enablement function design, training delivery, or sales skills coaching at manager level.
-- Missing keywords: Sales Enablement, Sales Training, Onboarding Program Leadership, Complex B2B Enterprise Sales, Sales Kickoff (SKO) Ownership
+- Top signal: Proven ability to redesign GTM positioning and drive 25%+ uplift; strong ABM, sales enablement, and cross-functional leadership in multi-market environments.
+- Biggest gap: No regulated industry, financial services, or enterprise B2B platform experience; EdTech D2C background does not validate ability to navigate compliance, executive buyers, or complex deal cycles.
+- Missing keywords: financial services or regulated industry, enterprise B2B sales plays, AI/ML platform marketing, executive buyer messaging, vertical launch playbook at scale
+
+### 52 -- Senior Strategic Alliance Manager @ Omadahealth (Remote, USA)
+**Stretch** -- Strong GTM and growth execution but lacks 5+ years of healthcare partnership/channel/account management experience that is explicitly required.
+[View posting](https://job-boards.greenhouse.io/omadahealth/jobs/8259898)
+
+- Top signal: P&L ownership across 5 city markets and 38% customer acquisition lift demonstrates accountability, cross-functional orchestration, and revenue impact at required seniority level.
+- Biggest gap: Zero documented healthcare industry exposure or partnership/alliance management experience; posting requires 5+ years healthcare and managing external partnerships, candidate has neither.
+- Missing keywords: healthcare experience, account management, channel management, health plans / PBMs, clinical-complex solutions
 
 ## Top 15 all-time
 
@@ -69,6 +77,10 @@ Estimated spend this run: $0.0217
 **Strong Fit** -- Deep GTM, positioning, and ABM expertise in K-12 EdTech directly mirrors role; P&L and international scale proven; visa sponsorship at established employer mitigates risk.
 [View posting](https://job-boards.greenhouse.io/newsela/jobs/8278660)
 
+### 78 -- Product Marketing Manager, Subscriptions @ Stripe (New York, San Francisco, Seattle, Remote)
+**Strong Fit** -- Proven GTM ownership and positioning expertise in complex B2B products, but lacks direct payments/fintech and named B2B SaaS scale experience that Stripe heavily weights.
+[View posting](https://stripe.com/jobs/search?gh_jid=8331124)
+
 ### 76 -- Product Marketing & GTM Lead Manager - LifeLock @ Gen-Digital (USA - Tempe, AZ)
 **Strong Fit** -- Directly matches core GTM/launch ownership and cross-functional leadership, but lacks explicit subscription/retention expertise and paid-channel channel orchestration depth that LifeLock's DTC/non-DTC complexity demands.
 [View posting](https://jobs.ashbyhq.com/gen-digital/40b7c825-278b-428c-b303-4d799dfb6496)
@@ -88,7 +100,3 @@ Estimated spend this run: $0.0217
 ### 76 -- Senior Product Marketing Manager @ Greenhouse (Anywhere in the United States)
 **Strong Fit** -- Full-stack PMM experience with proven GTM ownership and cross-functional leadership; EdTech background transfers well; sponsorship need is the limiting factor for a large, established enterprise SaaS company.
 [View posting](https://job-boards.greenhouse.io/greenhouse/jobs/7411199?gh_jid=7411199)
-
-### 76 -- Senior Business Development Manager @ Greenhouse (Anywhere in the United States)
-**Strong Fit** -- 8+ years of BD and GTM execution in SaaS with proven portfolio management and cross-functional leadership, though partnership-specific lifecycle management is understated versus deal-closing emphasis.
-[View posting](https://job-boards.greenhouse.io/greenhouse/jobs/8115010?gh_jid=8115010)
