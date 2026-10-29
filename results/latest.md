@@ -1,43 +1,43 @@
 # Job Radar
 
-Run: 2026-10-28T18:39:28.064649+00:00
+Run: 2026-10-29T18:48:00.988405+00:00
 
 Companies: 304 checked, 296 connected, 8 failed
 Estimated spend this run: $0.0290
 
 ## New this run (4)
 
-### 78 -- Product Marketing Manager, Subscriptions @ Stripe (New York, San Francisco, Seattle, Remote)
-**Strong Fit** -- Proven GTM ownership and positioning expertise in complex B2B products, but lacks direct payments/fintech and named B2B SaaS scale experience that Stripe heavily weights.
-[View posting](https://stripe.com/jobs/search?gh_jid=8331124)
+### 76 -- Product Marketing Lead:  Temp Maternity Leave Coverage @ Faire (San Francisco, CA)
+**Strong Fit** -- Solid GTM and positioning experience with proven D2C funnel ownership, but lacks direct B2B2C marketplace and two-sided platform background that Faire's role requires.
+[View posting](https://boards.greenhouse.io/faire/jobs/8922579002?gh_jid=8922579002)
 
-- Top signal: 8+ years progressive GTM ownership including P&L accountability, positioned messaging redesigns for measurable growth, and proven cross-functional execution at scale.
-- Biggest gap: No direct payments, fintech, or B2B SaaS infrastructure experience; EdTech is consumer-motion-adjacent, not Stripe's B2B payment ecosystem.
-- Missing keywords: payments or fintech domain experience, B2B SaaS at enterprise scale, subscription or billing product marketing, direct customer research in financial products, launch metrics for infrastructure platforms
+- Top signal: P&L ownership across 5 markets and cross-functional team leadership (60+ members) demonstrates the strategic autonomy and seniority Faire expects; proven positioning redesign and D2C funnel optimization align directly with core GTM deliverables.
+- Biggest gap: No demonstrated experience in two-sided marketplace dynamics, B2B SMB buyer psychology, or supplier-retailer competitive positioning; all prior work is EdTech and single-sided D2C funnels, which may slow ramp on Faire's unique complexity.
+- Missing keywords: Two-sided marketplace dynamics, B2B SaaS (brand/retailer segments), Wholesale or supplier positioning, Lifecycle-driven adoption motion, Executive communication at scale
 
-### 72 -- Solutions Marketing Manager, Emerging Industries @ Anthropic (San Francisco, CA | New York City, NY)
-**Worth Applying** -- Strong GTM and positioning chops with proven multi-segment scaling, but lacks direct enterprise software solutions marketing and named AI product experience that this Claude-focused role expects.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5463888008)
+### 72 -- Senior Product Marketing Manager (Temporary) @ Pushpay (Remote)
+**Worth Applying** -- Strong GTM and positioning credentials, but lacks direct SaaS/fintech PMM experience and temporary contract creates sponsorship uncertainty.
+[View posting](https://job-boards.greenhouse.io/pushpay/jobs/8329492)
 
-- Top signal: GEO research and client-facing AI platform work is rare at manager level; direct multi-segment positioning redesign track record (BYJU's, PlanetSpark) proves ability to go deep on distinct buyer narratives.
-- Biggest gap: No demonstrated solutions marketing or B2B enterprise software experience; profile is D2C and B2C SaaS focused, yet role requires translating complex AI capabilities for technical and business buyers in regulated, legacy industries.
-- Missing keywords: solutions marketing, enterprise software, deal acceleration, buyer enablement, AI capabilities translation
+- Top signal: Proven GTM repositioning and cross-functional execution in high-volume consumer product; competitive intelligence and positioning framework work directly transferable.
+- Biggest gap: EdTech D2C background does not validate ability to position B2B SaaS for nonprofit/ministry buyers; visa sponsorship risk on temporary contract may disqualify.
+- Missing keywords: customer evidence and case studies, fintech or payment platforms, B2B SaaS product marketing, go-to-market for religious/nonprofit sector, pricing strategy messaging
 
-### 67 -- Product Marketing Lead, Enterprise @ Scaleai (San Francisco, CA; New York, NY)
-**Worth Applying** -- Strong GTM and ABM execution, but lacks regulated industry depth and direct AI/data platform PMM experience that Scale prioritizes.
-[View posting](https://job-boards.greenhouse.io/scaleai/jobs/4748328005)
+### 52 -- Business Development Manager @ Carta (New York City, NY)
+**Stretch** -- Strong GTM and partnership execution skills, but lacks legal services domain depth and private markets ecosystem familiarity that posting prioritizes.
+[View posting](https://job-boards.greenhouse.io/carta/jobs/8032568003)
 
-- Top signal: Proven ability to redesign GTM positioning and drive 25%+ uplift; strong ABM, sales enablement, and cross-functional leadership in multi-market environments.
-- Biggest gap: No regulated industry, financial services, or enterprise B2B platform experience; EdTech D2C background does not validate ability to navigate compliance, executive buyers, or complex deal cycles.
-- Missing keywords: financial services or regulated industry, enterprise B2B sales plays, AI/ML platform marketing, executive buyer messaging, vertical launch playbook at scale
+- Top signal: Proven ability to build multi-stakeholder partnerships, scale sales enablement, and manage complex GTM motions across geographies.
+- Biggest gap: No demonstrated experience in legal services, asset management, or private capital—JD explicitly requires private markets ecosystem knowledge and law/legal background.
+- Missing keywords: law firm partnerships, private markets ecosystem, PE/VC/credit operations, HubSpot, legal services channel
 
-### 52 -- Senior Strategic Alliance Manager @ Omadahealth (Remote, USA)
-**Stretch** -- Strong GTM and growth execution but lacks 5+ years of healthcare partnership/channel/account management experience that is explicitly required.
-[View posting](https://job-boards.greenhouse.io/omadahealth/jobs/8259898)
+### 48 -- Senior Manager, Strategic Partnerships & Integrations @ Robinhood (Clearwater, FL)
+**Stretch** -- Strong GTM and cross-functional leadership, but strategic partnerships requires deeper advisor/RIA ecosystem expertise and financial services domain knowledge Raunak lacks.
+[View posting](https://boards.greenhouse.io/robinhood/jobs/8303985?t=gh_src=&gh_jid=8303985)
 
-- Top signal: P&L ownership across 5 city markets and 38% customer acquisition lift demonstrates accountability, cross-functional orchestration, and revenue impact at required seniority level.
-- Biggest gap: Zero documented healthcare industry exposure or partnership/alliance management experience; posting requires 5+ years healthcare and managing external partnerships, candidate has neither.
-- Missing keywords: healthcare experience, account management, channel management, health plans / PBMs, clinical-complex solutions
+- Top signal: Proven ability to lead cross-functional teams, design and scale enablement systems, and drive advisor/customer adoption through repositioning and CRM-driven segmentation.
+- Biggest gap: No evidence of building or owning strategic technology partnerships, advisor relationships, or commercial negotiations with enterprise financial services partners; EdTech domain does not translate directly to RIA/fintech buyer dynamics.
+- Missing keywords: Strategic partnerships & relationship management, RIA (registered investment advisor) ecosystem, Custody platform or fintech domain, Enterprise commercial negotiations, Center of Influence (COI) engagement
 
 ## Top 15 all-time
 
