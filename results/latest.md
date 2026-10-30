@@ -1,43 +1,35 @@
 # Job Radar
 
-Run: 2026-10-29T18:48:00.988405+00:00
+Run: 2026-10-30T18:25:02.562888+00:00
 
-Companies: 304 checked, 296 connected, 8 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 295 connected, 9 failed
+Estimated spend this run: $0.0217
 
-## New this run (4)
+## New this run (3)
 
-### 76 -- Product Marketing Lead:  Temp Maternity Leave Coverage @ Faire (San Francisco, CA)
-**Strong Fit** -- Solid GTM and positioning experience with proven D2C funnel ownership, but lacks direct B2B2C marketplace and two-sided platform background that Faire's role requires.
-[View posting](https://boards.greenhouse.io/faire/jobs/8922579002?gh_jid=8922579002)
+### 62 -- B2B Growth Marketing Manager @ Pinterest (San Francisco, CA, US; Remote, US)
+**Worth Applying** -- Strong GTM and funnel optimization background, but lacks required paid acquisition expertise (Google Ads, Meta, LinkedIn) and B2B SaaS self-serve motion depth.
+[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8268331)
 
-- Top signal: P&L ownership across 5 markets and cross-functional team leadership (60+ members) demonstrates the strategic autonomy and seniority Faire expects; proven positioning redesign and D2C funnel optimization align directly with core GTM deliverables.
-- Biggest gap: No demonstrated experience in two-sided marketplace dynamics, B2B SMB buyer psychology, or supplier-retailer competitive positioning; all prior work is EdTech and single-sided D2C funnels, which may slow ramp on Faire's unique complexity.
-- Missing keywords: Two-sided marketplace dynamics, B2B SaaS (brand/retailer segments), Wholesale or supplier positioning, Lifecycle-driven adoption motion, Executive communication at scale
+- Top signal: Diagnosed and fixed 30% top-of-funnel leak via GTM sequence redesign (+38% CAC); P&L ownership across 5 markets demonstrates commercial accountability and strategic thinking.
+- Biggest gap: No demonstrated hands-on experience managing paid media channels (Google, Meta, LinkedIn); EdTech B2C funnel differs structurally from SMB self-serve B2B acquisition engine.
+- Missing keywords: Google Ads / Google Search / Performance Max, Meta / Facebook Ads platform expertise, Paid acquisition program management, SMB / self-serve customer acquisition, LinkedIn Ads experience
 
-### 72 -- Senior Product Marketing Manager (Temporary) @ Pushpay (Remote)
-**Worth Applying** -- Strong GTM and positioning credentials, but lacks direct SaaS/fintech PMM experience and temporary contract creates sponsorship uncertainty.
-[View posting](https://job-boards.greenhouse.io/pushpay/jobs/8329492)
+### 52 -- Senior Growth Marketing Manager, Influencer Affiliates  @ Airbnb (United States)
+**Stretch** -- Strong GTM and growth ops track record, but lacks direct influencer marketing, social platform strategy, and affiliate program experience core to this role.
+[View posting](https://careers.airbnb.com/positions/8329389?gh_jid=8329389)
 
-- Top signal: Proven GTM repositioning and cross-functional execution in high-volume consumer product; competitive intelligence and positioning framework work directly transferable.
-- Biggest gap: EdTech D2C background does not validate ability to position B2B SaaS for nonprofit/ministry buyers; visa sponsorship risk on temporary contract may disqualify.
-- Missing keywords: customer evidence and case studies, fintech or payment platforms, B2B SaaS product marketing, go-to-market for religious/nonprofit sector, pricing strategy messaging
+- Top signal: P&L ownership, multi-market pipeline scaling, and ABM/segmentation rigor demonstrate strategic and operational duality Airbnb seeks.
+- Biggest gap: Zero demonstrated influencer marketing, paid social platform expertise, or affiliate program execution—core role DNA not present in profile.
+- Missing keywords: influencer marketing, affiliate marketing, Instagram/TikTok/YouTube strategy, CreatorIQ/Impact/Sprinklr, content creator relationship management
 
-### 52 -- Business Development Manager @ Carta (New York City, NY)
-**Stretch** -- Strong GTM and partnership execution skills, but lacks legal services domain depth and private markets ecosystem familiarity that posting prioritizes.
-[View posting](https://job-boards.greenhouse.io/carta/jobs/8032568003)
+### 52 -- Lifecycle Marketing Manager @ Swordhealth (Remote - US)
+**Stretch** -- Strong GTM and funnel expertise, but lifecycle/CRM automation experience is not demonstrated; healthcare domain is adjacent but not B2C SaaS subscription.
+[View posting](https://job-boards.greenhouse.io/swordhealth/jobs/4470687009)
 
-- Top signal: Proven ability to build multi-stakeholder partnerships, scale sales enablement, and manage complex GTM motions across geographies.
-- Biggest gap: No demonstrated experience in legal services, asset management, or private capital—JD explicitly requires private markets ecosystem knowledge and law/legal background.
-- Missing keywords: law firm partnerships, private markets ecosystem, PE/VC/credit operations, HubSpot, legal services channel
-
-### 48 -- Senior Manager, Strategic Partnerships & Integrations @ Robinhood (Clearwater, FL)
-**Stretch** -- Strong GTM and cross-functional leadership, but strategic partnerships requires deeper advisor/RIA ecosystem expertise and financial services domain knowledge Raunak lacks.
-[View posting](https://boards.greenhouse.io/robinhood/jobs/8303985?t=gh_src=&gh_jid=8303985)
-
-- Top signal: Proven ability to lead cross-functional teams, design and scale enablement systems, and drive advisor/customer adoption through repositioning and CRM-driven segmentation.
-- Biggest gap: No evidence of building or owning strategic technology partnerships, advisor relationships, or commercial negotiations with enterprise financial services partners; EdTech domain does not translate directly to RIA/fintech buyer dynamics.
-- Missing keywords: Strategic partnerships & relationship management, RIA (registered investment advisor) ecosystem, Custody platform or fintech domain, Enterprise commercial negotiations, Center of Influence (COI) engagement
+- Top signal: Proven retention intervention (+40% 30-day retention) and CRM-led segmentation show lifecycle thinking; AI fluency via GEO research aligns with Sword's AI-first culture.
+- Biggest gap: No hands-on lifecycle marketing platform (Braze/Iterable) or email automation workflow experience; role is tactical execution, not strategic GTM leadership that candidate excels at.
+- Missing keywords: Braze or Iterable experience, Email marketing automation, Push notification campaigns, In-app messaging, Subscription SaaS retention
 
 ## Top 15 all-time
 
