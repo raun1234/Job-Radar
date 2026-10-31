@@ -1,35 +1,27 @@
 # Job Radar
 
-Run: 2026-10-30T18:25:02.562888+00:00
+Run: 2026-10-31T17:30:40.509074+00:00
 
 Companies: 304 checked, 295 connected, 9 failed
-Estimated spend this run: $0.0217
+Estimated spend this run: $0.0145
 
-## New this run (3)
+## New this run (2)
 
-### 62 -- B2B Growth Marketing Manager @ Pinterest (San Francisco, CA, US; Remote, US)
-**Worth Applying** -- Strong GTM and funnel optimization background, but lacks required paid acquisition expertise (Google Ads, Meta, LinkedIn) and B2B SaaS self-serve motion depth.
-[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8268331)
+### 72 -- Senior Go-To-Market and Integrated Marketing Manager - Norton @ Gen-Digital (USA - New York, NY)
+**Worth Applying** -- Strong GTM and launch execution background, but cybersecurity/B2C SaaS is adjacent to EdTech; visa sponsorship risk for established corp.
+[View posting](https://jobs.ashbyhq.com/gen-digital/a27e7f31-8037-4f3d-86c1-d270868ad2dd)
 
-- Top signal: Diagnosed and fixed 30% top-of-funnel leak via GTM sequence redesign (+38% CAC); P&L ownership across 5 markets demonstrates commercial accountability and strategic thinking.
-- Biggest gap: No demonstrated hands-on experience managing paid media channels (Google, Meta, LinkedIn); EdTech B2C funnel differs structurally from SMB self-serve B2B acquisition engine.
-- Missing keywords: Google Ads / Google Search / Performance Max, Meta / Facebook Ads platform expertise, Paid acquisition program management, SMB / self-serve customer acquisition, LinkedIn Ads experience
+- Top signal: P&L ownership across 5 markets, proven positioning redesign (25% sales lift), and hands-on GTM execution with 60+ cross-functional team leadership.
+- Biggest gap: EdTech-to-B2C subscription cybersecurity domain shift; no explicit DTC churn/lifecycle retention metrics or product launch portfolio cited; visa sponsorship adds friction for large corp hire.
+- Missing keywords: DTC performance marketing, subscription business model, cybersecurity/security positioning, product storytelling assets/videos, message testing/A/B test results
 
-### 52 -- Senior Growth Marketing Manager, Influencer Affiliates  @ Airbnb (United States)
-**Stretch** -- Strong GTM and growth ops track record, but lacks direct influencer marketing, social platform strategy, and affiliate program experience core to this role.
-[View posting](https://careers.airbnb.com/positions/8329389?gh_jid=8329389)
+### 68 -- Business Development Lead @ Pinterest (San Francisco, CA, US; Remote, US)
+**Worth Applying** -- Strong business development and GTM foundation with P&L ownership, but lacks explicit 10+ years BD/partnerships focus and corporate development depth Pinterest values.
+[View posting](https://www.pinterestcareers.com/jobs/?gh_jid=8119896)
 
-- Top signal: P&L ownership, multi-market pipeline scaling, and ABM/segmentation rigor demonstrate strategic and operational duality Airbnb seeks.
-- Biggest gap: Zero demonstrated influencer marketing, paid social platform expertise, or affiliate program execution—core role DNA not present in profile.
-- Missing keywords: influencer marketing, affiliate marketing, Instagram/TikTok/YouTube strategy, CreatorIQ/Impact/Sprinklr, content creator relationship management
-
-### 52 -- Lifecycle Marketing Manager @ Swordhealth (Remote - US)
-**Stretch** -- Strong GTM and funnel expertise, but lifecycle/CRM automation experience is not demonstrated; healthcare domain is adjacent but not B2C SaaS subscription.
-[View posting](https://job-boards.greenhouse.io/swordhealth/jobs/4470687009)
-
-- Top signal: Proven retention intervention (+40% 30-day retention) and CRM-led segmentation show lifecycle thinking; AI fluency via GEO research aligns with Sword's AI-first culture.
-- Biggest gap: No hands-on lifecycle marketing platform (Braze/Iterable) or email automation workflow experience; role is tactical execution, not strategic GTM leadership that candidate excels at.
-- Missing keywords: Braze or Iterable experience, Email marketing automation, Push notification campaigns, In-app messaging, Subscription SaaS retention
+- Top signal: P&L ownership across 5 city markets with 25% sales growth redesign and cross-functional leadership at scale directly maps to partnership program accountability.
+- Biggest gap: Résumé frames work as GTM/growth, not business development or partnerships; lacks explicit deal structuring, negotiation, or ecosystem partnership track record Pinterest emphasizes.
+- Missing keywords: strategic partnerships experience, partnership portfolio management, complex commercial negotiation, corporate development, partnership ecosystem
 
 ## Top 15 all-time
 
