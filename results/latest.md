@@ -1,11 +1,27 @@
 # Job Radar
 
-Run: 2026-11-01T18:15:12.704877+00:00
+Run: 2026-11-02T22:07:11.298429+00:00
 
-Companies: 304 checked, 295 connected, 9 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 294 connected, 10 failed
+Estimated spend this run: $0.0145
 
-## No new matching postings this run.
+## New this run (2)
+
+### 52 -- Marketing Operations Manager @ Twilio (Remote - US)
+**Stretch** -- Strong GTM and analytics foundation, but lacks hands-on MarOps platform depth (Marketo, CVENT, Qualified) and event integration expertise Twilio requires.
+[View posting](https://job-boards.greenhouse.io/twilio/jobs/8337880)
+
+- Top signal: Built KPI dashboards and lead-scoring systems in CRM; understands funnel analytics and conversion optimization rigor required for ops success.
+- Biggest gap: No demonstrated hands-on expertise in marketing automation platforms (Marketo), event/webinar tools (CVENT, BigMarker, Qualified), or system integration—core technical pillars of this role.
+- Missing keywords: Marketo, CVENT, BigMarker, Qualified, webinar platform integration, workflow automation design, system integration, event platform management
+
+### 42 -- Strategic Channel Manager | Remote | West Coast US @ Grafanalabs (United States (Remote))
+**Stretch** -- GTM and growth expertise is strong, but candidate lacks direct channel partner management and SaaS sales experience required for this channel-focused revenue role.
+[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6231148004)
+
+- Top signal: P&L ownership across 5 markets and ABM campaign execution at scale demonstrate commercial accountability and cross-functional leadership depth.
+- Biggest gap: No direct channel partner ecosystem management or B2B SaaS sales experience; candidate is D2C/EdTech, not B2B software partner-centric GTM.
+- Missing keywords: channel sales management, partner program development, systems integrators / VAR partners, deal acceleration pipeline, SaaS sales experience
 
 ## Top 15 all-time
 
