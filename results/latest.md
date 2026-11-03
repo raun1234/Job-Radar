@@ -1,27 +1,27 @@
 # Job Radar
 
-Run: 2026-11-02T22:07:11.298429+00:00
+Run: 2026-11-03T19:57:39.055956+00:00
 
-Companies: 304 checked, 294 connected, 10 failed
-Estimated spend this run: $0.0145
+Companies: 304 checked, 295 connected, 9 failed
+Estimated spend this run: $0.0144
 
 ## New this run (2)
 
-### 52 -- Marketing Operations Manager @ Twilio (Remote - US)
-**Stretch** -- Strong GTM and analytics foundation, but lacks hands-on MarOps platform depth (Marketo, CVENT, Qualified) and event integration expertise Twilio requires.
-[View posting](https://job-boards.greenhouse.io/twilio/jobs/8337880)
+### 52 -- Digital Marketing Channel Manager, Social & Premium Video @ Headway (Remote)
+**Stretch** -- Strong GTM and growth foundation, but lacks direct paid social and OLV/CTV channel management depth required for this hands-on IC role.
+[View posting](https://jobs.ashbyhq.com/headway/9ee51a07-c54d-49cc-a5bb-97870188fd4b)
 
-- Top signal: Built KPI dashboards and lead-scoring systems in CRM; understands funnel analytics and conversion optimization rigor required for ops success.
-- Biggest gap: No demonstrated hands-on expertise in marketing automation platforms (Marketo), event/webinar tools (CVENT, BigMarker, Qualified), or system integration—core technical pillars of this role.
-- Missing keywords: Marketo, CVENT, BigMarker, Qualified, webinar platform integration, workflow automation design, system integration, event platform management
+- Top signal: 8+ years D2C funnel ownership with quantified CAC and conversion improvements; proven ability to diagnose and redesign multi-channel GTM sequences at scale.
+- Biggest gap: No direct hands-on paid social or premium video channel management experience; role requires deep Meta/OLV/CTV expertise and AI-agent workflow building, not demonstrated in profile.
+- Missing keywords: paid social, Meta, OLV/CTV, creative testing, incrementality tests, MMM, AI agents, healthcare advertising
 
-### 42 -- Strategic Channel Manager | Remote | West Coast US @ Grafanalabs (United States (Remote))
-**Stretch** -- GTM and growth expertise is strong, but candidate lacks direct channel partner management and SaaS sales experience required for this channel-focused revenue role.
-[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6231148004)
+### 42 -- GTM Lead, Europe @ Higgsfieldai (Remote, Europe)
+**Stretch** -- Strong GTM and P&L skills, but lacks direct European enterprise sales experience, existing regional network, and hands-on deal closure track record at posted scale.
+[View posting](https://jobs.ashbyhq.com/higgsfieldai/e2fe5188-3189-46db-b59b-38c913926a66)
 
-- Top signal: P&L ownership across 5 markets and ABM campaign execution at scale demonstrate commercial accountability and cross-functional leadership depth.
-- Biggest gap: No direct channel partner ecosystem management or B2B SaaS sales experience; candidate is D2C/EdTech, not B2B software partner-centric GTM.
-- Missing keywords: channel sales management, partner program development, systems integrators / VAR partners, deal acceleration pipeline, SaaS sales experience
+- Top signal: P&L ownership, funnel optimization, and cross-functional scaling demonstrate ability to move revenue metrics and operate independently within defined markets.
+- Biggest gap: Zero selling experience into European enterprises, agencies, brands, or media; candidate managed coordinated campaigns not solo six-figure deal closure; visa sponsorship dependency and location mismatch incompatible with founding hire urgency.
+- Missing keywords: enterprise sales execution, existing regional network, agency/brand/media selling, six-figure deal closure, channel partnerships
 
 ## Top 15 all-time
 

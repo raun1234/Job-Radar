@@ -22607,5 +22607,124 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-11-02T22:06:23.983036+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:headway:9ee51a07-c54d-49cc-a5bb-97870188fd4b",
+      "company": "headway",
+      "title": "Digital Marketing Channel Manager, Social & Premium Video",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/headway/9ee51a07-c54d-49cc-a5bb-97870188fd4b",
+      "description": "1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway\u2019s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that. But we're going further. Over 90,000 providers across all 50 states run their practice on our software, serving over 2.6 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale, and building much of it with AI. We aren't just a billing layer; we are becoming the platform where care actually happens. We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better. About the Team & Role Headway's Patient Growth Marketing team helps people find affordable, in-network mental health care. Paid marketing is a major driver of how new patients find Headway, and we are building paid social and premium video (OLV/CTV) into scaled, efficient growth engines. As our Digital Marketing Channel Manager for Paid Social & Premium Video, you will be the senior, hands-on owner of these channels. You will also be AI-native at your core, using AI and AI agents to do the work that would traditionally take a full team. You will report to the Director of Patient Growth Marketing. You Will - Own paid social (Meta) end to end: strategy, budget, buying, optimization, and scaling to efficient CAC - Launch and scale premium video (OLV and CTV), from test design through scaled, measurable programs - Lead creative strategy and testing with our internal Creative team, external agencies, and Product Marketing: shape concepts, write sharp briefs, and know what great looks like - Build AI and agent workflows that automate and speed up channel work: creative variation, campaign builds, QA and pacing, reporting, and insights - Design incrementality tests (holdouts, geo tests) and turn results into clear budget and creative decisions - Share learnings and AI playbooks that raise the bar across Patient Growth You\u2019d be a great fit if\u2026 - You have 8+ years of paid social experience at scale, with clear, measurable results, plus hands-on OLV/CTV experience - You want to be an IC: you love being in the accounts and building, and you do not need a team under you to have big impact - You are AI-native, with concrete examples of AI processes or agents you have built yourself or with help, that changed how work gets done - You have great taste: you are a creative thinker who brings a performance-first mindset while protecting the brand - You are rigorous with data and measurement, and comfortable with incrementality, attribution, and MMM trade-offs - Nice to have: healthcare or regulated-category advertising experience COMPREHENSIVE BENEFITS: Medical, dental, vision, HSA/FSA, 401(k) including match for 2027!, Carrot Fertility reimbursement, and paid parental, medical and caregiver leave. We believe a team's strength is in its people, and we cannot achieve this mission without a team that reflects the diversity of this problem \u2013 across race, ethnicity, gender, sexuality, age, national origin, religion, family status, disability, military status, and experience. Headway is committed to the full inclusion of all qualified individuals. As part of this commitment, Headway will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or receive other benefits and privileges of employment, please inform the recruiter when they contact you to schedule your interview. Headway participates in E-Verify. To learn more, click here. https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf A notice to Headway applicants: To protect yourself against phishing and recruitment fraud, please note that Headway only accepts applications through our official careers page at https://headway.co/careers. Headway will never refer you to external websites, ask for payment or personal information, or conduct interviews via messaging apps. All official communication will come from a @findheadway.com http://findheadway.com email address. If you are contacted by someone claiming to be from Headway via an unofficial channel, please do not share any information and report it as spam.",
+      "salary": "$121.6K - $190K",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-11-03T18:55:31.936+00:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth foundation, but lacks direct paid social and OLV/CTV channel management depth required for this hands-on IC role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Manager-level experience aligns; but role is hands-on IC without team, candidate's P&L and team leadership may overqualify or misalign."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 45,
+          "note": "Strong in GTM, funnel, analytics, CRM; missing paid social, Meta platforms, OLV/CTV, creative testing, MMM, incrementality test design."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 58,
+          "note": "EdTech B2C funnel experience transfers; healthcare/regulated advertising is explicitly nice-to-have, not present in profile."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Proven D2C funnel optimization and CAC improvements; no named paid social or premium video channel scaling or creative testing leadership shown."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 45,
+          "note": "Requires H1B sponsorship; Headway is Series D (well-resourced) but no explicit sponsorship signal in posting; higher risk for early-stage tech."
+        }
+      ],
+      "missing_keywords": [
+        "paid social",
+        "Meta",
+        "OLV/CTV",
+        "creative testing",
+        "incrementality tests",
+        "MMM",
+        "AI agents",
+        "healthcare advertising"
+      ],
+      "top_signal": "8+ years D2C funnel ownership with quantified CAC and conversion improvements; proven ability to diagnose and redesign multi-channel GTM sequences at scale.",
+      "biggest_gap": "No direct hands-on paid social or premium video channel management experience; role requires deep Meta/OLV/CTV expertise and AI-agent workflow building, not demonstrated in profile."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-03T19:57:04.911766+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:higgsfieldai:e2fe5188-3189-46db-b59b-38c913926a66",
+      "company": "higgsfieldai",
+      "title": "GTM Lead, Europe",
+      "location": "Remote, Europe",
+      "url": "https://jobs.ashbyhq.com/higgsfieldai/e2fe5188-3189-46db-b59b-38c913926a66",
+      "description": "Why work at Higgsfield AI? We're the fastest-scaling generative AI company in history, hitting $1B in annual revenue run rate, 30M+ users worldwide, 6M+ generations per day, and powering 390 of Fortune 500 brands. We\u2019re building at the absolute frontier of AI-powered video creation and next-generation creative tools. Joining Higgsfield means becoming part of a high-impact team shaping the future of AI-native experiences, at a company that isn\u2019t just moving fast, but rewriting what fast looks like. About the role Higgsfield AI is looking for a GTM Lead, Europe to open and own our European business. You will be our first dedicated commercial hire for the region, responsible for turning Europe's agencies, brands, production companies and media groups into Higgsfield customers. You will define the European go-to-market, source and close the region's first lighthouse accounts yourself, and set the playbook that the next wave of European hires will follow. You will work closely with our Asia-based Growth team, our US-based Enterprise team, and directly with company leadership. The ideal candidate has sold creative, marketing or AI technology into European enterprises and agencies, brings an existing network across at least two major European markets, and is energised by owning a region from zero. What you'll do Open the European market - Build and execute Higgsfield's European go-to-market strategy, starting with a named-account plan across the UK, Spain, Ireland, the Nordics, Benelux and Southern Europe (France and DACH are a second wave). - Segment the region by readiness to buy: advertising and creative agencies, consumer brands, production companies, broadcasters and streamers, gaming and sports media. - Personally source, run and close the region's first enterprise and agency deals, from first touch through negotiation and signature. - Convert high-usage European creators, teams and agencies already on the platform into team and enterprise accounts. Build pipeline and revenue - Own European pipeline, forecast and bookings; keep 3x+ pipeline coverage and report weekly to leadership. - Run an outbound-first motion alongside inbound from the platform: executive outreach, events, partner introductions and creator-community referrals. - Lead commercial negotiations, enterprise agreements, and multi-year and usage-based deal structures. - Build local references and case studies that make the next European deal easier than the last. Work the ecosystem - Build relationships with senior decision-makers in European agency holding-company networks, independent agencies and brand marketing organisations. - Identify and activate European channel and distribution partners (agencies, production studios, creative platforms, local resellers) with the Head of Partnerships. - Represent Higgsfield at European industry events and in local media as the leading AI video platform for creative work. - Localise positioning, pricing packaging and campaigns for European buyers with Marketing and Product. - Surface market, competitive and regulatory signals (including EU AI Act and data-residency questions) to Product, Legal and leadership. - Define what the European team should look like at 5 and 15 people, and help hire it. What success looks like in year one - A European named-account plan and sales playbook that leadership has signed off. - The first marquee European agency and brand customers live in production, with public references. - A forecast that is accurate within 15% quarter over quarter. - A hiring plan for the next European GTM hires, with the first of them onboarded. Requirements - 8+ years in enterprise sales, business development, partnerships or GTM leadership, including 3+ years selling SaaS, AI, creative technology, marketing technology or media technology in Europe. - A track record of sourcing and closing six- and seven-figure deals yourself, not only through a team. - Experience selling into advertising agencies, brand marketing organisations, or media and entertainment companies in at least two European markets. - An existing network of senior buyers in European agencies, brands or media groups. - Comfortable opening a region alone: no local marketing, SE or RevOps bench on day one. - Fluent English; a second major European language (Spanish, Portuguese, Italian, Dutch or Nordic) is a strong plus. - Based in, or willing to relocate to, Almaty; or based in Spain, the UK or Ireland with the right to work there and able to travel across Europe and to Almaty regularly. - Genuine enthusiasm for generative AI and hands-on fluency with Higgsfield or comparable creative AI tools. Nice to have - Experience at an AI-native company, a creator platform, or a usage-based software business. - Relationships in European broadcasters, streamers or sports media. - Prior experience as a first or founding commercial hire in a region. What we're not looking for - A strategy-only leader who needs a team before they can produce results. - Someone whose success has depended on a large inbound brand and a full supporting bench. - A single-market seller; Europe is too diverse for one-country experience. What we offer - Competitive base salary in USD, based on your experience, skills, and the scope of the role. - Equity participation through the company\u2019s stock option program, giving you the opportunity to share in Higgsfield\u2019s long-term growth. - Relocation support for candidates moving from another city or country. - A highly collaborative, fast-paced environment where you can work directly with experienced leaders and have a meaningful impact on the product and company. - Opportunities for professional growth, ownership, and career development as the company scales. Location and working model We would prefer this person to be based in Almaty, where much of our Growth team sits. We are equally happy with a fully remote hire based in Spain, the UK or Ireland, with regular travel to customers across Europe and to Almaty and San Francisco for planning sessions and company events. Team members are expected to maintain sufficient overlap with the Growth team's working hours and to be active, responsive and close collaborators across time zones.",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Lead",
+      "posted_at": "2026-11-02T23:00:40.061+00:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and P&L skills, but lacks direct European enterprise sales experience, existing regional network, and hands-on deal closure track record at posted scale.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager-level GTM and P&L ownership proven, but role requires founding regional commercial hire with solo deal closure at 6-7 figures; candidate's largest deals were coordinated, not personally closed."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Strong GTM strategy, positioning, competitive intelligence, sales enablement, CRM, pipeline analytics. Missing: direct enterprise sales execution, channel partnerships, deal negotiation, multi-year contracting."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "EdTech background; creative/AI/martech exposure limited to GEO research. No selling into agencies, brands, media, broadcasters, or production companies. Wrong customer base entirely."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 38,
+          "note": "Generated $5M revenue at BYJU'S but through campaigns and coordinated teams, not personal enterprise closes. No evidence of 6-7 figure individual deal sourcing or closing."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "Requires H1B sponsorship; posting expects Europe-based or immediate relocation to Almaty. Visa dependency and location mismatch are material blockers for founder-stage regional hire."
+        }
+      ],
+      "missing_keywords": [
+        "enterprise sales execution",
+        "existing regional network",
+        "agency/brand/media selling",
+        "six-figure deal closure",
+        "channel partnerships"
+      ],
+      "top_signal": "P&L ownership, funnel optimization, and cross-functional scaling demonstrate ability to move revenue metrics and operate independently within defined markets.",
+      "biggest_gap": "Zero selling experience into European enterprises, agencies, brands, or media; candidate managed coordinated campaigns not solo six-figure deal closure; visa sponsorship dependency and location mismatch incompatible with founding hire urgency."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-03T19:57:13.521380+00:00"
   }
 ]
