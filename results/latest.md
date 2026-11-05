@@ -1,67 +1,35 @@
 # Job Radar
 
-Run: 2026-11-04T20:16:28.499159+00:00
+Run: 2026-11-05T20:28:33.342452+00:00
 
 Companies: 304 checked, 294 connected, 10 failed
-Estimated spend this run: $0.0505
+Estimated spend this run: $0.0217
 
-## New this run (7)
+## New this run (3)
 
-### 76 -- Sr. Growth Product Marketing Manager, Chime Enterprise @ Chime (New York, NY, USA)
-**Strong Fit** -- Direct D2C funnel ownership and international multi-partner experience closely mirrors B2B2C motions; visa sponsorship at large, stable company is workable risk.
-[View posting](https://boards.greenhouse.io/chime/jobs/8929507002?gh_jid=8929507002)
+### 76 -- Senior Product Marketing Manager, Workflows @ Pandadoc (Remote (USA))
+**Strong Fit** -- Proven B2B SaaS GTM and product marketing expertise with strong customer research skills; workflow/automation domain gap is real but offset by exceptional positioning and launch track record.
+[View posting](https://job-boards.greenhouse.io/pandadoc/jobs/8351533)
 
-- Top signal: End-to-end D2C funnel ownership across 5 city markets and international multi-partner pipeline directly maps to B2B2C structure; proven ability to scale repeatable conversion models across geographies.
-- Biggest gap: No explicit workplace benefits, financial services, or HR tech domain depth, and no named performance marketing or statistical hypothesis-testing rigor; will require onboarding to fintech compliance and benefits landscape.
-- Missing keywords: performance marketing, statistical significance / confidence intervals, workplace benefits / HR tech, compliance / regulatory guardrails, partner incentives / promotions management
+- Top signal: Client-facing GEO research and hands-on AI fluency directly match the 'lead the AI story for workflows' requirement; rare for a Manager-level GTM candidate.
+- Biggest gap: Zero explicit experience marketing workflow, automation, or process software; EdTech buyer psychology differs materially from operations-focused B2B SaaS procurement.
+- Missing keywords: workflow automation software, process mining or process optimization, approvals and handoffs framework, in-product messaging, agent or agentic AI
 
-### 71 -- Nonprofit GTM Strategy Manager @ Okta (Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC)
-**Worth Applying** -- Strong GTM and growth chops, but nonprofit sector expertise and identity/cybersecurity domain depth are genuine gaps Okta will prioritize.
-[View posting](https://www.okta.com/company/careers/opportunity/8284216?gh_jid=8284216)
+### 72 -- Senior Product Marketing Manager, CPQ @ Pandadoc (Remote (USA))
+**Worth Applying** -- Strong GTM and positioning chops with EdTech SaaS scale, but lacks demonstrated B2B SaaS PMM depth, CPQ/revenue ops domain familiarity, and proven AI product positioning track record.
+[View posting](https://job-boards.greenhouse.io/pandadoc/jobs/8351559)
 
-- Top signal: Demonstrated segment ownership across international markets with 38% CAC lift and P&L accountability across 5 regions; proven positioning redesign and sales enablement chops translate directly to nonprofit GTM acceleration mandate.
-- Biggest gap: Zero nonprofit sector experience and no identity/cybersecurity domain depth; Okta will expect candidates who speak fluently to nonprofit buyer psychology, compliance pain, and mission-driven org constraints, not EdTech D2C funnel motion.
-- Missing keywords: identity/cybersecurity/cloud domain, nonprofit or mission-driven segment experience, compliance and buyer requirements mapping, vertical-specific sales overlay, social impact or mission alignment track record
+- Top signal: GEO research and AI platform benchmarking show emerging AI positioning credibility; ABM, segmentation, and messaging-market-fit redesign work transfer directly to dual-track (budget + technical operator) buyer motion.
+- Biggest gap: No demonstrated B2B SaaS PMM experience, no CPQ/revenue ops domain familiarity, and no proof of shipping AI product positioning at scale—all core to the role's AI positioning and RevOps buyer targeting mandate.
+- Missing keywords: B2B SaaS product marketing (3+ years named), Sales Ops / RevOps buyer persona depth, Campaign execution and demand gen ownership, AI tool hands-on fluency and daily usage, CPQ / revenue operations domain knowledge
 
-### 68 -- Senior Digital Marketing Channel Manager, SEO & AEO @ Headway (Remote)
-**Worth Applying** -- Strong GTM and growth foundation, but lacks 8+ years of hands-on SEO/AEO depth—research-stage GEO work is adjacent, not proven channel ownership.
-[View posting](https://jobs.ashbyhq.com/headway/c36c74bf-5e65-466e-997b-3adb451daa1d)
+### 42 -- Regional Alliance Manager, Enterprise East @ Okta (Boston, Massachusetts; New York, New York; Washington, DC)
+**Stretch** -- Strong GTM and growth foundation, but lacks core Partners & Alliances and SaaS/CIAM domain depth required for enterprise co-sell execution.
+[View posting](https://www.okta.com/company/careers/opportunity/8351028?gh_jid=8351028)
 
-- Top signal: GEO research framework across 7 AI platforms directly addresses Headway's AEO need; rare manager-level AI search expertise and growth hacker mindset with funnel discipline.
-- Biggest gap: No proven 8+ years of hands-on SEO channel ownership, link building campaigns, or organic acquisition scaling—GEO research is adjacent but not equivalent to AEO execution track record.
-- Missing keywords: 8+ years SEO experience, link building and digital PR, long-tail content production at scale, technical SEO (site architecture, structured data, indexation), AEO competitive wins (not just research)
-
-### 42 -- Digital Marketing Channel Manager, Affiliate and Creator/Influencer @ Headway (Remote)
-**Stretch** -- Strong GTM fundamentals but zero affiliate, listicle, creator/influencer, or healthcare channel management experience; core role requires hands-on operator expertise in channels candidate has not run.
-[View posting](https://jobs.ashbyhq.com/headway/561b5c8b-89f0-4a0f-8c4c-205d0b088db1)
-
-- Top signal: Raunak rebuilt multi-channel GTM sequences, optimized CAC, and led cross-functional campaigns; he understands channel discipline and brand governance.
-- Biggest gap: No hands-on experience running affiliate programs, listicles, or creator/influencer initiatives—the three core workstreams of this role. EdTech GTM is adjacent but not directly transferable.
-- Missing keywords: affiliate platform management (Impact, CJ Affiliate, others), listicle negotiation and placement, creator/influencer sourcing and contracts, incrementality measurement in attribution-hard channels, healthcare or regulated category compliance experience
-
-### 42 -- Community Events and Partnerships Manager @ Nooks (United States (Any Time Zone))
-**Stretch** -- Strong GTM and growth foundation, but lacks direct community management, event execution, or partnership programming experience required for this role.
-[View posting](https://jobs.ashbyhq.com/nooks/7a141a42-1ca5-49f4-bc93-ad8aa247eb2b)
-
-- Top signal: P&L ownership across 5 markets and 38% CAC improvement demonstrate measurable commercial impact and analytical rigor that could transfer to pipeline attribution.
-- Biggest gap: No demonstrated experience building or scaling community programs, running events, managing partnerships, or recruiting ambassadors—the core accountabilities of this role.
-- Missing keywords: community management, event production / event operations, sponsorship negotiations, ambassador / champion programs, community platform (Slack, Discord, etc.)
-
-### 42 -- Senior Revenue Operations Manager - Post Sale  @ Nasuni (Boston, Massachusetts, United States; Remote - United States)
-**Stretch** -- Strong GTM and growth background, but lacks core RevOps expertise, post-sale/CS operations depth, and required systems thinking in customer lifecycle operations.
-[View posting](https://www.nasuni.com/about-us/careers/open-positions/?gh_jid=5460761008)
-
-- Top signal: Built KPI dashboards, led cross-functional teams, and designed retention interventions (40% uplift); systems-thinking foundation is present.
-- Biggest gap: Entire career is pre-sale acquisition and growth; zero demonstrated expertise in post-sale customer lifecycle, renewal operations, or CS team enablement at scale.
-- Missing keywords: Customer Success operations, Renewal management / renewal playbooks, Churn / Net Revenue Retention (NRR), Customer health scoring, Account management workflows
-
-### 38 -- ISV / Technology Marketplace Partner Manager @ Cursor (San Francisco, CA)
-**Weak Fit** -- Strong GTM and growth foundation, but no demonstrated partner ecosystem, ISV program, or marketplace experience—core to this role.
-[View posting](https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a)
-
-- Top signal: P&L ownership and cross-functional coordination at scale (60+ team, 5 markets) shows program discipline and operating rigor that partner portfolio management demands.
-- Biggest gap: Zero demonstrated experience building, launching, or operating partner ecosystems, ISV programs, or marketplace motions—the core accountabilities of this role.
-- Missing keywords: ISV partner management, marketplace operations, partner onboarding playbooks, co-sell motions, partner-sourced pipeline tracking, Crossbeam or PartnerStack, cloud hyperscaler programs (AWS, Azure, GCP), developer tools / AI/ML SaaS partnerships
+- Top signal: Demonstrated P&L ownership, cross-functional execution at scale, and measurable revenue impact (38% CAC lift, 25% positioning-driven growth) signal execution capability.
+- Biggest gap: No direct experience in partner channel strategy, co-sell execution, or enterprise SaaS ecosystem; EdTech B2C background does not transfer to enterprise identity/security alliance model.
+- Missing keywords: Partners & Alliances, co-sell motion, Solution Providers, CIAM / Identity Management, deal registration
 
 ## Top 15 all-time
 
