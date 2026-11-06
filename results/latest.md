@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-11-05T20:28:33.342452+00:00
+Run: 2026-11-06T19:50:37.153772+00:00
 
-Companies: 304 checked, 294 connected, 10 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 295 connected, 9 failed
+Estimated spend this run: $0.0290
 
-## New this run (3)
+## New this run (4)
 
-### 76 -- Senior Product Marketing Manager, Workflows @ Pandadoc (Remote (USA))
-**Strong Fit** -- Proven B2B SaaS GTM and product marketing expertise with strong customer research skills; workflow/automation domain gap is real but offset by exceptional positioning and launch track record.
-[View posting](https://job-boards.greenhouse.io/pandadoc/jobs/8351533)
+### 72 -- Product Marketing Lead, Business Insurance @ Gusto (Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid)
+**Worth Applying** -- Strong GTM and growth foundation with P&L ownership, but limited direct product marketing depth and no B2B/insurance domain experience to offset the gap.
+[View posting](https://job-boards.greenhouse.io/gusto/jobs/8357701)
 
-- Top signal: Client-facing GEO research and hands-on AI fluency directly match the 'lead the AI story for workflows' requirement; rare for a Manager-level GTM candidate.
-- Biggest gap: Zero explicit experience marketing workflow, automation, or process software; EdTech buyer psychology differs materially from operations-focused B2B SaaS procurement.
-- Missing keywords: workflow automation software, process mining or process optimization, approvals and handoffs framework, in-product messaging, agent or agentic AI
+- Top signal: 8+ years GTM + P&L ownership across 5 markets with proven positioning redesign (25% sales lift) and funnel optimization (38% CAC improvement) demonstrates strategic execution at scale.
+- Biggest gap: Career is growth/BD-heavy in EdTech B2C; role requires PMM depth in B2B SaaS + insurance/financial services domain—two material mismatches that require narrative bridge.
+- Missing keywords: product marketing manager (core title gap), 0-to-1 product launch, B2B SaaS, insurance or financial services, competitive positioning
 
-### 72 -- Senior Product Marketing Manager, CPQ @ Pandadoc (Remote (USA))
-**Worth Applying** -- Strong GTM and positioning chops with EdTech SaaS scale, but lacks demonstrated B2B SaaS PMM depth, CPQ/revenue ops domain familiarity, and proven AI product positioning track record.
-[View posting](https://job-boards.greenhouse.io/pandadoc/jobs/8351559)
+### 68 -- Senior Revenue Operations Manager @ Coursera (United States)
+**Worth Applying** -- Strong GTM and analytics foundation, but RevOps depth and regional sales operations focus are notably lighter than posting requires.
+[View posting](https://job-boards.greenhouse.io/coursera/jobs/6251192004)
 
-- Top signal: GEO research and AI platform benchmarking show emerging AI positioning credibility; ABM, segmentation, and messaging-market-fit redesign work transfer directly to dual-track (budget + technical operator) buyer motion.
-- Biggest gap: No demonstrated B2B SaaS PMM experience, no CPQ/revenue ops domain familiarity, and no proof of shipping AI product positioning at scale—all core to the role's AI positioning and RevOps buyer targeting mandate.
-- Missing keywords: B2B SaaS product marketing (3+ years named), Sales Ops / RevOps buyer persona depth, Campaign execution and demand gen ownership, AI tool hands-on fluency and daily usage, CPQ / revenue operations domain knowledge
+- Top signal: Rebuilt sales onboarding and enablement systems with 42% productivity uplift; dashboards and KPI systems for cross-functional teams; enterprise sales pipeline experience across multiple geographies.
+- Biggest gap: No explicit RevOps title, process ownership, or sales rep productivity/quota management experience; background is GTM/Growth/BD-focused, not operational infrastructure and sales operations discipline.
+- Missing keywords: revenue operations, sales operations manager, territory/quota management, rep coaching and enablement, deal desk collaboration, sales productivity optimization
 
-### 42 -- Regional Alliance Manager, Enterprise East @ Okta (Boston, Massachusetts; New York, New York; Washington, DC)
-**Stretch** -- Strong GTM and growth foundation, but lacks core Partners & Alliances and SaaS/CIAM domain depth required for enterprise co-sell execution.
-[View posting](https://www.okta.com/company/careers/opportunity/8351028?gh_jid=8351028)
+### 52 -- Partner Manager, Franchise @ Gusto (Denver, CO - Hybrid)
+**Stretch** -- Strong GTM and partnership experience, but no franchising channel, franchise sales ops, or B2B partner recruitment background.
+[View posting](https://job-boards.greenhouse.io/gusto/jobs/8347750)
 
-- Top signal: Demonstrated P&L ownership, cross-functional execution at scale, and measurable revenue impact (38% CAC lift, 25% positioning-driven growth) signal execution capability.
-- Biggest gap: No direct experience in partner channel strategy, co-sell execution, or enterprise SaaS ecosystem; EdTech B2C background does not transfer to enterprise identity/security alliance model.
-- Missing keywords: Partners & Alliances, co-sell motion, Solution Providers, CIAM / Identity Management, deal registration
+- Top signal: Proven P&L ownership, ABM execution, and cross-functional leadership at scale with quantified impact on revenue and retention.
+- Biggest gap: Zero demonstrated experience recruiting, signing, or managing external B2B partners or franchisors; entirely D2C/internal GTM background.
+- Missing keywords: franchise channel management, partner recruitment and onboarding, B2B partnership strategy, franchise agreement negotiation, SMB / small business domain, channel partner lifecycle management
+
+### 42 -- Strategic Partner Manager @ Cursor (San Francisco, CA)
+**Stretch** -- Strong GTM and cross-functional leadership, but zero strategic partnerships or alliance management experience at technology companies.
+[View posting](https://jobs.ashbyhq.com/cursor/0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943)
+
+- Top signal: Proven cross-functional leadership, P&L ownership, and ability to design and scale GTM motions with measurable pipeline impact (38% CA lift, $5M revenue).
+- Biggest gap: Zero experience in formal strategic partnership or alliance management; background is entirely in-house GTM and BD execution, not partner ecosystem or multi-party vendor relationships.
+- Missing keywords: Strategic partnerships, Alliance management, Joint business planning, Data platform / cloud infrastructure, Co-sell programs, Partner-sourced pipeline, AWS / Azure / GCP marketplaces, Executive sponsor relationships, Integration roadmap alignment
 
 ## Top 15 all-time
 

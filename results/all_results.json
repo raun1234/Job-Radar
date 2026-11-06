@@ -23309,5 +23309,243 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-11-05T20:28:09.478678+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:cursor:0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943",
+      "company": "cursor",
+      "title": "Strategic Partner Manager",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/cursor/0b0d2dbb-ae94-4df8-8e7b-bd4dcdb67943",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next. You'll go deep on a small set of strategic technology partners that matter most to how enterprises build with data and AI, and turn each one into a durable, multi-year relationship. As SpaceXSI's single owner for each partner, you'll own the executive relationship, joint strategy, product and integration alignment, and the co-sell and co-marketing motion that drives customer adoption and pipeline. This role is built for depth, not breadth, and sits at the center of how we work with Product, Engineering, Sales, and Marketing to make each partnership show up in real customer outcomes. RESPONSIBILITIES: - Own a small set of strategic technology partners end to end as SpaceXSI's single accountable owner, including executive relationships across alliance, product, engineering, and field leadership, and executive sponsorship on both sides - Build multi-year joint strategies and annual joint business plans (shared goals, integration milestones, GTM commitments, and success metrics), and deliver against partner-sourced and partner-influenced pipeline, joint customer adoption, and partnership health - Align product and integration roadmaps with SpaceXSI Product and Engineering and each partner's product teams, maintain a current view of integration state and gaps, and bring partner and customer signal into SpaceXSI's roadmap - Build and run co-sell and co-marketing motions with partner field and marketing teams, including account mapping, joint account plans, field enablement, joint launches, customer stories, and presence at partners' flagship events - Run the operating rhythm for each partnership (joint business reviews, executive check-ins, pipeline syncs, and escalations), act as the primary internal owner across Product, Eng, Sales, Marketing, Legal, and Finance, and report partnership performance to SpaceXSI leadership BASIC QUALIFICATIONS: - Bachelor's degree and 7+ years of professional experience in partnerships, alliances, or business development roles at a technology company; OR 11+ years of professional experience in partnerships, alliances, or business development roles at a technology company in lieu of a degree - 3+ years managing strategic partnerships with, or alliance programs at, data platform, cloud, or AI infrastructure companies - Experience owning a joint business plan with a strategic technology partner, including executive sponsor relationships and co-sell or co-marketing commitments PREFERRED SKILLS AND EXPERIENCE: - Hands-on experience owning one or more strategic partnerships with a data platform, cloud, or AI infrastructure company end to end, including executive relationships and joint business planning - Track record building multi-year joint strategies with large technology partners and delivering against them across product, marketing, and sales workstreams - Experience aligning product and integration roadmaps with partner product and engineering teams, and launching integrations at partners' flagship events - Experience running co-sell and co-marketing motions with partner field and marketing teams that produced measurable pipeline and customer adoption - Strong cross-functional operating experience as the primary internal owner for a strategic partner across Product, Engineering, Sales, and Marketing, with executive presence with senior leaders at partners and internally - Partnerships experience at a developer tools, AI/ML, or data infrastructure company selling to engineering and data leaders, or prior experience at a leading data, cloud, or AI platform provider - Experience working within a major platform provider's technology partner program, including partner tiers, integration validation, and co-sell registration - Working knowledge of modern data and AI platform capabilities such as cloud data warehouses and lakehouses, data governance, and AI/ML services - Experience with AWS, Azure, and Google Cloud marketplaces and co-sell programs as they apply to data platform partnerships - Experience standing up a new strategic alliance from zero at an early-stage or high-growth company, tracking partner-sourced and partner-influenced pipeline in Salesforce, and using account-mapping tools such as Crossbeam ADDITIONAL REQUIREMENTS: - Must be willing to travel for partner executive meetings, joint business reviews, and partners' flagship conferences and events as needed",
+      "salary": "",
+      "work_type": "OnSite",
+      "seniority": "Manager",
+      "posted_at": "2026-11-05T23:01:44.614+00:00"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and cross-functional leadership, but zero strategic partnerships or alliance management experience at technology companies.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 65,
+          "note": "Manager-level confirmed, but role requires 7+ years in partnerships/alliances; candidate's experience is in growth, PMM, and BD, not formal alliance management."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Owns GTM, cross-functional leadership, co-marketing; lacks strategic partnership ownership, joint business planning, executive alliance relationships, co-sell motions."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "EdTech SaaS background; no exposure to data platforms, cloud infrastructure, AI infrastructure, or developer tools ecosystems."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 38,
+          "note": "P&L ownership and sales pipeline experience present, but no demonstrated end-to-end strategic partnership or joint business plan ownership with tech partners."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "Requires H1B sponsorship; SpaceX is large and likely sponsors, but no explicit sponsorship statement in posting. Visa risk material for this role."
+        }
+      ],
+      "missing_keywords": [
+        "Strategic partnerships",
+        "Alliance management",
+        "Joint business planning",
+        "Data platform / cloud infrastructure",
+        "Co-sell programs",
+        "Partner-sourced pipeline",
+        "AWS / Azure / GCP marketplaces",
+        "Executive sponsor relationships",
+        "Integration roadmap alignment"
+      ],
+      "top_signal": "Proven cross-functional leadership, P&L ownership, and ability to design and scale GTM motions with measurable pipeline impact (38% CA lift, $5M revenue).",
+      "biggest_gap": "Zero experience in formal strategic partnership or alliance management; background is entirely in-house GTM and BD execution, not partner ecosystem or multi-party vendor relationships."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-06T19:49:47.496095+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:gusto:8347750",
+      "company": "gusto",
+      "title": "Partner Manager, Franchise",
+      "location": "Denver, CO - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8347750",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.&lt;/p&gt; &lt;p&gt;All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our&lt;a href=&quot;https://gusto.com/about/careers/total-rewards&quot; target=&quot;_blank&quot;&gt; &lt;u&gt;Total Rewards philosophy&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the Role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Franchise is one of Gusto&#39;s fastest-growing partner channels, and we are looking for a Partner Manager to own it. You will recruit and sign franchisors, and manage the partnerships once they are signed. When a franchisor becomes a Gusto partner, the franchisees in its network can access Gusto&#39;s payroll, benefits, and HR platform on partner terms. Franchisors are not traditional channel partners. They protect their brand, support independent owner-operators, and operate within legal limits on how they can endorse vendors. A signed agreement does not guarantee franchisee adoption. Your job is to make Gusto easy for a franchisor to approve and recommend, and to give franchisees a clear reason to choose us.&amp;nbsp; &amp;nbsp;You will own the full partnership lifecycle for our managed partners (Silver through Platinum) and lead recruiting for our entry-level (Bronze) partners. You will work with a dedicated franchise Account Executive, the Mid-Market Sales team, Partner Marketing, Revenue Operations, and Legal. This role suits someone who enjoys building relationships with brand leaders, structuring agreements that work for both sides, and turning a growing partner portfolio into measurable customer growth.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Here\u2019s what you\u2019ll do day-to-day:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Recruit franchisor partners&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Identify, qualify, and sign franchisors across emerging, growth-stage, and mature brands, with a focus on sectors such as health and wellness, children&#39;s businesses, and home services.&lt;/li&gt; &lt;li&gt;Run discovery on every new partner application and serve as the franchisor&#39;s main point of contact through onboarding.&lt;/li&gt; &lt;li&gt;Build outbound campaigns using prospect lists, partner referrals, franchise sales organizations, industry associations, and competitive displacement opportunities. Use AI and sales tools to research and reach decision-makers.&lt;/li&gt; &lt;li&gt;Represent Gusto at franchise industry events and trade shows, and follow up so those events turn into signed partners.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Structure and manage partnerships&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Place each new partner in the right program tier based on their expected franchisee growth and engagement.&lt;/li&gt; &lt;li&gt;Structure and negotiate partner agreements, working with Legal and Revenue Operations on terms such as offers, revenue share, and co-marketing commitments.&lt;/li&gt; &lt;li&gt;Own the full lifecycle for managed (Silver\u2013Platinum) partners: onboarding, joint planning, performance reviews, and renewals. Recruit and onboard Bronze partners, who are supported mainly through our partner management platform.&lt;/li&gt; &lt;li&gt;Agree on rules of engagement with each partner that set how Gusto may reach their franchisees, so outreach is welcome and the brand relationship is protected.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Drive franchisee adoption&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Work with the franchise Account Executive and Mid-Market Sales on a shared list of target brands. Recruit the franchisor while sales works with that brand&#39;s franchisees.&lt;/li&gt; &lt;li&gt;Coordinate with Partner Marketing on co-branded assets, landing pages, webinars, and event outreach.&lt;/li&gt; &lt;li&gt;Work with franchisor headquarters teams, such as franchise support, onboarding, and training, to build franchisee awareness.&lt;/li&gt; &lt;li&gt;Explore integrations with the operating platforms franchisors use, together with our product and integrations teams.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Manage performance and operations&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Meet or exceed monthly and annual goals by forecasting accurately and managing a pipeline of partners from first conversation to signature and beyond.&lt;/li&gt; &lt;li&gt;Use Salesforce and our partner management tools to track pipeline, contacts, agreements, and results. Report on key partner metrics to leadership.&lt;/li&gt; &lt;li&gt;Run regular performance reviews and manage contract commitments with each partner.&lt;/li&gt; &lt;li&gt;Be a thought partner to your team and to cross-functional colleagues, and help improve how we run the franchise program.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Here\u2019s what we&#39;re looking for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;5\u20137 years of relationship management, partnerships, business development, sales, or channel management experience. We prefer candidates with franchise industry experience, such as working with franchisors, franchisee associations, or franchise sales organizations.&lt;/li&gt; &lt;li&gt;Experience closing and structuring partnership or vendor agreements, including commercial terms such as revenue share or unit economics.&lt;/li&gt; &lt;li&gt;A track record of building a pipeline through outbound prospecting and managing it from first conversation to signed agreement.&lt;/li&gt; &lt;li&gt;Comfort with data. You can set goals, forecast, and report on performance.&lt;/li&gt; &lt;li&gt;Strong communication, negotiation, and relationship-building skills, including with senior executives.&lt;/li&gt; &lt;li&gt;Experience with Salesforce is a plus. Experience with Outreach, partner management platforms, or fintech, HR, or payroll is also a plus.&lt;/li&gt; &lt;li&gt;AI fluency: you use AI tools in your daily work to research and prioritize prospects, draft and personalize outreach, analyze partner performance, and speed up routine tasks, and you apply your own judgment to the final result. You can describe how you build, refine, and check the AI workflows you use.&lt;/li&gt; &lt;li&gt;You are a quick learner who collaborates well. You are self-directed and resourceful, and you thrive in a fast-paced, changing environment where you think strategically and execute tactically.&lt;/li&gt; &lt;li&gt;You can manage a high volume of work while staying responsive to partners and teammates.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Our cash compensation amount for this role is targeted at&lt;strong&gt; $120,410 - $150,000 for the Denver metro location&lt;/strong&gt;. Final offer amounts are determined by multiple factors, including candidate location, experience, and expertise, and may vary from the amounts listed above. In addition to base cash compensation, this role is eligible for an annual bonus based on role and department, and may be eligible for quarterly incentive programs.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt; &lt;p&gt;At Gusto, we don&#39;t use titles the traditional way, as a signal of rank or hierarchy. Instead, our titles describe two things at once \u2014 your craft (what you do, e.g. Engineering, Design) and your scope of ownership (what you&#39;re accountable for) \u2014 which is why you&#39;ll see something like &quot;Head of X&quot; instead of a rank word like &quot;Director&quot; that tells you neither. Because of this, the title on this posting may look different from what you&#39;d expect based on the scope and seniority of the role, and from how similar roles are typically titled elsewhere. If you have questions about how this role compares to your current title or level, your recruiter can help translate.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto&#39;s subsidiary, whose physical office is in Scottsdale.&lt;/p&gt; &lt;p&gt;Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.&amp;nbsp;&lt;/p&gt; &lt;p&gt;When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office days for hybrid employees.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Reliable, consistent presence: &lt;/strong&gt;We expect regular and predictable attendance, whether you&#39;re working in-office, hybrid, or fully remote, so that you stay closely connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it&#39;s the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. We want to see our candidates perform to the best of their ability. If you require a medical or religious accommodation at any time throughout your candidate journey, please fill out &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEfl7Bp-Twz7LLlhGlha46CrxZ9Kacgakmarf3K2TbnaEgKQ/viewform&quot;&gt;this form&lt;/a&gt; and a member of our team will get in touch with you.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Gusto takes security and protection of your personal information very seriously. Please review our &lt;a href=&quot;https://gusto.com/about/careers/fraudulent-activity-disclaimer&quot;&gt;Fraudulent Activity Disclaimer&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Personal information collected and processed as part of your Gusto application will be subject to&amp;nbsp;&lt;a href=&quot;https://gusto.com/about/careers/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Gusto&#39;s Applicant Privacy Notice&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$120,410 - $150,000",
+      "work_type": "Hybrid",
+      "seniority": "Manager",
+      "posted_at": "2026-11-06T12:12:11-05:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and partnership experience, but no franchising channel, franchise sales ops, or B2B partner recruitment background.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Manager-level confirmed; Partner Manager is adjacent but requires franchise channel expertise candidate lacks."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 58,
+          "note": "ABM, CRM, sales enablement, cross-functional leadership present; missing franchise operations, channel recruitment, partner agreement structuring."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 42,
+          "note": "EdTech B2C growth is far from franchise B2B channel partnerships; no SMB payroll/HR domain knowledge."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Owns D2C funnel and revenue, but zero evidence of recruiting or managing external partner channels or franchisors."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 50,
+          "note": "H1B sponsorship needed; Gusto is a large, well-funded Series D+ company\u2014sponsorship likely but not guaranteed for specialty roles."
+        }
+      ],
+      "missing_keywords": [
+        "franchise channel management",
+        "partner recruitment and onboarding",
+        "B2B partnership strategy",
+        "franchise agreement negotiation",
+        "SMB / small business domain",
+        "channel partner lifecycle management"
+      ],
+      "top_signal": "Proven P&L ownership, ABM execution, and cross-functional leadership at scale with quantified impact on revenue and retention.",
+      "biggest_gap": "Zero demonstrated experience recruiting, signing, or managing external B2B partners or franchisors; entirely D2C/internal GTM background."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-06T19:49:55.095258+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:gusto:8357701",
+      "company": "gusto",
+      "title": "Product Marketing Lead, Business Insurance",
+      "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8357701",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p style=&quot;line-height: 1.2;&quot;&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Gusto, we&#39;re on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.&lt;/p&gt; &lt;p&gt;All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our&lt;a href=&quot;https://gusto.com/about/careers/total-rewards&quot; target=&quot;_blank&quot;&gt; &lt;u&gt;Total Rewards philosophy&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We&#39;re looking for an experienced, customer-obsessed, AI-fluent product marketer to help bring new products, offers, and motions to market, and to find product-market fit through a growth-oriented test-and-learn approach.&lt;/p&gt; &lt;p&gt;You&#39;ll own go-to-market for Gusto Business Insurance, which helps small businesses get workers&#39; comp and general business insurance alongside payroll. You\u2019ll drive research, segmentation, messaging and positioning, GTM launches, and adoption. You\u2019ll partner deeply with Product, Sales, Marketing, Finance, and Data Science to build and execute the foundation of a scalable GTM engine, helping small businesses discover and access new lines of insurance.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Business Insurance helps small businesses find and buy the coverage they need, starting with workers\u2019 comp and expanding into general liability, professional liability, and business owner\u2019s policies. We\u2019re moving from a referral model to a Gusto-run agency with a digital buying experience, more carrier options, and a licensed sales team. It is one of Gusto\u2019s clearest opportunities to deepen the relationship with customers we already serve.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You\u2019ll Do&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Architect &amp;amp; Execute GTM Strategy&lt;/strong&gt;&lt;br&gt;Lead go-to-market strategy and execution for business insurance, partnering with Growth, Product and Marketing to shape customer segmentation, pricing, and GTM motions that drive adoption and growth.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Turn Insights Into Action&lt;/strong&gt;&lt;br&gt;Synthesize market research, customer insights, usage data, and cross-functional input to identify opportunities and inform strategy. Translate strategy into actionable plans and ensure GTM execution lands with excellence.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Drive Cross-Functional Alignment &amp;amp; Accountability&lt;/strong&gt;&lt;br&gt;Work across Product, Sales, Marketing, Data Science, and Finance to agree on shared goals and coordinate execution. Bring structure, momentum, and accountability to complex initiatives. Build new ways of working by building net-new processes/systems that didn\u2019t exist prior.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Make Growth Channels Self-Serve&lt;/strong&gt;&lt;br&gt;Define requirements and program parameters, work with the Growth team on what they build and how it runs, and make sure tools like in-app and AI levers are usable, scalable, and trackable for product marketers.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Own Performance &amp;amp; Optimization&lt;/strong&gt;&lt;br&gt;Define success metrics and track performance across initiatives. Drive regular reviews of GTM performance and lead iteration to improve outcomes over time.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Work AI-First&lt;/strong&gt;&lt;br&gt;Use AI tools to accelerate research, synthesize insights, and refine positioning and content with speed and precision.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Here\u2019s what we&#39;re looking for:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;8+ years of experience in marketing or product management and 3+ in product marketing&lt;/li&gt; &lt;li&gt;Track record of shaping GTM strategy in ambiguous yet highly ambitious environments: 0-to-1 products, new markets, or building new motions within an existing company&lt;/li&gt; &lt;li&gt;Ability to move between strategic planning and hands-on execution, comfortable with ambiguity and bias toward action&lt;/li&gt; &lt;li&gt;Excellent cross-functional collaboration and communication skills; adept at influencing across Sales, Product, and Marketing&lt;/li&gt; &lt;li&gt;Deep experience with customer segmentation, positioning, pricing, and GTM planning&lt;/li&gt; &lt;li&gt;Experience in insurtech, SMB, fintech, HR/benefits/payroll tech, or a complex multi-audience business is a plus&lt;/li&gt; &lt;li&gt;AI fluent: has built AI workflows for research, content, or reporting and uses them to change how a team works&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Our cash compensation amount for this role is targeted at $153,000 - $187,000/yr in Denver and Atlanta, and $180,000 - $221,000/yr for San Francisco and New York. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;hr&gt; &lt;p&gt;At Gusto, we don&#39;t use titles the traditional way, as a signal of rank or hierarchy. Instead, our titles describe two things at once \u2014 your craft (what you do, e.g. Engineering, Design) and your scope of ownership (what you&#39;re accountable for) \u2014 which is why you&#39;ll see something like &quot;Head of X&quot; instead of a rank word like &quot;Director&quot; that tells you neither. Because of this, the title on this posting may look different from what you&#39;d expect based on the scope and seniority of the role, and from how similar roles are typically titled elsewhere. If you have questions about how this role compares to your current title or level, your recruiter can help translate.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;Gusto has physical office spaces in Denver, San Francisco, and New York City. Employees who are based in those locations will be expected to work from the office on designated days approximately 2-3 days per week (or more depending on role). The same office expectations apply to all Symmetry roles, Gusto&#39;s subsidiary, whose physical office is in Scottsdale.&lt;/p&gt; &lt;p&gt;Note: The San Francisco office expectations encompass both the San Francisco and San Jose metro areas.&amp;nbsp;&lt;/p&gt; &lt;p&gt;When approved to work from a location other than a Gusto office, a secure, reliable, and consistent internet connection is required. This includes non-office days for hybrid employees.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Reliable, consistent presence: &lt;/strong&gt;We expect regular and predictable attendance, whether you&#39;re working in-office, hybrid, or fully remote, so that you stay closely connected to your team, customers, and stakeholders in real time and ensure colleagues and customers receive the timely support and responsiveness they deserve.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it&#39;s the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Gusto.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Gusto is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Gusto considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Gusto is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. We want to see our candidates perform to the best of their ability. If you require a medical or religious accommodation at any time throughout your candidate journey, please fill out &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdEfl7Bp-Twz7LLlhGlha46CrxZ9Kacgakmarf3K2TbnaEgKQ/viewform&quot;&gt;this form&lt;/a&gt; and a member of our team will get in touch with you.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Gusto takes security and protection of your personal information very seriously. Please review our &lt;a href=&quot;https://gusto.com/about/careers/fraudulent-activity-disclaimer&quot;&gt;Fraudulent Activity Disclaimer&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Personal information collected and processed as part of your Gusto application will be subject to&amp;nbsp;&lt;a href=&quot;https://gusto.com/about/careers/applicant-privacy-notice&quot; target=&quot;_blank&quot;&gt;Gusto&#39;s Applicant Privacy Notice&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;",
+      "salary": "$153,000 - $187,000/yr",
+      "work_type": "Hybrid",
+      "seniority": "Lead",
+      "posted_at": "2026-11-06T12:53:04-05:00"
+    },
+    "result": {
+      "overall_score": 72,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and growth foundation with P&L ownership, but limited direct product marketing depth and no B2B/insurance domain experience to offset the gap.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 75,
+          "note": "Manager level confirmed with P&L ownership and cross-functional leadership; role expects Senior/Lead level in PMM specifically."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Strong GTM, positioning, segmentation, ABM, CRM, analytics; weak on pure PMM (product launches, messaging frameworks, competitive positioning depth)."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "EdTech B2C depth; Gusto needs B2B SaaS + insurance expertise. No insurance, financial services, or B2B sales enablement background shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 76,
+          "note": "Proven GTM launches, funnel optimization, and international expansion; no evidence of 0-to-1 product launches or new market entry from scratch."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; Gusto is established (500K+ customers) but no explicit sponsorship statement in posting."
+        }
+      ],
+      "missing_keywords": [
+        "product marketing manager (core title gap)",
+        "0-to-1 product launch",
+        "B2B SaaS",
+        "insurance or financial services",
+        "competitive positioning"
+      ],
+      "top_signal": "8+ years GTM + P&L ownership across 5 markets with proven positioning redesign (25% sales lift) and funnel optimization (38% CAC improvement) demonstrates strategic execution at scale.",
+      "biggest_gap": "Career is growth/BD-heavy in EdTech B2C; role requires PMM depth in B2B SaaS + insurance/financial services domain\u2014two material mismatches that require narrative bridge."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-06T19:50:02.045594+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:coursera:6251192004",
+      "company": "coursera",
+      "title": "Senior Revenue Operations Manager",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6251192004",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Coursera + Udemy&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Coursera and Udemy are now one company, bringing together two mission-driven brands to create the world\u2019s most powerful platform for turning learning into progress. Together, we help more than 300 million learners and 12,000+ enterprise customers build the skills they need for a world being reshaped by AI. Read more about the combined company by visiting our&amp;nbsp;&lt;a href=&quot;https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/&quot; target=&quot;_blank&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why join us now?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;AI is transforming how people learn, work, and grow, and the need for new skills has never been greater. Coursera brings trusted content and credentials from leading university and industry partners, while Udemy brings a dynamic skills marketplace and global network of real-world experts. By combining these strengths, we can connect more people and organizations to the skills they need, when they need them.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Shape what comes next&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;By joining our team, you\u2019ll have the opportunity to reshape how the world learns and applies skills\u2014and help millions of people participate in the new economy. Bring your ideas, expertise, and perspective to meaningful work that can make a difference at global scale.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;How we work&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We let you choose the best way to work, whether it\u2019s from home, an office, or a collaboration space. We\u2019re a globally distributed team that comes together intentionally for collaboration, complex problem-solving, and key milestones \u2014 creating opportunities for teams to come together. If you\u2019re ready to make a global impact, help scale unique products across Coursera + Udemy, and grow your career, apply below.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About this role:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are seeking an analytical and collaborative Senior Revenue Operations Manager to support Coursera\u2019s enterprise business across the Americas. In this role, you will partner closely with regional sales leaders and the global Revenue Operations team to improve forecast accuracy, strengthen pipeline management, and turn business data into actionable insights.&lt;/p&gt; &lt;p&gt;You will own key regional operating processes, including forecasting, performance reporting, and business reviews, while helping sales teams work more efficiently. This is a hands-on role for someone who can build dashboards, translate analysis into action, and use AI and automation to improve how the business operates.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About your skills:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Sales Operations:&lt;/strong&gt; Core discipline for managing and optimizing sales processes, supporting teams, and aligning strategies with business objectives in this regional role.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Business Analytics:&lt;/strong&gt; Essential for analyzing pipeline, forecasting, and performance data to develop insights and drive business planning decisions.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Strategic Sales Partnership:&lt;/strong&gt; Critical for building trusted relationships with sales leaders, influencing strategic decisions, and translating business insights into actionable strategies that improve regional sales performance.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What you\u2019ll be doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Serve as a trusted operations partner to AMER sales leaders, providing insights and recommendations that support revenue growth and business performance.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Manage the regional forecasting cadence across new business, expansion, and renewals; challenge assumptions, identify risks and upside, and improve forecast accuracy.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Analyze pipeline coverage, creation, conversion, deal progression, and sales productivity to identify trends and recommend actions to close performance gaps.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Drive pipeline hygiene and CRM data quality through clear reporting, regular follow-up, and accountability with sales managers and representatives.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Design, build, and maintain dashboards and reports to give leaders and sellers reliable visibility into performance, pipeline health, and priority actions.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Prepare analyses and concise business narratives for monthly and quarterly business reviews, translating findings into clear recommendations for leadership.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Partner with Sales, Marketing, Customer Success, Finance, and global Revenue Operations to align on metrics, reporting, and regional business priorities.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Support territory and account planning, target setting, and coverage analysis in partnership with sales leadership and central planning teams.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Identify, build, and implement AI-assisted workflows and automation that reduce manual reporting, improve data quality, and streamline recurring sales operations processes.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Use tools such as Gong and Claude to surface deal insights, support pipeline reviews, and accelerate analysis; validate AI-generated outputs before using them in business decisions.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Support the standardization of processes, reporting, and tools across teams, including integration initiatives and change adoption as needed.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;5+ years of experience in Sales Operations, Revenue Operations, business operations, or a related analytical role, with experience supporting B2B sales teams.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Demonstrated experience managing sales forecasting, pipeline analysis, and performance reporting in a SaaS or recurring revenue business.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Strong analytical skills and advanced proficiency in Excel or Google Sheets, including building models and translating complex data into actionable insights.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Proficiency in Salesforce, including opportunity management, data quality, and reporting.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Experience with annual planning, territory design, sales capacity modeling, and sales compensation.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Experience partnering with sales leaders and cross-functional stakeholders to solve operational problems and influence decisions.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Strong written and verbal communication skills, with the ability to present findings clearly to both technical and business audiences.&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Ability to manage competing priorities, take ownership of deliverables, and work effectively through ambiguity.&lt;/p&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Coursera + Udemy, we strive to be transparent around compensation. Actual compensation for this role is based on several factors, including but not limited to job-related skills, qualifications, and experience. In addition to a base salary, this role is also eligible for equity.&lt;/p&gt; &lt;p&gt;Hiring Compensation Range&lt;/p&gt; &lt;p&gt;$122,400.00 - $153,000.00&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Posting Date&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Posting Date: 5th November 2026&lt;/p&gt; &lt;p&gt;Application Window: 20th November 2026&lt;/p&gt; &lt;p&gt;We anticipate the application window will be open until 20th November 2026. Based on business needs, this opportunity may remain posted beyond or closed before the anticipated application window.&lt;/p&gt; &lt;p&gt;#LI-TP1&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;For more information about how Coursera collects and uses your personal information, please see our &lt;u&gt;&lt;a href=&quot;https://files.clinchtalent.com/1d7f2c0f91ebf75d580f56447fa54859/2acb24eb91f1e23b90ac9e9285de5aaf/Global%20Applicant%20Privacy%20Notice.pdf&quot; target=&quot;_blank&quot;&gt;Coursera + Udemy Global Applicant Privacy Notice&lt;/a&gt;&lt;/u&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt; &lt;p&gt;To protect against recruitment fraud, Coursera + Udemy recruiters only communicate via official coursera.org/udemy.com email addresses and never through personal accounts. We do not accept resumes via email or social media; please submit all applications directly through our careers page.&lt;/p&gt; &lt;p&gt;If you encounter suspicious recruitment activity, please report it via our&amp;nbsp;&lt;a href=&quot;https://forms.gle/Mb8UktwuaJAukb3H7&quot;&gt;Fraudulent Activity Submission Form.&lt;/a&gt;&lt;br&gt;&lt;br&gt;Coursera is an Equal Opportunity Employer committed to building a welcoming and inclusive workplace. We consider all qualified applicants without regard to legally protected characteristics and provide reasonable accommodations upon request at recruiting@coursera.org.&amp;nbsp;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Senior",
+      "posted_at": "2026-11-05T20:22:06-05:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and analytics foundation, but RevOps depth and regional sales operations focus are notably lighter than posting requires.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager-level confirmed; AGM title suggests seniority, but RevOps-specific leadership gap exists."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 64,
+          "note": "CRM, Salesforce, KPI dashboards, forecasting present; missing RevOps process ownership, territory/quota mgmt, rep coaching experience."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 72,
+          "note": "EdTech background directly relevant; enterprise sales context similar, but no B2B enterprise sales ops depth shown."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 62,
+          "note": "Strong funnel optimization and P&L ownership; limited proof of regional sales operations infrastructure and team enablement at scale."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 68,
+          "note": "H1B sponsorship required; Coursera is large, established employer (post-Udemy merger) making sponsorship feasible but not guaranteed."
+        }
+      ],
+      "missing_keywords": [
+        "revenue operations",
+        "sales operations manager",
+        "territory/quota management",
+        "rep coaching and enablement",
+        "deal desk collaboration",
+        "sales productivity optimization"
+      ],
+      "top_signal": "Rebuilt sales onboarding and enablement systems with 42% productivity uplift; dashboards and KPI systems for cross-functional teams; enterprise sales pipeline experience across multiple geographies.",
+      "biggest_gap": "No explicit RevOps title, process ownership, or sales rep productivity/quota management experience; background is GTM/Growth/BD-focused, not operational infrastructure and sales operations discipline."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-06T19:50:25.533830+00:00"
   }
 ]
