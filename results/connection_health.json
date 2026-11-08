@@ -1,15 +1,15 @@
 {
-  "run_at": "2026-11-07T17:57:17.457900+00:00",
+  "run_at": "2026-11-08T18:12:31.630527+00:00",
   "summary": {
     "total": 304,
     "connected": 294,
     "failed": 10,
     "rate": "97%",
-    "estimated_spend": 0.0507,
-    "run_at": "2026-11-07T17:57:17.457900+00:00",
+    "estimated_spend": 0.0,
+    "run_at": "2026-11-08T18:12:31.630527+00:00",
     "skip_counts": {
-      "title": 129,
-      "location": 4,
+      "title": 9,
+      "location": 0,
       "age": 0,
       "years": 0,
       "hard_req": 0
@@ -20,13 +20,13 @@
       "name": "Jobgether",
       "token": "jobgether",
       "ats": "lever",
-      "jobs_found": 4334
+      "jobs_found": 4055
     },
     {
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 924
+      "jobs_found": 922
     },
     {
       "name": "Stripe",
@@ -56,25 +56,25 @@
       "name": "Datadog",
       "token": "datadog",
       "ats": "greenhouse",
-      "jobs_found": 400
-    },
-    {
-      "name": "MongoDB",
-      "token": "mongodb",
-      "ats": "greenhouse",
-      "jobs_found": 375
+      "jobs_found": 401
     },
     {
       "name": "Zscaler",
       "token": "zscaler",
       "ats": "greenhouse",
-      "jobs_found": 375
+      "jobs_found": 376
     },
     {
       "name": "Okta",
       "token": "okta",
       "ats": "greenhouse",
       "jobs_found": 375
+    },
+    {
+      "name": "MongoDB",
+      "token": "mongodb",
+      "ats": "greenhouse",
+      "jobs_found": 374
     },
     {
       "name": "Braze",
@@ -92,25 +92,25 @@
       "name": "Toast",
       "token": "toast",
       "ats": "greenhouse",
-      "jobs_found": 332
+      "jobs_found": 333
     },
     {
       "name": "Samsara",
       "token": "samsara",
       "ats": "greenhouse",
-      "jobs_found": 315
+      "jobs_found": 314
     },
     {
       "name": "xAI",
       "token": "xai",
       "ats": "greenhouse",
-      "jobs_found": 303
+      "jobs_found": 304
     },
     {
       "name": "Coinbase",
       "token": "coinbase",
       "ats": "greenhouse",
-      "jobs_found": 284
+      "jobs_found": 283
     },
     {
       "name": "Brex",
@@ -167,14 +167,14 @@
       "jobs_found": 168
     },
     {
-      "name": "Fivetran",
-      "token": "fivetran",
-      "ats": "greenhouse",
-      "jobs_found": 167
-    },
-    {
       "name": "Scopely",
       "token": "scopely",
+      "ats": "greenhouse",
+      "jobs_found": 168
+    },
+    {
+      "name": "Fivetran",
+      "token": "fivetran",
       "ats": "greenhouse",
       "jobs_found": 167
     },
@@ -224,7 +224,7 @@
       "name": "Lightspeed Commerce",
       "token": "lightspeedhq",
       "ats": "ashby",
-      "jobs_found": 133
+      "jobs_found": 132
     },
     {
       "name": "Twilio",
@@ -308,13 +308,13 @@
       "name": "Payoneer",
       "token": "payoneer",
       "ats": "greenhouse",
-      "jobs_found": 99
+      "jobs_found": 98
     },
     {
       "name": "Higgsfield AI",
       "token": "higgsfieldai",
       "ats": "ashby",
-      "jobs_found": 95
+      "jobs_found": 97
     },
     {
       "name": "Headway",
@@ -482,7 +482,7 @@
       "name": "Human Interest",
       "token": "humaninterest",
       "ats": "greenhouse",
-      "jobs_found": 62
+      "jobs_found": 61
     },
     {
       "name": "Duolingo",
@@ -683,12 +683,6 @@
       "jobs_found": 33
     },
     {
-      "name": "Nasuni",
-      "token": "nasuni",
-      "ats": "greenhouse",
-      "jobs_found": 33
-    },
-    {
       "name": "Inferact",
       "token": "inferact",
       "ats": "ashby",
@@ -770,6 +764,12 @@
       "name": "Luma AI",
       "token": "lumaai",
       "ats": "ashby",
+      "jobs_found": 28
+    },
+    {
+      "name": "Nasuni",
+      "token": "nasuni",
+      "ats": "greenhouse",
       "jobs_found": 28
     },
     {
@@ -911,6 +911,12 @@
       "jobs_found": 23
     },
     {
+      "name": "Liquid AI",
+      "token": "liquid-ai",
+      "ats": "ashby",
+      "jobs_found": 23
+    },
+    {
       "name": "CaptivateIQ",
       "token": "captivateiq",
       "ats": "lever",
@@ -920,12 +926,6 @@
       "name": "AvidXchange",
       "token": "avidxchangeinc",
       "ats": "greenhouse",
-      "jobs_found": 22
-    },
-    {
-      "name": "Liquid AI",
-      "token": "liquid-ai",
-      "ats": "ashby",
       "jobs_found": 22
     },
     {
@@ -1139,6 +1139,12 @@
       "jobs_found": 15
     },
     {
+      "name": "Torq",
+      "token": "torq",
+      "ats": "greenhouse",
+      "jobs_found": 15
+    },
+    {
       "name": "Obsidian Security",
       "token": "obsidiansecurity",
       "ats": "greenhouse",
@@ -1149,12 +1155,6 @@
       "token": "salsify",
       "ats": "greenhouse",
       "jobs_found": 15
-    },
-    {
-      "name": "Torq",
-      "token": "torq",
-      "ats": "greenhouse",
-      "jobs_found": 14
     },
     {
       "name": "DailyPay",
@@ -1319,12 +1319,6 @@
       "jobs_found": 10
     },
     {
-      "name": "Fin AI",
-      "token": "fin",
-      "ats": "ashby",
-      "jobs_found": 10
-    },
-    {
       "name": "Lithic",
       "token": "lithic",
       "ats": "greenhouse",
@@ -1351,6 +1345,12 @@
     {
       "name": "Immersive Labs",
       "token": "immersivelabs",
+      "ats": "ashby",
+      "jobs_found": 9
+    },
+    {
+      "name": "Fin AI",
+      "token": "fin",
       "ats": "ashby",
       "jobs_found": 9
     },
@@ -1406,12 +1406,6 @@
       "name": "Thoropass",
       "token": "thoropass",
       "ats": "greenhouse",
-      "jobs_found": 7
-    },
-    {
-      "name": "dopay",
-      "token": "dopay-8",
-      "ats": "workable",
       "jobs_found": 7
     },
     {
@@ -1472,6 +1466,12 @@
       "name": "Extend",
       "token": "extend",
       "ats": "ashby",
+      "jobs_found": 5
+    },
+    {
+      "name": "dopay",
+      "token": "dopay-8",
+      "ats": "workable",
       "jobs_found": 5
     },
     {
