@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-11-08T18:12:31.632184+00:00
+Run: 2026-11-09T22:52:12.709220+00:00
 
-Companies: 304 checked, 294 connected, 10 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 293 connected, 11 failed
+Estimated spend this run: $0.0218
 
-## No new matching postings this run.
+## New this run (3)
+
+### 76 -- Product Marketing Manager, Knowledge Work - Enterprise @ Anthropic (San Francisco, CA | New York City, NY)
+**Strong Fit** -- Direct PMM experience with enterprise positioning and messaging, plus unique GEO research angle; enterprise GTM depth is primary asset, though lacks named SaaS platform PMM track record.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5470528008)
+
+- Top signal: Hands-on positioning and messaging redesign that moved enterprise conversion metrics (25% sales lift, 27% CAC improvement) plus client-facing GEO research into AI platform visibility—rare depth for Manager-level PMM in AI-era GTM.
+- Biggest gap: No named B2B SaaS enterprise software PMM role; EdTech is B2C-heavy. Admin, IT, and compliance audience experience must be inferred from ABM and cross-functional work, not directly proven.
+- Missing keywords: website optimization and buyer journey mapping, admin/IT/compliance audience messaging, pricing and packaging strategy, security and observability positioning, launch cadence at scale
+
+### 76 -- Senior Growth Marketing Manager @ Clever (San Francisco, CA, OR Anywhere in the Continental U.S.)
+**Strong Fit** -- Proven B2B demand generation and ABM execution across EdTech aligns well; P&L ownership and cross-functional leadership offset education-domain specificity, though enterprise B2B sales cycle exposure is light.
+[View posting](https://www.clever.com/about/careers?gh_jid=8267892)
+
+- Top signal: Diagnosed and redesigned leaky funnel to lift CAC 38% and implemented CRM-led qualification systems, directly applicable to App Partner demand generation.
+- Biggest gap: Career is EdTech and SMB-to-mid-market; posting requires B2B2B partner ecosystem motion and enterprise buying complexity with less evidence of deal-cycle velocity or sales operations at that scale.
+- Missing keywords: enterprise B2B sales cycle experience, Apollo or sales intelligence platform depth, marketing automation platform (HubSpot/Marketo), buying group mapping at scale, revenue attribution modeling
+
+### 42 -- Delivery Partner Manager, FDE @ Databricks (Northeast - United States; San Francisco, California; Seattle, Washington; Southeast - United States) (deprioritized company)
+**Stretch** -- Strong GTM and growth background, but lacks core FDE consulting delivery experience and partner ecosystem management at scale.
+[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8920618002)
+
+- Top signal: P&L ownership across 5 markets and proven ability to redesign GTM positioning and drive cross-functional team productivity at scale.
+- Biggest gap: No demonstrated experience managing external partner ecosystems, consulting delivery programs, or FDE-style customer engagement models; career is entirely internal GTM/growth execution.
+- Missing keywords: Forward Deployed Engineering (FDE), System Integrators (GSI/RSI) partner management, Consulting delivery operations and governance, Professional services resource planning, Third-party enablement and certification programs
 
 ## Top 15 all-time
 
