@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-11-09T22:52:12.709220+00:00
+Run: 2026-11-10T20:13:04.975036+00:00
 
-Companies: 304 checked, 293 connected, 11 failed
-Estimated spend this run: $0.0218
+Companies: 304 checked, 292 connected, 12 failed
+Estimated spend this run: $0.0288
 
-## New this run (3)
+## New this run (4)
 
-### 76 -- Product Marketing Manager, Knowledge Work - Enterprise @ Anthropic (San Francisco, CA | New York City, NY)
-**Strong Fit** -- Direct PMM experience with enterprise positioning and messaging, plus unique GEO research angle; enterprise GTM depth is primary asset, though lacks named SaaS platform PMM track record.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5470528008)
+### 71 -- Product Marketing Lead, Competitive Intelligence  @ Gomotive (United States - Remote)
+**Worth Applying** -- Strong GTM and competitive intelligence fundamentals, but lacks explicit 3+ years leading dedicated CI programs in B2B SaaS; EdTech domain requires translation.
+[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8935281002)
 
-- Top signal: Hands-on positioning and messaging redesign that moved enterprise conversion metrics (25% sales lift, 27% CAC improvement) plus client-facing GEO research into AI platform visibility—rare depth for Manager-level PMM in AI-era GTM.
-- Biggest gap: No named B2B SaaS enterprise software PMM role; EdTech is B2C-heavy. Admin, IT, and compliance audience experience must be inferred from ABM and cross-functional work, not directly proven.
-- Missing keywords: website optimization and buyer journey mapping, admin/IT/compliance audience messaging, pricing and packaging strategy, security and observability positioning, launch cadence at scale
+- Top signal: Unique GEO research and AI-era positioning expertise combined with proven cross-functional GTM leadership and CRM-driven segmentation at scale.
+- Biggest gap: No explicit 3+ years in dedicated competitive intelligence role; EdTech focus requires domain translation to hardware-plus-software fleet operations.
+- Missing keywords: 3+ years leading dedicated competitive intelligence programs, win/loss analysis at scale, fleet management or telematics domain, hardware-plus-software business model, objection handling frameworks
 
-### 76 -- Senior Growth Marketing Manager @ Clever (San Francisco, CA, OR Anywhere in the Continental U.S.)
-**Strong Fit** -- Proven B2B demand generation and ABM execution across EdTech aligns well; P&L ownership and cross-functional leadership offset education-domain specificity, though enterprise B2B sales cycle exposure is light.
-[View posting](https://www.clever.com/about/careers?gh_jid=8267892)
+### 68 -- Product Marketing Operations Manager | Sweden | Remote @ Grafanalabs (Sweden (Remote))
+**Worth Applying** -- Strong GTM and analytics foundation, but operations/systems role requires different skill emphasis than candidate's growth and P&L track record.
+[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6254286004)
 
-- Top signal: Diagnosed and redesigned leaky funnel to lift CAC 38% and implemented CRM-led qualification systems, directly applicable to App Partner demand generation.
-- Biggest gap: Career is EdTech and SMB-to-mid-market; posting requires B2B2B partner ecosystem motion and enterprise buying complexity with less evidence of deal-cycle velocity or sales operations at that scale.
-- Missing keywords: enterprise B2B sales cycle experience, Apollo or sales intelligence platform depth, marketing automation platform (HubSpot/Marketo), buying group mapping at scale, revenue attribution modeling
+- Top signal: Hands-on KPI dashboard ownership, cross-functional orchestration across 60+ teams, and AI-era research angle (GEO) signal comfort with emerging tools and measurement.
+- Biggest gap: Role centers on building and maintaining systems/tools; candidate's strength is strategy and growth execution, not operations infrastructure design or AI prototyping/scripting.
+- Missing keywords: AI prototyping and scripting, Operations systems and infrastructure, Collateral management and tool maintenance, Sales enablement infrastructure, Competitive analysis tooling
 
-### 42 -- Delivery Partner Manager, FDE @ Databricks (Northeast - United States; San Francisco, California; Seattle, Washington; Southeast - United States) (deprioritized company)
-**Stretch** -- Strong GTM and growth background, but lacks core FDE consulting delivery experience and partner ecosystem management at scale.
-[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8920618002)
+### 62 -- Product Marketing Manager @ Cursor (San Francisco, CA)
+**Worth Applying** -- Strong GTM and positioning chops, but lacks direct developer-tools SaaS experience and is overqualified in seniority; visa sponsorship risk for SpaceX culture.
+[View posting](https://jobs.ashbyhq.com/cursor/87d82c14-ed50-43c9-b8c0-a2e495169148)
 
-- Top signal: P&L ownership across 5 markets and proven ability to redesign GTM positioning and drive cross-functional team productivity at scale.
-- Biggest gap: No demonstrated experience managing external partner ecosystems, consulting delivery programs, or FDE-style customer engagement models; career is entirely internal GTM/growth execution.
-- Missing keywords: Forward Deployed Engineering (FDE), System Integrators (GSI/RSI) partner management, Consulting delivery operations and governance, Professional services resource planning, Third-party enablement and certification programs
+- Top signal: Rare combination of P&L ownership (5-city markets), positioning redesign (25% sales lift), and hands-on AI research (GEO framework); proven ability to simplify complex products (Generative Engine Optimization) into stakeholder narratives.
+- Biggest gap: No demonstrated experience marketing to developers, shipping dev-tool features, or building authentic developer community—SpaceXSI role demands developer-first content and GitHub/X engagement; EdTech B2C funnel is fundamentally different from dev-tool SaaS positioning.
+- Missing keywords: developer tools, technical audience, SaaS product marketing, API documentation, developer community engagement
+
+### 52 -- Lifecycle Growth Manager  @ Cursor (San Francisco, CA)
+**Stretch** -- Strong lifecycle/growth GTM background, but lacks hands-on platform expertise (Braze/Customer.io/Iterable) and direct SQL/technical depth required for this technical lifecycle role.
+[View posting](https://jobs.ashbyhq.com/cursor/eaae04b3-3212-4f41-bc1b-4c70424e74d0)
+
+- Top signal: Owns D2C funnel end-to-end with measurable retention lift (40% improvement) and multi-market P&L accountability; rare seniority signal for lifecycle scope.
+- Biggest gap: No hands-on lifecycle platform expertise (Braze/Customer.io) and lacks SQL/technical depth for warehouse, webhooks, and event systems this role requires; EdTech domain is distant from AI/SaaS product growth.
+- Missing keywords: Braze, Customer.io, or Iterable platform hands-on, SQL and warehouse syncs, Event-based triggers and identity modeling, Holdout-based incrementality measurement, AI agents and code-based workflow automation
 
 ## Top 15 all-time
 

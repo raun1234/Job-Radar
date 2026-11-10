@@ -24127,5 +24127,237 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-11-09T22:52:07.496329+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:grafanalabs:6254286004",
+      "company": "grafanalabs",
+      "title": "Product Marketing Operations Manager | Sweden | Remote",
+      "location": "Sweden (Remote)",
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6254286004",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at &lt;u&gt;&lt;span&gt;&lt;a href=&quot;http://grafana.com&quot; target=&quot;_blank&quot;&gt;grafana.com&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and follow us on &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://www.linkedin.com/company/grafana-labs/&quot; target=&quot;_blank&quot;&gt;LinkedIn&lt;/a&gt;&lt;/span&gt;&lt;/u&gt; and &lt;u&gt;&lt;span&gt;&lt;a href=&quot;https://twitter.com/grafana&quot; target=&quot;_blank&quot;&gt;X&lt;/a&gt;&lt;/span&gt;&lt;/u&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt; &lt;p&gt;We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.&lt;/p&gt; &lt;p&gt;You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Opportunity:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Product Marketing at Grafana Labs lives in the Product org, not the Marketing org, and we think differently about the job. As Grafana&#39;s offering shifts from dashboards to observability agents, our team closes the gap between what our products can do and how customers understand that value. We build clear, consistent positioning, run marketing campaigns that attract new customers, and create content that helps engineering teams see why Grafana Cloud is the right choice for them.&lt;/p&gt; &lt;p&gt;Rather than only executing launches and campaigns, we teach Grafana\u2019s product managers and engineers how to think about growth and demand. We also codify product marketing knowledge into AI-forward tools and processes that anyone at Grafana can use. For example, we all contribute product information to a shared knowledge base, which we use to generate enablement materials and decks.&lt;/p&gt; &lt;p&gt;The Operations Manager keeps the Product Marketing &lt;em&gt;system&lt;/em&gt; running and makes it better. You&#39;ll track how our work performs and report on it to the team every week, experiment with new AI workflows, and maintain the collateral and tools the team and the field depend on, so the sales team is fully supported in positioning our products. You&#39;ll work closely with the team&#39;s software engineers: you test ideas like sales deck generators or tools for competitive analysis, script prototypes, and define what good output looks like, and they turn the best ideas into production tools. You&#39;ll also coordinate with the field, Enablement, and Marketing so we understand each other&#39;s goals and make progress on shared initiatives.&lt;/p&gt; &lt;p&gt;For this role you don&#39;t need to be a product marketer but you should have experience working inside a Product or Marketing organization for a software company. Since we don\u2019t have an operations manager yet, you\u2019ll also help to shape your own role. You should arrive with a desire to find and solve imperfectly-defined problems.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;What You&#39;ll Be Doing:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Projects and Cross-Functional Initiatives&lt;/strong&gt;: Drive cross-functional initiatives that align with product marketing strategies across GTM, Product, and Marketing teams. Own follow-ups, task tracking, and on-time completion.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cross-Team Coordination&lt;/strong&gt;: Coordinate with the field, Enablement, and Marketing teams so we understand each other&#39;s goals and priorities. Track shared initiatives, and coordinate enablement activities with the Enablement team.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Analytics and Reporting&lt;/strong&gt;: Track the product marketing team&#39;s key metrics, such as how our content, enablement sessions, and launches perform and who uses them. Interpret and report on them to the team every week.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;AI Experimentation and Prototyping&lt;/strong&gt;: Try out new AI workflows and tools, using AI to write scripts and checking that they work. Decide what good output looks like and codify that judgment in evaluations, working alongside the software engineers on our team as they refine and deploy tools. Hand the most promising prototypes to engineers to make production-ready. For example, you might test a deck generator with sellers, write evals for it, and communicate about it internally.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Collateral Management&lt;/strong&gt;: Maintain the team&#39;s most important collateral, including core decks, positioning content, and enablement sessions. Keep it accurate and current, share it widely, and make sure sellers know where to find it and how to use it.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Knowledge Base Stewardship&lt;/strong&gt;: Help keep our shared product knowledge base complete and current. Spot missing or stale information, chase down the owners, and improve the processes that keep it up to date.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;What Makes You a Great Fit:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;2+ years in an operations, analytics, enablement, or technical support role within a Product or Marketing organization for a software company.&lt;/li&gt; &lt;li&gt;Strong analytical judgment: you use AI and other tools to pull data, check the results instead of taking them at face value, and turn the numbers into clear recommendations&lt;/li&gt; &lt;li&gt;Proficiency with AI agents, including building skills and automated workflows that more than one person uses&lt;/li&gt; &lt;li&gt;Good judgment about what makes AI output good, and the ability to codify that judgment in evaluations&lt;/li&gt; &lt;li&gt;Ability to quickly understand our products and describe their value: what SREs and platform engineers do, and how observability products help them&lt;/li&gt; &lt;li&gt;Ability to build dashboards and pages in Grafana, or to learn quickly&lt;/li&gt; &lt;li&gt;Strong project management and organizational skills&lt;/li&gt; &lt;li&gt;Excellent verbal and written communication skills, including presenting data to a team&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Bonus Points For:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Strong bias to action: you build, test, and ship instead of waiting for permission&lt;/li&gt; &lt;li&gt;Able to manage multiple projects and priorities at once&lt;/li&gt; &lt;li&gt;Adaptable, flexible, and comfortable in a fast-paced environment&lt;/li&gt; &lt;li&gt;High emotional intelligence and strong interpersonal skills&lt;/li&gt; &lt;li&gt;Our team knows its goals and can see its progress toward them&lt;/li&gt; &lt;li&gt;More people outside the team use our AI tools and collateral&lt;/li&gt; &lt;li&gt;Collaboration with the field, Enablement, Marketing, and other partner teams runs more smoothly, leading to better working relationships and more impact across the org&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Compensation &amp;amp; Rewards:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;In Sweden, the base compensation range for this role is SEK 640,484 - SEK 768,580. Actual compensation may vary based on level, experience, and skillset as assessed throughout the interview process. All of our roles include Restricted Stock Units (RSUs), giving every team member ownership in Grafana Labs&#39; success. We believe in shared outcomes\u2014RSUs help us stay aligned and invested as we scale globally.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;div&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;*Compensation ranges are country specific. If you are applying for this role from a different location than listed above, your recruiter will discuss your specific market\u2019s defined pay range &amp;amp; benefits at the beginning of the process.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Why You\u2019ll Thrive at Grafana Labs:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;100% Remote, Global Culture -&amp;nbsp;&lt;/strong&gt;As a remote-only company, we bring together talent from around the world, united by a culture of collaboration and shared purpose.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scaling Organization&lt;/strong&gt; \u2013 Tackle meaningful work in a high-growth, ever-evolving environment.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Transparent Communication&lt;/strong&gt; \u2013 Expect open decision-making and regular company-wide updates.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Innovation-Driven&lt;/strong&gt; \u2013 Autonomy and support to ship great work and try new things.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Open Source Roots&lt;/strong&gt; \u2013 Built on community-driven values that shape how we work.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Empowered Teams&lt;/strong&gt; \u2013 High trust, low ego culture that values outcomes over optics.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Career Growth Pathways&lt;/strong&gt; \u2013 Defined opportunities to grow and develop your career.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Approachable Leadership&lt;/strong&gt; \u2013 Transparent execs who are involved, visible, and human.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Passionate People&lt;/strong&gt; \u2013 Join a team of smart, supportive folks who care deeply about what they do.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;In-Person onboarding &lt;/strong&gt;- We want you to thrive from day 1 with your fellow new \u2018Grafanistas\u2019 to learn all about what we do and how we do it.&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Balance is Key&lt;/strong&gt; - We operate a global annual leave policy of 30 days per annum. 3 days of your annual leave entitlement are reserved for Grafana Shutdown Days to allow the team to really disconnect. &lt;em&gt;*We will comply with local legislation where applicable.&lt;/em&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Equal Opportunity Employer:&lt;/strong&gt; &lt;em&gt;Grafana Labs is an equal opportunities employer. We welcome applications from everyone regardless of race, colour, nationality, origin, caste, sex, gender reassignment identity or expression, sexual orientation, age, religion or belief, disability, veteran status, genetic information, pregnancy, maternity, marital, family or carer status, or any other characteristic which is protected by local law. We believe that equality and diversity build a strong organisation, and we work hard to ensure that is the foundation of our organisation as we grow.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;Grafana Labs may utilize AI tools in its recruitment process to assist in matching information provided in CVs to job postings. The recruitment team will continue to review inbound CVs manually to identify alignment with current openings.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;#LI-Remote&lt;/p&gt; &lt;/div&gt; &lt;div&gt;&lt;em&gt;For information about how your personal data is used once you\u2019ve applied to a job, check out our &lt;a href=&quot;https://grafana.com/legal/applicant-and-candidate-privacy-policy/&quot; target=&quot;_blank&quot;&gt;privacy policy&lt;/a&gt;.&amp;nbsp;&lt;/em&gt;&lt;/div&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Manager",
+      "posted_at": "2026-11-10T13:29:53-05:00"
+    },
+    "result": {
+      "overall_score": 68,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and analytics foundation, but operations/systems role requires different skill emphasis than candidate's growth and P&L track record.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 62,
+          "note": "Candidate is Manager/AGM level; role is Operations Manager\u2014lateral or slight step back, not upward progression."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 72,
+          "note": "Strong on GTM, positioning, cross-functional coordination, KPI dashboards, analytics. Weaker on AI prototyping, tool scripting, operations systems design."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 71,
+          "note": "B2C SaaS/EdTech background; Grafana is B2B developer tools/observability. Growth motions differ; technical depth assumed higher here."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 68,
+          "note": "Proven GTM strategy and cross-functional leadership; limited evidence of operations infrastructure build, tool maintenance, or AI workflow design."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 58,
+          "note": "Requires H1B sponsorship; Grafana is EU-based (Sweden) but remote globally. Sponsorship not stated; adds friction vs. local EU candidate."
+        }
+      ],
+      "missing_keywords": [
+        "AI prototyping and scripting",
+        "Operations systems and infrastructure",
+        "Collateral management and tool maintenance",
+        "Sales enablement infrastructure",
+        "Competitive analysis tooling"
+      ],
+      "top_signal": "Hands-on KPI dashboard ownership, cross-functional orchestration across 60+ teams, and AI-era research angle (GEO) signal comfort with emerging tools and measurement.",
+      "biggest_gap": "Role centers on building and maintaining systems/tools; candidate's strength is strategy and growth execution, not operations infrastructure design or AI prototyping/scripting."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-10T20:11:50.668448+00:00"
+  },
+  {
+    "job": {
+      "id": "gh:gomotive:8935281002",
+      "company": "gomotive",
+      "title": "Product Marketing Lead, Competitive Intelligence ",
+      "location": "United States - Remote",
+      "url": "https://job-boards.greenhouse.io/gomotive/jobs/8935281002",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Motive empowers the people who run physical operations with tools to make their work safer, more productive, and more profitable. For the first time ever, safety, operations and finance teams can manage their drivers, vehicles, equipment, and fleet related spend in a single system. Combined with industry leading AI, the Motive platform gives you complete visibility and control, and significantly reduces manual workloads by automating and simplifying tasks.&lt;/p&gt; &lt;p&gt;Motive serves nearly 100,000 customers \u2013 from Fortune 500 enterprises to small businesses \u2013 across a wide range of industries, including transportation and logistics, construction, energy, field service, manufacturing, agriculture, food and beverage, retail, and the public sector.&lt;/p&gt; &lt;p&gt;Visit &lt;a href=&quot;http://gomotive.com&quot;&gt;gomotive.com&lt;/a&gt; to learn more.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;United States (Remote)&lt;/strong&gt;&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About Motive&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Motive is building to win the physical economy market. Our products help organizations make their operations safer, more productive, and more efficient. Marketing plays a critical role in connecting customer needs, product innovation, and measurable business growth.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Motive is looking for a Product Marketing Lead to build and run our competitive intelligence program. This role will turn market and competitive insight into programs and tools that help our teams win.&lt;/p&gt; &lt;p&gt;You will partner closely with Sales, Enablement, Marketing, Product, Revenue Operations, and Legal, and report to the Director of Product Marketing. You will shape competitive strategy, equip the field to win, and create the feedback loops that turn market learning into better products and stronger results.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Set the strategy and priorities for Motive&#39;s competitive intelligence program in alignment with go-to-market goals.&lt;/li&gt; &lt;li&gt;Build and run competitive sales plays that help us win more deals, partnering with Sales, Demand Generation, and other go-to-market teams to activate them.&lt;/li&gt; &lt;li&gt;Own competitive content, including battle cards, objection handling, competitive comparisons, and customer-facing materials.&lt;/li&gt; &lt;li&gt;Build a deep, continuous understanding of competitors and market dynamics through research, field feedback, and win/loss insights.&lt;/li&gt; &lt;li&gt;Champion responsible use of AI to improve the speed and quality of competitive insight.&lt;/li&gt; &lt;li&gt;Deliver timely competitive updates to Sales, Marketing, Product, and leadership.&lt;/li&gt; &lt;li&gt;Partner with Enablement to train sellers and support strategic deals.&lt;/li&gt; &lt;li&gt;Bring competitive and market insight to Product to inform roadmap, positioning, and packaging decisions.&lt;/li&gt; &lt;li&gt;Measure the impact of competitive programs on business outcomes such as win rates and pipeline, and use results to improve execution.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;What we&#39;re looking for&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;8+ years in product marketing, competitive intelligence, or a related go-to-market role, including 3+ years leading competitive intelligence programs in B2B technology or SaaS.&lt;/li&gt; &lt;li&gt;A track record of competitive programs that measurably improved win rates.&lt;/li&gt; &lt;li&gt;Experience building sales plays, battlecards, and talk tracks that sales teams actually use.&lt;/li&gt; &lt;li&gt;Strong analytical skills, including experience with CRM data and win/loss analysis.&lt;/li&gt; &lt;li&gt;Hands-on experience using AI for research and workflow automation, with sound judgment on output quality.&lt;/li&gt; &lt;li&gt;Strong research instincts and the ability to separate competitor marketing claims from real-world product performance.&lt;/li&gt; &lt;li&gt;The ability to influence cross-functional partners and present to senior leadership.&lt;/li&gt; &lt;li&gt;Experience in fleet management, telematics, or other hardware-plus-software businesses is a plus.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;How we work&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Solve the most important problems.&lt;/li&gt; &lt;li&gt;Stay absolutely obsessed with our customers.&lt;/li&gt; &lt;li&gt;Compress cycle time and learn quickly.&lt;/li&gt; &lt;li&gt;Fight complexity everywhere.&lt;/li&gt; &lt;li&gt;Know our markets inside and out.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Compensation and benefits&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Motive offers competitive compensation and benefits. Compensation for this role will depend on location, experience, and other job-related factors. Total compensation may include base salary, variable compensation, and equity.&lt;/p&gt; &lt;p&gt;Motive is an equal-opportunity employer. We celebrate diverse backgrounds, experiences, abilities, and perspectives, and provide reasonable accommodations throughout the hiring process.&lt;/p&gt;&lt;div class=&quot;content-pay-transparency&quot;&gt;&lt;div class=&quot;pay-input&quot;&gt;&lt;div class=&quot;description&quot;&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;Pay Transparency&lt;/strong&gt;&lt;br&gt;Your compensation may be based on several factors, including education, work experience, and certifications. For certain roles, total compensation may include restricted stock units. Motive offers benefits including health, pharmacy, optical and dental care benefits, paid time off, sick time off, short term and long term disability coverage, life insurance as well as 401k contribution (all benefits are subject to eligibility requirements). Learn more about our benefits by visiting&lt;a href=&quot;https://www.comparably.com/companies/motive/perks-and-benefits&quot;&gt; Motive Perks &amp;amp; Benefits&lt;/a&gt;.&lt;br&gt;&lt;br&gt;The compensation range for this position will depend on where you reside. For this role, the compensation range is:&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;title&quot;&gt;United States&lt;/div&gt;&lt;div class=&quot;pay-range&quot;&gt;&lt;span&gt;$149,000&lt;/span&gt;&lt;span class=&quot;divider&quot;&gt;&amp;mdash;&lt;/span&gt;&lt;span&gt;$205,000 USD&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;em&gt;Creating a diverse and inclusive workplace is one of Motive&#39;s core values. We are an equal opportunity employer and welcome people of different backgrounds, experiences, abilities and perspectives.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Please review our Candidate Privacy Notice&amp;nbsp;&lt;a class=&quot;ProsemirrorEditor-link&quot; href=&quot;https://drive.google.com/file/d/1X9AbvQHki8zZCyjDjip1g0NtdZHcykJc/view?usp=drive_link&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;UK Candidate Privacy Notice &lt;a href=&quot;https://drive.google.com/file/d/1nqdWTJ7WJJikhj1Yhlo4jxDRA_6yXZbd/view&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span id=&quot;m_-8012333603671085849gmail-docs-internal-guid-8821a356-7fff-42cb-93df-e4c910033371&quot;&gt;The applicant must be authorized to receive and access those commodities and technologies controlled under U.S. Export Administration Regulations.&amp;nbsp;&lt;/span&gt;It is Motive&#39;s policy to require that employees be authorized to receive access to Motive products and technology.&amp;nbsp;&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Regarding US-based roles, depending on your role and primary work location, Motive Technologies, Inc. (\u201cEmployer\u201d) discloses candidates may be required to execute a non-compete covenant with the Employer. This requirement does not apply to lawyers, interns, or employees working in CA, MN, MT, ND, OK, or where otherwise prohibited by law.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Non-compete covenant terms in all other jurisdictions will be subject to the applicable statutory requirements, including but not limited to, procedures, industry related prohibitions, or salary and compensation thresholds.&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;All job postings are for existing vacancies. Please note; some interviews or new-hire training sessions may be held in person at one of our global offices.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;",
+      "salary": "",
+      "work_type": "Remote",
+      "seniority": "Lead",
+      "posted_at": "2026-11-10T13:08:57-05:00"
+    },
+    "result": {
+      "overall_score": 71,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and competitive intelligence fundamentals, but lacks explicit 3+ years leading dedicated CI programs in B2B SaaS; EdTech domain requires translation.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 78,
+          "note": "Manager-level background fits Lead role; P&L ownership signals readiness, but no prior CI-specific title."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 73,
+          "note": "Competitive intelligence, positioning, ABM, battle cards, cross-functional leadership all present; AI/GEO research is differentiator; CRM and win/loss analytics lighter."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 62,
+          "note": "EdTech D2C and B2C background; fleet/telematics/hardware-plus-software experience absent. B2B SaaS positioning translatable but not fleet-specific."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 72,
+          "note": "25% sales uplift via positioning redesign and ABM campaigns demonstrated; no quantified win-rate impact or battle-card-led sales velocity metrics cited."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 65,
+          "note": "Requires H1B sponsorship; Motive is large, established, likely capable, but sponsorship not explicitly confirmed in posting."
+        }
+      ],
+      "missing_keywords": [
+        "3+ years leading dedicated competitive intelligence programs",
+        "win/loss analysis at scale",
+        "fleet management or telematics domain",
+        "hardware-plus-software business model",
+        "objection handling frameworks"
+      ],
+      "top_signal": "Unique GEO research and AI-era positioning expertise combined with proven cross-functional GTM leadership and CRM-driven segmentation at scale.",
+      "biggest_gap": "No explicit 3+ years in dedicated competitive intelligence role; EdTech focus requires domain translation to hardware-plus-software fleet operations."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-10T20:11:59.141631+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:cursor:87d82c14-ed50-43c9-b8c0-a2e495169148",
+      "company": "cursor",
+      "title": "Product Marketing Manager",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/cursor/87d82c14-ed50-43c9-b8c0-a2e495169148",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next. PRODUCT MARKETING MANAGER We're looking for a Product Marketing Manager who can translate deeply technical products into clear, compelling stories that resonate with developers. This is a highly cross-functional, high-impact role. You'll work closely with product, engineering, and GTM to help define what we build and how we bring it to market. You won't just launch features, you'll influence product direction, define positioning, and help developers understand why SpaceXSI matters. RESPONSIBILITIES: - Product Launches: Own end-to-end go-to-market strategy for new features and major releases; write launch materials (blog posts, landing pages, demos, videos); partner with product and engineering to ensure strong product-market fit before launch - Positioning & Messaging: Develop clear, differentiated positioning for SpaceXSI and its features; turn complex AI + developer workflows into simple, compelling narratives; continuously refine messaging based on user feedback and market shifts - Developer-Focused Content: Partner closely with the Developer Relations team to create high-signal content for technical audiences (guides, use cases, comparisons); showcase real workflows and power-user behaviors, not generic marketing fluff; collaborate with the community to highlight authentic use cases - Go-To-Market Enablement: Translate product capabilities into clear, compelling messaging that sales and GTM teams can use effectively; provide the right narratives, positioning, and materials to communicate value and win users; partner closely with sales, field, and developer relations to understand customer needs and objections; continuously refine messaging based on real-world feedback and performance - Growth & Distribution: Identify and test new channels to reach developers (Twitter/X, GitHub, YouTube, etc.); work with growth to improve activation, onboarding, and retention messaging; run experiments to improve conversion across the funnel - Customer & Market Insight: Talk to users regularly to understand needs, objections, and mental models; analyze competitors and the evolving AI/dev tooling landscape; bring insights back into product and marketing decisions BASIC QUALIFICATIONS: - 3+ years in product marketing, product management, growth, consulting, banking or a similar role PREFERRED SKILLS AND EXPERIENCE: - Ideally in developer tools or SaaS - A strong technical intuition, you don't need to be an engineer, but you should be comfortable understanding developer tools and communicating to a technical audience - Strong product instincts - ability to engage in product discussions and push back thoughtfully - Exceptional communication skills, and the ability to simplify complex concepts without dumbing them down - High ownership: you can take a project from idea \u2192 execution \u2192 iteration - Find comfort in a fast-moving, ambiguous environment ADDITIONAL REQUIREMENTS: - Onsite role: must be able to work in person at the San Francisco or New York office COMPENSATION AND BENEFITS: The annual compensation range for this role is listed below. Annual Salary: $153,000 - $205,000 USD Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience. Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks.",
+      "salary": "$153,000 - $205,000",
+      "work_type": "OnSite",
+      "seniority": "Manager",
+      "posted_at": "2026-11-10T00:31:53.079+00:00"
+    },
+    "result": {
+      "overall_score": 62,
+      "verdict": "Worth Applying",
+      "verdict_note": "Strong GTM and positioning chops, but lacks direct developer-tools SaaS experience and is overqualified in seniority; visa sponsorship risk for SpaceX culture.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 58,
+          "note": "PMM title matches, but candidate is Associate General Manager/Senior PM level\u2014one tier above posted role"
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Strong on positioning, messaging, GTM, launches, cross-functional leadership; weak on developer-specific content and technical product intuition"
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 54,
+          "note": "EdTech D2C is transferable but not developer tools; no SaaS or AI-native product experience; GEO research shows AI literacy but not dev-tool positioning"
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 72,
+          "note": "P&L ownership, 25% sales lift, 38% CAC improvement, ABM, competitive positioning\u2014all highly relevant; lacks shipped dev products and developer community proof"
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 48,
+          "note": "Requires H1B sponsorship; SpaceX (massive defense/aerospace contractor) sponsors, but onsite SF mandate + visa status may introduce friction"
+        }
+      ],
+      "missing_keywords": [
+        "developer tools",
+        "technical audience",
+        "SaaS product marketing",
+        "API documentation",
+        "developer community engagement"
+      ],
+      "top_signal": "Rare combination of P&L ownership (5-city markets), positioning redesign (25% sales lift), and hands-on AI research (GEO framework); proven ability to simplify complex products (Generative Engine Optimization) into stakeholder narratives.",
+      "biggest_gap": "No demonstrated experience marketing to developers, shipping dev-tool features, or building authentic developer community\u2014SpaceXSI role demands developer-first content and GitHub/X engagement; EdTech B2C funnel is fundamentally different from dev-tool SaaS positioning."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-10T20:12:12.632257+00:00"
+  },
+  {
+    "job": {
+      "id": "ab:cursor:eaae04b3-3212-4f41-bc1b-4c70424e74d0",
+      "company": "cursor",
+      "title": "Lifecycle Growth Manager ",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/cursor/eaae04b3-3212-4f41-bc1b-4c70424e74d0",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next. LIFECYCLE GROWTH MANAGER Lifecycle Growth's job is to get more people using Grok, Grok Bot, X, SpaceXSI and the API every day, and to turn that use into revenue. We own everything after signup: getting people to value, converting them to paid, growing their teams and keeping them coming back. We do it with lifecycle marketing, in-product messaging and a steady stream of experiments, and much of the work runs on agents we build ourselves. This isn't a traditional marketing role. You'll do the work of a product manager, a product marketer and a marketing engineer, often in the same day. You'll own lifecycle growth for one or more of our products. You'll figure out where the biggest opportunity is, design the program, build it and show whether it actually moved the number. The job spans consumer and business, self-serve and sales-led, so you'll need to think as clearly about a solo user's first week as about a team's path to an enterprise deal. You'll go deep on the systems underneath, like who's eligible, what triggers a message, how events and attributes are modeled, and how data moves from the warehouse into our messaging tools. When the best fix lives in the product or the data, you'll make the case and either build it yourself or work with engineering to ship it. RESPONSIBILITIES: - Strategy and roadmap: Own lifecycle end to end across our suite of products: Grok, Grok Build, Grok Bot, X and the API, from activation and conversion to paid through team expansion, retention and winback. - Data and audiences: Use SQL and product data to size opportunities, build the audiences and triggers behind each program, and prove what actually drove revenue. - Journeys: Architect multi-step, cross-channel programs across email, push and in-app, with event-based triggers, branching and suppression logic, and personalization drawn from product usage, plan and billing state, and company and role enrichment. - Systems: Drive and continuously improve the data model lifecycle runs on, including identity, events, attributes and eligibility, and partner with engineering on the warehouse syncs, APIs and webhooks that keep it accurate in real time. - Measurement: Run every program as an experiment with a proper holdout, measure incremental lift, and make judgment calls when a result is inconclusive. - Portfolio: Manage lifecycle as a portfolio of programs, putting more behind what works and retiring what doesn't. - In-product: Own in-product messaging and experiments, from onboarding and upgrade prompts to post-purchase plan tours, and partner with product and engineering to improve our in-app comms systems. - Tooling: Use code and agents to build the internal tools, templates and automated QA the team runs on, so each new program ships faster than the last. BASIC QUALIFICATIONS: - 8+ years in Lifecycle, Growth PMM or Product Growth at a high-growth product company. - Hands-on experience running lifecycle programs in a major lifecycle platform, such as Braze, Customer.io or Iterable. PREFERRED SKILLS AND EXPERIENCE: - Experience running lifecycle for both consumers and businesses, self-serve and sales-led, with strong messaging craft. Experience running lifecycle at scale, across hundreds of millions of users and multiple products. - Real technical depth. You write SQL, you know how events, identity and attributes fit together, and you're comfortable with APIs, webhooks and warehouse syncs. - A history of building out multi-channel lifecycle systems with engineering across email, push and in-product messaging, not just running campaigns on top of them. - Programs you can point to that moved revenue, paid users or retention, backed by holdouts and judged on incrementality and lifetime value rather than opens and clicks. - Fluency with AI agents and code, using them to do far more than one person typically could. ADDITIONAL REQUIREMENTS: - Onsite role: must be able to work in person at the San Francisco office COMPENSATION AND BENEFITS: The annual compensation range for this role is listed below. Annual Salary: $184,000 - $250,000 USD Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience. Base salary is just one part of our total rewards package at SpaceXSI, which also includes equity, comprehensive medical, vision, and dental coverage, access to a 401(k) retirement plan, short & long-term disability insurance, life insurance, and various other discounts and perks.",
+      "salary": "$184,000 - $250,000",
+      "work_type": "OnSite",
+      "seniority": "Manager",
+      "posted_at": "2026-11-09T23:46:13.587+00:00"
+    },
+    "result": {
+      "overall_score": 52,
+      "verdict": "Stretch",
+      "verdict_note": "Strong lifecycle/growth GTM background, but lacks hands-on platform expertise (Braze/Customer.io/Iterable) and direct SQL/technical depth required for this technical lifecycle role.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager-level with 8+ years GTM/growth; role targets Lifecycle Growth Manager but his background is broader GTM/BD, not lifecycle-specialized."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 48,
+          "note": "Strong on funnel, retention, activation, CRM (Salesforce), KPI dashboards; missing Braze/Customer.io/Iterable, SQL, webhooks, warehouse syncs, event modeling."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 55,
+          "note": "EdTech B2C/D2C experience relevant to consumer activation; zero AI/SaaS product depth; Grok, APIs, AI agents are outside demonstrated track record."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 48,
+          "note": "Owns D2C funnel, retention interventions, CRM segmentation; no multi-product lifecycle portfolio, no holdout-based measurement rigor, no agent-building or code."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "Requires visa sponsorship; SpaceX/Grok ecosystem historically selective on visa; onsite SF requirement is geographically compatible but sponsorship risk is material."
+        }
+      ],
+      "missing_keywords": [
+        "Braze, Customer.io, or Iterable platform hands-on",
+        "SQL and warehouse syncs",
+        "Event-based triggers and identity modeling",
+        "Holdout-based incrementality measurement",
+        "AI agents and code-based workflow automation"
+      ],
+      "top_signal": "Owns D2C funnel end-to-end with measurable retention lift (40% improvement) and multi-market P&L accountability; rare seniority signal for lifecycle scope.",
+      "biggest_gap": "No hands-on lifecycle platform expertise (Braze/Customer.io) and lacks SQL/technical depth for warehouse, webhooks, and event systems this role requires; EdTech domain is distant from AI/SaaS product growth."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-10T20:12:20.173959+00:00"
   }
 ]
