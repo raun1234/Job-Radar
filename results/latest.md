@@ -1,43 +1,35 @@
 # Job Radar
 
-Run: 2026-11-10T20:13:04.975036+00:00
+Run: 2026-11-11T20:00:26.897664+00:00
 
 Companies: 304 checked, 292 connected, 12 failed
-Estimated spend this run: $0.0288
+Estimated spend this run: $0.0217
 
-## New this run (4)
+## New this run (3)
 
-### 71 -- Product Marketing Lead, Competitive Intelligence  @ Gomotive (United States - Remote)
-**Worth Applying** -- Strong GTM and competitive intelligence fundamentals, but lacks explicit 3+ years leading dedicated CI programs in B2B SaaS; EdTech domain requires translation.
-[View posting](https://job-boards.greenhouse.io/gomotive/jobs/8935281002)
+### 76 -- Product Marketing Manager - Growth @ Verkada (San Mateo, CA United States) (deprioritized company)
+**Strong Fit** -- Proven GTM strategy and D2C funnel expertise directly transfers; P&L ownership and sales enablement track record offset lack of enterprise/security domain depth.
+[View posting](https://job-boards.greenhouse.io/verkada/jobs/5292732007)
 
-- Top signal: Unique GEO research and AI-era positioning expertise combined with proven cross-functional GTM leadership and CRM-driven segmentation at scale.
-- Biggest gap: No explicit 3+ years in dedicated competitive intelligence role; EdTech focus requires domain translation to hardware-plus-software fleet operations.
-- Missing keywords: 3+ years leading dedicated competitive intelligence programs, win/loss analysis at scale, fleet management or telematics domain, hardware-plus-software business model, objection handling frameworks
+- Top signal: Diagnosed and fixed 30% top-of-funnel leak via GTM redesign (38% CAC lift in 2 quarters)—exact problem-solving motion JD describes for Access Control growth
+- Biggest gap: Zero security, enterprise hardware, or vertical-depth experience; will need steep ramp on Verkada's market, customer psychology, and competitive dynamics
+- Missing keywords: Enterprise sales cycles, Vertical-specific segmentation (K-12, healthcare, higher ed mentioned in JD), Cross-sell/expansion strategy, Partner enablement, Competitive positioning in security space
 
-### 68 -- Product Marketing Operations Manager | Sweden | Remote @ Grafanalabs (Sweden (Remote))
-**Worth Applying** -- Strong GTM and analytics foundation, but operations/systems role requires different skill emphasis than candidate's growth and P&L track record.
-[View posting](https://job-boards.greenhouse.io/grafanalabs/jobs/6254286004)
+### 72 -- Strategic Partnerships Program Manager @ Thoropass (United States)
+**Worth Applying** -- Strong GTM and cross-functional leadership, but lacks named partner ecosystem experience (Vanta, Drata, hyperscaler channels) and explicit co-sell/PRM tool background.
+[View posting](https://job-boards.greenhouse.io/thoropass/jobs/6254491004)
 
-- Top signal: Hands-on KPI dashboard ownership, cross-functional orchestration across 60+ teams, and AI-era research angle (GEO) signal comfort with emerging tools and measurement.
-- Biggest gap: Role centers on building and maintaining systems/tools; candidate's strength is strategy and growth execution, not operations infrastructure design or AI prototyping/scripting.
-- Missing keywords: AI prototyping and scripting, Operations systems and infrastructure, Collateral management and tool maintenance, Sales enablement infrastructure, Competitive analysis tooling
+- Top signal: Owned end-to-end D2C funnel for 60+ person cross-functional team, built CRM-based lead scoring, and demonstrated ability to diagnose and fix leaky funnels—directly transferable to partnership pipeline ownership and analytics rigor.
+- Biggest gap: No direct experience in strategic partner ecosystems (GRC platforms, cloud marketplaces, hyperscalers) or channel/co-sell GTM; this is not just a domain shift but a go-to-market model shift from D2C to B2B partnership-driven, which will require ramp.
+- Missing keywords: Vanta, Drata, co-sell motion, Crossbeam / Sugar (PRM tools), hyperscaler partnerships
 
-### 62 -- Product Marketing Manager @ Cursor (San Francisco, CA)
-**Worth Applying** -- Strong GTM and positioning chops, but lacks direct developer-tools SaaS experience and is overqualified in seniority; visa sponsorship risk for SpaceX culture.
-[View posting](https://jobs.ashbyhq.com/cursor/87d82c14-ed50-43c9-b8c0-a2e495169148)
+### 71 -- Growth Marketing Lead @ Mongodb (United States) (deprioritized company)
+**Worth Applying** -- Strong lifecycle marketing and D2C funnel expertise, but lacks explicit product-led growth and developer marketing depth that MongoDB prioritizes.
+[View posting](https://www.mongodb.com/careers/job/?gh_jid=8371294)
 
-- Top signal: Rare combination of P&L ownership (5-city markets), positioning redesign (25% sales lift), and hands-on AI research (GEO framework); proven ability to simplify complex products (Generative Engine Optimization) into stakeholder narratives.
-- Biggest gap: No demonstrated experience marketing to developers, shipping dev-tool features, or building authentic developer community—SpaceXSI role demands developer-first content and GitHub/X engagement; EdTech B2C funnel is fundamentally different from dev-tool SaaS positioning.
-- Missing keywords: developer tools, technical audience, SaaS product marketing, API documentation, developer community engagement
-
-### 52 -- Lifecycle Growth Manager  @ Cursor (San Francisco, CA)
-**Stretch** -- Strong lifecycle/growth GTM background, but lacks hands-on platform expertise (Braze/Customer.io/Iterable) and direct SQL/technical depth required for this technical lifecycle role.
-[View posting](https://jobs.ashbyhq.com/cursor/eaae04b3-3212-4f41-bc1b-4c70424e74d0)
-
-- Top signal: Owns D2C funnel end-to-end with measurable retention lift (40% improvement) and multi-market P&L accountability; rare seniority signal for lifecycle scope.
-- Biggest gap: No hands-on lifecycle platform expertise (Braze/Customer.io) and lacks SQL/technical depth for warehouse, webhooks, and event systems this role requires; EdTech domain is distant from AI/SaaS product growth.
-- Missing keywords: Braze, Customer.io, or Iterable platform hands-on, SQL and warehouse syncs, Event-based triggers and identity modeling, Holdout-based incrementality measurement, AI agents and code-based workflow automation
+- Top signal: Proven ability to own end-to-end lifecycle funnels with quantified retention and activation improvements; strong cross-functional execution track record at scale.
+- Biggest gap: No explicit experience marketing to developers or technical audiences; all background is B2C EdTech, not B2B SaaS or database products.
+- Missing keywords: product-led growth, developer marketing, developer community, in-product messaging, agent-led growth
 
 ## Top 15 all-time
 
