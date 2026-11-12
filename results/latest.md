@@ -1,35 +1,35 @@
 # Job Radar
 
-Run: 2026-11-11T20:00:26.897664+00:00
+Run: 2026-11-12T20:38:55.153063+00:00
 
-Companies: 304 checked, 292 connected, 12 failed
+Companies: 304 checked, 293 connected, 11 failed
 Estimated spend this run: $0.0217
 
 ## New this run (3)
 
-### 76 -- Product Marketing Manager - Growth @ Verkada (San Mateo, CA United States) (deprioritized company)
-**Strong Fit** -- Proven GTM strategy and D2C funnel expertise directly transfers; P&L ownership and sales enablement track record offset lack of enterprise/security domain depth.
-[View posting](https://job-boards.greenhouse.io/verkada/jobs/5292732007)
+### 48 -- Product Marketing Manager @ Ripple (New York, NY, United States)
+**Stretch** -- Strong GTM and messaging skills, but lacks hands-on treasury domain expertise and falls significantly short on seniority level.
+[View posting](https://ripple.com/careers/all-jobs/job/8372949?gh_jid=8372949)
 
-- Top signal: Diagnosed and fixed 30% top-of-funnel leak via GTM redesign (38% CAC lift in 2 quarters)—exact problem-solving motion JD describes for Access Control growth
-- Biggest gap: Zero security, enterprise hardware, or vertical-depth experience; will need steep ramp on Verkada's market, customer psychology, and competitive dynamics
-- Missing keywords: Enterprise sales cycles, Vertical-specific segmentation (K-12, healthcare, higher ed mentioned in JD), Cross-sell/expansion strategy, Partner enablement, Competitive positioning in security space
+- Top signal: 8+ years GTM and positioning strategy at scale, with proven ability to translate complex concepts into executive messaging and launch credibility.
+- Biggest gap: Zero treasury, corporate finance, or fintech domain depth; posting explicitly requires practitioner-level treasury fluency and hands-on TMS or vendor-side exposure.
+- Missing keywords: treasury experience, cash forecasting, FX risk management, TMS (Treasury Management System), corporate treasury practitioner knowledge
 
-### 72 -- Strategic Partnerships Program Manager @ Thoropass (United States)
-**Worth Applying** -- Strong GTM and cross-functional leadership, but lacks named partner ecosystem experience (Vanta, Drata, hyperscaler channels) and explicit co-sell/PRM tool background.
-[View posting](https://job-boards.greenhouse.io/thoropass/jobs/6254491004)
+### 48 -- Product Marketing Manager @ Ripple (Chicago, Illinois, United States)
+**Stretch** -- Strong GTM and PMM skills, but zero treasury domain expertise and 8 years is above the 2-4 year range—overqualified yet under-specialized for this role.
+[View posting](https://ripple.com/careers/all-jobs/job/8372970?gh_jid=8372970)
 
-- Top signal: Owned end-to-end D2C funnel for 60+ person cross-functional team, built CRM-based lead scoring, and demonstrated ability to diagnose and fix leaky funnels—directly transferable to partnership pipeline ownership and analytics rigor.
-- Biggest gap: No direct experience in strategic partner ecosystems (GRC platforms, cloud marketplaces, hyperscalers) or channel/co-sell GTM; this is not just a domain shift but a go-to-market model shift from D2C to B2B partnership-driven, which will require ramp.
-- Missing keywords: Vanta, Drata, co-sell motion, Crossbeam / Sugar (PRM tools), hyperscaler partnerships
+- Top signal: Demonstrated PMM excellence across messaging, positioning redesigns, and sales enablement at scale (60+ team at BYJU'S, 25% sales lift through positioning).
+- Biggest gap: Zero treasury, fintech, or financial services domain experience—posting explicitly requires practitioner fluency in cash forecasting, FX risk, and payments as table stakes.
+- Missing keywords: Treasury experience (corporate or vendor side), TMS (Treasury Management System), Cash forecasting / liquidity management, FX risk and payments domain knowledge, B2B fintech product marketing
 
-### 71 -- Growth Marketing Lead @ Mongodb (United States) (deprioritized company)
-**Worth Applying** -- Strong lifecycle marketing and D2C funnel expertise, but lacks explicit product-led growth and developer marketing depth that MongoDB prioritizes.
-[View posting](https://www.mongodb.com/careers/job/?gh_jid=8371294)
+### 42 -- Revenue Operations Manager @ Databricks (West Coast - United States) (deprioritized company)
+**Stretch** -- Strong GTM/growth leader but lacks revenue operations, billing systems, and financial close expertise that are core to this role.
+[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8922724002)
 
-- Top signal: Proven ability to own end-to-end lifecycle funnels with quantified retention and activation improvements; strong cross-functional execution track record at scale.
-- Biggest gap: No explicit experience marketing to developers or technical audiences; all background is B2C EdTech, not B2B SaaS or database products.
-- Missing keywords: product-led growth, developer marketing, developer community, in-product messaging, agent-led growth
+- Top signal: Proven ability to redesign cross-functional processes (sales enablement, funnel optimization, CRM systems) and lead India-based teams at scale.
+- Biggest gap: No direct experience in billing operations, usage metering, revenue accounting, or financial close—the core accountability of this role.
+- Missing keywords: Revenue operations, Billing platform / DBAR, ERP / CPQ systems, Usage reconciliation, SOX compliance
 
 ## Top 15 all-time
 
