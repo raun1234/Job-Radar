@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-11-12T20:38:55.153063+00:00
+Run: 2026-11-13T20:18:33.042852+00:00
 
-Companies: 304 checked, 293 connected, 11 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 292 connected, 12 failed
+Estimated spend this run: $0.0290
 
-## New this run (3)
+## New this run (4)
 
-### 48 -- Product Marketing Manager @ Ripple (New York, NY, United States)
-**Stretch** -- Strong GTM and messaging skills, but lacks hands-on treasury domain expertise and falls significantly short on seniority level.
-[View posting](https://ripple.com/careers/all-jobs/job/8372949?gh_jid=8372949)
+### 68 -- Strategic Partnerships and Sales Enablement Manager @ Gen-Digital (USA - Remote)
+**Worth Applying** -- Strong GTM and partnership-adjacent experience, but employee benefits and broker-channel specificity create a moderate domain gap.
+[View posting](https://jobs.ashbyhq.com/gen-digital/9afac907-da8a-4633-a8f0-ca553862702e)
 
-- Top signal: 8+ years GTM and positioning strategy at scale, with proven ability to translate complex concepts into executive messaging and launch credibility.
-- Biggest gap: Zero treasury, corporate finance, or fintech domain depth; posting explicitly requires practitioner-level treasury fluency and hands-on TMS or vendor-side exposure.
-- Missing keywords: treasury experience, cash forecasting, FX risk management, TMS (Treasury Management System), corporate treasury practitioner knowledge
+- Top signal: Direct P&L ownership, ABM expertise, and proven ability to redesign GTM messaging across multi-region expansion mirrors the partner enablement and business review accountability here.
+- Biggest gap: No demonstrated experience in employee benefits, broker channels, or insurance-adjacent industries; entire career is EdTech B2C, not B2B partnerships.
+- Missing keywords: employee benefits channel, broker relationship management, PEO / MGA partnerships, insurance industry, RFP/RFI response
 
-### 48 -- Product Marketing Manager @ Ripple (Chicago, Illinois, United States)
-**Stretch** -- Strong GTM and PMM skills, but zero treasury domain expertise and 8 years is above the 2-4 year range—overqualified yet under-specialized for this role.
-[View posting](https://ripple.com/careers/all-jobs/job/8372970?gh_jid=8372970)
+### 52 -- Strategic Partnerships Manager @ Gen-Digital (USA - Remote)
+**Stretch** -- Strong GTM and partnership foundation, but lacks direct B2B benefits/insurance brokerage experience and sales enablement depth.
+[View posting](https://jobs.ashbyhq.com/gen-digital/c77a35d7-fdb3-4954-a89e-ecadcfd5bdfc)
 
-- Top signal: Demonstrated PMM excellence across messaging, positioning redesigns, and sales enablement at scale (60+ team at BYJU'S, 25% sales lift through positioning).
-- Biggest gap: Zero treasury, fintech, or financial services domain experience—posting explicitly requires practitioner fluency in cash forecasting, FX risk, and payments as table stakes.
-- Missing keywords: Treasury experience (corporate or vendor side), TMS (Treasury Management System), Cash forecasting / liquidity management, FX risk and payments domain knowledge, B2B fintech product marketing
+- Top signal: Proven ability to diagnose GTM leaks, redesign positioning across geographies, and scale partnerships from 0 to revenue impact—directly transferable to broker portfolio expansion.
+- Biggest gap: No demonstrated experience in B2B benefits, insurance, or brokerage verticals; role heavily weighted toward sales enablement storytelling and presentation design, which are underrepresented in candidate's profile.
+- Missing keywords: benefits/insurance brokerage partnerships, PEO/MGA/TPA relationship management, sales enablement content creation, RFP/RFI response leadership, executive presentations to broker networks
 
-### 42 -- Revenue Operations Manager @ Databricks (West Coast - United States) (deprioritized company)
-**Stretch** -- Strong GTM/growth leader but lacks revenue operations, billing systems, and financial close expertise that are core to this role.
-[View posting](https://databricks.com/company/careers/open-positions/job?gh_jid=8922724002)
+### 52 -- Sr. Product Marketing Manager, Lending @ Chime (San Francisco, CA, USA)
+**Stretch** -- Strong GTM and D2C funnel skills, but no regulated financial services or lending domain experience is a material gap for this credit-risk-sensitive role.
+[View posting](https://boards.greenhouse.io/chime/jobs/8940707002?gh_jid=8940707002)
 
-- Top signal: Proven ability to redesign cross-functional processes (sales enablement, funnel optimization, CRM systems) and lead India-based teams at scale.
-- Biggest gap: No direct experience in billing operations, usage metering, revenue accounting, or financial close—the core accountability of this role.
-- Missing keywords: Revenue operations, Billing platform / DBAR, ERP / CPQ systems, Usage reconciliation, SOX compliance
+- Top signal: 8+ years GTM ownership with proven D2C funnel optimization, positioning redesign, and cross-functional alignment at scale—directly transferable to product marketing rigor.
+- Biggest gap: Zero exposure to regulated financial services, credit risk, underwriting, or lending products; EdTech domain is non-adjacent, and Chime explicitly requires 3+ years in consumer lending or regulated fintech.
+- Missing keywords: consumer lending, credit risk, underwriting, loan servicing, regulated financial services
+
+### 42 -- Senior Technical Product Marketing Manager @ Abnormalsecurity (Remote - USA) (deprioritized company)
+**Stretch** -- Strong GTM and growth expertise, but lacks required cybersecurity domain depth, technical certifications, and hands-on security tooling experience.
+[View posting](https://abnormal.ai/careers/jobs/8106426003?gh_jid=8106426003)
+
+- Top signal: 8+ years GTM execution with P&L ownership, proven ability to translate complex value into positioning and messaging across multi-market campaigns.
+- Biggest gap: Zero cybersecurity or email security background; candidate is a growth strategist, not a technical security marketer with hands-on platform knowledge.
+- Missing keywords: cybersecurity domain expertise, email security background, demo platforms and interactive tools, technical certifications (CISSP/CISM), video production and technical documentation platforms
 
 ## Top 15 all-time
 
