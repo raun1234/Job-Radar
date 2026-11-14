@@ -1,43 +1,35 @@
 # Job Radar
 
-Run: 2026-11-13T20:18:33.042852+00:00
+Run: 2026-11-14T18:39:27.471267+00:00
 
-Companies: 304 checked, 292 connected, 12 failed
-Estimated spend this run: $0.0290
+Companies: 304 checked, 291 connected, 13 failed
+Estimated spend this run: $0.0217
 
-## New this run (4)
+## New this run (3)
 
-### 68 -- Strategic Partnerships and Sales Enablement Manager @ Gen-Digital (USA - Remote)
-**Worth Applying** -- Strong GTM and partnership-adjacent experience, but employee benefits and broker-channel specificity create a moderate domain gap.
-[View posting](https://jobs.ashbyhq.com/gen-digital/9afac907-da8a-4633-a8f0-ca553862702e)
+### 72 -- Senior Growth Marketing Manager @ Flexport (San Francisco, California, United States)
+**Worth Applying** -- Strong GTM and growth fundamentals with P&L ownership, but logistics/B2B SaaS domain gap and SQL/Python analytics depth gap create one-tier mismatch.
+[View posting](https://job-boards.greenhouse.io/flexport/jobs/8386745)
 
-- Top signal: Direct P&L ownership, ABM expertise, and proven ability to redesign GTM messaging across multi-region expansion mirrors the partner enablement and business review accountability here.
-- Biggest gap: No demonstrated experience in employee benefits, broker channels, or insurance-adjacent industries; entire career is EdTech B2C, not B2B partnerships.
-- Missing keywords: employee benefits channel, broker relationship management, PEO / MGA partnerships, insurance industry, RFP/RFI response
+- Top signal: P&L ownership across 5 city markets + 38% CAC lift + hands-on funnel optimization at scale demonstrates exact accountability Flexport seeks.
+- Biggest gap: No logistics/B2B SaaS domain depth and limited demonstrated SQL/analytics engineering—posting heavily weights technical measurement and AI-first tooling.
+- Missing keywords: SQL and data science, server-side tracking and conversion APIs, reverse ETL, incrementality testing (holdout, geo-lift), supply chain or logistics domain
 
-### 52 -- Strategic Partnerships Manager @ Gen-Digital (USA - Remote)
-**Stretch** -- Strong GTM and partnership foundation, but lacks direct B2B benefits/insurance brokerage experience and sales enablement depth.
-[View posting](https://jobs.ashbyhq.com/gen-digital/c77a35d7-fdb3-4954-a89e-ecadcfd5bdfc)
+### 68 -- Sr Product Marketing Manager, Platform Integrations and Technology Alliances @ Horizon3Ai (US, Remote)
+**Worth Applying** -- Strong GTM and cross-functional experience, but cybersecurity domain depth and platform/API positioning expertise are material gaps.
+[View posting](https://jobs.ashbyhq.com/horizon3ai/4b5b2fd5-208b-4509-b205-097f3e118f70)
 
-- Top signal: Proven ability to diagnose GTM leaks, redesign positioning across geographies, and scale partnerships from 0 to revenue impact—directly transferable to broker portfolio expansion.
-- Biggest gap: No demonstrated experience in B2B benefits, insurance, or brokerage verticals; role heavily weighted toward sales enablement storytelling and presentation design, which are underrepresented in candidate's profile.
-- Missing keywords: benefits/insurance brokerage partnerships, PEO/MGA/TPA relationship management, sales enablement content creation, RFP/RFI response leadership, executive presentations to broker networks
+- Top signal: P&L ownership, competitive repositioning track record, and proven ability to translate complex cross-functional strategy into market narratives directly mirrors the product-marketing-alliances trio dynamic.
+- Biggest gap: Zero cybersecurity or security-stack integration experience; platform/API positioning narrative is not demonstrated in EdTech B2C/D2C background, and visa sponsorship status uncertain at mid-stage startup.
+- Missing keywords: cybersecurity domain expertise, platform/API/developer positioning, security integrations (SIEM, SOAR, EDR/XDR, ITSM), alliance/partnership GTM, technical credibility in security workflows
 
-### 52 -- Sr. Product Marketing Manager, Lending @ Chime (San Francisco, CA, USA)
-**Stretch** -- Strong GTM and D2C funnel skills, but no regulated financial services or lending domain experience is a material gap for this credit-risk-sensitive role.
-[View posting](https://boards.greenhouse.io/chime/jobs/8940707002?gh_jid=8940707002)
+### 52 -- Strategic Partnerships Manager / Senior Manager @ Carta (San Francisco, CA; New York, NY)
+**Stretch** -- Strong GTM and cross-functional leadership, but strategic partnerships and M&A experience are not evidenced; domain shift from EdTech to fintech/private capital is material.
+[View posting](https://job-boards.greenhouse.io/carta/jobs/8203811003)
 
-- Top signal: 8+ years GTM ownership with proven D2C funnel optimization, positioning redesign, and cross-functional alignment at scale—directly transferable to product marketing rigor.
-- Biggest gap: Zero exposure to regulated financial services, credit risk, underwriting, or lending products; EdTech domain is non-adjacent, and Chime explicitly requires 3+ years in consumer lending or regulated fintech.
-- Missing keywords: consumer lending, credit risk, underwriting, loan servicing, regulated financial services
-
-### 42 -- Senior Technical Product Marketing Manager @ Abnormalsecurity (Remote - USA) (deprioritized company)
-**Stretch** -- Strong GTM and growth expertise, but lacks required cybersecurity domain depth, technical certifications, and hands-on security tooling experience.
-[View posting](https://abnormal.ai/careers/jobs/8106426003?gh_jid=8106426003)
-
-- Top signal: 8+ years GTM execution with P&L ownership, proven ability to translate complex value into positioning and messaging across multi-market campaigns.
-- Biggest gap: Zero cybersecurity or email security background; candidate is a growth strategist, not a technical security marketer with hands-on platform knowledge.
-- Missing keywords: cybersecurity domain expertise, email security background, demo platforms and interactive tools, technical certifications (CISSP/CISM), video production and technical documentation platforms
+- Top signal: P&L ownership across multiple markets and proven ability to drive 25–42% growth lifts through cross-functional execution and GTM repositioning shows commercial rigor.
+- Biggest gap: No demonstrated experience sourcing, structuring, negotiating, or managing strategic partnerships or M&A transactions; fintech/private capital domain is orthogonal to EdTech background.
+- Missing keywords: Strategic partnerships, M&A diligence, Deal structuring and negotiation, Partner relationship management, Fintech or private capital ecosystem
 
 ## Top 15 all-time
 
