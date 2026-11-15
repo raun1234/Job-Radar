@@ -1,15 +1,15 @@
 {
-  "run_at": "2026-11-14T18:39:27.469106+00:00",
+  "run_at": "2026-11-15T19:14:26.649182+00:00",
   "summary": {
     "total": 304,
-    "connected": 291,
-    "failed": 13,
+    "connected": 292,
+    "failed": 12,
     "rate": "96%",
-    "estimated_spend": 0.0217,
-    "run_at": "2026-11-14T18:39:27.469106+00:00",
+    "estimated_spend": 0.0,
+    "run_at": "2026-11-15T19:14:26.649182+00:00",
     "skip_counts": {
-      "title": 117,
-      "location": 1,
+      "title": 77,
+      "location": 4,
       "age": 0,
       "years": 0,
       "hard_req": 0
@@ -17,22 +17,28 @@
   },
   "connected": [
     {
+      "name": "Jobgether",
+      "token": "jobgether",
+      "ats": "lever",
+      "jobs_found": 4009
+    },
+    {
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 896
+      "jobs_found": 895
     },
     {
       "name": "Stripe",
       "token": "stripe",
       "ats": "greenhouse",
-      "jobs_found": 786
+      "jobs_found": 785
     },
     {
       "name": "Anthropic",
       "token": "anthropic",
       "ats": "greenhouse",
-      "jobs_found": 669
+      "jobs_found": 667
     },
     {
       "name": "Cloudflare",
@@ -68,13 +74,13 @@
       "name": "Okta",
       "token": "okta",
       "ats": "greenhouse",
-      "jobs_found": 362
+      "jobs_found": 361
     },
     {
       "name": "Toast",
       "token": "toast",
       "ats": "greenhouse",
-      "jobs_found": 355
+      "jobs_found": 354
     },
     {
       "name": "Verkada",
@@ -116,7 +122,7 @@
       "name": "Adyen",
       "token": "adyen",
       "ats": "greenhouse",
-      "jobs_found": 247
+      "jobs_found": 246
     },
     {
       "name": "Affirm",
@@ -128,7 +134,7 @@
       "name": "Airbnb",
       "token": "airbnb",
       "ats": "greenhouse",
-      "jobs_found": 214
+      "jobs_found": 213
     },
     {
       "name": "Flexport",
@@ -149,14 +155,14 @@
       "jobs_found": 197
     },
     {
-      "name": "Motive",
-      "token": "gomotive",
-      "ats": "greenhouse",
-      "jobs_found": 182
-    },
-    {
       "name": "Rubrik",
       "token": "rubrik",
+      "ats": "greenhouse",
+      "jobs_found": 183
+    },
+    {
+      "name": "Motive",
+      "token": "gomotive",
       "ats": "greenhouse",
       "jobs_found": 182
     },
@@ -233,12 +239,6 @@
       "jobs_found": 122
     },
     {
-      "name": "Twilio",
-      "token": "twilio",
-      "ats": "greenhouse",
-      "jobs_found": 115
-    },
-    {
       "name": "Intercom",
       "token": "intercom",
       "ats": "greenhouse",
@@ -251,21 +251,27 @@
       "jobs_found": 115
     },
     {
+      "name": "Twilio",
+      "token": "twilio",
+      "ats": "greenhouse",
+      "jobs_found": 114
+    },
+    {
       "name": "Ripple",
       "token": "ripple",
       "ats": "greenhouse",
       "jobs_found": 111
     },
     {
-      "name": "Wiz",
-      "token": "wizinc",
-      "ats": "greenhouse",
-      "jobs_found": 110
-    },
-    {
       "name": "EliseAI",
       "token": "eliseai",
       "ats": "ashby",
+      "jobs_found": 111
+    },
+    {
+      "name": "Wiz",
+      "token": "wizinc",
+      "ats": "greenhouse",
       "jobs_found": 110
     },
     {
@@ -278,7 +284,7 @@
       "name": "Rogo",
       "token": "rogo",
       "ats": "ashby",
-      "jobs_found": 103
+      "jobs_found": 102
     },
     {
       "name": "Payoneer",
@@ -389,15 +395,15 @@
       "jobs_found": 81
     },
     {
-      "name": "Together AI",
-      "token": "togetherai",
-      "ats": "greenhouse",
-      "jobs_found": 80
-    },
-    {
       "name": "1Password",
       "token": "1password",
       "ats": "ashby",
+      "jobs_found": 81
+    },
+    {
+      "name": "Together AI",
+      "token": "togetherai",
+      "ats": "greenhouse",
       "jobs_found": 80
     },
     {
@@ -743,12 +749,6 @@
       "jobs_found": 30
     },
     {
-      "name": "SiteMinder",
-      "token": "siteminder",
-      "ats": "ashby",
-      "jobs_found": 29
-    },
-    {
       "name": "Mento",
       "token": "mento",
       "ats": "ashby",
@@ -759,6 +759,12 @@
       "token": "superpower",
       "ats": "ashby",
       "jobs_found": 29
+    },
+    {
+      "name": "SiteMinder",
+      "token": "siteminder",
+      "ats": "ashby",
+      "jobs_found": 28
     },
     {
       "name": "Gemini",
@@ -839,16 +845,16 @@
       "jobs_found": 25
     },
     {
-      "name": "Vonage",
-      "token": "vonage",
-      "ats": "greenhouse",
-      "jobs_found": 24
-    },
-    {
       "name": "Omada Health",
       "token": "omadahealth",
       "ats": "greenhouse",
       "jobs_found": 24
+    },
+    {
+      "name": "Vonage",
+      "token": "vonage",
+      "ats": "greenhouse",
+      "jobs_found": 23
     },
     {
       "name": "Salesloft",
@@ -1091,6 +1097,12 @@
       "jobs_found": 16
     },
     {
+      "name": "CircleCI",
+      "token": "circleci",
+      "ats": "greenhouse",
+      "jobs_found": 16
+    },
+    {
       "name": "Diligent",
       "token": "diligentcorporation",
       "ats": "greenhouse",
@@ -1106,12 +1118,6 @@
       "name": "Homebase",
       "token": "homebase",
       "ats": "ashby",
-      "jobs_found": 15
-    },
-    {
-      "name": "CircleCI",
-      "token": "circleci",
-      "ats": "greenhouse",
       "jobs_found": 15
     },
     {
@@ -1427,6 +1433,12 @@
       "jobs_found": 6
     },
     {
+      "name": "dopay",
+      "token": "dopay-8",
+      "ats": "workable",
+      "jobs_found": 6
+    },
+    {
       "name": "Vapi",
       "token": "vapi",
       "ats": "ashby",
@@ -1448,12 +1460,6 @@
       "name": "Extend",
       "token": "extend",
       "ats": "ashby",
-      "jobs_found": 5
-    },
-    {
-      "name": "dopay",
-      "token": "dopay-8",
-      "ats": "workable",
       "jobs_found": 5
     },
     {
@@ -1764,11 +1770,6 @@
     }
   ],
   "failed": [
-    {
-      "name": "Jobgether",
-      "token": "jobgether",
-      "reason": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=10)"
-    },
     {
       "name": "ClickHouse",
       "token": "clickhouse",

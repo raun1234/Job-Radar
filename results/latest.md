@@ -1,35 +1,11 @@
 # Job Radar
 
-Run: 2026-11-14T18:39:27.471267+00:00
+Run: 2026-11-15T19:14:26.651803+00:00
 
-Companies: 304 checked, 291 connected, 13 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 292 connected, 12 failed
+Estimated spend this run: $0.0000
 
-## New this run (3)
-
-### 72 -- Senior Growth Marketing Manager @ Flexport (San Francisco, California, United States)
-**Worth Applying** -- Strong GTM and growth fundamentals with P&L ownership, but logistics/B2B SaaS domain gap and SQL/Python analytics depth gap create one-tier mismatch.
-[View posting](https://job-boards.greenhouse.io/flexport/jobs/8386745)
-
-- Top signal: P&L ownership across 5 city markets + 38% CAC lift + hands-on funnel optimization at scale demonstrates exact accountability Flexport seeks.
-- Biggest gap: No logistics/B2B SaaS domain depth and limited demonstrated SQL/analytics engineering—posting heavily weights technical measurement and AI-first tooling.
-- Missing keywords: SQL and data science, server-side tracking and conversion APIs, reverse ETL, incrementality testing (holdout, geo-lift), supply chain or logistics domain
-
-### 68 -- Sr Product Marketing Manager, Platform Integrations and Technology Alliances @ Horizon3Ai (US, Remote)
-**Worth Applying** -- Strong GTM and cross-functional experience, but cybersecurity domain depth and platform/API positioning expertise are material gaps.
-[View posting](https://jobs.ashbyhq.com/horizon3ai/4b5b2fd5-208b-4509-b205-097f3e118f70)
-
-- Top signal: P&L ownership, competitive repositioning track record, and proven ability to translate complex cross-functional strategy into market narratives directly mirrors the product-marketing-alliances trio dynamic.
-- Biggest gap: Zero cybersecurity or security-stack integration experience; platform/API positioning narrative is not demonstrated in EdTech B2C/D2C background, and visa sponsorship status uncertain at mid-stage startup.
-- Missing keywords: cybersecurity domain expertise, platform/API/developer positioning, security integrations (SIEM, SOAR, EDR/XDR, ITSM), alliance/partnership GTM, technical credibility in security workflows
-
-### 52 -- Strategic Partnerships Manager / Senior Manager @ Carta (San Francisco, CA; New York, NY)
-**Stretch** -- Strong GTM and cross-functional leadership, but strategic partnerships and M&A experience are not evidenced; domain shift from EdTech to fintech/private capital is material.
-[View posting](https://job-boards.greenhouse.io/carta/jobs/8203811003)
-
-- Top signal: P&L ownership across multiple markets and proven ability to drive 25–42% growth lifts through cross-functional execution and GTM repositioning shows commercial rigor.
-- Biggest gap: No demonstrated experience sourcing, structuring, negotiating, or managing strategic partnerships or M&A transactions; fintech/private capital domain is orthogonal to EdTech background.
-- Missing keywords: Strategic partnerships, M&A diligence, Deal structuring and negotiation, Partner relationship management, Fintech or private capital ecosystem
+## No new matching postings this run.
 
 ## Top 15 all-time
 
