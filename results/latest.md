@@ -1,19 +1,51 @@
 # Job Radar
 
-Run: 2026-11-17T21:30:08.364918+00:00
+Run: 2026-11-18T21:05:26.254414+00:00
 
-Companies: 304 checked, 292 connected, 12 failed
-Estimated spend this run: $0.0072
+Companies: 304 checked, 291 connected, 13 failed
+Estimated spend this run: $0.0362
 
-## New this run (1)
+## New this run (5)
 
-### 42 -- National Partner Manager - AHEAD @ Rubrik (Chicago, IL)
-**Stretch** -- Strong GTM and growth chops, but lacks direct channel partner management experience and deep data protection/cybersecurity domain knowledge.
-[View posting](https://www.rubrik.com/company/careers/departments/job.8360551?gh_jid=8360551)
+### 68 -- Customer Marketing Manager @ Brex (San Francisco, California, United States)
+**Worth Applying** -- Strong GTM and growth background, but customer marketing and reference program management are not core competencies in his profile.
+[View posting](https://www.brex.com/careers/8949361002?gh_jid=8949361002)
 
-- Top signal: P&L ownership across 5 markets and cross-functional leadership at scale demonstrate ability to influence, align, and execute; proven track record scaling GTM programs and improving partner/channel productivity.
-- Biggest gap: Zero demonstrated experience managing strategic channel partners, reseller ecosystems, or backup/recovery competitive landscape; EdTech SaaS is functionally distant from enterprise data protection and cybersecurity.
-- Missing keywords: strategic partner account management, backup and recovery solutions, channel partner business plan, reseller enablement and training, data protection and cybersecurity domain
+- Top signal: P&L ownership and cross-functional leadership at scale (60+ team, 5 city markets) demonstrates execution rigor and program management capability.
+- Biggest gap: No demonstrated experience running customer reference programs, recruiting advocates, or producing case studies and customer proof content at scale.
+- Missing keywords: customer reference program management, case study production, customer advocacy, Gartner Peer Insights, G2 reviews strategy
+
+### 68 -- Customer Marketing Manager @ Brex (New York, New York, United States)
+**Worth Applying** -- Strong GTM and growth background, but customer marketing and reference programs are adjacent skill set, not core experience.
+[View posting](https://www.brex.com/careers/8949362002?gh_jid=8949362002)
+
+- Top signal: Owned end-to-end D2C funnel and cross-functional alignment at scale; demonstrated ability to turn customer research into positioning and sales enablement assets.
+- Biggest gap: No hands-on experience recruiting advocates, running reference programs, or producing case studies; this is core 60% of the role, not a gap candidate can backfill with GTM chops alone.
+- Missing keywords: case study production, customer reference program, advocate/champion management, Gartner Peer Insights, G2 review strategy, HighSpot
+
+### 68 -- Integrated Marketing Manager, Global Programs @ Abnormalsecurity (Remote - USA) (deprioritized company)
+**Worth Applying** -- Strong GTM and program leadership chops, but cybersecurity domain gap and lack of threat intelligence marketing experience create a material handicap versus ideal candidate.
+[View posting](https://abnormal.ai/careers/jobs/8207607003?gh_jid=8207607003)
+
+- Top signal: Owned end-to-end multi-region sales pipeline and built repeatable, regional-adaptable programs at scale; directly executable for Abnormal's global program kit strategy.
+- Biggest gap: No cybersecurity or threat intelligence background; EdTech GTM motion does not translate credibly to CISO persona engagement and threat research marketing.
+- Missing keywords: cybersecurity domain knowledge, threat intelligence marketing, CISO/executive roundtable experience, security research content activation, incident response marketing
+
+### 68 -- Senior Marketing Operations Manager @ Orcasecurity (Austin, Texas, United States; Boston, Massachusetts, United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and funnel optimization background, but lacks direct MarOps tooling depth and agent-assisted automation experience.
+[View posting](https://orca.security/about/careers/6249880004?gh_jid=6249880004)
+
+- Top signal: P&L ownership across 5 markets + 60-person cross-functional leadership + unconventional funnel insight (day-14 churn cliff discovery, messaging-market fit redesign).
+- Biggest gap: No demonstrated hands-on MarOps stack ownership or agent-assisted automation builds; MarOps is infrastructure-first, not growth-first.
+- Missing keywords: marketing automation platform mastery, Clay / TitanX / Sumble hands-on, intent data layering and routing, agent-assisted workflow automation, cost per pipeline dollar optimization
+
+### 42 -- Senior Connectivity Partner Manager @ Airbnb (United States)
+**Stretch** -- Strong GTM and growth chops, but lacks direct ecosystem/partner program management and B2B SaaS partnership experience; EdTech D2C is distant from Airbnb's supplier-side connectivity model.
+[View posting](https://careers.airbnb.com/positions/8383877?gh_jid=8383877)
+
+- Top signal: P&L ownership across 5 markets + proven ability to diagnose GTM leaks, redesign processes, and drive measurable revenue growth (38% acquisition lift, 19% revenue increase) demonstrates commercial accountability and strategic rigor.
+- Biggest gap: No direct experience with partner ecosystem, channel partner programs, or B2B vendor/supplier relationships; entire background is B2C SaaS and direct-to-consumer funnel, not platform supplier dynamics or API-driven integrations.
+- Missing keywords: partner program management, ecosystem partnerships, commercial incentives, API integrations, supplier relationship management, B2B2C business model, long-tail account strategy, partner success metrics
 
 ## Top 15 all-time
 
