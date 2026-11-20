@@ -1,27 +1,43 @@
 # Job Radar
 
-Run: 2026-11-19T21:10:21.812872+00:00
+Run: 2026-11-20T20:55:06.537619+00:00
 
-Companies: 304 checked, 291 connected, 13 failed
-Estimated spend this run: $0.0145
+Companies: 304 checked, 292 connected, 12 failed
+Estimated spend this run: $0.0277
 
-## New this run (2)
+## New this run (4)
 
-### 68 -- National Partner Manager @ Datadog (Texas, USA, Remote)
-**Worth Applying** -- Strong GTM and BD pedigree with channel exposure, but channel partner management depth and cloud/SaaS infrastructure domain specificity are real gaps.
-[View posting](https://careers.datadoghq.com/detail/8402937/?gh_jid=8402937)
+### 72 -- GTM Strategy & Operations Business Partner @ Anthropic (San Francisco, CA | New York City, NY | Washington, DC)
+**Worth Applying** -- Strong GTM ops and analytics foundation, but lacks direct sales ops, revenue operations, and BI tool mastery that Anthropic's execution focus demands.
+[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5485591008)
 
-- Top signal: 8+ years GTM/BD progression with P&L accountability across 5 markets and consistent double-digit revenue growth demonstrates management maturity and execution discipline Datadog values.
-- Biggest gap: No proven track record recruiting, developing, or scaling national channel partners (VAR, SI, MSP) into multi-million-dollar books of business; EdTech D2C motions differ substantially from B2B cloud infrastructure channels.
-- Missing keywords: channel partner ecosystem, MSP/VAR/systems integrator relationships, strategic alliances management, cloud infrastructure or SaaS domain depth, partner-sourced revenue scaling
+- Top signal: P&L ownership across 5 markets + proven ability to synthesize competitive research into positioning redesign that moved revenue 25%+ aligns directly with Anthropic's strategic analysis and GTM execution focus.
+- Biggest gap: No demonstrated SQL fluency, BI tool mastery, or sales/revenue operations background—Anthropic's data-driven and execution-heavy Business Partner role requires deeper technical analytics infrastructure skills than candidate has shown.
+- Missing keywords: SQL, BI tools / data visualization mastery, Territory planning & resource allocation, Revenue operations, Sales operations / deal analytics
 
-### 52 -- National Partner Manager @ Datadog (Atlanta, Georgia, USA; Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA)
-**Stretch** -- Strong GTM and growth credentials but lacks direct channel partner management, VAR/MSP ecosystem experience, and quota-carrying partnership revenue track record.
-[View posting](https://careers.datadoghq.com/detail/8384194/?gh_jid=8384194)
+### 71 -- Growth Marketing Manager (Marketplaces) - Self service cloud @ Elastic (United States) (deprioritized company)
+**Worth Applying** -- Strong D2C funnel and growth marketing foundation, but lacks direct marketplace channel, cloud partner GTM, and hyperscaler ecosystem experience.
+[View posting](https://jobs.elastic.co/jobs?gh_jid=8397324&gh_jid=8397324)
 
-- Top signal: P&L ownership and cross-functional GTM execution at scale (60+ team, 5 markets) demonstrates commercial accountability and ability to orchestrate complex go-to-market motions.
-- Biggest gap: No demonstrated experience recruiting, developing, or scaling partner relationships into revenue; all track record is direct GTM and sales operations, not channel partner management.
-- Missing keywords: partner-facing sales / quota-carrying, channel partner recruitment and enablement, VAR / MSP / Systems Integrator ecosystem, partner-influenced revenue / partner sourcing, cloud MSP partnerships
+- Top signal: 38% CAC lift + 27% conversion rate improvement in D2C funnel shows hands-on growth rigor and funnel diagnostics Elastic needs.
+- Biggest gap: Zero demonstrated experience with cloud marketplace channels, hyperscaler ecosystems, or partner-sourced acquisition motions that form the core of this role.
+- Missing keywords: cloud marketplace (AWS, Azure, GCP), hyperscaler partner co-marketing, startup credit programs, listings optimization / SEO, marketplace-specific analytics
+
+### 68 -- Product Marketing Manager, Fintech @ Toast (Remote)
+**Worth Applying** -- Strong GTM and growth background with proven cross-functional leadership, but lacks direct fintech/banking product marketing experience that posting heavily emphasizes.
+[View posting](https://careers.toasttab.com/jobs?gh_jid=8393113)
+
+- Top signal: Owned end-to-end D2C funnel and international GTM repositioning with 25-38% revenue uplift; built cross-functional systems and dashboards that drove adoption at scale.
+- Biggest gap: Zero demonstrated experience in fintech, banking, lending, or embedded financial products—posting explicitly prioritizes this domain expertise for Toast Capital success.
+- Missing keywords: fintech product marketing, embedded finance, banking/lending domain, lifecycle engagement strategies, thought leadership writing
+
+### 51 -- GTM Lead @ Talentpluto ()
+**Stretch** -- Strong GTM fundamentals and EdTech scaling experience, but posting lacks detail on scope, seniority level, and sponsorship willingness—critical gaps for a visa-requiring candidate.
+[View posting](https://apply.workable.com/j/8D3BD3B590)
+
+- Top signal: Proven ability to redesign GTM positioning and lift CAC 38% via multi-channel sequencing; P&L ownership signals commercial accountability and seniority.
+- Biggest gap: No talent tech, HR, or recruitment vertical experience; posting too sparse to assess true role scope, company sponsorship appetite, or whether this is manager-level or senior IC.
+- Missing keywords: talent tech / HR SaaS domain expertise, posting lacks job description detail, visa sponsorship policy (not stated), specific GTM channels or customer segments, company size / funding / growth stage
 
 ## Top 15 all-time
 
