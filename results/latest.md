@@ -1,43 +1,27 @@
 # Job Radar
 
-Run: 2026-11-20T20:55:06.537619+00:00
+Run: 2026-11-21T19:55:38.458318+00:00
 
 Companies: 304 checked, 292 connected, 12 failed
-Estimated spend this run: $0.0277
+Estimated spend this run: $0.0120
 
-## New this run (4)
+## New this run (2)
 
-### 72 -- GTM Strategy & Operations Business Partner @ Anthropic (San Francisco, CA | New York City, NY | Washington, DC)
-**Worth Applying** -- Strong GTM ops and analytics foundation, but lacks direct sales ops, revenue operations, and BI tool mastery that Anthropic's execution focus demands.
-[View posting](https://job-boards.greenhouse.io/anthropic/jobs/5485591008)
+### 48 -- Product Marketing Manager @ Talentpluto ()
+**Stretch** -- Strong GTM and growth foundation, but PMM-focused posting lacks detail on company size, sponsorship appetite, and specific product/market context.
+[View posting](https://apply.workable.com/j/F008B8F65C)
 
-- Top signal: P&L ownership across 5 markets + proven ability to synthesize competitive research into positioning redesign that moved revenue 25%+ aligns directly with Anthropic's strategic analysis and GTM execution focus.
-- Biggest gap: No demonstrated SQL fluency, BI tool mastery, or sales/revenue operations background—Anthropic's data-driven and execution-heavy Business Partner role requires deeper technical analytics infrastructure skills than candidate has shown.
-- Missing keywords: SQL, BI tools / data visualization mastery, Territory planning & resource allocation, Revenue operations, Sales operations / deal analytics
+- Top signal: P&L ownership across 5 markets and proven ability to redesign GTM positioning for 25% sales growth demonstrates strategic thinking above typical PMM scope.
+- Biggest gap: Posting provides no company context, product type, or sponsorship stance; cannot assess domain fit or visa appetite—apply only if talentpluto's hiring and mission are verified.
+- Missing keywords: product marketing campaign execution, product feedback / customer research loops, messaging and positioning (explicitly), demand generation, product launch ownership
 
-### 71 -- Growth Marketing Manager (Marketplaces) - Self service cloud @ Elastic (United States) (deprioritized company)
-**Worth Applying** -- Strong D2C funnel and growth marketing foundation, but lacks direct marketplace channel, cloud partner GTM, and hyperscaler ecosystem experience.
-[View posting](https://jobs.elastic.co/jobs?gh_jid=8397324&gh_jid=8397324)
+### 42 -- Growth Lead @ Talentpluto ()
+**Stretch** -- Strong GTM and growth track record, but talentpluto is a small HR-tech startup and sponsorship need is a material friction point without explicit commitment.
+[View posting](https://apply.workable.com/j/EF22456E67)
 
-- Top signal: 38% CAC lift + 27% conversion rate improvement in D2C funnel shows hands-on growth rigor and funnel diagnostics Elastic needs.
-- Biggest gap: Zero demonstrated experience with cloud marketplace channels, hyperscaler ecosystems, or partner-sourced acquisition motions that form the core of this role.
-- Missing keywords: cloud marketplace (AWS, Azure, GCP), hyperscaler partner co-marketing, startup credit programs, listings optimization / SEO, marketplace-specific analytics
-
-### 68 -- Product Marketing Manager, Fintech @ Toast (Remote)
-**Worth Applying** -- Strong GTM and growth background with proven cross-functional leadership, but lacks direct fintech/banking product marketing experience that posting heavily emphasizes.
-[View posting](https://careers.toasttab.com/jobs?gh_jid=8393113)
-
-- Top signal: Owned end-to-end D2C funnel and international GTM repositioning with 25-38% revenue uplift; built cross-functional systems and dashboards that drove adoption at scale.
-- Biggest gap: Zero demonstrated experience in fintech, banking, lending, or embedded financial products—posting explicitly prioritizes this domain expertise for Toast Capital success.
-- Missing keywords: fintech product marketing, embedded finance, banking/lending domain, lifecycle engagement strategies, thought leadership writing
-
-### 51 -- GTM Lead @ Talentpluto ()
-**Stretch** -- Strong GTM fundamentals and EdTech scaling experience, but posting lacks detail on scope, seniority level, and sponsorship willingness—critical gaps for a visa-requiring candidate.
-[View posting](https://apply.workable.com/j/8D3BD3B590)
-
-- Top signal: Proven ability to redesign GTM positioning and lift CAC 38% via multi-channel sequencing; P&L ownership signals commercial accountability and seniority.
-- Biggest gap: No talent tech, HR, or recruitment vertical experience; posting too sparse to assess true role scope, company sponsorship appetite, or whether this is manager-level or senior IC.
-- Missing keywords: talent tech / HR SaaS domain expertise, posting lacks job description detail, visa sponsorship policy (not stated), specific GTM channels or customer segments, company size / funding / growth stage
+- Top signal: Owned P&L and rebuilt GTM positioning across geographies, delivering 25–42% growth; proven ability to diagnose funnel leaks and design multi-channel campaigns at scale.
+- Biggest gap: Deep EdTech expertise does not transfer to HR-tech buyer motivations, sales cycles, or platform dynamics; sponsorship requirement is a dealbreaker for most early-stage startups unless explicitly stated.
+- Missing keywords: HR tech / talent acquisition, B2B SaaS (posting likely assumes B2B platform experience), talent marketplace or platform metrics, employer/recruiter personas, hiring funnel dynamics
 
 ## Top 15 all-time
 

@@ -1,15 +1,15 @@
 {
-  "run_at": "2026-11-20T20:55:06.534213+00:00",
+  "run_at": "2026-11-21T19:55:38.454743+00:00",
   "summary": {
     "total": 304,
     "connected": 292,
     "failed": 12,
     "rate": "96%",
-    "estimated_spend": 0.0277,
-    "run_at": "2026-11-20T20:55:06.534213+00:00",
+    "estimated_spend": 0.012,
+    "run_at": "2026-11-21T19:55:38.454743+00:00",
     "skip_counts": {
-      "title": 1119,
-      "location": 37,
+      "title": 225,
+      "location": 0,
       "age": 0,
       "years": 0,
       "hard_req": 0
@@ -20,37 +20,37 @@
       "name": "Jobgether",
       "token": "jobgether",
       "ats": "lever",
-      "jobs_found": 4142
+      "jobs_found": 4214
     },
     {
       "name": "Databricks",
       "token": "databricks",
       "ats": "greenhouse",
-      "jobs_found": 897
+      "jobs_found": 895
     },
     {
       "name": "Stripe",
       "token": "stripe",
       "ats": "greenhouse",
-      "jobs_found": 780
+      "jobs_found": 778
     },
     {
       "name": "Anthropic",
       "token": "anthropic",
       "ats": "greenhouse",
-      "jobs_found": 638
+      "jobs_found": 635
     },
     {
       "name": "Cloudflare",
       "token": "cloudflare",
       "ats": "greenhouse",
-      "jobs_found": 496
+      "jobs_found": 504
     },
     {
       "name": "MongoDB",
       "token": "mongodb",
       "ats": "greenhouse",
-      "jobs_found": 418
+      "jobs_found": 417
     },
     {
       "name": "Zscaler",
@@ -68,19 +68,19 @@
       "name": "Elastic",
       "token": "elastic",
       "ats": "greenhouse",
-      "jobs_found": 380
+      "jobs_found": 382
     },
     {
       "name": "Okta",
       "token": "okta",
       "ats": "greenhouse",
-      "jobs_found": 377
+      "jobs_found": 372
     },
     {
       "name": "Verkada",
       "token": "verkada",
       "ats": "greenhouse",
-      "jobs_found": 348
+      "jobs_found": 352
     },
     {
       "name": "Braze",
@@ -92,7 +92,7 @@
       "name": "Toast",
       "token": "toast",
       "ats": "greenhouse",
-      "jobs_found": 332
+      "jobs_found": 326
     },
     {
       "name": "xAI",
@@ -104,13 +104,13 @@
       "name": "Samsara",
       "token": "samsara",
       "ats": "greenhouse",
-      "jobs_found": 296
+      "jobs_found": 298
     },
     {
       "name": "Coinbase",
       "token": "coinbase",
       "ats": "greenhouse",
-      "jobs_found": 254
+      "jobs_found": 252
     },
     {
       "name": "Brex",
@@ -122,25 +122,25 @@
       "name": "Adyen",
       "token": "adyen",
       "ats": "greenhouse",
-      "jobs_found": 241
+      "jobs_found": 243
     },
     {
       "name": "Affirm",
       "token": "affirm",
       "ats": "greenhouse",
-      "jobs_found": 218
+      "jobs_found": 222
     },
     {
       "name": "Flexport",
       "token": "flexport",
       "ats": "greenhouse",
-      "jobs_found": 213
+      "jobs_found": 212
     },
     {
       "name": "Rubrik",
       "token": "rubrik",
       "ats": "greenhouse",
-      "jobs_found": 207
+      "jobs_found": 208
     },
     {
       "name": "Horizon3 AI",
@@ -152,13 +152,13 @@
       "name": "Airbnb",
       "token": "airbnb",
       "ats": "greenhouse",
-      "jobs_found": 203
+      "jobs_found": 202
     },
     {
       "name": "Fivetran",
       "token": "fivetran",
       "ats": "greenhouse",
-      "jobs_found": 193
+      "jobs_found": 196
     },
     {
       "name": "Motive",
@@ -182,31 +182,31 @@
       "name": "Scopely",
       "token": "scopely",
       "ats": "greenhouse",
-      "jobs_found": 171
+      "jobs_found": 172
     },
     {
       "name": "Scale AI",
       "token": "scaleai",
       "ats": "greenhouse",
-      "jobs_found": 168
+      "jobs_found": 169
     },
     {
       "name": "Robinhood",
       "token": "robinhood",
       "ats": "greenhouse",
-      "jobs_found": 165
+      "jobs_found": 163
     },
     {
       "name": "Reddit",
       "token": "reddit",
       "ats": "greenhouse",
-      "jobs_found": 149
+      "jobs_found": 148
     },
     {
       "name": "Figma",
       "token": "figma",
       "ats": "greenhouse",
-      "jobs_found": 146
+      "jobs_found": 147
     },
     {
       "name": "Grafana Labs",
@@ -227,16 +227,16 @@
       "jobs_found": 127
     },
     {
-      "name": "Netskope",
-      "token": "netskope",
-      "ats": "greenhouse",
-      "jobs_found": 126
-    },
-    {
       "name": "Klaviyo",
       "token": "klaviyo",
       "ats": "greenhouse",
       "jobs_found": 126
+    },
+    {
+      "name": "Netskope",
+      "token": "netskope",
+      "ats": "greenhouse",
+      "jobs_found": 124
     },
     {
       "name": "Intercom",
@@ -254,13 +254,13 @@
       "name": "Asana",
       "token": "asana",
       "ats": "greenhouse",
-      "jobs_found": 112
+      "jobs_found": 111
     },
     {
       "name": "Twilio",
       "token": "twilio",
       "ats": "greenhouse",
-      "jobs_found": 111
+      "jobs_found": 109
     },
     {
       "name": "Ripple",
@@ -272,19 +272,19 @@
       "name": "Wiz",
       "token": "wizinc",
       "ats": "greenhouse",
-      "jobs_found": 108
-    },
-    {
-      "name": "EliseAI",
-      "token": "eliseai",
-      "ats": "ashby",
-      "jobs_found": 105
+      "jobs_found": 107
     },
     {
       "name": "Fireworks AI",
       "token": "fireworks",
       "ats": "ashby",
       "jobs_found": 105
+    },
+    {
+      "name": "EliseAI",
+      "token": "eliseai",
+      "ats": "ashby",
+      "jobs_found": 104
     },
     {
       "name": "Rogo",
@@ -317,40 +317,34 @@
       "jobs_found": 93
     },
     {
+      "name": "Instacart",
+      "token": "instacart",
+      "ats": "greenhouse",
+      "jobs_found": 92
+    },
+    {
       "name": "ZoomInfo",
       "token": "zoominfo",
       "ats": "greenhouse",
       "jobs_found": 90
     },
     {
-      "name": "Instacart",
-      "token": "instacart",
-      "ats": "greenhouse",
-      "jobs_found": 89
-    },
-    {
       "name": "Cursor",
       "token": "cursor",
       "ats": "ashby",
-      "jobs_found": 88
+      "jobs_found": 89
     },
     {
       "name": "PointClickCare",
       "token": "pointclickcare",
       "ats": "lever",
-      "jobs_found": 86
-    },
-    {
-      "name": "OneTrust",
-      "token": "onetrust",
-      "ats": "greenhouse",
-      "jobs_found": 86
+      "jobs_found": 87
     },
     {
       "name": "Vercel",
       "token": "vercel",
       "ats": "greenhouse",
-      "jobs_found": 85
+      "jobs_found": 86
     },
     {
       "name": "Abnormal Security",
@@ -367,6 +361,12 @@
     {
       "name": "Cresta",
       "token": "cresta",
+      "ats": "greenhouse",
+      "jobs_found": 84
+    },
+    {
+      "name": "OneTrust",
+      "token": "onetrust",
       "ats": "greenhouse",
       "jobs_found": 84
     },
@@ -401,6 +401,12 @@
       "jobs_found": 81
     },
     {
+      "name": "Talent Pluto",
+      "token": "talentpluto",
+      "ats": "workable",
+      "jobs_found": 80
+    },
+    {
       "name": "Carta",
       "token": "carta",
       "ats": "greenhouse",
@@ -416,24 +422,24 @@
       "name": "Lovable",
       "token": "lovable",
       "ats": "ashby",
-      "jobs_found": 79
-    },
-    {
-      "name": "Lendable",
-      "token": "lendable",
-      "ats": "ashby",
-      "jobs_found": 73
+      "jobs_found": 78
     },
     {
       "name": "Together AI",
       "token": "togetherai",
       "ats": "greenhouse",
-      "jobs_found": 73
+      "jobs_found": 76
     },
     {
       "name": "Faire",
       "token": "faire",
       "ats": "greenhouse",
+      "jobs_found": 74
+    },
+    {
+      "name": "Lendable",
+      "token": "lendable",
+      "ats": "ashby",
       "jobs_found": 73
     },
     {
@@ -446,12 +452,12 @@
       "name": "Zocdoc",
       "token": "zocdoc",
       "ats": "greenhouse",
-      "jobs_found": 65
+      "jobs_found": 66
     },
     {
-      "name": "Human Interest",
-      "token": "humaninterest",
-      "ats": "greenhouse",
+      "name": "Nooks",
+      "token": "nooks",
+      "ats": "ashby",
       "jobs_found": 63
     },
     {
@@ -467,9 +473,9 @@
       "jobs_found": 62
     },
     {
-      "name": "Nooks",
-      "token": "nooks",
-      "ats": "ashby",
+      "name": "Human Interest",
+      "token": "humaninterest",
+      "ats": "greenhouse",
       "jobs_found": 60
     },
     {
@@ -482,13 +488,7 @@
       "name": "Dragos",
       "token": "dragos",
       "ats": "greenhouse",
-      "jobs_found": 55
-    },
-    {
-      "name": "Workato",
-      "token": "workato",
-      "ats": "greenhouse",
-      "jobs_found": 54
+      "jobs_found": 56
     },
     {
       "name": "Duolingo",
@@ -503,20 +503,20 @@
       "jobs_found": 54
     },
     {
+      "name": "Workato",
+      "token": "workato",
+      "ats": "greenhouse",
+      "jobs_found": 53
+    },
+    {
       "name": "NexHealth",
       "token": "nexhealth",
       "ats": "greenhouse",
-      "jobs_found": 54
+      "jobs_found": 52
     },
     {
       "name": "Contentful",
       "token": "contentful",
-      "ats": "greenhouse",
-      "jobs_found": 51
-    },
-    {
-      "name": "Huntress",
-      "token": "huntress",
       "ats": "greenhouse",
       "jobs_found": 50
     },
@@ -524,7 +524,13 @@
       "name": "Owner.com",
       "token": "owner",
       "ats": "ashby",
-      "jobs_found": 49
+      "jobs_found": 48
+    },
+    {
+      "name": "PagerDuty",
+      "token": "pagerduty",
+      "ats": "greenhouse",
+      "jobs_found": 48
     },
     {
       "name": "Dropbox",
@@ -539,8 +545,8 @@
       "jobs_found": 47
     },
     {
-      "name": "PagerDuty",
-      "token": "pagerduty",
+      "name": "Huntress",
+      "token": "huntress",
       "ats": "greenhouse",
       "jobs_found": 47
     },
@@ -548,13 +554,19 @@
       "name": "Apollo",
       "token": "apolloio",
       "ats": "greenhouse",
-      "jobs_found": 46
+      "jobs_found": 45
     },
     {
       "name": "Coram AI",
       "token": "coram-ai",
       "ats": "ashby",
       "jobs_found": 45
+    },
+    {
+      "name": "Jerry.ai",
+      "token": "jerry.ai",
+      "ats": "ashby",
+      "jobs_found": 44
     },
     {
       "name": "Zuora",
@@ -599,18 +611,6 @@
       "jobs_found": 42
     },
     {
-      "name": "Jerry.ai",
-      "token": "jerry.ai",
-      "ats": "ashby",
-      "jobs_found": 41
-    },
-    {
-      "name": "Talent Pluto",
-      "token": "talentpluto",
-      "ats": "workable",
-      "jobs_found": 40
-    },
-    {
       "name": "Mixpanel",
       "token": "mixpanel",
       "ats": "greenhouse",
@@ -626,6 +626,12 @@
       "name": "Prompt Therapy Solutions",
       "token": "prompt",
       "ats": "ashby",
+      "jobs_found": 37
+    },
+    {
+      "name": "Everlaw",
+      "token": "everlaw",
+      "ats": "greenhouse",
       "jobs_found": 37
     },
     {
@@ -647,20 +653,14 @@
       "jobs_found": 35
     },
     {
-      "name": "Coursera",
-      "token": "coursera",
-      "ats": "greenhouse",
-      "jobs_found": 35
-    },
-    {
       "name": "Vonage",
       "token": "vonage",
       "ats": "greenhouse",
       "jobs_found": 34
     },
     {
-      "name": "Everlaw",
-      "token": "everlaw",
+      "name": "Coursera",
+      "token": "coursera",
       "ats": "greenhouse",
       "jobs_found": 34
     },
@@ -725,12 +725,6 @@
       "jobs_found": 30
     },
     {
-      "name": "Movable Ink",
-      "token": "movableink",
-      "ats": "greenhouse",
-      "jobs_found": 30
-    },
-    {
       "name": "Mento",
       "token": "mento",
       "ats": "ashby",
@@ -773,6 +767,12 @@
       "jobs_found": 29
     },
     {
+      "name": "Movable Ink",
+      "token": "movableink",
+      "ats": "greenhouse",
+      "jobs_found": 29
+    },
+    {
       "name": "StockX",
       "token": "stockx",
       "ats": "greenhouse",
@@ -797,21 +797,9 @@
       "jobs_found": 28
     },
     {
-      "name": "Greenhouse",
-      "token": "greenhouse",
-      "ats": "greenhouse",
-      "jobs_found": 28
-    },
-    {
       "name": "MYOB",
       "token": "myob-2",
       "ats": "lever",
-      "jobs_found": 27
-    },
-    {
-      "name": "WorkOS",
-      "token": "workos",
-      "ats": "ashby",
       "jobs_found": 27
     },
     {
@@ -833,8 +821,20 @@
       "jobs_found": 26
     },
     {
+      "name": "WorkOS",
+      "token": "workos",
+      "ats": "ashby",
+      "jobs_found": 26
+    },
+    {
       "name": "Sumo Logic",
       "token": "sumologic",
+      "ats": "greenhouse",
+      "jobs_found": 26
+    },
+    {
+      "name": "Greenhouse",
+      "token": "greenhouse",
       "ats": "greenhouse",
       "jobs_found": 26
     },
@@ -849,18 +849,6 @@
       "token": "salesloft",
       "ats": "greenhouse",
       "jobs_found": 25
-    },
-    {
-      "name": "Tubi",
-      "token": "tubitv",
-      "ats": "greenhouse",
-      "jobs_found": 24
-    },
-    {
-      "name": "Omada Health",
-      "token": "omadahealth",
-      "ats": "greenhouse",
-      "jobs_found": 24
     },
     {
       "name": "AvidXchange",
@@ -883,6 +871,18 @@
     {
       "name": "Flatiron Health",
       "token": "flatironhealth",
+      "ats": "greenhouse",
+      "jobs_found": 23
+    },
+    {
+      "name": "Tubi",
+      "token": "tubitv",
+      "ats": "greenhouse",
+      "jobs_found": 23
+    },
+    {
+      "name": "Omada Health",
+      "token": "omadahealth",
       "ats": "greenhouse",
       "jobs_found": 23
     },
@@ -947,6 +947,12 @@
       "jobs_found": 20
     },
     {
+      "name": "Komodo Health",
+      "token": "komodohealth",
+      "ats": "greenhouse",
+      "jobs_found": 20
+    },
+    {
       "name": "Gamma",
       "token": "gamma",
       "ats": "ashby",
@@ -959,27 +965,21 @@
       "jobs_found": 20
     },
     {
+      "name": "CaptivateIQ",
+      "token": "captivateiq",
+      "ats": "lever",
+      "jobs_found": 20
+    },
+    {
       "name": "Sprout Social",
       "token": "sproutsocial",
       "ats": "greenhouse",
       "jobs_found": 20
     },
     {
-      "name": "Komodo Health",
-      "token": "komodohealth",
-      "ats": "greenhouse",
-      "jobs_found": 19
-    },
-    {
       "name": "Pushpay",
       "token": "pushpay",
       "ats": "greenhouse",
-      "jobs_found": 19
-    },
-    {
-      "name": "CaptivateIQ",
-      "token": "captivateiq",
-      "ats": "lever",
       "jobs_found": 19
     },
     {
@@ -1004,12 +1004,6 @@
       "name": "Red Sky",
       "token": "redsky",
       "ats": "recruitee",
-      "jobs_found": 18
-    },
-    {
-      "name": "AssemblyAI",
-      "token": "assemblyai",
-      "ats": "greenhouse",
       "jobs_found": 18
     },
     {
@@ -1049,6 +1043,12 @@
       "jobs_found": 17
     },
     {
+      "name": "AssemblyAI",
+      "token": "assemblyai",
+      "ats": "greenhouse",
+      "jobs_found": 17
+    },
+    {
       "name": "Dialpad",
       "token": "dialpad",
       "ats": "greenhouse",
@@ -1064,12 +1064,6 @@
       "name": "HeyGen",
       "token": "heygen",
       "ats": "greenhouse",
-      "jobs_found": 16
-    },
-    {
-      "name": "Bland",
-      "token": "bland",
-      "ats": "ashby",
       "jobs_found": 16
     },
     {
@@ -1103,6 +1097,18 @@
       "jobs_found": 15
     },
     {
+      "name": "Bland",
+      "token": "bland",
+      "ats": "ashby",
+      "jobs_found": 15
+    },
+    {
+      "name": "Opus Clip",
+      "token": "opusclip",
+      "ats": "ashby",
+      "jobs_found": 15
+    },
+    {
       "name": "Diligent",
       "token": "diligentcorporation",
       "ats": "greenhouse",
@@ -1124,12 +1130,6 @@
       "name": "Upstream",
       "token": "upstream",
       "ats": "workable",
-      "jobs_found": 14
-    },
-    {
-      "name": "Opus Clip",
-      "token": "opusclip",
-      "ats": "ashby",
       "jobs_found": 14
     },
     {
@@ -1187,6 +1187,12 @@
       "jobs_found": 13
     },
     {
+      "name": "Labelbox",
+      "token": "labelbox",
+      "ats": "greenhouse",
+      "jobs_found": 13
+    },
+    {
       "name": "Emplifi",
       "token": "emplifi",
       "ats": "greenhouse",
@@ -1223,14 +1229,26 @@
       "jobs_found": 12
     },
     {
+      "name": "Hoxhunt",
+      "token": "hoxhunt",
+      "ats": "ashby",
+      "jobs_found": 12
+    },
+    {
       "name": "PlanetScale",
       "token": "planetscale",
       "ats": "greenhouse",
       "jobs_found": 12
     },
     {
-      "name": "Labelbox",
-      "token": "labelbox",
+      "name": "Doximity",
+      "token": "doximity",
+      "ats": "greenhouse",
+      "jobs_found": 12
+    },
+    {
+      "name": "BigID",
+      "token": "bigid",
       "ats": "greenhouse",
       "jobs_found": 12
     },
@@ -1243,6 +1261,12 @@
     {
       "name": "PandaDoc",
       "token": "pandadoc",
+      "ats": "greenhouse",
+      "jobs_found": 11
+    },
+    {
+      "name": "Boulevard",
+      "token": "boulevard",
       "ats": "greenhouse",
       "jobs_found": 11
     },
@@ -1265,34 +1289,10 @@
       "jobs_found": 11
     },
     {
-      "name": "Hoxhunt",
-      "token": "hoxhunt",
-      "ats": "ashby",
-      "jobs_found": 11
-    },
-    {
       "name": "Blend",
       "token": "blend",
       "ats": "greenhouse",
       "jobs_found": 11
-    },
-    {
-      "name": "Doximity",
-      "token": "doximity",
-      "ats": "greenhouse",
-      "jobs_found": 11
-    },
-    {
-      "name": "BigID",
-      "token": "bigid",
-      "ats": "greenhouse",
-      "jobs_found": 11
-    },
-    {
-      "name": "Boulevard",
-      "token": "boulevard",
-      "ats": "greenhouse",
-      "jobs_found": 10
     },
     {
       "name": "Observe AI",
@@ -1427,9 +1427,9 @@
       "jobs_found": 6
     },
     {
-      "name": "Lattice",
-      "token": "lattice",
-      "ats": "greenhouse",
+      "name": "Plain",
+      "token": "plain",
+      "ats": "ashby",
       "jobs_found": 6
     },
     {
@@ -1463,12 +1463,6 @@
       "jobs_found": 5
     },
     {
-      "name": "Plain",
-      "token": "plain",
-      "ats": "ashby",
-      "jobs_found": 5
-    },
-    {
       "name": "Extend",
       "token": "extend",
       "ats": "ashby",
@@ -1490,12 +1484,6 @@
       "name": "Reo.Dev",
       "token": "reo-dev",
       "ats": "ashby",
-      "jobs_found": 5
-    },
-    {
-      "name": "Vectara",
-      "token": "vectara",
-      "ats": "greenhouse",
       "jobs_found": 5
     },
     {
@@ -1541,6 +1529,12 @@
       "jobs_found": 4
     },
     {
+      "name": "Lattice",
+      "token": "lattice",
+      "ats": "greenhouse",
+      "jobs_found": 4
+    },
+    {
       "name": "TLDR",
       "token": "tldr.tech",
       "ats": "ashby",
@@ -1577,6 +1571,12 @@
       "jobs_found": 4
     },
     {
+      "name": "Vectara",
+      "token": "vectara",
+      "ats": "greenhouse",
+      "jobs_found": 4
+    },
+    {
       "name": "Khan Academy",
       "token": "khanacademy",
       "ats": "greenhouse",
@@ -1597,6 +1597,12 @@
     {
       "name": "Ideogram",
       "token": "ideogram",
+      "ats": "ashby",
+      "jobs_found": 3
+    },
+    {
+      "name": "Sentient",
+      "token": "sentient",
       "ats": "ashby",
       "jobs_found": 3
     },
@@ -1645,12 +1651,6 @@
     {
       "name": "Zed",
       "token": "zed",
-      "ats": "ashby",
-      "jobs_found": 2
-    },
-    {
-      "name": "Sentient",
-      "token": "sentient",
       "ats": "ashby",
       "jobs_found": 2
     },

@@ -26104,5 +26104,121 @@
     "deprioritized": false,
     "new_grad_program": false,
     "found_at": "2026-11-20T20:54:39.265199+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:talentpluto:EF22456E67",
+      "company": "talentpluto",
+      "title": "Growth Lead",
+      "location": "",
+      "url": "https://apply.workable.com/j/EF22456E67",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Lead",
+      "posted_at": "2026-11-20"
+    },
+    "result": {
+      "overall_score": 42,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth track record, but talentpluto is a small HR-tech startup and sponsorship need is a material friction point without explicit commitment.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 68,
+          "note": "Senior Program Manager / AGM level exceeds typical Growth Lead scope, but title is often inflated at startups."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 75,
+          "note": "GTM strategy, growth strategy, funnel optimization, CRM, A/B testing, KPI systems all present; strong methodological fit."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 28,
+          "note": "Pure EdTech and fintech-adjacent; HR tech is a different buyer psyche, sales motion, and product category entirely."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "Demonstrated 25\u201342% growth lifts and funnel optimization at scale; lacks HR/talent tech or B2B2C platform experience."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 35,
+          "note": "Requires H1B sponsorship; small startup rarely sponsors unless role is explicitly critical or approved in budget."
+        }
+      ],
+      "missing_keywords": [
+        "HR tech / talent acquisition",
+        "B2B SaaS (posting likely assumes B2B platform experience)",
+        "talent marketplace or platform metrics",
+        "employer/recruiter personas",
+        "hiring funnel dynamics"
+      ],
+      "top_signal": "Owned P&L and rebuilt GTM positioning across geographies, delivering 25\u201342% growth; proven ability to diagnose funnel leaks and design multi-channel campaigns at scale.",
+      "biggest_gap": "Deep EdTech expertise does not transfer to HR-tech buyer motivations, sales cycles, or platform dynamics; sponsorship requirement is a dealbreaker for most early-stage startups unless explicitly stated."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-21T19:54:57.752378+00:00"
+  },
+  {
+    "job": {
+      "id": "wk:talentpluto:F008B8F65C",
+      "company": "talentpluto",
+      "title": "Product Marketing Manager",
+      "location": "",
+      "url": "https://apply.workable.com/j/F008B8F65C",
+      "description": "",
+      "salary": "",
+      "work_type": "",
+      "seniority": "Manager",
+      "posted_at": "2026-11-20"
+    },
+    "result": {
+      "overall_score": 48,
+      "verdict": "Stretch",
+      "verdict_note": "Strong GTM and growth foundation, but PMM-focused posting lacks detail on company size, sponsorship appetite, and specific product/market context.",
+      "breakdown": [
+        {
+          "category": "Title & Seniority Match",
+          "score": 72,
+          "note": "Manager level confirmed; PMM title is adjacent to GTM/growth background but not primary expertise."
+        },
+        {
+          "category": "Skills & Keyword Match",
+          "score": 68,
+          "note": "Product marketing, positioning, competitive intelligence, messaging present; missing demand gen, campaign execution, product feedback loops emphasis."
+        },
+        {
+          "category": "Domain & Industry Fit",
+          "score": 35,
+          "note": "talentpluto's product, market, and customer type unknown; EdTech generalist cannot assume fit without visibility into HR/talent category."
+        },
+        {
+          "category": "Track Record Fit",
+          "score": 65,
+          "note": "P&L ownership and GTM execution strong; no evidence of deep product marketing campaign ownership or analytics-driven positioning iteration."
+        },
+        {
+          "category": "Eligibility Fit",
+          "score": 25,
+          "note": "H1B sponsorship required; no company size, funding stage, or sponsorship willingness stated\u2014high risk for startup."
+        }
+      ],
+      "missing_keywords": [
+        "product marketing campaign execution",
+        "product feedback / customer research loops",
+        "messaging and positioning (explicitly)",
+        "demand generation",
+        "product launch ownership"
+      ],
+      "top_signal": "P&L ownership across 5 markets and proven ability to redesign GTM positioning for 25% sales growth demonstrates strategic thinking above typical PMM scope.",
+      "biggest_gap": "Posting provides no company context, product type, or sponsorship stance; cannot assess domain fit or visa appetite\u2014apply only if talentpluto's hiring and mission are verified."
+    },
+    "deprioritized": false,
+    "new_grad_program": false,
+    "found_at": "2026-11-21T19:55:04.200011+00:00"
   }
 ]
