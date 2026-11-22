@@ -1,27 +1,11 @@
 # Job Radar
 
-Run: 2026-11-21T19:55:38.458318+00:00
+Run: 2026-11-22T20:08:07.394981+00:00
 
-Companies: 304 checked, 292 connected, 12 failed
-Estimated spend this run: $0.0120
+Companies: 304 checked, 290 connected, 14 failed
+Estimated spend this run: $0.0000
 
-## New this run (2)
-
-### 48 -- Product Marketing Manager @ Talentpluto ()
-**Stretch** -- Strong GTM and growth foundation, but PMM-focused posting lacks detail on company size, sponsorship appetite, and specific product/market context.
-[View posting](https://apply.workable.com/j/F008B8F65C)
-
-- Top signal: P&L ownership across 5 markets and proven ability to redesign GTM positioning for 25% sales growth demonstrates strategic thinking above typical PMM scope.
-- Biggest gap: Posting provides no company context, product type, or sponsorship stance; cannot assess domain fit or visa appetite—apply only if talentpluto's hiring and mission are verified.
-- Missing keywords: product marketing campaign execution, product feedback / customer research loops, messaging and positioning (explicitly), demand generation, product launch ownership
-
-### 42 -- Growth Lead @ Talentpluto ()
-**Stretch** -- Strong GTM and growth track record, but talentpluto is a small HR-tech startup and sponsorship need is a material friction point without explicit commitment.
-[View posting](https://apply.workable.com/j/EF22456E67)
-
-- Top signal: Owned P&L and rebuilt GTM positioning across geographies, delivering 25–42% growth; proven ability to diagnose funnel leaks and design multi-channel campaigns at scale.
-- Biggest gap: Deep EdTech expertise does not transfer to HR-tech buyer motivations, sales cycles, or platform dynamics; sponsorship requirement is a dealbreaker for most early-stage startups unless explicitly stated.
-- Missing keywords: HR tech / talent acquisition, B2B SaaS (posting likely assumes B2B platform experience), talent marketplace or platform metrics, employer/recruiter personas, hiring funnel dynamics
+## No new matching postings this run.
 
 ## Top 15 all-time
 
