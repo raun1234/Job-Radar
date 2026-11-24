@@ -1,35 +1,43 @@
 # Job Radar
 
-Run: 2026-11-24T00:34:47.539841+00:00
+Run: 2026-11-24T22:54:36.691561+00:00
 
-Companies: 304 checked, 292 connected, 12 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 291 connected, 13 failed
+Estimated spend this run: $0.0278
 
-## New this run (3)
+## New this run (4)
 
-### 68 -- Senior Lifecycle Marketing Manager, Customer @ Brex (Seattle, Washington, United States)
-**Worth Applying** -- Strong lifecycle and funnel optimization chops, but lacks direct email marketing, multi-channel orchestration, and B2B SaaS fintech depth.
-[View posting](https://www.brex.com/careers/8959354002?gh_jid=8959354002)
+### 71 -- Senior Product Marketing Manager @ Launchdarkly (Remote - US)
+**Worth Applying** -- Strong GTM operator with quantified pipeline/revenue impact and technical fluency, but EdTech D2C background lacks B2B SaaS enterprise GTM depth and developer-segment sales enablement at scale.
+[View posting](https://job-boards.greenhouse.io/launchdarkly/jobs/8215689003)
 
-- Top signal: Day-14 retention cliff diagnosis and 40% improvement intervention show deep lifecycle instinct; D2C funnel ownership at scale (200+ hires, 45% onboarding conversion) directly mirrors onboarding and expansion mandate.
-- Biggest gap: No hands-on email marketing platform experience, campaign orchestration, or rewards/promotional offers program design—core Brex lifecycle responsibilities.
-- Missing keywords: email marketing / email orchestration, multi-channel campaign management, rewards programs / offers strategy, behavioral triggers / automation, retention marketing
+- Top signal: Hands-on GTM operator who owns funnel end-to-end, fluent in data-driven decisions, and proved ability to synthesize cross-functional input into revenue lift—exactly the operator profile LaunchDarkly seeks.
+- Biggest gap: Zero B2B SaaS or developer-tools GTM experience; EdTech D2C positioning and international B2C expansion do not build credibility for enterprise AI agents segment or sales engineering workflows.
+- Missing keywords: B2B SaaS enterprise GTM, Developer/technical buyer sales enablement, Analyst relations and category definition, Pricing and packaging strategy, Win-rate and sales productivity metrics
 
-### 68 -- Senior Lifecycle Marketing Manager, Customer @ Brex (New York, New York, United States)
-**Worth Applying** -- Strong D2C funnel and retention background, but lifecycle marketing specificity and B2B SaaS depth are gaps versus EdTech product-led motion.
-[View posting](https://www.brex.com/careers/8959174002?gh_jid=8959174002)
+### 68 -- Product Marketing Manager @ Dragos (United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and growth execution in B2C SaaS, but lacks direct cybersecurity domain depth and enterprise sales/segment ownership experience that Dragos prioritizes.
+[View posting](https://job-boards.greenhouse.io/dragos/jobs/5471796008)
 
-- Top signal: Diagnosed and redesigned leaky funnel with multi-channel GTM, delivering 38% CAC lift—directly translatable to Brex lifecycle orchestration.
-- Biggest gap: No named experience designing integrated email + in-product + push campaigns or managing rewards/offers programs at scale.
-- Missing keywords: email orchestration, in-product messaging, rewards program strategy, offer management, customer expansion motions
+- Top signal: Owned end-to-end D2C funnel for 60+ team, redesigned positioning driving 25% sales lift, and built cross-functional alignment systems at scale.
+- Biggest gap: Zero enterprise cybersecurity or critical infrastructure domain experience; EdTech D2C motions do not translate directly to Dragos' nation-state threat narrative and government buyer psychology.
+- Missing keywords: ICP definition and segmentation, Cybersecurity or xOT domain, Enterprise sales motions, Competitive positioning framework, Threat intelligence or market research
 
-### 68 -- Senior Lifecycle Marketing Manager, Customer @ Brex (San Francisco, California, United States)
-**Worth Applying** -- Strong lifecycle and funnel optimization chops, but limited direct email/in-product campaign ownership and no proven multi-channel orchestration track record at this scale.
-[View posting](https://www.brex.com/careers/8959110002?gh_jid=8959110002)
+### 52 -- Senior Partnerships Manager @ Cloaked (New York, NY)
+**Stretch** -- Strong GTM and growth pedigree, but lacks hands-on B2B2C partnership sourcing, closing, and deal modeling at the depth this role demands.
+[View posting](https://jobs.ashbyhq.com/cloaked/2a40dd25-70d7-4a49-b1cc-7011c9263839)
 
-- Top signal: Proven ability to diagnose and fix funnel leaks (30% awareness-stage loss → 38% CAC improvement) and ship behavior-driven interventions with quantified retention/conversion impact.
-- Biggest gap: No shipped lifecycle/email marketing campaign experience; Brex role is hands-on campaign designer and orchestrator, not GTM strategist. Candidate strength is strategy and business development, not channel execution.
-- Missing keywords: email marketing / email campaign design, in-product messaging / in-app messaging, marketing automation platforms, incremental revenue measurement / lift testing, rewards program design / partner offers
+- Top signal: 8+ years GTM leadership with P&L accountability, funnel optimization, and cross-functional influence; proven ability to redesign strategy for measurable ROI.
+- Biggest gap: No evidence of sourcing, negotiating, closing, or launching branded partnerships; role requires personal deal origination and modeling, not funnel or growth marketing expertise.
+- Missing keywords: strategic partnerships, deal negotiation and closing, revenue share modeling, B2B2C partnerships, partnership origination
+
+### 42 -- Alliance Manager III, Public Sector (R-20221) @ Dnb (Vienna - Virginia - United States)
+**Stretch** -- Strong GTM and growth credentials, but public sector alliance management and B2B data/risk solutions are outside core EdTech and D2C experience.
+[View posting](https://jobs.lever.co/dnb/43e28b4c-385e-495b-9a86-93c819a9dfd5)
+
+- Top signal: Proven P&L ownership across 5 markets and cross-functional leadership at scale demonstrates commercial maturity and accountability.
+- Biggest gap: No alliance, partnership, or public sector experience; role requires channel and government account expertise candidate has not demonstrated.
+- Missing keywords: public sector, partner/alliance management, channel strategy, government sales, data/risk analytics
 
 ## Top 15 all-time
 
