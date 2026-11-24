@@ -1,11 +1,35 @@
 # Job Radar
 
-Run: 2026-11-22T20:08:07.394981+00:00
+Run: 2026-11-24T00:34:47.539841+00:00
 
-Companies: 304 checked, 290 connected, 14 failed
-Estimated spend this run: $0.0000
+Companies: 304 checked, 292 connected, 12 failed
+Estimated spend this run: $0.0217
 
-## No new matching postings this run.
+## New this run (3)
+
+### 68 -- Senior Lifecycle Marketing Manager, Customer @ Brex (Seattle, Washington, United States)
+**Worth Applying** -- Strong lifecycle and funnel optimization chops, but lacks direct email marketing, multi-channel orchestration, and B2B SaaS fintech depth.
+[View posting](https://www.brex.com/careers/8959354002?gh_jid=8959354002)
+
+- Top signal: Day-14 retention cliff diagnosis and 40% improvement intervention show deep lifecycle instinct; D2C funnel ownership at scale (200+ hires, 45% onboarding conversion) directly mirrors onboarding and expansion mandate.
+- Biggest gap: No hands-on email marketing platform experience, campaign orchestration, or rewards/promotional offers program design—core Brex lifecycle responsibilities.
+- Missing keywords: email marketing / email orchestration, multi-channel campaign management, rewards programs / offers strategy, behavioral triggers / automation, retention marketing
+
+### 68 -- Senior Lifecycle Marketing Manager, Customer @ Brex (New York, New York, United States)
+**Worth Applying** -- Strong D2C funnel and retention background, but lifecycle marketing specificity and B2B SaaS depth are gaps versus EdTech product-led motion.
+[View posting](https://www.brex.com/careers/8959174002?gh_jid=8959174002)
+
+- Top signal: Diagnosed and redesigned leaky funnel with multi-channel GTM, delivering 38% CAC lift—directly translatable to Brex lifecycle orchestration.
+- Biggest gap: No named experience designing integrated email + in-product + push campaigns or managing rewards/offers programs at scale.
+- Missing keywords: email orchestration, in-product messaging, rewards program strategy, offer management, customer expansion motions
+
+### 68 -- Senior Lifecycle Marketing Manager, Customer @ Brex (San Francisco, California, United States)
+**Worth Applying** -- Strong lifecycle and funnel optimization chops, but limited direct email/in-product campaign ownership and no proven multi-channel orchestration track record at this scale.
+[View posting](https://www.brex.com/careers/8959110002?gh_jid=8959110002)
+
+- Top signal: Proven ability to diagnose and fix funnel leaks (30% awareness-stage loss → 38% CAC improvement) and ship behavior-driven interventions with quantified retention/conversion impact.
+- Biggest gap: No shipped lifecycle/email marketing campaign experience; Brex role is hands-on campaign designer and orchestrator, not GTM strategist. Candidate strength is strategy and business development, not channel execution.
+- Missing keywords: email marketing / email campaign design, in-product messaging / in-app messaging, marketing automation platforms, incremental revenue measurement / lift testing, rewards program design / partner offers
 
 ## Top 15 all-time
 
