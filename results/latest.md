@@ -1,43 +1,35 @@
 # Job Radar
 
-Run: 2026-11-24T22:54:36.691561+00:00
+Run: 2026-11-25T22:08:11.389362+00:00
 
 Companies: 304 checked, 291 connected, 13 failed
-Estimated spend this run: $0.0278
+Estimated spend this run: $0.0217
 
-## New this run (4)
+## New this run (3)
 
-### 71 -- Senior Product Marketing Manager @ Launchdarkly (Remote - US)
-**Worth Applying** -- Strong GTM operator with quantified pipeline/revenue impact and technical fluency, but EdTech D2C background lacks B2B SaaS enterprise GTM depth and developer-segment sales enablement at scale.
-[View posting](https://job-boards.greenhouse.io/launchdarkly/jobs/8215689003)
+### 71 -- Senior Product Marketing Manager @ Collectivehealth (San Francisco, CA | Lehi, UT | Plano, TX | Remote)
+**Worth Applying** -- Strong GTM and growth foundation with proven B2C funnel expertise, but lacks explicit health benefits/B2B SaaS domain depth and enterprise sales cycle maturity required for this role.
+[View posting](https://jobs.collectivehealth.com/apply/?gh_jid=8412241)
 
-- Top signal: Hands-on GTM operator who owns funnel end-to-end, fluent in data-driven decisions, and proved ability to synthesize cross-functional input into revenue lift—exactly the operator profile LaunchDarkly seeks.
-- Biggest gap: Zero B2B SaaS or developer-tools GTM experience; EdTech D2C positioning and international B2C expansion do not build credibility for enterprise AI agents segment or sales engineering workflows.
-- Missing keywords: B2B SaaS enterprise GTM, Developer/technical buyer sales enablement, Analyst relations and category definition, Pricing and packaging strategy, Win-rate and sales productivity metrics
+- Top signal: Owned end-to-end D2C funnel with 60+ cross-functional team leading 45% conversion-to-revenue; demonstrates strategic PMM capability and execution at scale.
+- Biggest gap: No healthcare, benefits, or enterprise B2B SaaS experience—EdTech B2C motion is fundamentally different from health benefits employer/member buyer journey and longer sales cycles.
+- Missing keywords: health benefits domain expertise, enterprise sales cycles, B2B SaaS go-to-market, launch playbooks, product marketing frameworks
 
-### 68 -- Product Marketing Manager @ Dragos (United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and growth execution in B2C SaaS, but lacks direct cybersecurity domain depth and enterprise sales/segment ownership experience that Dragos prioritizes.
-[View posting](https://job-boards.greenhouse.io/dragos/jobs/5471796008)
+### 68 -- Senior Growth Marketing Manager (Paid Media) - Self Service Cloud @ Elastic (United States) (deprioritized company)
+**Worth Applying** -- Strong GTM and funnel optimization background, but lacks direct paid media channel expertise and hands-on paid search/display/video campaign management required for this role.
+[View posting](https://jobs.elastic.co/jobs?gh_jid=8416659&gh_jid=8416659)
 
-- Top signal: Owned end-to-end D2C funnel for 60+ team, redesigned positioning driving 25% sales lift, and built cross-functional alignment systems at scale.
-- Biggest gap: Zero enterprise cybersecurity or critical infrastructure domain experience; EdTech D2C motions do not translate directly to Dragos' nation-state threat narrative and government buyer psychology.
-- Missing keywords: ICP definition and segmentation, Cybersecurity or xOT domain, Enterprise sales motions, Competitive positioning framework, Threat intelligence or market research
+- Top signal: Proven ability to diagnose funnel leaks, redesign multi-channel GTM sequences, and deliver quantified acquisition uplifts (38% in two quarters) at scale across geographies.
+- Biggest gap: No hands-on paid media channel management experience—posting requires direct ownership of paid search, display, video, and native campaigns with bid/creative optimization, which candidate has not demonstrated.
+- Missing keywords: paid search (SEM, Google Ads), paid display advertising, video advertising, native advertising, bid management and campaign optimization, LLM automations and agentic workflows, marketing technology platforms (DV360, etc.), CAC/ROAS measurement
 
-### 52 -- Senior Partnerships Manager @ Cloaked (New York, NY)
-**Stretch** -- Strong GTM and growth pedigree, but lacks hands-on B2B2C partnership sourcing, closing, and deal modeling at the depth this role demands.
-[View posting](https://jobs.ashbyhq.com/cloaked/2a40dd25-70d7-4a49-b1cc-7011c9263839)
+### 68 -- Marketing Operations Manager @ Dropbox (Remote - US: Select locations)
+**Worth Applying** -- Strong funnel analytics and cross-functional GTM execution, but MOps role requires deeper martech stack ownership than profile demonstrates.
+[View posting](https://jobs.dropbox.com/listing/8366660?gh_jid=8366660)
 
-- Top signal: 8+ years GTM leadership with P&L accountability, funnel optimization, and cross-functional influence; proven ability to redesign strategy for measurable ROI.
-- Biggest gap: No evidence of sourcing, negotiating, closing, or launching branded partnerships; role requires personal deal origination and modeling, not funnel or growth marketing expertise.
-- Missing keywords: strategic partnerships, deal negotiation and closing, revenue share modeling, B2B2C partnerships, partnership origination
-
-### 42 -- Alliance Manager III, Public Sector (R-20221) @ Dnb (Vienna - Virginia - United States)
-**Stretch** -- Strong GTM and growth credentials, but public sector alliance management and B2B data/risk solutions are outside core EdTech and D2C experience.
-[View posting](https://jobs.lever.co/dnb/43e28b4c-385e-495b-9a86-93c819a9dfd5)
-
-- Top signal: Proven P&L ownership across 5 markets and cross-functional leadership at scale demonstrates commercial maturity and accountability.
-- Biggest gap: No alliance, partnership, or public sector experience; role requires channel and government account expertise candidate has not demonstrated.
-- Missing keywords: public sector, partner/alliance management, channel strategy, government sales, data/risk analytics
+- Top signal: Diagnosed a 30% funnel leakage at awareness stage and redesigned multi-channel GTM sequence, lifting CAC 38%—exactly the funnel diagnostic and cross-functional fix MOps requires.
+- Biggest gap: No explicit martech platform ownership (Marketo, HubSpot, Segment, Amplitude) or lifecycle/lead scoring framework design—role expects deep martech stack fluency, candidate brings funnel insight without platform depth.
+- Missing keywords: marketing automation platform (Marketo, HubSpot, Pardot), lead scoring model design, lifecycle management, data warehouse (Snowflake, BigQuery), SQL or advanced analytics
 
 ## Top 15 all-time
 
