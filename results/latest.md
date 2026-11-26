@@ -1,35 +1,11 @@
 # Job Radar
 
-Run: 2026-11-25T22:08:11.389362+00:00
+Run: 2026-11-26T22:06:11.031144+00:00
 
-Companies: 304 checked, 291 connected, 13 failed
-Estimated spend this run: $0.0217
+Companies: 304 checked, 292 connected, 12 failed
+Estimated spend this run: $0.0000
 
-## New this run (3)
-
-### 71 -- Senior Product Marketing Manager @ Collectivehealth (San Francisco, CA | Lehi, UT | Plano, TX | Remote)
-**Worth Applying** -- Strong GTM and growth foundation with proven B2C funnel expertise, but lacks explicit health benefits/B2B SaaS domain depth and enterprise sales cycle maturity required for this role.
-[View posting](https://jobs.collectivehealth.com/apply/?gh_jid=8412241)
-
-- Top signal: Owned end-to-end D2C funnel with 60+ cross-functional team leading 45% conversion-to-revenue; demonstrates strategic PMM capability and execution at scale.
-- Biggest gap: No healthcare, benefits, or enterprise B2B SaaS experience—EdTech B2C motion is fundamentally different from health benefits employer/member buyer journey and longer sales cycles.
-- Missing keywords: health benefits domain expertise, enterprise sales cycles, B2B SaaS go-to-market, launch playbooks, product marketing frameworks
-
-### 68 -- Senior Growth Marketing Manager (Paid Media) - Self Service Cloud @ Elastic (United States) (deprioritized company)
-**Worth Applying** -- Strong GTM and funnel optimization background, but lacks direct paid media channel expertise and hands-on paid search/display/video campaign management required for this role.
-[View posting](https://jobs.elastic.co/jobs?gh_jid=8416659&gh_jid=8416659)
-
-- Top signal: Proven ability to diagnose funnel leaks, redesign multi-channel GTM sequences, and deliver quantified acquisition uplifts (38% in two quarters) at scale across geographies.
-- Biggest gap: No hands-on paid media channel management experience—posting requires direct ownership of paid search, display, video, and native campaigns with bid/creative optimization, which candidate has not demonstrated.
-- Missing keywords: paid search (SEM, Google Ads), paid display advertising, video advertising, native advertising, bid management and campaign optimization, LLM automations and agentic workflows, marketing technology platforms (DV360, etc.), CAC/ROAS measurement
-
-### 68 -- Marketing Operations Manager @ Dropbox (Remote - US: Select locations)
-**Worth Applying** -- Strong funnel analytics and cross-functional GTM execution, but MOps role requires deeper martech stack ownership than profile demonstrates.
-[View posting](https://jobs.dropbox.com/listing/8366660?gh_jid=8366660)
-
-- Top signal: Diagnosed a 30% funnel leakage at awareness stage and redesigned multi-channel GTM sequence, lifting CAC 38%—exactly the funnel diagnostic and cross-functional fix MOps requires.
-- Biggest gap: No explicit martech platform ownership (Marketo, HubSpot, Segment, Amplitude) or lifecycle/lead scoring framework design—role expects deep martech stack fluency, candidate brings funnel insight without platform depth.
-- Missing keywords: marketing automation platform (Marketo, HubSpot, Pardot), lead scoring model design, lifecycle management, data warehouse (Snowflake, BigQuery), SQL or advanced analytics
+## No new matching postings this run.
 
 ## Top 15 all-time
 
